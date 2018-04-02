@@ -18,4 +18,6 @@ function hex_generator( $hex, $count = 10, $gap ) {
 	}
 }
 
+# example:
+
 hex_generator( "88A0F49E", 10000, 120 );
