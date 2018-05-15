@@ -1,0 +1,17 @@
+# PCSA00147 Freedom Wars (NoNpDrm)
+
+# Source: https://github.com/roahnosh/vitacheat/PCSA00147.psv
+
+# I recommend using the following exploits:
+
+# Custom DLC: https://drive.google.com/drive/folders/1SVGTX2iGMi74_5WzuCMIf865pA-nsYIh
+
+# OPSAgentMayo: https://github.com/roahnosh/OPSAgentMayo/releases
+
+_V0 Infinite EP
+$0200 83C65A44 0098967F
+
+_V0 Zero Sentence
+$0200 83C65A38 00000000
+$A200 83D86358 00000000
+$0002 00000004 00000000
