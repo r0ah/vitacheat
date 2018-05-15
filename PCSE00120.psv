@@ -421,7 +421,7 @@ _V0 Notes:
 $0000 00000000 00000000
 
 _V0 #1: Can be restored to default value by fighting shadows
-$0000 00000000 00000000
+$0000 00000000 00000000 #...or game auto-corrects at certain points
 
 _V0 #2: Activate only one cheat at the same time
 $0000 00000000 00000000
