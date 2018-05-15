@@ -1,0 +1,7 @@
+# PCSE01111 Rabi-Ribi (NoNpDrm)
+
+# Source: https://github.com/roahnosh/vitacheat/PCSE01111.psv
+
+_V0 Infinite HP
+$4100 82D703D8 00000063
+$0002 00000160 00000000 #SELF-CORRECT
