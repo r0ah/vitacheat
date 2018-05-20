@@ -1,23 +1,8 @@
 # PCSE00293 Final Fantasy X HD (nonpdrm)
 
-# Upon loading the cheat VitaCheat 'Cheat List' menu might glitch. This is fine. Simply press any buttons for the cheats to show up. This happens because of the VitaCheat's limitation (when a psv have too many codes).
-
-# Enabled cheats (in blue color) doesn't do anything other than for categorization purposes
-
 # Some cheats (ex HP/MP) can't be activated while battle is active. Activate first then engage. Also, not infinite.
 
-# Due to VitaCheat's limitations (see above) I bundled all character codes into a single code. If you want to cheat specific characters the length for each is 94 in hex. Can do button activation too but that's kind of inconvenient for users and also again due to VitaCheat's limitations (cheats can't have long titles).
-
-# Want to make certain cheats permanent? Change V0 to V1.
-
-# Cheats are fully tested except the trophies because I platinum the game years ago. Some trophies might not get activated when you use the cheats so you have been warned.
-
-# This cheat file will be updated as I progress through the game (for testing). See link below for updates or errors, etc.
-
-# Source: https://github.com/roahnosh/vitacheat/PCSE00293.psv
-
-_V0 --[ Made by roah ]--
-$0000 00000000 00000000
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00293.psv
 
 _V0 Infinite Gil
 $0200 8262A5E8 05F5E0FF
@@ -40,12 +25,16 @@ $0200 8262A5B4 3B9AC9FF
 #_V0 Macalania Forest Wantz Unlocked
 #$0000 00000000 00000000 #To buy 4 slotted weapons
 
-_V0 Sphere Grid [R+UP=STND/R+DOWN=EXPRT/R+LEFT=ORG]
-$C202 00000000 00000210 #Standard; activate only one at the same time
+_V0 Sphere Grid
 $0000 00000000 00000000
-$C202 00000000 00000240 #Expert
+
+_V0 * Standard
 $0000 00000000 00000000
-$C202 00000000 00000280 #Original
+
+_V0 * Expert
+$0000 00000000 00000000
+
+_V0 * Original
 $0000 00000000 00000000
 
 _V0 Items
@@ -134,27 +123,27 @@ $0000 00000000 00000000
 
 _V0 * Max HP/MP
 $4201 8262BE88 0001869F #HP
-$0006 00000094 00000000
+$0007 00000094 00000000
 $4201 8262BE90 0001869F
-$0006 00000094 00000000
+$0007 00000094 00000000
 $4101 8262BE8C 0000270F #MP
-$0006 00000094 00000000
+$0007 00000094 00000000
 $4101 8262BE94 0000270F
-$0006 00000094 00000000
+$0007 00000094 00000000
 
 _V0 * Max Overdrive Gauge
 $4101 8262BEA5 0000FFFF
-$0006 00000094 00000000
+$0007 00000094 00000000
 
 _V0 * Infinite S.Lv
 $4101 8262BEA6 0000FFFF
-$0006 00000094 00000000
+$0007 00000094 00000000
 
 _V0 * Max Stats
 $4201 8262BE9B FFFFFFFF
-$0006 00000094 00000000
+$0007 00000094 00000000
 $4201 8262BE9F FFFFFFFF
-$0006 00000094 00000000
+$0007 00000094 00000000
 
 #_V0 * Max Count for Overdrive Modes
 #$0000 00000000 00000000 #OD
@@ -172,8 +161,11 @@ $0006 00000094 00000000
 #_V0 * Max Monsters Killed
 #$0200 00000000 0001869F
 
-#_V0 * Rikku In Wetsuit [R+UP=On/R+DOWN=Off]
-#$C202 00000000 00000210
+_V0 Rikku
+$0000 00000000 00000000
+
+#_V0 * Wetsuit
 #$0000 8262696D 00000001
-#$C202 00000000 00000240
+
+#_V0 * Normal
 #$0000 8262696D 00000000
