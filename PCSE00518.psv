@@ -1,6 +1,6 @@
 # PCSE00518 Damascus Gear - Operation Tokyo (NoNpDrm)
 
-# Source: https://github.com/roahnosh/vitacheat/PCSE00518.psv
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00518.psv
 
 _V0 Infinite Eyn
 $0200 82FFC10C 000F423F #MAX VALUE CAN CAUSE BULK SELL CRASH
