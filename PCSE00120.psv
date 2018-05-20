@@ -2,7 +2,7 @@
 
 # We can do some interesting stuff (like ability to add/remove skills on all Persona) if vitacheat supports modifiers
 
-# Source: https://github.com/roahnosh/vitacheat/PCSE00120.psv
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00120.psv
 
 _V0 Infinite Yen
 $0200 814B301C 0098967F
