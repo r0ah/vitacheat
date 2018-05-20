@@ -1,6 +1,6 @@
 # PCSE00738 Organ Trail (NoNpDrm)
 
-# Source: https://github.com/roahnosh/vitacheat/PCSE00738.psv
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00738.psv
 
 _V0 Infinite Money
 $0200 85000AC0 0000270F
