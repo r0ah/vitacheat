@@ -646,6 +646,9 @@ _V0 Change Name[4]
 $0200 8890487F 00000000 #Use address as a bookmark only to easily change your name.
 $0200 8890489F 00000000
 
+_V0 Avatar Zero Link Aid
+$0200 88A38A24 00000000
+
 _V0 Notes:
 $0000 00000000 00000000
 
