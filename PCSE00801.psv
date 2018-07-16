@@ -655,7 +655,7 @@ $0000 00000000 00000000
 _V0 #1: Will affect your Avatar Card! See PSV file.
 $0000 00000000 00000000 # This cheat prevents you from getting a mission clear time. The consequence of this cheat is you have a mission clear count but no clear time in either multi, single or solo categories thus making your avatar card non-legit until you re-do the mission (with cheat disabled) to get a clear time. Not an issue but this is something that you should be aware of.
 
-_V0 #2: Please refer to the PSV file for the fix
+_V0 #2: Can't use crystals? Refer to the PSV file for the fix
 $0000 00000000 00000000 # Before use read this fix: First enable cheat then quit the vitacheat menu to get crystals. Re-enter vitacheat menu and disable cheat then quit the vitacheat menu. Withdraw all x99 crystals into your inventory and you can now use the items. You can then store it back to your storage later on if you wish to do so. You can ignore the generic compound core.
 $0000 00000000 00000000 # The reason why this happens is maybe because the item needs extra parameters like item category? I'm not so keen on investigating this issue because there is a fix and I'm currently working on GEB2.
 $0000 00000000 00000000 # When withdrawing crystals don't collect by pressing the triangle button as it makes the crystal in your inventory invalid and selecting it will crash the game. You can however fix it by pressing the square button to sell the item.
