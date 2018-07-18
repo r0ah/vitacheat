@@ -1,6 +1,6 @@
 # VitaCheat Database #
 
-[[Wiki]]
+[Wiki](https://github.com/roahnosh/vitacheat/wiki)
 
 [Plugin](https://github.com/roahnosh/vitacheat/tree/master/plugin)
 
