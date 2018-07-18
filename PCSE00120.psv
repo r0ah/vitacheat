@@ -1,5 +1,7 @@
 # PCSE00120 Persona 4 Golden (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/Persona-4-Golden
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00120.psv
 
 # Battle Count: 0x814B46D8
@@ -283,13 +285,13 @@ $0000 814B4A2C 0000001E
 $0000 814B4A3C 00000020
 $0000 814B4A4C 00000021
 
-_V0 * Unlock Strength SL: Kou[4]
+_V0 * Unlock Strength SL: Kou[3]
 $0000 814B4A5C 00000010
 
 _V0 * Unlock Strength SL: Daisuke
 $0000 814B4A5C 00000011
 
-_V0 * Unlock Sun SL: Yumi[4]
+_V0 * Unlock Sun SL: Yumi[3]
 $0000 814B4A6C 00000019
 
 _V0 * Unlock Sun SL: Ayane
@@ -329,7 +331,7 @@ $000C 00000030 00000000
 $4200 814B3A58 0098967F #XP
 $000C 00000030 00000000
 
-_V0 * Have Friend's Tier-3 Persona + Skills[3]
+_V0 * Have Friend's Tier-3 Persona + Skills[4]
 $4000 814B3A54 00000063
 $0007 00000030 00000000
 $4000 814B3A6C 00000063
@@ -463,8 +465,8 @@ $0000 00000000 00000000
 _V0 #2: 1=Very Easy | 2=Easy | 3=Normal | 4=Hard | 5=Very Hard
 $0000 00000000 00000000 #To edit difficulty launch VitaCheat and go to the 'Cheat List' menu. Select the cheat 'Change Difficulty' and press the triangle button. Press the okay button to select address and use the D-Pad to modify the value. Refer to the values listed above.
 
-_V0 #3: Will overwrite existing Persona in slots 1-7
-$0000 00000000 00000000 #Requires 7 slots. Disable cheat then use cards to fix 'existing or non-existent' skills.
-
-_V0 #4: Choose one STR/SUN SL based on what you've unlocked
+_V0 #3: Choose one STR/SUN SL based on what you've unlocked
 $0000 00000000 00000000
+
+_V0 #4: Will overwrite existing Persona in slots 1-7
+$0000 00000000 00000000 #Requires 7 slots. Disable cheat then use cards to fix 'existing or non-existent' skills.
