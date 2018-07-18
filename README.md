@@ -1,5 +1,7 @@
 # VitaCheat Database #
 
+All games are NoNpDrm.
+
 [Wiki](https://github.com/roahnosh/vitacheat/wiki)
 
 [Plugin](https://github.com/roahnosh/vitacheat/tree/master/plugin)
