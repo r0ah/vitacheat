@@ -20,10 +20,7 @@ $0000 882665A4 00000000
 _V0 * Enemy #3 HP[1]
 $0000 882704A4 00000000
 
-_V0 Experience
-$0000 00000000 00000000
-
-_V0 * Elaborate/Sadistic/Humiliating
+_V0 Elaborate/Sadistic/Humiliating
 $0200 83DD1AC4 0098967F
 $0003 00000004 00000000
 
