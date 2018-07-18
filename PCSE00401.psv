@@ -1,5 +1,7 @@
 # PCSE00401 Deception IV - Blood Ties (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/Deception-IV---Blood-Ties
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00401.psv
 
 _V0 Max Ark
@@ -11,14 +13,14 @@ $0200 83DD1AC0 0098967F
 _V0 Battle
 $0000 00000000 00000000
 
-_V0 * Enemy #1 HP[1]
-$0000 8825C6A4 00000000
+_V0 * Enemy One 1 HP[1]
+$0200 8825C6A4 00000000
 
-_V0 * Enemy #2 HP[1]
-$0000 882665A4 00000000
+_V0 * Enemy Two 1 HP[1]
+$0200 882665A4 00000000
 
-_V0 * Enemy #3 HP[1]
-$0000 882704A4 00000000
+_V0 * Enemy Three 1 HP[1]
+$0200 882704A4 00000000
 
 _V0 Elaborate/Sadistic/Humiliating
 $0200 83DD1AC4 0098967F
@@ -50,5 +52,5 @@ $0100 83DD20B4 0000270F
 _V0 Notes:
 $0000 00000000 00000000
 
-_V0 #1: Before use, retry the mission first
+_V0 #1: If cheat doesn't work, restart mission
 $0000 00000000 00000000
