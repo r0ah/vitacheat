@@ -426,11 +426,17 @@ $4000 88A69D48 0000001E
 $0084 00000094 00000000
 
 _V0 Change Name[4]
-$0200 889248AF 00000000 #Use address as a bookmark only to easily change your name.
+$0200 889248AF 00000000 #DO NOT ACTIVATE THIS CHEAT
 $0200 889248EF 00000000
 
 _V0 Avatar Zero Link Aid
 $0200 88A9A4D0 00000000
+
+_V0 No HUB in Battle [Select=On / Start=Reset][5]
+$C201 00000000 00000001
+$0000 88A962E9 00000003
+$C201 00000000 00000008
+$0000 88A962E9 00000002
 
 _V0 Notes:
 $0000 00000000 00000000
@@ -449,6 +455,9 @@ $0000 00000000 00000000 # Make sure to activate all master skill (x2) cheat or y
 _V0 #3b: Activate only "one" Equipment cheat
 $0000 00000000 00000000 # If you want to install god arc skill on your short melee then activate "Equipment Melee: Short". To switch disable previously activated equipment cheat and activate another.
 
-_V0 #4: Please refer to the PSV file for details
+_V0 #4: Use address as a bookmark only. See PSV file for details.
 $0000 00000000 00000000 # Don't want to start over again? Click the cheat and you'll see two addresses. You can change your name by opening the first address (Codename) by pressing the triangle button. Edit. Repeat for the second address (Name).
 $0000 00000000 00000000 # Save & re-load savedata to reflect changes
+
+_V0 #5: Set radio to none/voice to minimize on-screen notices
+$0000 00000000 00000000 # If no respawn, press the start button
