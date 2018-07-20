@@ -8,7 +8,7 @@
 
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00789.psv
 
-# See below for further explanations on the notes that appears on the cheat list in-game.
+# See below or the wiki link above for further explanations on the notes that appears on the cheat list in-game
 
 _V0 Infinite Money
 $0200 8892AAD0 3B9AC9FF
@@ -103,6 +103,10 @@ $0011 00000094 00000000
 
 _V0 Max GAP
 $0100 8893FA68 000003E7
+
+_V0 Max Team AP
+$4200 8B74C298 0001869F
+$0032 00000170 00000000 #THERE ARE HUNDRED OF SLOTS ENOUGH TO MAKE AN ARMY
 
 _V0 Have All God Arc Skill[3]
 $0000 00000000 00000000
@@ -444,7 +448,7 @@ $0000 00000000 00000000
 _V0 #1: Will affect your Avatar Card! See PSV file.
 $0000 00000000 00000000 # This cheat prevents you from getting a mission clear time. The consequence of this cheat is you have a mission clear count but no clear time in either multi, single or solo categories thus making your avatar card non-legit until you re-do the mission (with cheat disabled) to get a clear time. Not an issue but this is something that you should be aware of.
 
-_V0 #2: Can't use crystals? Refer to the PSV file for the fix
+_V0 #2: Can't use crystals? Refer to the PSV file for the fix.
 $0000 00000000 00000000 # Before use read this fix: First enable cheat then quit the vitacheat menu to get crystals. Re-enter vitacheat menu and disable cheat then quit the vitacheat menu. Withdraw all x99 crystals into your inventory and you can now use the items. You can then store it back to your storage later on if you wish to do so. You can ignore the generic compound core.
 $0000 00000000 00000000 # The reason why this happens is maybe because the item needs extra parameters like item category? I'm not so keen on investigating this issue because there is a fix and I'm currently working on GEB2.
 $0000 00000000 00000000 # When withdrawing crystals don't collect by pressing the triangle button as it makes the crystal in your inventory invalid and selecting it will crash the game. You can however fix it by pressing the square button to sell the item.
@@ -459,5 +463,5 @@ _V0 #4: Use address as a bookmark only. See PSV file for details.
 $0000 00000000 00000000 # Don't want to start over again? Click the cheat and you'll see two addresses. You can change your name by opening the first address (Codename) by pressing the triangle button. Edit. Repeat for the second address (Name).
 $0000 00000000 00000000 # Save & re-load savedata to reflect changes
 
-_V0 #5: Set radio to none/voice to minimize on-screen notices
-$0000 00000000 00000000 # If no respawn, press the start button
+_V0 #5: If no respawn, press the start button
+$0000 00000000 00000000 # Set radio to none/voice to minimize on-screen notices
