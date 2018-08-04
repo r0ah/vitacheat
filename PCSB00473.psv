@@ -1,0 +1,16 @@
+# PCSB00473 Monster Monpiece (NoNpDrm)
+
+# Source: https://github.com/roahnosh/vitacheat/PCSB00473.psv
+
+
+_V0 Infinite Money
+$0200 83AE6784 3B9AC9FF
+
+_V0 Infinite Rub
+$0200 83AE6788 3B9AC9FF
+
+_V0 Infinite Player Deck
+$0000 8163FE68 00000063
+
+_V0 Zero Enemy Deck (Instant Win)
+$0000 81640B14 00000000
