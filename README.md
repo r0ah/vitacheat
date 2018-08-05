@@ -2,10 +2,12 @@
 
 All games are NoNpDrm.
 
+CP means comptibility patch (rePatch).
+
 [Wiki](https://github.com/roahnosh/vitacheat/wiki)
 
 [Plugin](https://github.com/roahnosh/vitacheat/tree/master/plugin)
 
-## Note ##
+[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/)
 
-Always check if the cheat you're using actually works. There are some cases where the game memory address shifts, whether because of VitaCheat or the game IDK.
+[VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) - Maintained by Smoker1
