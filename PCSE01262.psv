@@ -1,34 +1,33 @@
 # PCSE01262 Bloodstained - Curse of the Moon (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/Bloodstained---Curse-of-the-Moon
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01262.psv
 
 _V0 Infinite HP[1]
-$7001 8196E13C 000000A1
+$7001 8196E13C 00000191
 $7701 00000000 00000063
 $0004 00000003 00000000
 
-_V0 Infinite MP [Select = On / Start = Off]
-$C001 00000000 00000001
-$3001 8196E13C 000000AE
+_V0 Infinite MP While Attacking
+$C001 00000000 00008000
+$3001 8196E13C 0000019E
 $3300 00000000 00000063
-$C001 00000000 00000008
-$3001 8196E13C 000000AE
-$3300 00000000 00000000
 
 _V0 Max HP[1]
-$7001 8196E13C 000000A0
+$7001 8196E13C 00000190
 $7701 00000000 00000063
 $0004 00000003 00000000
 
 _V0 Max MP
-$3001 8196E13C 000000AD
+$3001 8196E13C 0000019D
 $3300 00000000 00000063
 
 _V0 Max Lives
 $3001 8196E13C 000007F0
-$3300 00000000 00000064
+$3300 00000000 00000064 #64 = 99, NOT 63
 
-_V0 Max Score [L+UP = On / L+DOWN = Off][2]
+_V0 Max Score [L+Up = On / L+Down = Off][2]
 $C001 00000000 00000110
 $3201 8196E13C 000007DC
 $3300 00000000 0098967F
@@ -39,7 +38,7 @@ $3300 00000000 00000000
 _V0 Notes:
 $0000 00000000 00000000
 
-_V0 #1: Switch character to activate, replenish & maximize health
+_V0 #1: Must have Miriam then switch character to refill health
 $0000 00000000 00000000
 
 _V0 #2: Turn off if ding is an annoyance. Resets score.
