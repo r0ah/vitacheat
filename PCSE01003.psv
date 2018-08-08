@@ -1,0 +1,11 @@
+# PCSE01003 Valkyria Revolution (NoNpDrm)
+
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01003.psv
+
+_V0 Infinite KR
+$3201 81A00018 00000B2C
+$3300 00000000 000F423F
+
+_V0 Infinite Shard
+$3101 81A00018 00000B30
+$3300 00000000 000003E7
