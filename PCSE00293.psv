@@ -2,6 +2,8 @@
 
 # Note: Use the FFX save editor as a complement
 
+# Credits: fuzzymillipede for the "Damage Formula" ID table and its naming scheme
+
 # Wiki: https://github.com/roahnosh/vitacheat/wiki/Final-Fantasy-X-HD
 
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00293.psv
@@ -101,6 +103,50 @@ $0007 00000094 00000000
 $4201 8262BEF4 0001FFFF
 $0007 00000094 00000000
 
+_V0 Equipment Slot #1[3]
+$0000 00000000 00000000
+
+_V0 * Max Attack
+$C001 00000000 00008000
+$0000 8262AD45 000000FF
+
+_V0 * Max Critical
+$C001 00000000 00008000
+$0000 8262AD46 000000FF
+
+_V0 * Have 4 Ability Slots
+$C001 00000000 00008000
+$0000 8262AD47 00000004
+
+_V0 * Clear All Abilities
+$C001 00000000 00008000
+$4101 8262AD4A 00000000
+$0004 00000002 00000000
+
+_V0 * Damage Formula: Ignore Defense
+$C001 00000000 00008000
+$0000 8262AD44 00000002
+
+_V0 * Damage Formula: Celestial High HP
+$C001 00000000 00008000
+$0000 8262AD44 00000011
+
+_V0 * Damage Formula: Celestial High MP
+$C001 00000000 00008000
+$0000 8262AD44 00000012
+
+_V0 * Damage Formula: Celestial Low HP
+$C001 00000000 00008000
+$0000 8262AD44 00000013
+
+_V0 * Damage Formula: Magic Formula
+$C001 00000000 00008000
+$0000 8262AD44 00000003
+
+_V0 * Damage Formula: Ignore Magic Defense
+$C001 00000000 00008000
+$0000 8262AD44 00000004
+
 _V0 Blitzball Tidus Max Level
 $0000 82627E5A 00000063
 
@@ -138,3 +184,9 @@ $0000 00000000 00000000 # Ex: Megaton Punch
 
 _V0 #2: Use only once you've activated all ability nodes
 $0000 00000000 00000000 # Or you'll lose the opportunity to acquire them
+
+_V0 #3a: Sort weapon/armor first (Items > Equipment > Manual)
+$0000 00000000 00000000
+
+_V0 #3b: Then press the "Square" button to activate the cheat
+$0000 00000000 00000000 # We can do all equipments too but vitacheat can't do more than 100 codes at once
