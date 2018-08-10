@@ -1,36 +1,47 @@
 # PCSE01031 Chasm 1.02 CP (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/Chasm
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01031.psv
 
-_V0 Infinite Gold
-$3201 8496AEC0 00000024
-$3300 00000000 0098967F
-
-_V0 Infinite HP
+_V0 All Slots: Infinite HP
 $3101 849993D8 00000FF8
 $3300 00000000 000003E7
 
-_V0 Infinite MP
+_V0 All Slots: Infinite MP
 $3101 849993D8 00000FFC
 $3300 00000000 000003E7
 
-_V0 Max HP
+_V0 Slot One Character[1]
+$0000 00000000 00000000
+
+_V0 * Infinite Gold
+$3201 8496AEC0 00000024
+$3300 00000000 0098967F
+
+_V0 * Max HP
 $3101 8496AEC0 00000010
 $3300 00000000 000003E7
 
-_V0 Max MP
+_V0 * Max MP
 $3101 8496AEC0 00000014
 $3300 00000000 000003E7
 
-_V0 Max Level
+_V0 * Max Level
 $3001 8496AEC0 00000008
 $3300 00000000 000000FF
 
-_V0 Max Stats
+_V0 * Max Stats
 $7001 8496AEC0 00000018
 $7701 00000000 000000FF
 $0004 00000001 00000000
 
-_V0 High Kill Count
+_V0 * High Kill Count
 $3201 8496AEC0 00000020
 $3300 00000000 000F423F
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: See psv file for details
+$0000 00000000 00000000 # Don't activate any cheats yet. After arriving to the Karthas village save the game. Quit and relaunch the game then activate the cheats. Code tested on a slot one character. See wiki for details.
