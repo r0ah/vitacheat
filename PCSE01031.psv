@@ -1,0 +1,11 @@
+# PCSE01031 Chasm 1.02 CP (NoNpDrm)
+
+# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01031.psv
+
+_V0 Infinite HP
+$3101 849993D8 00000FF8
+$3300 00000000 000003E7
+
+_V0 Infinite MP
+$3101 849993D8 00000FFC
+$3300 00000000 000003E7
