@@ -44,4 +44,4 @@ _V0 Notes:
 $0000 00000000 00000000
 
 _V0 #1: See psv file for details
-$0000 00000000 00000000 # Don't activate any cheats yet. After arriving to the Karthas village save the game then quit and relaunch the game. Activate any cheat you want. Code tested on a slot one character. See wiki for details.
+$0000 00000000 00000000 # Don't activate any cheats yet. Reach the first save point and save then quit and relaunch the game. You can now activate any cheat you want. Code tested on a slot one character. See wiki for details.
