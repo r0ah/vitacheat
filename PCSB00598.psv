@@ -2,32 +2,26 @@
 
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSB00598.psv
 
-_V0 Aurora
-$0000 00000000 00000000
-
-_V0 * Infinite HP
+_V0 Aurora Infinite HP
 $3101 82428264 00000010
 $3300 00000000 000003E7
 
-_V0 * Infinite MP
+_V0 Aurora Infinite MP
 $3101 82428264 00000014
 $3300 00000000 000003E7
 
-_V0 * Infinite Skills
+_V0 Aurora Infinite Skills
 $3101 82428264 00000294
 $3300 00000000 000003E7
 
-_V0 Rubella
-$0000 00000000 00000000
-
-_V0 * Infinite HP
+_V0 Rubella Infinite HP
 $3101 82226838 00000630
 $3300 00000000 000003E7
 
-_V0 * Infinite MP
+_V0 Rubella Infinite MP
 $3101 82226838 00000634
 $3300 00000000 000003E7
 
-_V0 * Infinite Skills
+_V0 Rubella Infinite Skills
 $3101 82226838 000008B4
 $3300 00000000 000003E7
