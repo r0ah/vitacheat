@@ -2,6 +2,8 @@
 
 # Note: Use the FFX save editor as a complement
 
+# Credits: Udaius for all the codes tagged below
+
 # Credits: fuzzymillipede for the "Damage Formula" ID table and its naming scheme
 
 # Wiki: https://github.com/roahnosh/vitacheat/wiki/Final-Fantasy-X-HD
@@ -56,13 +58,23 @@ $4101 8262BE94 0000270F
 $0007 00000094 00000000
 
 _V0 Max S.Lv
-$4101 8262BEA6 0000FFFF
+$4001 8262BEA7 00000063 #CORRECTION: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-54#post-8192881
 $0007 00000094 00000000
 
-_V0 Max Stats
+_V0 Max S.Lv After Battle[3]
+$4201 8262BE84 1F000000 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-56#post-8198195
+$0007 00000094 00000000
+
+_V0 Max Stats (Temp)
 $4201 8262BE9B FFFFFFFF
 $0007 00000094 00000000
 $4201 8262BE9F FFFFFFFF
+$0007 00000094 00000000
+
+_V0 Max Stats (Permanent)
+$4201 8262BE78 FFFFFFFF #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-57#post-8209512
+$0007 00000094 00000000
+$4201 8262BE7C FFFFFFFF
 $0007 00000094 00000000
 
 _V0 Have All Abilities
@@ -103,7 +115,11 @@ $0007 00000094 00000000
 $4201 8262BEF4 0001FFFF
 $0007 00000094 00000000
 
-_V0 Equipment Slot #1[3]
+_V0 Unlock All Aeons
+$4001 8262C338 00000011 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-54#post-8193127
+$000A 00000094 00000000
+
+_V0 Equipment Slot #1[4]
 $0000 00000000 00000000
 
 _V0 * Max Attack
@@ -176,6 +192,9 @@ $0000 82626971 00000001
 $C001 00000000 00000008
 $0000 82626971 00000000
 
+_V0 200 Steals With Rikku
+$0000 8262A650 000000C8 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211273
+
 _V0 Notes:
 $0000 00000000 00000000
 
@@ -185,8 +204,11 @@ $0000 00000000 00000000 # Ex: Megaton Punch
 _V0 #2: Use only once you've activated all ability nodes
 $0000 00000000 00000000 # Or you'll lose the opportunity to acquire them
 
-_V0 #3a: Sort weapon/armor first (Items > Equipment > Manual)
+_V0 #3: For all characters who have participated in battle
+$0000 00000000 00000000 # Unique in that it will still give max S.lv even after you disable code. I should also note that not everyone gets ap unless they take part still, however they don't have to do any actions as just bringing them in and out acts like they took an action.
+
+_V0 #4a: Sort weapon/armor first (Items > Equipment > Manual)
 $0000 00000000 00000000
 
-_V0 #3b: Then press the "Square" button to activate the cheat
+_V0 #4b: Then press the "Square" button to activate the cheat
 $0000 00000000 00000000 # We can do all equipments too but vitacheat can't do more than 100 codes at once
