@@ -20,6 +20,9 @@ $0007 00000F90 00000000
 $7201 81E161DC 000005D4
 $7701 00000000 000003E7
 $0007 00000F90 00000000
+$7001 81E161DC 000005BC #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8210003
+$7701 00000000 00000064
+$0007 00000F90 00000000
 
 _V0 Have 99x of All Items
 $4001 8262A96C 00000063
@@ -195,6 +198,9 @@ $0000 82626971 00000000
 _V0 200 Steals With Rikku
 $0000 8262A650 000000C8 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211273
 
+_V0 200 Lightning Evades[5]
+$0000 82626CA0 000000C8 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211273
+
 _V0 Notes:
 $0000 00000000 00000000
 
@@ -212,3 +218,9 @@ $0000 00000000 00000000
 
 _V0 #4b: Then press the "Square" button to activate the cheat
 $0000 00000000 00000000 # We can do all equipments too but vitacheat can't do more than 100 codes at once
+
+_V0 #5a: Activate cheat then go to store & open all 50 dodged chests
+$0000 00000000 00000000 # I activated the code, went outside and opened the 50 dodged chest then went out and dodged one bolt and came bk in to the 200 chest
+
+_V0 #5b: Go back and dodge 1 bolt then collect the final reward
+$0000 00000000 00000000
