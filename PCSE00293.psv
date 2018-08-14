@@ -68,13 +68,7 @@ _V0 Max S.Lv After Battle[3]
 $4201 8262BE84 1F000000 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-56#post-8198195
 $0007 00000094 00000000
 
-_V0 Max Stats (Temp)
-$4201 8262BE9B FFFFFFFF
-$0007 00000094 00000000
-$4201 8262BE9F FFFFFFFF
-$0007 00000094 00000000
-
-_V0 Max Stats (Permanent)
+_V0 Max Stats
 $4201 8262BE78 FFFFFFFF #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-57#post-8209512
 $0007 00000094 00000000
 $4201 8262BE7C FFFFFFFF
