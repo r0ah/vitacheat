@@ -14,13 +14,13 @@ _V0 Infinite Gil
 $0200 8262A5E8 05F5E0FF
 
 _V0 In-Battle Infinite HP/MP[1]
-$7201 81E161DC 000005D0
+$7201 81E1A83C 000005D0
 $7701 00000000 0001869F
 $0007 00000F90 00000000
-$7201 81E161DC 000005D4
+$7201 81E1A83C 000005D4
 $7701 00000000 000003E7
 $0007 00000F90 00000000
-$7001 81E161DC 000005BC #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8210003
+$7001 81E1A83C 000005BC #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-62#post-8217272
 $7701 00000000 00000064
 $0007 00000F90 00000000
 
@@ -213,8 +213,5 @@ $0000 00000000 00000000
 _V0 #4b: Then press the "Square" button to activate the cheat
 $0000 00000000 00000000 # We can do all equipments too but vitacheat can't do more than 100 codes at once
 
-_V0 #5a: Activate cheat then go to store & open all 50 dodged chests
-$0000 00000000 00000000 # I activated the code, went outside and opened the 50 dodged chest then went out and dodged one bolt and came bk in to the 200 chest
-
-_V0 #5b: Go back and dodge 1 bolt then collect the final reward
-$0000 00000000 00000000
+_V0 #5: Activate cheat, dodge 1 bolt & go to store & open chest
+$0000 00000000 00000000 # Activate the cheat and dodge 1 lightning bolt then go back to the front of the store and open the chest
