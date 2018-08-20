@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="VitaCheat" ext="psv" udlVersion="2.1">
+    <UserLang name="PSV" ext="psv" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="yes" foldCompact="yes" forcePureLC="0" decimalSeparator="2" />
             <Prefix Keywords1="yes" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -13,8 +13,8 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">##</Keywords>
-            <Keywords name="Operators2">&gt;</Keywords>
+            <Keywords name="Operators1">_V0</Keywords>
+            <Keywords name="Operators2">_V1</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close"></Keywords>
