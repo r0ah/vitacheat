@@ -1,6 +1,6 @@
 # PCSE00293 Final Fantasy X HD (NoNpDrm)
 
-# Note: Use the FFX save editor as a complement
+# Note Use the FFX save editor as a complement
 
 # Credits: Udaius for all the codes tagged below
 
@@ -13,7 +13,7 @@
 _V0 Infinite Gil
 $0200 8262A5E8 05F5E0FF
 
-_V0 In-Battle Infinite HP/MP[1]
+_V0 In-Battle Infinite HP/MP [Note 1]
 $7201 81E1A83C 000005D0
 $7701 00000000 0001869F
 $0007 00000F90 00000000
@@ -46,7 +46,7 @@ $0000 8262A5AD 00000067
 $C001 00000000 00002100
 $0000 8262A5AD 000000A7
 
-_V0 Sphere Grid Clear All Nodes[2]
+_V0 Sphere Grid Clear All Nodes [Note 2]
 $4001 82628A8C 00000001
 $06B8 00000001 00000000 #1720
 
@@ -64,7 +64,7 @@ _V0 Max S.Lv
 $4001 8262BEA7 00000063 #CORRECTION: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-54#post-8192881
 $0007 00000094 00000000
 
-_V0 Max S.Lv After Battle[3]
+_V0 Max S.Lv After Battle [Note 3]
 $4201 8262BE84 1F000000 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-56#post-8198195
 $0007 00000094 00000000
 
@@ -116,7 +116,7 @@ _V0 Unlock All Aeons
 $4001 8262C338 00000011 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-54#post-8193127
 $000A 00000094 00000000
 
-_V0 Equipment Slot #1[4]
+_V0 Equipment Slot #1 [Note 4]
 $0000 00000000 00000000
 
 _V0 * Max Attack
@@ -192,7 +192,7 @@ $0000 82626971 00000000
 _V0 200 Steals With Rikku
 $0000 8262A650 000000C8 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211273
 
-_V0 200 Lightning Evades[5]
+_V0 200 Lightning Evades [Note 5]
 $0000 82626CA0 000000C8 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211273
 
 _V0 Notes:
