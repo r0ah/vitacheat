@@ -9,15 +9,15 @@
 _V0 Infinite Yen
 $0200 814B301C 0098967F
 
-_V0 Infinite Current HP[1]
+_V0 Infinite Current HP [Note 1]
 $4101 814B3C98 000003E7
 $0008 00000084 00000000
 
-_V0 Infinite Current MP[1]
+_V0 Infinite Current MP [Note 1]
 $4101 814B3C9A 000003E7
 $0008 00000084 00000000
 
-_V0 Change Difficulty[2]
+_V0 Change Difficulty [Note 2]
 $0000 814B46F4 00000000 #CONDENSED BECAUSE CHEAT IS FULL
 
 _V0 Inventory Items
@@ -285,19 +285,19 @@ $0000 814B4A2C 0000001E
 $0000 814B4A3C 00000020
 $0000 814B4A4C 00000021
 
-_V0 * Unlock Strength SL: Kou[3]
+_V0 * Unlock Strength SL: Kou [Note 3]
 $0000 814B4A5C 00000010
 
 _V0 * Unlock Strength SL: Daisuke
 $0000 814B4A5C 00000011
 
-_V0 * Unlock Sun SL: Yumi[3]
+_V0 * Unlock Sun SL: Yumi [Note 3]
 $0000 814B4A6C 00000019
 
 _V0 * Unlock Sun SL: Ayane
 $0000 814B4A6C 0000001B
 
-_V0 Narukami Yu Exclusive Cheats
+_V0 Narukami Yu
 $0000 00000000 00000000
 
 _V0 * Max Social Qualities
@@ -331,7 +331,7 @@ $000C 00000030 00000000
 $4201 814B3A58 0098967F #XP
 $000C 00000030 00000000
 
-_V0 * Have Friend's Tier-3 Persona + Skills[4]
+_V0 * Have Friend's Tier-3 Persona + Skills [Note 4]
 $4001 814B3A54 00000063
 $0007 00000030 00000000
 $4001 814B3A6C 00000063
@@ -407,7 +407,7 @@ $0100 814B3B86 000000E1 #HEAT RISER
 $0100 814B3B88 00000206 #ANGELIC GRACE
 $0100 814B3B8A 000000FC #SHIELD OF JUSTICE
 
-_V0 Party Exclusive Cheats
+_V0 Party
 $0000 00000000 00000000
 
 _V0 * Quick Level Up
