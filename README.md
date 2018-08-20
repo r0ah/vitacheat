@@ -1,13 +1,21 @@
-# VitaCheat Database #
+# VitaCheat Database
 
 All games are NoNpDrm.
 
-CP means comptibility patch (rePatch).
+CP means compatibility patch (rePatch).
 
-[Wiki](https://github.com/roahnosh/vitacheat/wiki)
+***	
 
-[Plugin](https://github.com/roahnosh/vitacheat/tree/master/plugin)
+[[Wiki]]
 
-[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/)
+* [[Quick start]]
+
+* [[Plugins]]
+
+* [[Manuals]]
+
+***	
 
 [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) - Maintained by Smoker1
+
+[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/)
