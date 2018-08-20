@@ -12,7 +12,7 @@ _V0 All Slots: Infinite MP
 $3101 849993D8 00000FFC
 $3300 00000000 000003E7
 
-_V0 Slot One Character[1]
+_V0 Slot One Character [Note 1]
 $0000 00000000 00000000
 
 _V0 * Infinite Gold
@@ -43,5 +43,5 @@ $3300 00000000 000F423F
 _V0 Notes:
 $0000 00000000 00000000
 
-_V0 #1: See psv file for details
+_V0 #1: See wiki for details
 $0000 00000000 00000000 # Don't activate any cheats yet. Reach the first save point and save then quit and relaunch the game. You can now activate any cheat you want. Code tested on a slot one character. See wiki for details.
