@@ -1,8 +1,10 @@
 # PCSE00595 J-STARS Victory VS+ (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/J---STARS-Victory-VS-
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00595.psv
 
-# Note: Don't activate cheat in title screen
+# Note Don't activate cheat in title screen
 
 _V0 Infinite JP Points
 $0200 81FE063C 000F423F
@@ -11,12 +13,12 @@ _V0 Infinite Coins
 $4001 81FE0684 00000063
 $0003 00000004 00000000
 
-_V0 Max Level for Friendship, Effort & Triumph[1]
+_V0 Max Level Friendship/Effort/Triumph [Note 1]
 $0200 81FE0640 000F423F
 $0200 81FE0644 000F423F
 $0200 81FE0648 000F423F
 
-_V0 Have x99 Items[2]
+_V0 Have x99 Items [Note 2]
 $4001 81FE0658 00000063
 $000B 00000004 00000000
 $0000 81FE06A8 00000063
