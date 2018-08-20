@@ -1,10 +1,10 @@
 # PCSE00244 Valhalla Knights 3 (NoNpDrm)
 
+# Wiki: https://github.com/roahnosh/vitacheat/wiki/Valhalla-Knights-3
+
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00244.psv
 
-# See below for further explanations on the notes that appears on the cheat list in-game.
-
-_V0 Max Money[1]
+_V0 Max Money [Note 1]
 $0200 8280FD30 3B9AC9FF
 $0200 82A2B9B0 3B9AC9FF
 
@@ -12,7 +12,7 @@ _V0 Max My Pace
 $0200 8280FD38 3B9AC9FF #8 BYTES?
 $0200 82A2B9B8 3B9AC9FF
 
-_V0 Have All Items[2]
+_V0 Have All Items [Note 2]
 $4201 829E5E78 0000033D
 $0096 00000058 00000001
 $4001 829E5E7C 00000063
@@ -22,10 +22,10 @@ _V0 Infinite Items
 $4001 829E5E7C 00000063
 $0096 00000058 00000000
 
-_V0 Unlock Trophy An Apple Day[3]
+_V0 Unlock Trophy An Apple Day [Note 3]
 $0200 82A3F128 3B9AC9FF
 
-_V0 Infinite HP[4]
+_V0 Infinite HP [Note 4]
 $4101 829C42D0 0000270F
 $0047 00000550 00000000
 
@@ -59,7 +59,7 @@ _V0 Infinite Skill Points
 $4101 829C4560 0000270F
 $0047 00000550 00000000
 
-_V0 Unlock Classes & Level 99[5]
+_V0 Unlock Classes & Level 99 [Note 5]
 $4001 829C4584 00000063 #LVL
 $0047 00000550 00000000
 $4001 829C4594 00000063
