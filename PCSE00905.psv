@@ -5,11 +5,11 @@
 _V0 Infinite Gold
 $0200 81573914 000F423F
 
-_V0 Infinite HP[1]
+_V0 Infinite HP [Note 1]
 $4100 815738F4 000003E7
 $0002 00000008 00000000
 
-_V0 Infinite MP[1]
+_V0 Infinite MP [Note 1]
 $4100 815738F8 000003E7
 $0002 00000008 00000000
 
@@ -31,7 +31,7 @@ $0004 00000004 00000000
 $4100 8157392C 000003E7
 $0004 00000004 00000000
 
-_V0 Max XP[2]
+_V0 Max XP [Note 2]
 $0200 8157390C 000F423F
 
 _V0 Notes:
@@ -42,6 +42,3 @@ $0000 00000000 00000000
 
 _V0 #2: You'll get spammed so save before activating
 $0000 00000000 00000000 # Seriously. You'll regret activating this cheat. Use "Max Stats" instead.
-
-_V0 --[ Made by roah ]--
-$0000 00000000 00000000
