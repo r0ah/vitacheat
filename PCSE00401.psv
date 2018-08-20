@@ -10,16 +10,9 @@ $0200 83DD209C 0098967F
 _V0 Max Warl
 $0200 83DD1AC0 0098967F
 
-_V0 Battle
-$0000 00000000 00000000
-
-_V0 * Enemy One 1 HP[1]
+_V0 Enemy One/Two/Three Have 1 HP [Note 1]
 $0200 8825C6A4 00000000
-
-_V0 * Enemy Two 1 HP[1]
 $0200 882665A4 00000000
-
-_V0 * Enemy Three 1 HP[1]
 $0200 882704A4 00000000
 
 _V0 Elaborate/Sadistic/Humiliating
