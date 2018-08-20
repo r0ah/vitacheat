@@ -4,42 +4,42 @@
 
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01262.psv
 
-_V0 Infinite HP[1]
+_V0 All Slots: Max Lives
+$3001 8196E13C 000007F0
+$3300 00000000 00000064 #64 = 99, NOT 63
+
+_V0 All Slots: Max Score [L+Up = On / L+Down = Off] [Note 1]
+$C002 00000000 00000110
+$3201 8196E13C 000007DC
+$3300 00000000 0098967F
+$C002 00000000 00000140
+$3201 8196E13C 000007DC
+$3300 00000000 00000000
+
+_V0 Slot 1: Infinite HP [Note 2]
 $7001 8196E13C 000000A1
 $7701 00000000 00000063
 $0004 00000003 00000000
 
-_V0 Infinite MP While Attacking[1]
-$C001 00000000 00008000
+_V0 Slot 1: Infinite MP While Attacking [Note 2]
+$C002 00000000 00008000
 $3001 8196E13C 000000AD
 $3300 00000000 00000063
 
-_V0 Max HP[1]
+_V0 Slot 1: Max HP [Note 2]
 $7001 8196E13C 000000A0
 $7701 00000000 00000063
 $0004 00000003 00000000
 
-_V0 Max MP[1]
+_V0 Slot 1: Max MP [Note 2]
 $3001 8196E13C 000000AE
 $3300 00000000 00000063
-
-_V0 Max Lives
-$3001 8196E13C 000007F0
-$3300 00000000 00000064 #64 = 99, NOT 63
-
-_V0 Max Score [L+Up = On / L+Down = Off][2]
-$C001 00000000 00000110
-$3201 8196E13C 000007DC
-$3300 00000000 0098967F
-$C001 00000000 00000140
-$3201 8196E13C 000007DC
-$3300 00000000 00000000
 
 _V0 Notes:
 $0000 00000000 00000000
 
-_V0 #1: Must have at least one character for cheat to work
-$0000 00000000 00000000 # Switch character once you have an ally.
-
-_V0 #2: Turn off if ding is an annoyance. Resets score.
+_V0 #1: Turn off if ding is an annoyance. Resets score.
 $0000 00000000 00000000
+
+_V0 #2: Must have at least one character for cheat to work
+$0000 00000000 00000000 # Switch character once you have an ally.
