@@ -2,6 +2,10 @@
 
 # Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00707.psv
 
+_V0 Infinite Money
+$3201 83B349E4 FFFF84DC
+$3300 00000000 05F5E0FF
+
 _V0 Infinite Drive Point
 $3201 83B349E4 FFFFF678
 $3300 00000000 05F5E0FF
