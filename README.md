@@ -1,18 +1,24 @@
-# VitaCheat Database
-
 All games are NoNpDrm.
+
+Tested in a 3.65 Vita.
 
 CP means compatibility patch (rePatch).
 
 ***	
 
-[[Wiki]]
+[Wiki](https://github.com/roahnosh/vitacheat/wiki)
 
-* [[Quick start]]
+* [Quick start](https://github.com/roahnosh/vitacheat/wiki/Quick-start)
 
-* [[Plugins]]
+* [Plugins](https://github.com/roahnosh/vitacheat/wiki/Plugins)
 
-* [[Manuals]]
+* [Manuals](https://github.com/roahnosh/vitacheat/wiki/Manuals)
+
+[Finding Pointers With TempAR](https://github.com/roahnosh/vitacheat/wiki/Finding-Pointers-With-TempAR)
+
+[Finding Multi-Level Pointers With TempAR](https://github.com/roahnosh/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
+
+[TempAR Tips](https://github.com/roahnosh/vitacheat/wiki/TempAR-Tips)
 
 ***	
 
