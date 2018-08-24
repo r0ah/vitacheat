@@ -4,6 +4,8 @@ Tested in a 3.65 Vita.
 
 CP means compatibility patch (rePatch).
 
+See the [changelog](https://github.com/roahnosh/vitacheat/blob/master/CHANGELOG.md)
+
 ***	
 
 [Wiki](https://github.com/roahnosh/vitacheat/wiki)
