@@ -12,4 +12,6 @@ All notable changes to this project will be documented in this file.
 
    * Fixed the pointer value (level 2) for Cass's stats
 
+   * Fixed Cass's HP value
+
 * Initial
