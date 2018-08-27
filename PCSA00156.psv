@@ -1,0 +1,17 @@
+# ID: PCSA00156
+# Title: Fat Princess-Piece of Cake
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm(?)
+# Code Author: Mapachillo
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSA00156.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-11#post-7657536
+
+_V0 Money (99)
+$0200 8420FD14 00000063
+
+_V0 Revive
+$0200 842BC9B0 0000001B
+
+_V0 Princess Assistance
+$0200 842BC8A8 00000019
