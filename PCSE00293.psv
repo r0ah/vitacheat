@@ -6,9 +6,9 @@
 
 # Credits: fuzzymillipede for the "Damage Formula" ID table and its naming scheme
 
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/Final-Fantasy-X-HD
+# Wiki: https://github.com/r0ah/vitacheat/wiki/Final-Fantasy-X-HD
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00293.psv
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00293.psv
 
 _V0 Infinite Gil
 $0200 8262A5E8 05F5E0FF
