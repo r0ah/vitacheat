@@ -1,8 +1,10 @@
 # PCSE01235 Stardew Valley 1.02 CP (NoNpDrm)
 
+# Author: r0ah
+
 # Note: Constant crashing using 365Enso. If you're on h-encore and you're not crashing then notify me and I'll add more cheats here otherwise I'll just move on to other games.
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01235.psv
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01235.psv
 
 _V0 Infinite Gold
 $3201 849FFB30 00000254
