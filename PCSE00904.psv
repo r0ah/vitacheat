@@ -1,6 +1,8 @@
 # PCSE00904 Psycho-Pass Mandatory Happiness (NoNpDrm)
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00904.psv
+# Author: r0ah
+
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00904.psv
 
 _V0 Infinite Points
 $0200 819C23D0 05F5E0FF
