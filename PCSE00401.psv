@@ -1,10 +1,11 @@
-# PCSE00401 Deception IV - Blood Ties (NoNpDrm)
-
-# Author: r0ah
-
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/Deception-IV---Blood-Ties
-
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00401.psv
+# ID: PCSE00401
+# Title: Deception IV - Blood Ties
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/Deception-IV---Blood-Ties
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00401.psv
 
 _V0 Max Ark
 $0200 83DD209C 0098967F
