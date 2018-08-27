@@ -1,18 +1,17 @@
-# PCSE01262 Bloodstained - Curse of the Moon 1.01 CP (NoNpDrm)
-
-# Author: r0ah
-
-# Note: If code doesn't work try eighthdayregret's version (https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-58#post-8211567)
-
-# Wiki: https://github.com/r0ah/vitacheat/wiki/Bloodstained---Curse-of-the-Moon
-
+# ID: PCSE01262
+# Title: Bloodstained - Curse of the Moon
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm/Compatibility Pack
+# Code Author: eighthdayregret, r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE01262
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01262.psv
 
-_V0 All Slots: Max Lives
+_V0 Max Lives (1.01 CP)
 $3001 8196E13C 000007F0
 $3300 00000000 00000064 #64 = 99, NOT 63
 
-_V0 All Slots: Max Score [L+Up = On / L+Down = Off] [Note 1]
+_V0 Max Score (1.01 CP) [L+Up = On / L+Down = Off] [Note 1]
 $C002 00000000 00000110
 $3201 8196E13C 000007DC
 $3300 00000000 0098967F
@@ -20,22 +19,25 @@ $C002 00000000 00000140
 $3201 8196E13C 000007DC
 $3300 00000000 00000000
 
-_V0 Slot 1: Infinite HP [Note 2]
+_V0 Slot 1 (1.01 CP)
+$0000 00000000 00000000
+
+_V0 * Infinite HP [Note 2]
 $7001 8196E13C 000000A1
 $7701 00000000 00000063
 $0004 00000003 00000000
 
-_V0 Slot 1: Infinite MP While Attacking [Note 2]
+_V0 * Infinite MP While Attacking [Note 2]
 $C002 00000000 00008000
 $3001 8196E13C 000000AD
 $3300 00000000 00000063
 
-_V0 Slot 1: Max HP [Note 2]
+_V0 * Max HP [Note 2]
 $7001 8196E13C 000000A0
 $7701 00000000 00000063
 $0004 00000003 00000000
 
-_V0 Slot 1: Max MP [Note 2]
+_V0 * Max MP [Note 2]
 $3001 8196E13C 000000AE
 $3300 00000000 00000063
 
