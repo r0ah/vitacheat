@@ -1,7 +1,10 @@
-# PCSB00473 Monster Monpiece (NoNpDrm)
-
-# Source: https://github.com/r0ah/vitacheat/PCSB00473.psv
-
+# ID: PCSB00473
+# Title: Monster Monpiece
+# Region: EUR
+# Version: 1.0
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00473.psv
 
 _V0 Infinite Money
 $0200 83AE6784 3B9AC9FF
