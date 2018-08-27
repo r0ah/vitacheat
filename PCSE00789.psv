@@ -1,14 +1,12 @@
-# PCSE00789 God Eater 2 - Rage Burst 1.01 (NoNpDrm)
-
-# Author: r0ah
-
+# ID: PCSE00789
+# Title: God Eater 2 - Rage Burst
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
 # Credits: Anonymous for the address for Infinite Money/HP/ST/OP, Equipment Stats and the Storage Item. Mission Time (converted from the GER cheat) IDK where I got this (possibly the same author) (https://gbatemp.net/threads/god-eater-resurrection-hacking-thread-discussion.455520)
-
-# Wiki: https://github.com/r0ah/vitacheat/wiki/God-Eater-Resurrection#god-eater-2---rage-burst
-
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00801#PCSE00789
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00789.psv
-
-# See notes below or the wiki link above for further explanation about the notes that appear on the cheat list in-game
 
 _V0 Infinite Money
 $0200 8892AAD0 3B9AC9FF
@@ -35,13 +33,13 @@ _V0 Infinite HP/ST/OP [Note 2]
 $4201 88924930 461C3C00 #CODE CLEANUP
 $0006 00000004 00000000
 
-# _V0 Infinite Burst
-# $3202 8571FF30 00000294
-# $3200 00000000 00000060
-# $3300 00000000 447A0000
+_V0 Infinite Burst
+$3202 8571FF30 00000294
+$3200 00000000 00000060
+$3300 00000000 447A0000
 
-# _V0 Level-3 Burst
-# $0000 00000000 00000000
+_V0 Level-3 Burst
+$0000 00000000 00000000
 
 _V0 Infinite Enemy Bullets
 $4001 88926124 00000063
