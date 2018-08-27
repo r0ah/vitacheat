@@ -1,16 +1,13 @@
-# PCSE00293 Final Fantasy X HD (NoNpDrm)
-
+# ID: PCSE00293
+# Title: Final Fantasy X HD
+# Region: USA
+# Version: 1.0
+# Type: NoNpDrm
+# Code Author: r0ah, Udaius
+# Credits: fuzzymillipede for the "Damage Formula" ID table and the Damage Formula names
+# Wiki: https://github.com/r0ah/vitacheat/wiki/Final-Fantasy-X-HD
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00293.psv
 # Note: Use the FFX save editor as a complement
-
-# Author: r0ah, Udaius
-
-# Credits: Udaius for all the codes tagged below
-
-# Credits: fuzzymillipede for the "Damage Formula" ID table and its naming scheme
-
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/Final-Fantasy-X-HD
-
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00293.psv
 
 _V0 Infinite Gil
 $0200 8262A5E8 05F5E0FF
