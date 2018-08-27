@@ -1,8 +1,10 @@
 # PCSE00244 Valhalla Knights 3 (NoNpDrm)
 
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/Valhalla-Knights-3
+# Author: r0ah
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00244.psv
+# Wiki: https://github.com/r0ah/vitacheat/wiki/Valhalla-Knights-3
+
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00244.psv
 
 _V0 Max Money [Note 1]
 $0200 8280FD30 3B9AC9FF
