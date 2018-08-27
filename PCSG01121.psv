@@ -1,6 +1,8 @@
 # PCSG01121 Secret of Mana (NoNpDrm)
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSG01121.psv
+# Author: r0ah
+
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG01121.psv
 
 _V0 Infinite Gold
 $0200 81963F40 3B9AC9FF
