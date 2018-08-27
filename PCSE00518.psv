@@ -1,8 +1,10 @@
-# PCSE00518 Damascus Gear - Operation Tokyo 1.01 (NoNpDrm)
-
-# Author: r0ah
-
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00518.psv
+# ID: PCSE00518
+# Title: Damascus Gear - Operation Tokyo
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00518.psv
 
 _V0 Infinite Eyn
 $0200 82FFC10C 000F423F #MAX VALUE CAN CAUSE BULK SELL CRASH
