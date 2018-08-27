@@ -2,7 +2,7 @@
 
 # Note: Incomplete. Need savedata to check first-hand. Will use compression.
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00429.psv
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00429.psv
 
 _V0 Infinite Gald
 $0200 81298274 0098967F
