@@ -1,36 +1,40 @@
-All games are NoNpDrm.
+# VitaCheat Database #
 
-Tested in a 3.65 Vita.
+ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) is now merged. I have also added codes from various forums.
 
-CP means compatibility patch (rePatch).
+All of my codes have been tested in a 3.65 Vita.	
 
-See the [changelog](https://github.com/roahnosh/vitacheat/blob/master/CHANGELOG.md)
+There's no way I can test all the existing codes made by various code authors. If you want to help, open an issue and report your findings.
+
+See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
 
 ***	
 
-[Wiki](https://github.com/roahnosh/vitacheat/wiki)
+[Wiki](https://github.com/r0ah/vitacheat/wiki)
 
-* [Quick start](https://github.com/roahnosh/vitacheat/wiki/Quick-start)
+* [Quick start](https://github.com/r0ah/vitacheat/wiki/Quick-start)
 
-* [Plugins](https://github.com/roahnosh/vitacheat/wiki/Plugins)
+* [Plugins](https://github.com/r0ah/vitacheat/wiki/Plugins)
 
-* [Manuals](https://github.com/roahnosh/vitacheat/wiki/Manuals)
+* [Manuals](https://github.com/r0ah/vitacheat/wiki/Manuals)
 
-* [Code Formatting](https://github.com/roahnosh/vitacheat/wiki/Code-Formatting)
+* [Code Formatting](https://github.com/r0ah/vitacheat/wiki/Code-Formatting)
 
-* [Finding Values](https://github.com/roahnosh/vitacheat/wiki/Finding-Values)
+* [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
 
-   *  [Normal Search](https://github.com/roahnosh/vitacheat/wiki/Finding-Values--Normal-Search)
+   *  [Normal Search](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Normal-Search)
 
-   *  [Fuzzy Search](https://github.com/roahnosh/vitacheat/wiki/Finding-Values--Fuzzy-Search)
+   *  [Fuzzy Search](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Fuzzy-Search)
 
-   *  [Memory Dump](https://github.com/roahnosh/vitacheat/wiki/Finding-Values--Memory-Dump)
+   *  [Memory Dump](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Memory-Dump)
 
-* [Finding Pointers With TempAR](https://github.com/roahnosh/vitacheat/wiki/Finding-Pointers-With-TempAR)
+* [Finding Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR)
 
-* [Finding Multi-Level Pointers With TempAR](https://github.com/roahnosh/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
+* [Finding Multi-Level Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
 
-* [TempAR Tips](https://github.com/roahnosh/vitacheat/wiki/TempAR-Tips)
+* [TempAR Tips](https://github.com/r0ah/vitacheat/wiki/TempAR-Tips)
+
+* [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
 ***	
 
