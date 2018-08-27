@@ -1,6 +1,6 @@
 # PCSE00300 Ragnarok Odyssey ACE 1.11 (nonpdrm)
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00300.psv
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00300.psv
 
 _V0 Infinite Zenny
 $0200 83C17694 0098967F
