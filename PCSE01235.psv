@@ -1,10 +1,11 @@
-# PCSE01235 Stardew Valley 1.02 CP (NoNpDrm)
-
-# Author: r0ah
-
-# Note: Constant crashing using 365Enso. If you're on h-encore and you're not crashing then notify me and I'll add more cheats here otherwise I'll just move on to other games.
-
+# ID: PCSE01235
+# Title: Stardew Valley
+# Region: USA
+# Version: 1.02
+# Type: Compatibility Pack
+# Code Author: r0ah
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01235.psv
+# Note: Constant crashing using 365Enso. If you're on h-encore and you're not crashing then notify me and I'll add more cheats here otherwise I'll just move on to other games.
 
 _V0 Infinite Gold
 $3201 849FFB30 00000254
