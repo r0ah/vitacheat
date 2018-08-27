@@ -1,6 +1,8 @@
 # PCSE01111 Rabi-Ribi (NoNpDrm)
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE01111.psv
+# Author: r0ah
+
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01111.psv
 
 _V0 Infinite Bunny HP
 $4100 82D703D8 000003E7
