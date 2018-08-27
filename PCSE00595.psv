@@ -1,12 +1,12 @@
-# PCSE00595 J-STARS Victory VS+ 1.02 (NoNpDrm)
-
-# Author: r0ah
-
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/J-STARS-Victory-VS-
-
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00595.psv
-
-# Note Don't activate cheat in title screen
+# ID: PCSE00595
+# Title: J-STARS Victory VS+
+# Region: USA
+# Version: 1.02
+# Type: NoNpDrm
+# Code Author: r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/J-STARS-Victory-VS-
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00595.psv
+# Note: Don't activate cheat in title screen
 
 _V0 Infinite JP Points
 $0200 81FE063C 000F423F
