@@ -1,10 +1,12 @@
 # PCSE00801 God Eater - Resurrection 1.01 (NoNpDrm)
 
+# Author: r0ah
+
 # Credits: Anonymous for the address for Infinite Money/HP/ST/OP, Equipment Stats and the Storage Item. Mission Time IDK where I got this (possibly the same author) (https://gbatemp.net/threads/god-eater-resurrection-hacking-thread-discussion.455520)
 
-# Wiki: https://github.com/roahnosh/vitacheat/wiki/God-Eater-Resurrection
+# Wiki: https://github.com/r0ah/vitacheat/wiki/God-Eater-Resurrection
 
-# Source: https://github.com/roahnosh/vitacheat/blob/master/PCSE00801.psv
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00801.psv
 
 # See notes below or the wiki link above for further explanation about the notes that appear on the cheat list in-game
 
@@ -32,6 +34,12 @@ $0002 0000000C 00000000
 _V0 Infinite HP/ST/OP [Note 2]
 $4201 889048E0 461C3C00 #CODE CLEANUP
 $0006 00000004 00000000
+
+# _V0 Infinite Burst
+# $0000 00000000 00000000
+
+# _V0 Level-3 Burst
+# $0000 00000000 00000000
 
 _V0 Infinite Enemy Bullets
 $4001 88905C54 00000063
@@ -672,7 +680,7 @@ $0000 00000000 00000000
 _V0 #1: Will affect your Avatar Card! See wiki for details.
 $0000 00000000 00000000 # This cheat prevents you from getting a mission clear time. The consequence of this cheat is you have a mission clear count but no clear time in either multi, single or solo categories thus making your avatar card non-legit until you re-do the mission (with cheat disabled) to get a clear time. Not an issue but this is something that you should be aware of.
 
-_V0 #2: Stats can be restored by changing equipments
+_V0 #2: HP/ST/OP stats can be restored by changing equipments
 $0000 00000000 00000000 # In the loadout menu
 
 _V0 #3: Can't use crystals? See wiki for details.
