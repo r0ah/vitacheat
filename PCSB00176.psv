@@ -4,10 +4,10 @@
 # Version: 1.00
 # Type: MaiDump
 # Code Author: speedfly
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSB00176
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00176.psv
 # Original Source: http://www.speedfly.cn/19432.html
-# Note: 支持日版1.00
-#  - Support Japanese version 1.00
+# Note: 支持日版1.00 (Support Japanese version 1.00)
 
 _V0 Inf HP//无限HP
 $8102 822E8050 00000DA0
@@ -116,10 +116,13 @@ $8800 00000000 00000000
 $8501 822E32A4 0000C322
 $8900 00000000 00000000
 
-_V0 STEALTH CAMOUFLAGE//开启隐形迷彩
+_V0 STEALTH CAMOUFLAGE//开启隐形迷彩 [Note 1]
 $D502 822E9890 00000000
 $3101 822E32A4 0000BFA0
 $3300 00000000 00000001
 
-#  - 使用此金手指请先关闭其他金手指项 并先保存你的存档 然后在场景切换点开启该项 退回到游戏界面再关闭该项 游戏中不要有任何其他操作 直接切换场景 如果能切换到其他场景 立即保存新的存档 退出游戏再进入游戏查看是否成功
-#  - Please use this golden finger to close other golden finger items first and save your archive first. Then open the item at the scene switching point and return to the game interface and then close the game. Do not have any other operations to directly switch the scene. If you can switch to other scenes immediately Save the new archive and exit the game and then enter the game to see if it is successful.
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: See the wiki for details 
+$0000 00000000 00000000 # Please use this golden finger to close other golden finger items first and save your archive first. Then open the item at the scene switching point and return to the game interface and then close the game. Do not have any other operations to directly switch the scene. If you can switch to other scenes immediately Save the new archive and exit the game and then enter the game to see if it is successful.
