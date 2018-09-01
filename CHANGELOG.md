@@ -2,7 +2,27 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
-* **PCSE00880 World of Final Fantasy ([6b5a5d2e](https://github.com/r0ah/vitacheat/commit/6b5a5d2ebead2e3ab6fd3999e6f292f7c5da9cf8))**
+* **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([af600f1f](https://github.com/r0ah/vitacheat/commit/af600f1f116f0fd412cd58af01a0ee956d2a2554))**:
+
+  * Infinite Mira
+
+  * Infinite ------
+
+  * Infinite Sepith
+
+  * Max Level
+
+* **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([2a972a9b](https://github.com/r0ah/vitacheat/commit/2a972a9b1c5dfcf623d3ea5ddd845e54754d7ea2))**: Added
+
+* **PCSE00738 Organ Trail ([c88cde91](https://github.com/r0ah/vitacheat/commit/c88cde91d078d5bb47eba72d635704a414ab7494))**: Replaced existing codes into pointer code
+
+* Merged ShumnoT's database
+
+* **PCSB01072 Salt and Santuary ([37c221f7](https://github.com/r0ah/vitacheat/commit/37c221f7f2f53abb9695a7d516845c05871356ac))**: Added
+
+* Repo cleanup, setting up standards
+
+* **PCSE00880 World of Final Fantasy ([6b5a5d2e](https://github.com/r0ah/vitacheat/commit/6b5a5d2ebead2e3ab6fd3999e6f292f7c5da9cf8))**:
 
    * Have All Mirajewels
 
