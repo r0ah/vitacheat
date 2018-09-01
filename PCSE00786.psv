@@ -4,13 +4,28 @@
 # Version: 1.02
 # Type: NoNpDrm
 # Code Author: r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00786
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00786.psv
 
-_V0 Infinite HP/EP/CP
+_V0 Infinite Mira
+$0200 81587528 3B9AC9FF
+
+_V0 Infinite ------
+$0200 81587504 3B9AC9FF
+
+_V0 Infinite Sepith
+$4201 815874E8 000F423F
+$0007 00000004 00000000
+
+_V0 Infinite HP [Note 1]
 $4201 81585C24 000F423F
 $0009 000000A0 00000000
+
+_V0 Infinite Energy Point [Note 1]
 $4101 81585C2C 0000270F
 $0009 000000A0 00000000
+
+_V0 Infinite Craft Point [Note 1]
 $4101 81585C30 0000270F
 $0009 000000A0 00000000
 
@@ -18,12 +33,16 @@ _V0 Max Value HP
 $4201 81585C28 000F423F
 $0009 000000A0 00000000
 
-_V0 Max Value EP
+_V0 Max Value Energy Point
 $4101 81585C2E 0000270F
 $0009 000000A0 00000000
 
-_V0 Max Value CP
+_V0 Max Value Craft Point
 $4101 81585C32 0000270F
+$0009 000000A0 00000000
+
+_V0 Max Level
+$4101 81585C48 00000063
 $0009 000000A0 00000000
 
 _V0 Max Stats
@@ -49,3 +68,9 @@ $0009 000000A0 00000000
 _V0 Instant Level 99
 $4201 81585C4C 0098967F
 $0009 000000A0 00000000
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Not permanent
+$0000 00000000 00000000  
