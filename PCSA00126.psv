@@ -1,10 +1,14 @@
 # ID: PCSA00126
 # Title: God of War Collection
-# Region: USA/KO 
+# Region: USA/KOR
 # Version: 1.00
-# Type: VPK-NND
-# Code Author: Unknown
+# Type: MAI0/NoNpDrm
+# Code Author: dask (speedfly), Borderlinez
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSA00126.psv
+# Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/2814-pcsa00126-gow-collection
+# Note: Mai dump choose option 0 to load game this is a really nice game to play
+#  - Works on cartridge as well 
+#  - Made for psvita cheat dev
 
 _V1 Inf HP
 $D504 8230CB50 00000000
