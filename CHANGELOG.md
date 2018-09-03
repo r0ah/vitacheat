@@ -2,6 +2,8 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([7f0791b1](https://github.com/r0ah/vitacheat/commit/7f0791b115fc218465ef3e74bd823a264a99eec2))**: Added Infinite Bond Points
+
 * **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([af600f1f](https://github.com/r0ah/vitacheat/commit/af600f1f116f0fd412cd58af01a0ee956d2a2554))**:
 
   * Infinite Mira
