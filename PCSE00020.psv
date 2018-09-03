@@ -2,12 +2,11 @@
 # Title: Metal Gear Solid 3
 # Region: USA
 # Version: 1.00
-# Type: MaiDump
+# Type: MAI0
 # Code Author: dask
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00020.psv
 # Original Source: http://www.speedfly.cn/19432.html
-# Note: 支持美版1.00 加载方式Mai0
-#  - Support US version 1.00 loading mode Mai0
+# Note: 支持美版1.00 加载方式Mai0 (Support US version 1.00 loading mode Mai0)
 
 _V0 Inf Silencer/消声器不减
 $A100 810EA1BE 00001E38
@@ -23,11 +22,8 @@ $A100 81097048 00003A00
 $A100 81097052 00003900
 $A100 81097080 00003900
 
-_V0 Volgin Player Ammo Explosion Fix/BOSS Volgin
-$A100 810D4C28 0000BF00
-
-# 第一形态弹药不会爆炸
-# The first form of ammunition will not explode
+_V0 Volgin Player Ammo Explosion Fix/BOSS Volgin/
+$A100 810D4C28 0000BF00 # 第一形态弹药不会爆炸 (THE FIRST FORM OF AMMUNITION WILL NOT EXPLODE)
 
 _V0 Volgin Stop Timer/BOSS Volgin时间不减
 $A200 815754F0 BF00BF00
@@ -131,9 +127,6 @@ $7701 00000000 00630063
 $0004 00000038 00000000
 
 _V0 Gun SAA 0 AMMO/
-$D502 822E8890 00000000
-$3001 82957880 00000CC0
+$D502 822E8890 00000000 # 基友左轮0子弹，如果一直开着上面的全武器，到最后基友对决的时候就会因为武器和子弹全满而捡不到左轮卡剧情，开这个就可以捡了
+$3001 82957880 00000CC0 # BASE FRIEND REVOLVER 0 BULLET, IF YOU KEEP DRIVING ALL THE WEAPONS ABOVE, WHEN THE FINAL FRIEND CONFRONTATION WILL BE BECAUSE THE WEAPONS AND BULLETS ARE FULL AND CAN NOT GET THE LEFT WHEEL CARD STORY, OPEN THIS CAN BE PARALYZED
 $3300 00000000 00000000
-
-# 基友左轮0子弹，如果一直开着上面的全武器，到最后基友对决的时候就会因为武器和子弹全满而捡不到左轮卡剧情，开这个就可以捡了
-# Base friend revolver 0 bullet, if you keep driving all the weapons above, when the final friend confrontation will be because the weapons and bullets are full and can not get the left wheel card story, open this can be paralyzed
