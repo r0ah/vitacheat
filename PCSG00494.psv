@@ -1,11 +1,11 @@
 # ID: PCSG00494
-# Title: Dai-3-Ji Super Robot Taisen Z
+# Title: Super Robot Taisen Z
 # Region: JPN
 # Version: 1.02
 # Type: MAI5
 # Code Author: speedfly
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00494.psv
-# Original Source: http://www.speedfly.cn/21354.html 
+# Original Source: http://www.speedfly.cn/21354.html
  
 _V0 金钱变动后最大//Change Money Max
 $A100 8124564C 00001C00
