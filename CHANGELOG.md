@@ -2,7 +2,7 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
-* **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([7f0791b1](https://github.com/r0ah/vitacheat/commit/7f0791b115fc218465ef3e74bd823a264a99eec2))**: Added Infinite Bond Points
+* **PCSE01034 BERSERK and the Band of the Hawk ([0b3caff8](https://github.com/r0ah/vitacheat/commit/0b3caff8d647395154f2b56556bb70affcfa2c63))**: Added
 
 * **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([af600f1f](https://github.com/r0ah/vitacheat/commit/af600f1f116f0fd412cd58af01a0ee956d2a2554))**:
 
