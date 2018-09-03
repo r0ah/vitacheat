@@ -1,32 +1,16 @@
-# VitaCheat Database #
+This was initially a repository for my own codes and since our discovery of the pointer search and my collaborations with various GBATemp users it has grown from a personal-only repository into a full database. @ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) is now merged in this repo and forgive me if I fragmented the database but it needed to be done.
 
-ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) is now merged. I have also added codes from various forums.
+## Trainers ##
 
-All of my codes have been tested in a 3.65 Vita.	
+You can download trainers from [this](https://github.com/r0ah/vitacheat/trainers) directory (see [How to Use Trainers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Trainers)).
 
-There's no way I can test all the existing codes made by various code authors. If you want to help, open an issue and report your findings.
+## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
-See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
-
-***	
-
-[Wiki](https://github.com/r0ah/vitacheat/wiki)
-
-* [Quick start](https://github.com/r0ah/vitacheat/wiki/Quick-start)
+* [Quick Start](https://github.com/r0ah/vitacheat/wiki/Quick-Start) - Don't know where to start? Check this out.
 
 * [Plugins](https://github.com/r0ah/vitacheat/wiki/Plugins)
 
 * [Manuals](https://github.com/r0ah/vitacheat/wiki/Manuals)
-
-* [Code Formatting](https://github.com/r0ah/vitacheat/wiki/Code-Formatting)
-
-* [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
-
-   *  [Normal Search](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Normal-Search)
-
-   *  [Fuzzy Search](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Fuzzy-Search)
-
-   *  [Memory Dump](https://github.com/r0ah/vitacheat/wiki/Finding-Values--Memory-Dump)
 
 * [Finding Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR)
 
@@ -36,8 +20,22 @@ See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) 
 
 * [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
-***	
+## Testing ##
 
-[VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) - Maintained by Smoker1
+There's no way I can test all the existing codes made by various code authors. You can help us by opening an issue to report your findings.
 
-[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/)
+## Code Header ##
+
+For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
+
+## Changelog ##
+
+See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
+
+## Links ##
+
+[VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)
+
+[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
+
+[Finalcheat](http://finalcheat.github.io)
