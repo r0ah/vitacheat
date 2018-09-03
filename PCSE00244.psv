@@ -6,13 +6,14 @@
 # Code Author: r0ah
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00244
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00244.psv
+# Note: Tested working on a ENSO365 Vita.
 
 _V0 Max Money [Note 1]
 $0200 8280FD30 3B9AC9FF
 $0200 82A2B9B0 3B9AC9FF
 
 _V0 Max My Pace
-$0200 8280FD38 3B9AC9FF #8 BYTES?
+$0200 8280FD38 3B9AC9FF
 $0200 82A2B9B8 3B9AC9FF
 
 _V0 Have All Items [Note 2]
