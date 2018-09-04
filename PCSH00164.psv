@@ -1,0 +1,13 @@
+# ID: PCSH00164
+# Title: Samurai Warriors 4
+# Region: ASA
+# Version: 1.01
+# Type: MAI5
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH00164.psv
+# Original Source: http://www.speedfly.cn/21241.html
+
+_V0 Money Max//购买兵法书金钱最大
+$A100 810D74DE 00001C00
+$A200 810D74E0 233FF244
+$A200 810D74E4 030FF2C0
