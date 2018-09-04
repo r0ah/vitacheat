@@ -1,0 +1,17 @@
+# ID: PCSH10049
+# Title: Ys Origin
+# Region: ASA/HKN/CHN
+# Version: 1.00
+# Type: MAI5
+# Code Author: gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH10049.psv
+# Original Source: http://www.speedfly.cn/21458.html
+
+_V0 MP不减
+$5200 8149A2E4 8149A2E0
+
+_V0 SP MAX
+$0200 8149A308 000F423F
+
+_V0 Oxygen not Reduced氧气不减
+$0200 8149BD64 45BB8000
