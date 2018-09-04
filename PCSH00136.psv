@@ -1,0 +1,20 @@
+# ID: PCSH00136
+# Title: J-Stars Victory VS+
+# Region: ASA/HKN
+# Version: 1.00
+# Type: Vitamin
+# Code Author: speedfly&gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH00136.psv
+# Original Source: http://www.speedfly.cn/21325.html
+# Note: Vitamin格式 解压后用MAI安装
+
+_V0 JP最大//Hp Max
+$3202 815B0BF4 00000000
+$3200 00000000 00005C5C
+$3300 00000000 000F423F
+ 
+_V0 全金币99个//99 Coins
+$7202 815B0BF4 00000000
+$7200 00000000 00005CA4
+$7702 00000000 00000063
+$0003 00000004 00000000
