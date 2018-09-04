@@ -1,0 +1,91 @@
+# ID: PCSF00485
+# Title: Ratchet & Clank 2
+# Region: EUR
+# Version: 1.00
+# Type: MaiDump
+# Code Author: Retroboy
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSF00485.psv
+# Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3114-pcsf00485-ratchet-clank-2#post3114
+
+_V0 Infinite Health
+$0000 821C60EC 00000004
+
+_V0 Max Health
+$0200 81FEAEAC 0003087D
+
+_V0 Infinite/Max Health
+$0000 821C60EC 00000014
+$0200 81FEAEAC 0003087D
+
+_V0 Infinite/Max Bolts
+$0200 821C6F40 3B9AC9FF
+$0200 81FEAE98 3B9AC9FF
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 821C3F6C FFFF0000
+$C203 00000001 00000000
+$0200 821C3F6C 00000000
+
+_V0 { SHIP CODES }
+$0000 00000000 00000000
+
+_V0 Infinite Health
+$0000 8231B2B8 00000064
+
+_V0 Infinite Shield
+$0000 8201858C 00000020
+
+_V0 Infinite Boost
+$0200 820185B4 00000248
+
+_V0 Infinite Missiles
+$0000 820184C4 0000000A
+
+_V0 0 Ships Remain
+$0000 8231B2A0 00000000
+
+_V0 Max Raritanium
+$0200 81FEAE9C 3B9AC9FF
+
+_V0 { AMMO CODES }
+$0000 00000000 00000000
+
+_V0 Infinite Lancer Ammo
+$0000 821C62E4 000000C8
+
+_V0 Infinite Gravity Bombs
+$0000 821C6314 00000008
+
+_V0 Infinite Chopper Ammo
+$0000 821C62C4 00000023
+
+_V0 Infinite Blitz Gun Ammo
+$0000 821C62D4 00000028
+
+_V0 Infinite Pulse Rifle
+$0000 821C62C8 00000008
+
+_V0 Infinite Miniturret Glove
+$0000 821C6310 00000014
+
+_V0 { WEAPON UPGRADE CODES }
+$0000 00000000 00000000
+
+_V0 Lancer to Heavy Lancer
+$0200 821C65A9 00000023
+
+_V0 Gravity Bomb to Mini Nuke
+$0200 821C65D9 00000019
+
+_V0 Chopper to Multi Star
+$0000 821C6589 00000040
+
+_V0 Blitz Gun to Blitz Cannon
+$0200 821C6599 0000005E
+
+_V0 Pulse Rifle to Vaporizer
+$0000 821C658D 00000013
+
+_V0 Miniturret to Megaturret Glove
+$0000 821C65D5 0000006D
