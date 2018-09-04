@@ -1,0 +1,20 @@
+# ID: PCSF00486
+# Title: Ratchet & Clank 3
+# Region: EUR
+# Version: 1.00
+# Type: MaiDump
+# Code Author: Retroboy
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSF00486.psv
+# Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3116-pcsf00486-ratchet-clank-3#post3116
+
+_V0 Infinite/Max Health
+$0100 81A0F700 000003E7
+
+_V0 Infinite/Max Bolts
+$0200 81816508 3B9AC9FF
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 81A0D21C FFFF0000
+$C203 00000001 00000000
+$0200 81A0D21C 00000000
