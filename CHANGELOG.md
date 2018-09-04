@@ -2,6 +2,8 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* ShumnoT's database merge finished
+
 * **PCSE01262 Bloodstained - Curse of the Moon ([9cf82fd5](https://github.com/r0ah/vitacheat/commit/9cf82fd519bcc5a4c51fa4cb987f3eb266d1b5fd))**: Added eighthdayregret's codes
 
 * **PCSE01034 BERSERK and the Band of the Hawk ([0b3caff8](https://github.com/r0ah/vitacheat/commit/0b3caff8d647395154f2b56556bb70affcfa2c63))**: Added
@@ -20,7 +22,7 @@ All notable changes to this project will be documented in this file.
 
 * **PCSE00738 Organ Trail ([c88cde91](https://github.com/r0ah/vitacheat/commit/c88cde91d078d5bb47eba72d635704a414ab7494))**: Replaced existing codes into pointer code
 
-* Merged ShumnoT's database
+* ShumnoT's database merge start
 
 * **PCSB01072 Salt and Santuary ([37c221f7](https://github.com/r0ah/vitacheat/commit/37c221f7f2f53abb9695a7d516845c05871356ac))**: Added
 
