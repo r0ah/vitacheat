@@ -2,7 +2,7 @@ This was initially a repository for my own codes and since our discovery of the 
 
 ## Trainers ##
 
-You can download trainers from [this](https://github.com/r0ah/vitacheat/trainers) directory (see [How to Use Trainers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Trainers)).
+You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vitacheat/trainers) directory (see [How to Use Trainers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Trainers)).
 
 ## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
@@ -20,9 +20,15 @@ You can download trainers from [this](https://github.com/r0ah/vitacheat/trainers
 
 * [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
-## Testing ##
+## Testing and Reporting for Issues ##
 
 There's no way I can test all the existing codes made by various code authors. You can help us by opening an issue to report your findings.
+
+Please always specify the following before opening an issue:
+
+* Game ID (ex: PCSE#####)
+* Game version
+* Game type (is it NoNpDrm/Vitamin/Mai/CP?)
 
 ## Code Header ##
 
