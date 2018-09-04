@@ -1,0 +1,15 @@
+# ID: PCSH00253
+# Title: Attack on Titan -  Wings of Freedom
+# Region: ASA/CHN
+# Version: 1.00
+# Type: Vitamin
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH00253.psv
+# Original Source: http://www.speedfly.cn/21335.html
+ 
+_V0 Money Max//金钱最大
+$3201 815C0BC8 00000018
+$3300 00000000 3B9AC9FF
+
+# _V0 VIP Items-HP-Gas-Blade-Use
+# $0000 00000000 00000000
