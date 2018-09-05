@@ -2,7 +2,7 @@ This was initially a repository for my own codes and since our discovery of the 
 
 ## Trainers ##
 
-You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vitacheat/trainers) directory (see [How to Use Trainers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Trainers)).
+You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vitacheat/tree/master/trainers) directory (see [How to Use Trainers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Trainers)).
 
 ## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
