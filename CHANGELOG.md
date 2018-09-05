@@ -2,6 +2,8 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00896 The Legend of Heroes - Trails of Cold Steel II ([45164dc0](https://github.com/r0ah/vitacheat/commit/45164dc0e91b7b0fa8da08b368680d25c8aae0a2))**: Added pointer code
+
 * ShumnoT's database merge finished
 
 * **PCSE01262 Bloodstained - Curse of the Moon ([9cf82fd5](https://github.com/r0ah/vitacheat/commit/9cf82fd519bcc5a4c51fa4cb987f3eb266d1b5fd))**: Added eighthdayregret's codes
