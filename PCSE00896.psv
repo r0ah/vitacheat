@@ -5,6 +5,7 @@
 # Type: NoNpDrm
 # Code Author: r0ah
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00896.psv
+# Note: Wrong pointer code but works most of the time. If not work then try to re-launch game.
 
 _V0 Infinite Mira
 $3201 821A7094 0007D044
