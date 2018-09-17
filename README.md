@@ -45,3 +45,11 @@ See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) 
 [GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
 
 [Finalcheat](http://finalcheat.github.io)
+
+## Credits ##
+
+* @ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) and the collaborators
+
+* Various code authors
+
+* FINALCHEAT
