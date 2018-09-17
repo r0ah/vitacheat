@@ -2,6 +2,14 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00789 God Eater 2 - Rage Burst ([](https://github.com/r0ah/vitacheat/commit/))**: Static pointer codes
+
+   * Level-3 Infinite Burst (Multi 4-Party)
+
+   * Level-3 Infinite Burst (Solo)
+
+* **PCSE00546 Retro City Rampage DX ([6495cf46](https://github.com/r0ah/vitacheat/commit/6495cf46cfbbb3273d3d62581423efe649920449))**: Added
+
 * **PCSE00896 The Legend of Heroes - Trails of Cold Steel II ([45164dc0](https://github.com/r0ah/vitacheat/commit/45164dc0e91b7b0fa8da08b368680d25c8aae0a2))**: Added pointer code
 
 * ShumnoT's database merge finished
@@ -12,13 +20,13 @@ All notable changes to this project will be documented in this file.
 
 * **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([af600f1f](https://github.com/r0ah/vitacheat/commit/af600f1f116f0fd412cd58af01a0ee956d2a2554))**:
 
-  * Infinite Mira
+   * Infinite Mira
 
-  * Infinite ------
+   * Infinite ------
 
-  * Infinite Sepith
+   * Infinite Sepith
 
-  * Max Level
+   * Max Level
 
 * **PCSE00786 The Legend of Heroes - Trails of Cold Steel ([2a972a9b](https://github.com/r0ah/vitacheat/commit/2a972a9b1c5dfcf623d3ea5ddd845e54754d7ea2))**: Added
 
