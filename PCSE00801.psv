@@ -7,6 +7,7 @@
 # Credits: Anonymous for the address for Infinite Money/HP/ST/OP, Equipment Stats and the Storage Item. Mission Time IDK where I got this (possibly the same author) (https://gbatemp.net/threads/god-eater-resurrection-hacking-thread-discussion.455520)
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00801
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00801.psv
+# Note: Will fix "Infinite Burst" once new version of vitacheat (the version with native pointer search) is released
 
 _V0 Infinite Money
 $0200 8890A400 3B9AC9FF
@@ -672,13 +673,12 @@ $0000 00000000 00000000
 _V0 #1: Will affect your Avatar Card! See wiki for details.
 $0000 00000000 00000000 # This cheat prevents you from getting a mission clear time. The consequence of this cheat is you have a mission clear count but no clear time in either multi, single or solo categories thus making your avatar card non-legit until you re-do the mission (with cheat disabled) to get a clear time. Not an issue but this is something that you should be aware of.
 
-_V0 #2: Stats can be restored by changing equipments
+_V0 #2: HP/ST/OP stats can be restored by changing equipments
 $0000 00000000 00000000 # In the loadout menu
 
 _V0 #3: Can't use crystals? See wiki for details.
 $0000 00000000 00000000 # Enable cheat then quit the VitaCheat menu to get crystals. Re-enter the VitaCheat menu and disable cheat then return to the game. Withdraw all x99 crystals from your storage to your inventory and you can now use the items. You can then store it back to your storage later on if you wish to do so. You can ignore the generic compound core.
 $0000 00000000 00000000 # When withdrawing crystals don't collect by pressing the triangle button as it makes the crystal in your inventory invalid and selecting it will crash the game. You can however fix it by pressing the square button to sell the item.
-$0000 00000000 00000000
 
 _V0 #4a: All (x3) Master Skill cheat must be activated!
 $0000 00000000 00000000 # Make sure to activate all master skill (x3) cheat or your game will crash upon entering the skill menu! If you encounter crash upon opening the skill rebuild/install menus just activate any equipment cheat to fix it. As to why it crashes it's because you don't have 367 god arcs.
