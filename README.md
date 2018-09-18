@@ -48,8 +48,4 @@ See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) 
 
 ## Credits ##
 
-* @ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) and the collaborators
-
-* Various code authors
-
-* FINALCHEAT
+See full credits [here](https://github.com/r0ah/vitacheat/blob/master/CREDITS.md).
