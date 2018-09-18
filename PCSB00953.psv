@@ -1,0 +1,37 @@
+# ID: PCSB00953
+# Title: DEX - Enhanced Edition
+# Region: EUR
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00953.psv
+# Note: Tested codes in a new game. Might not work with existing savedata. If that is the case then try to restart the game.
+
+_V0 Infinite HP
+$0200 8C91F67C 43E10000
+
+_V0 Max Money
+$3201 8C91F3D4 00000044
+$3300 00000000 3B9AC9FF
+
+_V0 Max Stats [Note 1]
+$7001 8C91F3D4 00000060
+$7701 00000000 00000006
+$0004 00000004 00000000
+$7001 8C91F3D4 00000070
+$7701 00000000 00000002
+$0004 00000004 00000000
+
+_V0 Max Skill Points [Select=x99 / Start=Zero]
+$C001 00000000 00000001
+$3001 8C91F3D4 00000048
+$3300 00000000 00000063
+$C001 00000000 00000008
+$3001 8C91F3D4 00000048
+$3300 00000000 00000000
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Must advance to unlock locked skills
+$0000 00000000 00000000
