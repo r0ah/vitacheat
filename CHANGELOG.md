@@ -2,6 +2,8 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00881 Gal*Gun - Double Peace ([01b3e841](https://github.com/r0ah/vitacheat/commit/01b3e841bbce7a8e711162d7e03909e28868102c))**: Added
+
 * **PCSB00115 Silent Hill - Book of Memories ([f899beed](https://github.com/r0ah/vitacheat/commit/f899beed35393371dd02e2bef7d6edc579410312))**: Added
 
 * **PCSB00953 DEX - Enhanced Edition ([865e2156](https://github.com/r0ah/vitacheat/commit/865e21566040d77e2cdea1de82ae7edfd3cf6c97))**: Added
