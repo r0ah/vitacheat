@@ -6,6 +6,7 @@
 # Code Author: r0ah
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00881
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00881.psv
+# Note: Try to relaunch game if cheat doesn't work. Pointer is dynamic and will to fix in the next version of VitaCheat (the one with native pointer search).
 
 _V0 Infinite Feather
 $3201 8B2DB6B4 0000006C
