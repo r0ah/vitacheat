@@ -7,7 +7,6 @@
 # Credits: Anonymous for the address for Infinite Money/HP/ST/OP, Equipment Stats and the Storage Item. Mission Time (converted from the GER cheat) IDK where I got this (possibly the same author) (https://gbatemp.net/threads/god-eater-resurrection-hacking-thread-discussion.455520)
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00801#PCSE00789
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00789.psv
-# Note: Will fix "Infinite Burst" once new version of vitacheat (the version with native pointer search) is released
 
 _V0 Infinite Money
 $0200 8892AAD0 3B9AC9FF
