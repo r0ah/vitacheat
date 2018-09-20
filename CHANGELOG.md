@@ -2,6 +2,8 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00912 Dragon Quest Builders ([cd43c79b](https://github.com/r0ah/vitacheat/commit/cd43c79bf32d3caee339c28ef0f63c5483372858))**: Added
+
 * **PCSE00881 Gal*Gun - Double Peace ([01b3e841](https://github.com/r0ah/vitacheat/commit/01b3e841bbce7a8e711162d7e03909e28868102c))**: Added
 
 * **PCSB00115 Silent Hill - Book of Memories ([f899beed](https://github.com/r0ah/vitacheat/commit/f899beed35393371dd02e2bef7d6edc579410312))**: Added
