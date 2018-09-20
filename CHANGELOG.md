@@ -2,6 +2,12 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00789 God Eater 2 - Rage Burst ([a1338b00](https://github.com/r0ah/vitacheat/commit/a1338b004cffc113de707782b52f3b755d395cc1))**:
+
+   * Infinite HP/ST/OP ([retracted](https://github.com/r0ah/vitacheat/commit/6ff641c937365cab80407fc78600bdeeb4c6c20d))
+
+   * Allies Have Infinite HP
+
 * **PCSE00912 Dragon Quest Builders ([cd43c79b](https://github.com/r0ah/vitacheat/commit/cd43c79bf32d3caee339c28ef0f63c5483372858))**: Added
 
 * **PCSE00881 Gal*Gun - Double Peace ([01b3e841](https://github.com/r0ah/vitacheat/commit/01b3e841bbce7a8e711162d7e03909e28868102c))**: Added
