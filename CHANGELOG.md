@@ -2,6 +2,10 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00789 God Eater 2 - Rage Burst ([5cdb9da3](https://github.com/r0ah/vitacheat/commit/5cdb9da384d1d7d08d9d0ae5316f5830cfa927bc))**:
+
+   * Infinite Level 3 Burst
+
 * **PCSE00789 God Eater 2 - Rage Burst ([a1338b00](https://github.com/r0ah/vitacheat/commit/a1338b004cffc113de707782b52f3b755d395cc1))**:
 
    * Infinite HP/ST/OP ([retracted](https://github.com/r0ah/vitacheat/commit/6ff641c937365cab80407fc78600bdeeb4c6c20d))
