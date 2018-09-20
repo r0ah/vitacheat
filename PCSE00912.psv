@@ -1,0 +1,96 @@
+# ID: PCSE00912
+# Title: Dragon Quest Builders
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: r0ah
+# Credits: dask for the ITEM ID table (http://www.szhrfdz.com/534548/20663.html)
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00912
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00912.psv
+# Note: Was expecting pointers but address remained static.
+#  - Tested in following conditions:
+#  - New savedata
+#  - Cleared Cantlin, Rimuldar, Kol & Galenholm, Tantegel
+#  - Terra Incognita
+
+_V0 Infinite HP
+$5100 84AE3340 84AE333E
+
+_V0 No To Hunger
+$5100 84AE3344 84AE3342
+
+_V0 Max HP Value
+$0100 84AE333E 000003E7
+
+_V0 Day Elapsed is Always 1
+$0000 84AE333C 00000001
+
+_V0 Infinite Quick Slot Items
+$4001 84AFA69A 00000063
+$000F 00000004 00000000
+
+_V0 Quick Slot #01 Modifier [Note 1]
+$0100 84AFA698 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA69A 00000063
+
+_V0 Quick Slot #02 Modifier [Note 1]
+$0100 84AFA69C 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA69E 00000063
+
+_V0 Quick Slot #03 Modifier [Note 1]
+$0100 84AFA6A0 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6A2 00000063
+
+_V0 Quick Slot #04 Modifier [Note 1]
+$0100 84AFA6A4 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6A6 00000063
+
+_V0 Quick Slot #05 Modifier [Note 1]
+$0100 84AFA6A8 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6AA 00000063
+
+_V0 Quick Slot #06 Modifier [Note 1]
+$0100 84AFA6AC 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6AE 00000063
+
+_V0 Quick Slot #07 Modifier [Note 1]
+$0100 84AFA6B0 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6B2 00000063
+
+_V0 Quick Slot #08 Modifier [Note 1]
+$0100 84AFA6B4 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6B6 00000063
+
+_V0 Quick Slot #09 Modifier [Note 1]
+$0100 84AFA6B8 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6BA 00000063
+
+_V0 Quick Slot #10 Modifier [Note 1]
+$0100 84AFA6BC 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6BE 00000063
+
+_V0 Quick Slot #11 Modifier [Note 1]
+$0100 84AFA6C0 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6C2 00000063
+
+_V0 Quick Slot #12 Modifier [Note 1]
+$0100 84AFA6C4 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6C6 00000063
+
+_V0 Quick Slot #13 Modifier [Note 1]
+$0100 84AFA6C8 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6CA 00000063
+
+_V0 Quick Slot #14 Modifier [Note 1]
+$0100 84AFA6CC 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6CE 00000063
+
+_V0 Quick Slot #15 Modifier [Note 1]
+$0100 84AFA6D0 00000000 #<---SET VALUE HERE: Enter the ITEM ID yourself
+$0000 84AFA6D2 00000063
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: This is a modifier cheat. See Wiki for details.
+$0000 00000000 00000000
