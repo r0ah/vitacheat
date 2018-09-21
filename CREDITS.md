@@ -2,12 +2,12 @@
 
 ***	
 
-* [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase):
+* **[VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)**:
    * @ShumnoT
    * @Smoker1
    * @theAlevan
    * @WasabiIceCream
-* Code authors:
+* **Code authors**:
    * Aichitaka/Jialeyne19
    * attmkk
    * Borderlinez
@@ -35,6 +35,13 @@
    * 我爱吃洋葱
    * 执行者NO.X
    * 路人甲
-* FinalCheat
-* Blood.Xia
-* Fullcodes
+* **VitaCheat**:
+   * FinalCheat
+   * Blood.Xia
+   * Fullcodes
+* **Pointer Search (TempAR)**:
+   * raing3
+   * eighthdayregret
+   * Smoker1
+   * AnalogMan
+   * 0x3000027E
