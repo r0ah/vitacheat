@@ -46,3 +46,5 @@
    * Smoker1
    * AnalogMan
    * 0x3000027E
+* **Cheat Plugin**:
+   * Vosman
