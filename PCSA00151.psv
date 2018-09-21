@@ -1,0 +1,29 @@
+# ID: PCSA00151
+# Title: Dead Nation
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Smoker1
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSA00151.psv
+# Original Source: http://www.speedfly.cn/22066.html
+
+_V0 Inf Health
+$0200 822ADF5C 43160000
+
+_V0 Rest are DYNAMIC-NEED HELP (Not Work)
+$0000 00000000 00000000
+
+_V0 Inf Ammo 9mm
+$0000 8794CB08 00000010
+
+_V0 Inf Ammo SMG
+$0000 876B0C38 00000082
+
+_V0 Inf Grenades
+$0000 876B0D18 00000004
+
+_V0 Inf Flares
+$0000 8794CBE8 00000004
+
+_V0 9999999 Money
+$0200 8794CAB4 0098967F
