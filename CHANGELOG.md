@@ -1,5 +1,13 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSH10099 Bullet Girls Phantasia ([445c241b](https://github.com/r0ah/vitacheat/commit/445c241b51ef5f1648bb15ffdf8efd073b38f0a1))**: Added
+* **PCSH10082 The Legend of Heroes: Sora no Kiseki - The 3rd Evolution ([c84a110f](https://github.com/r0ah/vitacheat/commit/c84a110f3e9d9474de4b9c0dd553e06eee35acb4))**: Added
+* **PCSG00001 Ridge Racer ([86b7ed48](https://github.com/r0ah/vitacheat/commit/86b7ed48038b1c7f551768e943b71f018c44125a))**: Added
+* **PCSB00395 Final Fantasy X HD ([dc499950](https://github.com/r0ah/vitacheat/commit/dc499950484fa6ab371713b246918aa84acb4add))**: Added
+* **PCSH10079 Digimon Story Cyber Sleuth - Hacker's Memory ([316b7ae0](https://github.com/r0ah/vitacheat/commit/316b7ae01a4f42f27ea06821bf9e01cdca16717a))**: Added
+* **PCSE01191 Xenon Valkyrie+ ([7f95f7ea](https://github.com/r0ah/vitacheat/commit/7f95f7eaaa6aee98e0c625ea1781fd1d4ad48c8c))**: Added
+* **PCSE00449 Rogue Legacy ([13f4ae9d](https://github.com/r0ah/vitacheat/commit/13f4ae9d2f402939d57cfaf25413c2f4214fbedc))**: Added
+* **PCSG00622 Rogue Legacy ([13f4ae9d](https://github.com/r0ah/vitacheat/commit/13f4ae9d2f402939d57cfaf25413c2f4214fbedc))**: Added
 * **PCSG00225 Makai Senki Disgaea 4 Return ([276399b0](https://github.com/r0ah/vitacheat/commit/276399b0691e43d12ee3d9f660a01f09bafef332))**: Added
 * **PCSE00043 Oddworld - Stranger's Wrath ([3886910e](https://github.com/r0ah/vitacheat/commit/3886910e904aaaaf8522eb55c9a6b040cd4f2191))**: Added
 * **PCSE00789 God Eater 2 - Rage Burst ([0e152b1b](https://github.com/r0ah/vitacheat/commit/0e152b1b1a25469f28214062f2f02309107c4ec2))**: Fixed _Allies Have Infinite HP_ where allies keep using recovery items to fill the HP gap due to HP suddenly becoming 9999
