@@ -1,0 +1,16 @@
+# ID: PCSG00009
+# Title: Tales of Innocence R
+# Region: JPN
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00009.psv
+# Original Source: http://www.speedfly.cn/21725.html
+
+_V0 金钱变动后最大//Change GALD Max
+$B200 00000000 00000000
+$A100 000DA412 0000E003
+ 
+_V0 战斗后GRADE最大//Grade Max after Battle
+$B200 00000000 00000000
+$A100 000DA446 0000E003
