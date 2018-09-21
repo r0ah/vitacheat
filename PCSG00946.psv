@@ -1,0 +1,16 @@
+# ID: PCSG00946
+# Title: Penny-Punching Princess
+# Region: JPN
+# Version: 1.00
+# Type: NoNpDrm-VC5
+# Code Author: dask
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00946.psv
+# Original Source: http://www.speedfly.cn/21631.html
+
+_V0 王国资产MAX//Capital Max
+$B200 00000000 00000000
+$A100 00005496 0000600B
+ 
+_V0 战斗中金钱MAX//Money Max in Battle
+$B200 00000000 00000000
+$A100 000C455C 0000BF00
