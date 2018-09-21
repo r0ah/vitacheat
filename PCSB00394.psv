@@ -1,0 +1,41 @@
+# ID: PCSB00394
+# Title: Final Fantasy X-2 HD Remaster
+# Region: EUR
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Udaius
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00394.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-83#post-8293342
+
+_V0 Max Gil
+$0200 8258D128 05F5E0FF
+
+_V0 Have 99 of All Items
+$4101 8258D290 00002000
+$0044 00000002 00000001
+$4001 8258D490 00000063
+$0044 00000001 00000000
+
+_V0 All Dresspheres Unlocked
+$4001 8258D15D 00000001
+$000F 00000001 00000000
+$0200 8258D16E 01000001
+$0100 8258D178 00000101
+
+_V0 Have 90 of All Accessories
+$4101 8258D5D0 00009000
+$0080 00000002 00000001
+$4001 8258D6D0 0000005A
+$0080 00000001 00000000
+
+_V0 All Garment Grids Unlocked
+$4001 8258D154 000000FF
+$0008 00000001 00000000
+
+_V0 All Abilities Learned
+$4101 8258E6BE 000003E7
+$1DFF 00000002 00000000
+
+_V0 Unlock Dresspheres Debug (YRP)
+$4001 8258DB3E 000000FF
+$0003 00000080 00000000
