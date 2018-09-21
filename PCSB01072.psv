@@ -3,9 +3,12 @@
 # Region: EUR
 # Version: 1.01
 # Type: NoNpDrm
-# Code Author: jialeyne19
+# Code Author: Aichitaka/Jialeyne19
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSB01072.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-69#post-8242771
+
+_V0 >>>>Created By Me Aichitaka/Jialeyne19<<<<
+$0000 00000000 00000000
 
 _V0 ******3.60/3.65******
 $0000 00000000 00000000
