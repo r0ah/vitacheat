@@ -1,0 +1,20 @@
+# ID: PCSG00947
+# Title: Macross Delta Scramble
+# Region: JPN
+# Version: 1.00/1.02
+# Type: MAI5
+# Code Author: dask
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00947.psv
+# Original Source: http://www.speedfly.cn/21549.html
+
+_V0 任务后金钱MAX//Money Max after Mission (v1.02)
+$A200 8247D828 E1A00000
+ 
+_V0 获得EXP后MAX//Get EXP Max (v1.02)
+$A200 82104668 E1A00000
+
+_V0 任务后金钱MAX//Money Max after Mission (v1.00)
+$A200 82474C50 E1A00000
+ 
+_V0 获得EXP后MAX//Get EXP Max (v1.00)
+$A200 82103928 E1A00000
