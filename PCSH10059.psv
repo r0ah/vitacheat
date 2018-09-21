@@ -1,0 +1,27 @@
+# ID: PCSH10059
+# Title: Digimon Story: Cyber Sleuth - Hacker's Memory
+# Region: CHN
+# Version: 1.00/1.04/1.05
+# Type: MAI5
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH10059.psv
+# Original Source: http://www.speedfly.cn/21448.html
+# Note: CHN = Chinese
+
+_V0 金钱变动后最大//Change Money Max (v1.05 CHN Limited Ed.)
+$A100 8104D51A 00001C00
+ 
+_V0 购买道具后最大//Buy Item Max (v1.05 CHN Limited Ed.)
+$A100 8104B75C 00001C00
+
+_V0 金钱变动后最大//Change Money Max (v1.04)
+$A100 8104D51A 00001C00
+ 
+_V0 购买道具后最大//Buy Item Max (v1.04)
+$A100 8104B75C 00001C00
+ 
+_V0 金钱变动后最大//Change Money Max (v1.00)
+$A100 8104D00E 00001C00
+ 
+_V0 购买道具后最大//Buy Item Max (v1.00)
+$A100 8104B250 00001C00
