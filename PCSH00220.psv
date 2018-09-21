@@ -1,0 +1,13 @@
+# ID: PCSH00220
+# Title: Atelier Sophie ~The Alchemist of the Mysterious Book~
+# Region: CHN
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH00220.psv
+# Original Source: http://www.speedfly.cn/21808.html
+
+_V0 金钱变动后最大//Change Money Max
+$B200 00000000 00000000
+$A100 002832F4 00001C00
+$A100 002832E4 00001C00
