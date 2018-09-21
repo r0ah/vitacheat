@@ -3,14 +3,21 @@
 # Region: ASA/CHN
 # Version: 1.05
 # Type: MAI
-# Code Author: 执行者NO.X
+# Code Author: 执行者NO.X, speedfly
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSH10079
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSH10079.psv
 # Original Source: http://www.speedfly.cn/22441.html
+# Original Source: http://www.speedfly.cn/21448.html
 # Note: [Submission] Digital Tyrannosaurus Story Network Detective Memory of Hackers Limited Edition Gold Finger
 #  - 1. This is based on the Mai version, NND does not necessarily apply, remember to switch the loading mode 5
 #  - 2. The version of the game used is an anniversary limited edition and the 1.05 upgrade patch has been updated.
 #  - 3. The whole prop code contains the valuables of the first three chapters, excluding the valuables of other chapters, so try to use them in the first three chapters, and the later use will cover the valuables.
+
+_V0 金钱变动后最大//Change Money Max (v1.05 CHN Limited Ed.)
+$A100 8104D51A 00001C00 #speedfly
+ 
+_V0 购买道具后最大//Buy Item Max (v1.05 CHN Limited Ed.)
+$A100 8104B75C 00001C00 #speedfly
 
 _V0 Money MAX
 $0200 82FC5720 0098967F
