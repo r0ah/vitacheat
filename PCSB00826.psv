@@ -7,6 +7,17 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00826.psv
 # Original Source: http://www.speedfly.cn/22082.html
 # Note: NWC is NOT WORKING CORRECTLY
+#  - This game needs a LOT of work to find the Codes. Was told by @Seven Swords, this Game is hard to get correct Codes for, but thankfully I found what I could.
+#  - 1.02 is for the Update
+#  - Laser Code I found works as $0200 for both.
+#    - 5 Shields Code is maybe Dynamic. In my Search, I found 5+ Addresses for it. So this Game uses a mix of Coding.
+#    - For the US Version, use the same Searching as shown here.
+#  - 3 Mega-Bomb = Easy Search, 8Bit - 3, 2, 1
+#  - 5 Lasers = Same as above
+#    - Then use Fuzzy Search to find the Floating Value Address
+#    - Can use Codes together as 1 Cheat but use $0200
+#  - 5 Shields = If you can find this, please Post in Comments
+#  - Shield Gauge and Aircraft Health % are both Floating Value and are Dynamic. Shield Gauge might need Multi-Pointers, since TempAR Pointer Searcher did not show Highlighted Address Lines.
 
 _V0 999999 Stars Collected
 $0200 852B3B7C 000F423F
