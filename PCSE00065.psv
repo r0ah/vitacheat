@@ -1,47 +1,102 @@
 # ID: PCSE00065
-# Title: Pinball Arcade
+# Title: The Pinball Arcade
 # Region: USA
-# Version: 1.25
+# Version: 1.25/1.34
 # Type: NoNpDrm
 # Code Author: Smoker1
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00065.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-19#post-7802465
+# Original Source: http://www.speedfly.cn/21677.html
+# Note: I will keep the 1.25 Update with the 1.34 Update Codes. This is for Users who wish to stay on 1.25 Update.
+#  - Codes are for PCSE00065 (US) NoNpDRM
+#  - For the TiltGoAway Code (Big Shot, Genie, Fireball, El Dorado), this needs to be looked at. Same for Inf Timer on Goin' Nuts. I tried to Shorten Table Names to fit Code Name Limit.
 
-_V0 999,999 Points-SomeNotShow
+_V0 999,999 Points-SomeNotShow 125
 $0200 82A66C40 000F423F
 
-_V0 Always Ball 1-Creat-T2
+_V0 Ball 1-Addams-Creat-JD-T2 125
 $0000 8289D7E0 00000001
 
-_V0 Always Ball 1-MM-TAN
+_V0 Ball 1-Addams-Creat-JD-T2 134
+$0000 82B3B688 00000001
+
+_V0 Bonus 50x-Creature 134
+$0000 82B3BC2D 00000032
+
+_V0 Ball 1-MM-TAN-TZ-MB-NF 125
 $0000 8289D783 00000001
 
-_V0 Always Ball 1-Stiff-Magic
+_V0 Ball 1-MM-TAN-TZ-MB-NF 134
+$0000 82B3B62B 00000001
+
+_V0 Bonus 100x-MedMadness 134
+$0000 82B3BBC8 00000063
+
+_V0 Always Ball 1-Stiff-Magic 125
 $0000 8289D780 00000001
 
-_V0 Always Ball 1-Mars-CV
+_V0 AlwaysBall 1-Stiff-Magic 134
+$0000 82B3B628 00000001
+
+_V0 Always Ball 1-Mars-CV 125
 $0000 8289D786 00000001
 
-_V0 Always Ball 1-Teed
+_V0 AlwaysBall 1-Mars-CV 134
+$0000 82B3B62E 00000001
+
+_V0 Always Ball 1-Teed-CBW 125
 $0000 8291D754 00000001
 
-_V0 Always Ball 1-STTNG
+_V0 AlwaysBall 1-Teed-CBW 134
+$0000 82BBB429 00000001
+
+_V0 Always Ball 1-STTNG 125
 $0000 8289D7E3 00000001
 
-_V0 Always Ball 1-FunHouse
+_V0 Ball 1 - STTNG 134
+$0000 82B3B68B 00000001
+
+_V0 Always Ball 1-FunHouse 125
 $0000 8289D7DF 00000001
 
-_V0 Always Ball 1-BridePB
+_V0 Ball 1 - FunHouse 134
+$0000 82B3B687 00000001
+
+_V0 Always Ball 1-BridePB 125
 $0000 8289D7D9 00000001
 
-_V0 Always Ball 2-RipBIoN
+_V0 Ball 1 - BridePB 134
+$0000 82B3B681 00000001
+
+_V0 Always Ball 2-RipBIoN 125
 $0000 8173D553 00000001
 
-_V0 Always Ball 1-HiO
+_V0 Always Ball 1-HiO-NGG 125
 $0000 8289D789 00000001
 
-_V0 Always Ball 1-BigSht-Genie
+_V0 Ball 1 - HiO-NGG 134
+$0000 82B3B631 00000001
+
+_V0 Ball 1-BgSt-Genie-ED-FB 125
 $0000 82A66C50 00000005
 
-_V0 Always Ball 1-BlkHle-3PBs
+_V0 Ball 1-BgSt-Genie-ED-FB 134
+$0000 82D253D8 00000005
+
+_V0 TiltGoAway-BgSt-Genie-ED-FB 134
+$0000 82D1CBD8 00000000
+
+_V0 Always Ball 1-BlkHle-Gor-GN 125
 $0000 82A66C50 00000003
+
+_V0 Ball 1 - BlkHle-Gor-GN 134
+$0000 82D253D8 00000003
+
+_V0 Inf Time for Points-Goin Nuts 134
+$0000 82D24E88 0000003C
+
+_V0 Code to Avoid 125
+$0000 82E69530 00000000
+
+_V0 Code to Avoid 134
+$0000 830E8EB0 00000000
