@@ -1,5 +1,8 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen ([df9a9849](https://github.com/r0ah/vitacheat/commit/df9a9849537826a2ee5b6e0d92c23ed3a6be1cf1))**: Added
+* **PCSA00151 Dead Nation ([08b94715](https://github.com/r0ah/vitacheat/commit/08b9471516fb12a6d92030ed0892851d7f26c6d9))**: Added
+* **PCSG00408 Child of Light ([76f790c9](https://github.com/r0ah/vitacheat/commit/76f790c971e8d0fe3f5191ff7daf2c5ff84bd93c))**: Added
 * **PCSH10099 Bullet Girls Phantasia ([445c241b](https://github.com/r0ah/vitacheat/commit/445c241b51ef5f1648bb15ffdf8efd073b38f0a1))**: Added
 * **PCSH10082 The Legend of Heroes: Sora no Kiseki - The 3rd Evolution ([c84a110f](https://github.com/r0ah/vitacheat/commit/c84a110f3e9d9474de4b9c0dd553e06eee35acb4))**: Added
 * **PCSG00001 Ridge Racer ([86b7ed48](https://github.com/r0ah/vitacheat/commit/86b7ed48038b1c7f551768e943b71f018c44125a))**: Added
