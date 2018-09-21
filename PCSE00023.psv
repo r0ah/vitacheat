@@ -7,6 +7,9 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00023.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-7#post-7622609
 
+_V0 Inf - Test Your - Time (Turn Off AFTER Completing)
+$0200 8A713B68 00000237 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-50#post-8161805
+
 _V0 Time at 99
 $0200 81F965BC 00000063
 
