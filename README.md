@@ -1,4 +1,4 @@
-# Readme #
+# README #
 
 <p align="center"><img width="450" src="https://raw.githubusercontent.com/wiki/r0ah/vitacheat/images/maimoe.png"></p>
 
