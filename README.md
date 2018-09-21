@@ -1,3 +1,7 @@
+# Readme #
+
+<p align="center"><img width="800" src="https://raw.githubusercontent.com/wiki/r0ah/vitacheat/images/maimoe.png"></p>
+
 This was initially a repository for my own codes and since our discovery of the pointer search and my collaborations with various GBATemp users it has grown from a personal-only repository into a full database. @ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) is now merged in this repo.
 
 ## Trainers ##
