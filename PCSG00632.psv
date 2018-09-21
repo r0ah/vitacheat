@@ -1,0 +1,14 @@
+# ID: PCSG00632
+# Title: VALKYRIE DRIVE -BHIKKHUNI-
+# Region: JPN
+# Version: 1.08
+# Type: MAI5
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00632.psv
+# Original Source: http://www.speedfly.cn/21514.html
+
+_V0 BP变动后最大//Change BP Max
+$A100 8113A914 00001C00
+$A100 8113B98C 00001C00
+$A200 8113B98E 01FFF24E
+$A200 8113B992 51F5F2C0
