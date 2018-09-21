@@ -1,5 +1,12 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSB00648 Best of Arcade Games ([76bdb46c](https://github.com/r0ah/vitacheat/commit/76bdb46c150ffcd9d81b9be48537caaf24887d61))**: <kbd>Added</kbd>
+* **PCSH00298 Dragon Quest Heroes II ([26b7cad6](https://github.com/r0ah/vitacheat/commit/26b7cad6a40bc57a2fc7d88749a02e8e87b132b4))**: <kbd>Update</kbd>
+   * 材料//Material
+   * XHZ
+   * 金币//Gold
+* **PCSG00947 Macross Delta Scramble ([cd1bbb83](https://github.com/r0ah/vitacheat/commit/cd1bbb83af9ac87979e971017c8b390c3cf68d79))**: <kbd>Added</kbd>
+* **PCSH00052 Shin Sangoku Musou 7 with Moushouden / Dynasty Warriors 8 with Xtreme Legends ([](https://github.com/r0ah/vitacheat/commit/))**: <kbd>Added</kbd>
 * **PCSE01144 Under Night In-Birth Exe:Late[st] ([aa810233](https://github.com/r0ah/vitacheat/commit/aa810233eae7140348d1c207aaa3b740854d7e88))**: <kbd>Added</kbd>
 * **PCSH00054 Warriors Orochi 2 Ultimate ([1a4f30b6](https://github.com/r0ah/vitacheat/commit/1a4f30b60966c623b53d0d62a6927a9cb7d5e76e))**: <kbd>Added</kbd>
 * **PCSG00040 Kidou Senshi Gundam Seed Battle Destiny ([b668c49a](https://github.com/r0ah/vitacheat/commit/b668c49a78457de92c30f1311ed900bb3102267c))**: <kbd>Added</kbd>
