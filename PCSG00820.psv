@@ -3,14 +3,14 @@
 # Region: JPN
 # Version: 1.09
 # Type: MAI05
-# Code Author: jialeyne19, Larry Dungo
+# Code Author: Aichitaka/Jialeyne19, Larry Dungo
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00820.psv
 # Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3242-pcsg00820-dragon-quest-heroes-2#post3242
 # Note: Maidump/Load 5
 #  - English Patched
 #  - Delete/remove the gohanmem.suprx on tai/plugin folder for the codes working
 
-_V0 >>>>Created By Me AICHItaka/jia19<<<<
+_V0 >>>>Created By Me Aichitaka/Jialeyne19<<<<
 $0000 00000000 00000000
 
 _V0 Money
