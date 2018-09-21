@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSH10038 Accel World vs Sword Art Online: Millennium Twilight ([7361f462](https://github.com/r0ah/vitacheat/commit/7361f462630a77425c1f236280af3a0f07e61ef7))**: Added
+* **PCSH10100 Metal Max Xeno ([df9a9849](https://github.com/r0ah/vitacheat/commit/df9a9849537826a2ee5b6e0d92c23ed3a6be1cf1))**: Added
 * **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen ([df9a9849](https://github.com/r0ah/vitacheat/commit/df9a9849537826a2ee5b6e0d92c23ed3a6be1cf1))**: Added
 * **PCSA00151 Dead Nation ([08b94715](https://github.com/r0ah/vitacheat/commit/08b9471516fb12a6d92030ed0892851d7f26c6d9))**: Added
 * **PCSG00408 Child of Light ([76f790c9](https://github.com/r0ah/vitacheat/commit/76f790c971e8d0fe3f5191ff7daf2c5ff84bd93c))**: Added
