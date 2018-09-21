@@ -1,0 +1,26 @@
+# ID: PCSE01251
+# Title: Riddled Corpses EX
+# Region: USA
+# Version: 1.00
+# Type: PSN/NoNpDrm
+# Code Author: eighthdayregret
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01251.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-52#post-8178401
+
+_V0 Inf HP
+$0200 839FED84 40220000
+
+_V0 Inf Money
+$0200 839FF824 412E847E
+
+_V0 Arcade Lvl Always 20
+$0200 839FFCD4 40340000
+
+_V0 Inf Time Clock
+$0200 839FED74 40220000
+
+_V0 Inf Dynamite
+$0200 839FED64 40220000
+
+_V0 Inf Turret
+$0200 839FD5C4 3FF00000
