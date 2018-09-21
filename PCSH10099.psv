@@ -1,0 +1,30 @@
+# ID: PCSH10099
+# Title: Bullet Girls Phantasia
+# Region: CHN
+# Version: 1.00
+# Type: MAI5
+# Code Author: 路人甲
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH10099.psv
+# Original Source: http://www.speedfly.cn/22181.html
+
+_V0 Money 9999999
+$0200 827BAF74 0098967F
+ 
+_V0 Full Character Level 99
+$4101 827AF0E0 00000062
+$0010 0000016C 00000000
+ 
+_V0 Full Character Skill Point 999
+$4101 827AF0E2 000003E7
+$0010 0000016C 00000000
+ 
+_V0 Full Material
+$4001 827BA360 00000001
+$0214 00000001 00000000
+ 
+_V0 Full Level is On
+$4001 827BA974 00000001
+$003E 00000008 00000000
+ 
+_V0 Crusade Number 9999
+$0100 827BAF88 0000270F
