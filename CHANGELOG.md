@@ -1,5 +1,19 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE01144 Under Night In-Birth Exe:Late[st] ([aa810233](https://github.com/r0ah/vitacheat/commit/aa810233eae7140348d1c207aaa3b740854d7e88))**: <kbd>Added</kbd>
+* **PCSH00054 Warriors Orochi 2 Ultimate ([1a4f30b6](https://github.com/r0ah/vitacheat/commit/1a4f30b60966c623b53d0d62a6927a9cb7d5e76e))**: <kbd>Added</kbd>
+* **PCSG00040 Kidou Senshi Gundam Seed Battle Destiny ([b668c49a](https://github.com/r0ah/vitacheat/commit/b668c49a78457de92c30f1311ed900bb3102267c))**: <kbd>Added</kbd>
+* **PCSH10079 Digimon Story Cyber Sleuth - Hacker's Memory ([65edd9b4](https://github.com/r0ah/vitacheat/commit/65edd9b4fe5de25330b8eed043d088a5f731d2c8))**: <kbd>Update</kbd>
+   * 金钱变动后最大//Change Money Max (v1.05 CHN Limited Ed.)
+   * 购买道具后最大//Buy Item Max (v1.05 CHN Limited Ed.)
+* **PCSH10059 Digimon Story: Cyber Sleuth - Hacker's Memory ([6cff6f92](https://github.com/r0ah/vitacheat/commit/6cff6f9256c68269c92de0c7c4fa6e5869b60189))**: <kbd>Added</kbd>
+* **PCSH00298 Dragon Quest Heroes II ([d76dfa8b](https://github.com/r0ah/vitacheat/commit/d76dfa8ba000dad1cee63db0122ab51296594d48))**: <kbd>Added</kbd>
+* **PCSG00190 Super Robot Taisen OG Saga - Pride of Justice ([5e5ee55d](https://github.com/r0ah/vitacheat/commit/5e5ee55d7651521c25986907e8a265b695a625ad))**: <kbd>Added</kbd>
+* **PCSG00946 Penny-Punching Princess ([60d8573d](https://github.com/r0ah/vitacheat/commit/60d8573d0e328c828d02da7af6abae4dbf493067))**: <kbd>Added</kbd>
+* **PCSE00021 Ninja Gaiden Sigma Plus ([61ebd5c8](https://github.com/r0ah/vitacheat/commit/61ebd5c877f46e18e4479f7903cc620f1c3f8df6))**: <kbd>Update</kbd>
+   * 黄魂//Essence
+* **PCSH00241 SD GUNDAM G GENERATION GENESIS ([b77833ab](https://github.com/r0ah/vitacheat/commit/b77833ab0b10a2562aca5ce6eda4c09bbd30a354))**: <kbd>Added</kbd>
+* **PCSE00950 Shantae: Half-Genie Hero ([d13979a0](https://github.com/r0ah/vitacheat/commit/d13979a03b73b5470208f0a5d8cca5b9b0a82d37))**: <kbd>Added</kbd>
 * **PCSG00213 Dragon Ball Z: Battle of Z ([7ac6f974](https://github.com/r0ah/vitacheat/commit/7ac6f974b4847773585cba57ee02617ef2e54d18))**: <kbd>Added</kbd>
 * **PCSE01023 Salt and Sanctuary ([eb6f4c7b](https://github.com/r0ah/vitacheat/commit/eb6f4c7bca9425e0bf2476454d5c2c3a7e613341))**: <kbd>Added</kbd>
 * **PCSG00632 VALKYRIE DRIVE -BHIKKHUNI- ([b01b8e05](https://github.com/r0ah/vitacheat/commit/b01b8e05809b1230474a2646a4e5614561d476ad))**: <kbd>Added</kbd>
@@ -46,8 +60,7 @@ All notable changes to this project will be documented in this file.
 * **PCSE00880 World of Final Fantasy ([bf8c66fb](https://github.com/r0ah/vitacheat/commit/bf8c66fb5ba7417b102517d10e1e6927f16da81e))**: <kbd>Update</kbd>
    * HP/AP Recover After Battle
 * **PCSE00546 Retro City Rampage DX ([6495cf46](https://github.com/r0ah/vitacheat/commit/6495cf46cfbbb3273d3d62581423efe649920449))**: <kbd>Added</kbd>
-* **PCSE00896 The Legend of Heroes - Trails of Cold Steel II ([45164dc0](https://github.com/r0ah/vitacheat/commit/45164dc0e91b7b0fa8da08b368680d25c8aae0a2))**: <kbd>Update</kbd>
-   * Added pointer code
+* **PCSE00896 The Legend of Heroes - Trails of Cold Steel II ([45164dc0](https://github.com/r0ah/vitacheat/commit/45164dc0e91b7b0fa8da08b368680d25c8aae0a2))**: <kbd>Added</kbd>
 * ShumnoT's database merge finished
 * **PCSE01262 Bloodstained - Curse of the Moon ([9cf82fd5](https://github.com/r0ah/vitacheat/commit/9cf82fd519bcc5a4c51fa4cb987f3eb266d1b5fd))**: <kbd>Added</kbd>
    * Added eighthdayregret's codes
