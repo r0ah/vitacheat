@@ -1,0 +1,11 @@
+# ID: PCSE00022
+# Title: Disgaea 3 Absence of Detention
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: monodevil
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-83#post-8293275
+
+_V0 Infinite HL
+$0200 81939C80 05F5E0FF
