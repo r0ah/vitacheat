@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* World of Final Fantasy Cheat Plugin by Vosman ([c84ef2c2](https://github.com/r0ah/vitacheat/commit/c84ef2c2e1d4b9aee928f1527cfd5558752a5042)): <kbd>Added</kbd>
 * **PCSB00648 Best of Arcade Games ([76bdb46c](https://github.com/r0ah/vitacheat/commit/76bdb46c150ffcd9d81b9be48537caaf24887d61))**: <kbd>Added</kbd>
 * **PCSH00298 Dragon Quest Heroes II ([26b7cad6](https://github.com/r0ah/vitacheat/commit/26b7cad6a40bc57a2fc7d88749a02e8e87b132b4))**: <kbd>Update</kbd>
    * 材料//Material
