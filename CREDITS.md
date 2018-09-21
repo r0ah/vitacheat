@@ -8,6 +8,7 @@
    * @theAlevan
    * @WasabiIceCream
 * Code authors:
+   * Aichitaka/Jialeyne19
    * Borderlinez
    * dask
    * Dynel81
@@ -17,7 +18,6 @@
    * Fullcodes
    * gayfriend
    * InfamousK
-   * jialeyne19 (AICHItaka)
    * Larry Dungo
    * Makein
    * Mapachillo
@@ -31,6 +31,7 @@
    * Udaius
    * vergil
    * 我爱吃洋葱
+   * 执行者NO.X
 * FinalCheat
 * Blood.Xia
 * Fullcodes
