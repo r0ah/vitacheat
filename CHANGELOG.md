@@ -2,13 +2,21 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
+* **PCSE00789 God Eater 2 - Rage Burst ([0e152b1b](https://github.com/r0ah/vitacheat/commit/0e152b1b1a25469f28214062f2f02309107c4ec2))**: Fixed _Allies Have Infinite HP_ where allies keep using recovery items to fill the HP gap due to HP suddenly becoming 9999
+
+* **PCSE00801 God Eater - Resurrection ([e28cac9b](https://github.com/r0ah/vitacheat/commit/e28cac9bcbdbad052bd732da5c4368d931635c85))**:
+
+   * Infinite Level 3 Burst
+
+   * Allies Have Infinite HP
+
 * **PCSE00789 God Eater 2 - Rage Burst ([5cdb9da3](https://github.com/r0ah/vitacheat/commit/5cdb9da384d1d7d08d9d0ae5316f5830cfa927bc))**:
 
    * Infinite Level 3 Burst
 
 * **PCSE00789 God Eater 2 - Rage Burst ([a1338b00](https://github.com/r0ah/vitacheat/commit/a1338b004cffc113de707782b52f3b755d395cc1))**:
 
-   * Infinite HP/ST/OP ([retracted](https://github.com/r0ah/vitacheat/commit/6ff641c937365cab80407fc78600bdeeb4c6c20d))
+   * Infinite HP/ST/OP ([Retracted](https://github.com/r0ah/vitacheat/commit/6ff641c937365cab80407fc78600bdeeb4c6c20d))
 
    * Allies Have Infinite HP
 
@@ -60,7 +68,7 @@ All notable changes to this project will be documented in this file.
 
    * Fixed level value
 
-   * Fixed the pointer value (level 2) for Cass's stats
+Z   * Fixed the pointer value (level 2) for Cass's stats
 
    * Fixed Cass's HP value
 
