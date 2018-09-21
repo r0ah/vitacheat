@@ -24,9 +24,17 @@ You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vi
 
 * [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
+## Submissions ##
+
+You can submit your own codes by opening an [issue](https://github.com/r0ah/vitacheat/issues/new). Please use the code header format below.
+
+## Code Header ##
+
+For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
+
 ## Testing and Reporting for Issues ##
 
-There's no way I can test all the existing codes made by various code authors. You can help us by opening an issue to report your findings.
+There's no way I can test all the existing codes made by various code authors. You can help us by opening an [issue](https://github.com/r0ah/vitacheat/issues/new) to report your findings.
 
 Please always specify the following before opening an issue:
 
@@ -34,21 +42,17 @@ Please always specify the following before opening an issue:
 * Game version
 * Game type (is it NoNpDrm/Vitamin/Mai/CP?)
 
-## Code Header ##
-
-For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
-
 ## Changelog ##
 
 See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
 
 ## Links ##
 
-[VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)
+   * [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)
 
-[GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
+   * [GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
 
-[Finalcheat](http://finalcheat.github.io)
+   * [Finalcheat](http://finalcheat.github.io)
 
 ## Credits ##
 
