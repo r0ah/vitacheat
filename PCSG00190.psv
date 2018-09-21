@@ -1,0 +1,12 @@
+# ID: PCSG00190
+# Title: Super Robot Taisen OG Saga - Pride of Justice
+# Region: JPN
+# Version: 1.00
+# Type: MAI5
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00190.psv
+# Original Source: http://www.speedfly.cn/21493.html
+
+_V0 金钱最大//Money Max
+$D801 811354D4 00000000
+$0200 8113637C 0098967F
