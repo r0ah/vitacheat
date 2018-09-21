@@ -1,5 +1,16 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSH10078 UnEpic ([b1e50801](https://github.com/r0ah/vitacheat/commit/b1e50801eab6e23377627fca6ed62e9569a55d5d))**: Added
+* **PCSE00065 The Pinball Arcade ([bf67966e](https://github.com/r0ah/vitacheat/commit/bf67966eebef1b5d4695b6316daa81e1bd4c8d23))**:
+   * Added latest codes
+* **PCSA00109 Pinball Heroes: Complete ([9e3c45c7](https://github.com/r0ah/vitacheat/commit/9e3c45c7885d98709101ac3605dfb18e52ad8451))**:
+   * Ball 3-PSN-Bowling
+   * 6x Bonus-PSN-Bowling
+* **PCSH10025 Berserk and the Band of the Hawk ([88bd5760](https://github.com/r0ah/vitacheat/commit/88bd57602d7a3c9d8711131de6bee722456fdc24))**: Added
+* **PCSG00009 Tales of Innocence R ([d1c81849](https://github.com/r0ah/vitacheat/commit/d1c81849e2538d43b1196ec1874874180b599e5b))**: Added
+* **PCSH00220 Atelier Sophie ~The Alchemist of the Mysterious Book~ ([be09ab25](https://github.com/r0ah/vitacheat/commit/be09ab257a0d2f38d46ad021c0e0babc49bf8973))**: Added
+* **PCSH00132 GUNDAM BREAKER 2 ([ff675eb1](https://github.com/r0ah/vitacheat/commit/ff675eb1e6109aa9ae8fafc751b19305898992ce))**: Added
+* **PCSH10089 SUPER ROBOT WARS X ([7a09a154](https://github.com/r0ah/vitacheat/commit/7a09a154aa5cce735984e40e8fb5bdf7c1c4f7f3))**: Added
 * **PCSH10038 Accel World vs Sword Art Online: Millennium Twilight ([7361f462](https://github.com/r0ah/vitacheat/commit/7361f462630a77425c1f236280af3a0f07e61ef7))**: Added
 * **PCSH10100 Metal Max Xeno ([df9a9849](https://github.com/r0ah/vitacheat/commit/df9a9849537826a2ee5b6e0d92c23ed3a6be1cf1))**: Added
 * **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen ([df9a9849](https://github.com/r0ah/vitacheat/commit/df9a9849537826a2ee5b6e0d92c23ed3a6be1cf1))**: Added
