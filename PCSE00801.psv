@@ -7,7 +7,6 @@
 # Credits: Anonymous for the address for Infinite Money/HP/ST/OP, Equipment Stats and the Storage Item. Mission Time IDK where I got this (possibly the same author) (https://gbatemp.net/threads/god-eater-resurrection-hacking-thread-discussion.455520)
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00801
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00801.psv
-# Note: Will fix "Infinite Burst" once new version of vitacheat (the version with native pointer search) is released
 
 _V0 Infinite Money
 $0200 8890A400 3B9AC9FF
@@ -18,25 +17,48 @@ $0100 88A344D8 00000E10
 _V0 Infinite Post-Mission Time
 $0000 88A3703A 00000005
 
-_V0 Infinite HP
-$4201 889048E0 461C3C00 #COMPRESSION
+_V0 Infinite HP [Note 2]
+$4201 889048E0 461C3C00
 $0002 0000000C 00000000
 
-_V0 Infinite ST
+_V0 Infinite ST [Note 2]
 $4201 889048E8 461C3C00
 $0002 0000000C 00000000
 
-_V0 Infinite OP
+_V0 Infinite OP [Note 2]
 $4201 889048E4 461C3C00
 $0002 0000000C 00000000
 
 _V0 Infinite HP/ST/OP [Note 2]
-$4201 889048E0 461C3C00 #CODE CLEANUP
+$4201 889048E0 461C3C00
 $0006 00000004 00000000
+
+_V0 Infinite Level 3 Burst [Note 3]
+$D008 88A34DF9 00000002
+$3003 88820988 00000710
+$3000 00000000 00000088
+$3000 00000000 0000005C
+$3300 00000000 00000003
+$3203 88820988 00000710
+$3200 00000000 00000088
+$3200 00000000 00000064
+$3300 00000000 447A0000
 
 _V0 Infinite Enemy Bullets
 $4001 88905C54 00000063
 $000F 00000478 00000000
+
+_V0 Allies Have Infinite HP [Note 3]
+$D009 88A34DF9 00000002
+$7201 88904864 00000070
+$7701 00000000 461C3C00
+$0002 0000000C 00000000
+$7201 88904868 00000070
+$7701 00000000 461C3C00
+$0002 0000000C 00000000
+$7201 8890486C 00000070
+$7701 00000000 461C3C00
+$0002 0000000C 00000000
 
 _V0 Max Melee (Slash/Crushing/Piercing)
 $4101 889059BE 0000270F
@@ -82,7 +104,7 @@ $000A 00000078 00000000
 $4101 88993EE4 000003E7 #QUANTITY / SLOT IS AUTO
 $000A 00000078 00000000
 
-_V0 Have Compound Core/Crystals [Note 3]
+_V0 Have Compound Core/Crystals [Note 4]
 $0200 88993AA8 000A3533 #GENERIC COMPOUND CORE
 $0200 88993B20 000A357E #ARAGAMI CRYSTAL 1
 $0200 88993B98 000A357F
@@ -106,7 +128,7 @@ $7201 88A6F278 00000178
 $7701 00000000 0001869F
 $0032 00000178 00000000 #50 ONLY, BUT THERE ARE HUNDRED OF SLOTS ENOUGH TO MAKE AN ARMY
 
-_V0 Have High-End God Arc Skills [Note 4]
+_V0 Have High-End God Arc Skills [Note 5]
 $0000 00000000 00000000
 
 _V0 * Master Skills [1/3]
@@ -654,14 +676,14 @@ $0165 00000078 00000000
 $4001 88A0F4BC 0000001E
 $0165 00000078 00000000
 
-_V0 Change Name [Note 5]
+_V0 Change Name [Note 6]
 $0200 8890487F 00000000 #DO NOT ACTIVATE THIS CHEAT
 $0200 8890489F 00000000
 
 _V0 Avatar Zero Link Aid
 $0200 88A38A24 00000000
 
-_V0 No HUB in Battle [Select=On / Start=Reset] [Note 6]
+_V0 No HUD in Battle [Select=On / Start=Reset] [Note 7]
 $C001 00000000 00000001
 $0000 88A34DF9 00000003
 $C001 00000000 00000008
@@ -676,19 +698,22 @@ $0000 00000000 00000000 # This cheat prevents you from getting a mission clear t
 _V0 #2: HP/ST/OP stats can be restored by changing equipments
 $0000 00000000 00000000 # In the loadout menu
 
-_V0 #3: Can't use crystals? See wiki for details.
+_V0 #3: Might conflict with No HUD in Battle. Do not activate both.
+$0000 00000000 00000000
+
+_V0 #4: Can't use crystals? See wiki for details.
 $0000 00000000 00000000 # Enable cheat then quit the VitaCheat menu to get crystals. Re-enter the VitaCheat menu and disable cheat then return to the game. Withdraw all x99 crystals from your storage to your inventory and you can now use the items. You can then store it back to your storage later on if you wish to do so. You can ignore the generic compound core.
 $0000 00000000 00000000 # When withdrawing crystals don't collect by pressing the triangle button as it makes the crystal in your inventory invalid and selecting it will crash the game. You can however fix it by pressing the square button to sell the item.
 
-_V0 #4a: All (x3) Master Skill cheat must be activated!
+_V0 #5a: All (x3) Master Skill cheat must be activated!
 $0000 00000000 00000000 # Make sure to activate all master skill (x3) cheat or your game will crash upon entering the skill menu! If you encounter crash upon opening the skill rebuild/install menus just activate any equipment cheat to fix it. As to why it crashes it's because you don't have 367 god arcs.
 
-_V0 #4b: Activate only "one" Equipment cheat. See wiki for details.
+_V0 #5b: Then activate "one" Equipment cheat. See wiki for details.
 $0000 00000000 00000000 # If you want to install god arc skill on your short melee then activate "Equipment Melee: Short". To switch disable previously activated equipment cheat and activate another.
 
-_V0 #5: Use address as a bookmark only. See wiki for details.
+_V0 #6: Use address as a bookmark only. See wiki for details.
 $0000 00000000 00000000 # Don't want to start over again? Click the cheat and you'll see two addresses. You can change your name by opening the first address (Codename) by pressing the triangle button. Edit. Repeat for the second address (Name).
 $0000 00000000 00000000 # Save & re-load savedata to reflect changes
 
-_V0 #6: If no respawn, press the start button
+_V0 #7: If no respawn, press the start button
 $0000 00000000 00000000 # Set radio to none/voice to minimize on-screen notices
