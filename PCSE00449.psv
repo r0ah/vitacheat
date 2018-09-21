@@ -1,0 +1,18 @@
+# ID: PCSE00449
+# Title: Rogue Legacy
+# Region: JPN
+# Version: 1.00/1.03
+# Type NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00449.psv
+# Original Source: http://www.speedfly.cn/22396.html
+
+_V0 金钱77777//Money 77777 (v1.00)
+$B200 00000001 00000000
+$3201 000044CC 00000010
+$3300 00000000 00012FD1
+
+_V0 金钱77777//Money 77777 (v1.03)
+$B200 00000001 00000000
+$3201 000044CC 00000010
+$3300 00000000 00012FD1
