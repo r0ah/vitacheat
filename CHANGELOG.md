@@ -1,7 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
 * **PCSE00283 Final Fantasy X-2 HD Remaster ([9c2e543a](https://github.com/r0ah/vitacheat/commit/9c2e543a6a7f5af1734971499b23b26797cd5bde))**: <kbd>Added</kbd>
-* **PCSE00022 Disgaea 3 Absence of Detention ([80cfd6b9](https://github.com/r0ah/vitacheat/commit/80cfd6b964840829c4312850c0fc16a73c95b691))**: <kbd>Added</kbd>
 * World of Final Fantasy Cheat Plugin by Vosman ([c84ef2c2](https://github.com/r0ah/vitacheat/commit/c84ef2c2e1d4b9aee928f1527cfd5558752a5042)): <kbd>Added</kbd>
 * **PCSB00648 Best of Arcade Games ([76bdb46c](https://github.com/r0ah/vitacheat/commit/76bdb46c150ffcd9d81b9be48537caaf24887d61))**: <kbd>Added</kbd>
 * **PCSH00298 Dragon Quest Heroes II ([26b7cad6](https://github.com/r0ah/vitacheat/commit/26b7cad6a40bc57a2fc7d88749a02e8e87b132b4))**: <kbd>Update</kbd>
