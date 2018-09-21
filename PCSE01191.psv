@@ -1,0 +1,57 @@
+# ID: PCSE01191
+# Title: Xenon Valkyrie+
+# Region: USA
+# Version: 1.00/1.01
+# Type: PSN/NoNpDrm
+# Code Author: eighthdayregret
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE01191
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01191.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-50#post-8158150
+
+_V0 Max Cells
+$0200 83CFFC80 E0000000
+$0200 83CFFC84 416312CF
+
+_V0 Max Teamerite
+$0200 83CFFD64 412E847E
+
+_V0 Max TP
+$0200 83CFFD04 408F3800
+
+_V0 Quick Level Gain
+$0200 83CFFD24 3FF00000
+
+_V0 Inf Shield
+$0200 83CFFD94 40080000
+
+_V0 9999 HP [NOTE 1]
+$0200 83CFFCE4 40C38780
+$0200 83CFFCF4 40C38780
+
+_V0 Inf Grenades
+$0200 83CFFDC4 40080000
+
+_V0 No Wait for Grenades/Special
+$0200 83CFFDA4 40590000
+$0200 83CFFDA0 00000000
+
+_V0 Inf Keys
+$0200 83CFFD74 40080000
+
+_V0 Inf WPA
+$5200 83CFFDE4 83CFFDD4
+
+_V0 9999 Max WPA
+$0200 83CFFDD4 40C38780
+
+_V0 9999 STR
+$0200 83CFFCB4 40C38780
+
+_V0 Max DEF
+$0200 83CFFCA4 40180000
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Enable at base or somewhere a new screen will load
+$0000 00000000 00000000
