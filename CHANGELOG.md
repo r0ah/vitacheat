@@ -1,5 +1,10 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSB00394 Final Fantasy X-2 HD Remaster ([f90e1e30](https://github.com/r0ah/vitacheat/commit/f90e1e30fc50e3481ab45593f9f2217c939244a6))**: <kbd>Added</kbd>
+* **PCSB00049 Shinobido 2: Revenge of Zen ([f282b7ff](https://github.com/r0ah/vitacheat/commit/f282b7ff9a6108b2004d81fa2e0143339c8cdd52))**: <kbd>Added</kbd>
+* **PCSH00242 SD GUNDAM G GENERATION GENESIS ([8e9d3cbe](https://github.com/r0ah/vitacheat/commit/8e9d3cbed1217826bfc24441bfd0ccccdb6fa724))**: <kbd>Added</kbd>
+* **PCSE00023 Mortal Kombat ([d6f8d9b6](https://github.com/r0ah/vitacheat/commit/d6f8d9b6ee73524acc734203ca516889661aae98))**: <kbd>Update</kbd>
+   * Inf - Test Your - Time (Turn Off AFTER Completing)
 * **PCSE00283 Final Fantasy X-2 HD Remaster ([9c2e543a](https://github.com/r0ah/vitacheat/commit/9c2e543a6a7f5af1734971499b23b26797cd5bde))**: <kbd>Added</kbd>
 * World of Final Fantasy Cheat Plugin by Vosman ([c84ef2c2](https://github.com/r0ah/vitacheat/commit/c84ef2c2e1d4b9aee928f1527cfd5558752a5042)): <kbd>Added</kbd>
 * **PCSB00648 Best of Arcade Games ([76bdb46c](https://github.com/r0ah/vitacheat/commit/76bdb46c150ffcd9d81b9be48537caaf24887d61))**: <kbd>Added</kbd>
