@@ -1,0 +1,14 @@
+# ID: PCSH00298
+# Title: Dragon Quest Heroes II
+# Region: HKN
+# Version: 1.02/1.03
+# Type: MAI5
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSH00298.psv
+# Original Source: http://www.speedfly.cn/21490.html
+
+_V0 金钱买卖后最大//Money Max by Shopping (v1.03)
+$A100 81413B88 00001C00
+
+_V0 金钱买卖后最大//Money Max by Shopping (v1.02)
+$A100 8141451C 00001C00
