@@ -1,0 +1,16 @@
+# ID: PCSG00504
+# Title: Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen
+# Region: JPN
+# Version: 1.01
+# Type: MAI5
+# Code Author: Qiu Tonghe
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00504.psv
+# Original Source: http://www.speedfly.cn/22007.html
+
+_V0 money 999999
+$0200 8522495C 000F423F
+
+_V0 German BF109F development completed
+$0200 8529E913 000007F4
+$0200 8529E914 00000307
+$0200 8529E915 00000003
