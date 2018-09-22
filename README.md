@@ -22,7 +22,7 @@ You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vi
 
 * [Finding Multi-Level Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
 
-* [TempAR Tips](https://github.com/r0ah/vitacheat/wiki/TempAR-Tips)
+* [Pointer Search Tips](https://github.com/r0ah/vitacheat/wiki/Pointer-Search-Tips)
 
 * [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
