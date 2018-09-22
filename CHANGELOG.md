@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00893 Tokyo Xanadu** ([474b5210](https://github.com/r0ah/vitacheat/commit/474b5210d74773036819e0a630a68de79a1b5c3a)): <kbd>Added</kbd>
 * **PCSE01251 Riddled Corpses EX** ([5edafe22](https://github.com/r0ah/vitacheat/commit/5edafe2207db393a1742eded9d0b55a4d30ce45c)): <kbd>Added</kbd>
 * **PCSB00394 Final Fantasy X-2 HD Remaster** ([f90e1e30](https://github.com/r0ah/vitacheat/commit/f90e1e30fc50e3481ab45593f9f2217c939244a6)): <kbd>Added</kbd>
 * **PCSB00049 Shinobido 2: Revenge of Zen** ([f282b7ff](https://github.com/r0ah/vitacheat/commit/f282b7ff9a6108b2004d81fa2e0143339c8cdd52)): <kbd>Added</kbd>
