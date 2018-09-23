@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSA00069 Playstation All-Stars Battle Royale** ([8c22d04e](https://github.com/r0ah/vitacheat/commit/8c22d04e5c66b3c89bea8bd18a562b4c40f29a8a)): <kbd>Added</kbd>
 * **PCSE00893 Tokyo Xanadu** ([93993b43](https://github.com/r0ah/vitacheat/commit/93993b43560dabaf3c51c48ad180791c7469dd32)): <kbd>Update</kbd>
    * Infinite Yen
    * Infinite Shard
