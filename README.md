@@ -30,6 +30,8 @@ You can download trainers (cheat plugins) from [this](https://github.com/r0ah/vi
 
 You can submit your own codes by opening an [issue](https://github.com/r0ah/vitacheat/issues/new). Please use the code header format below.
 
+You can also submit your codes [here](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). Please mention my username @roah.
+
 ## Code Header ##
 
 For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
