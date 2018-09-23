@@ -32,9 +32,25 @@ You can submit your own codes by opening an [issue](https://github.com/r0ah/vita
 
 You can also submit your codes [here](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). Please mention my username @roah.
 
+> **Note**: It is very important that you test your codes by quitting the game or restarting your PSVita and see if the codes work. If codes doesn't work then the game have DMA. Go to the wiki and read the pointer code tutorials.	
+
 ## Code Header ##
 
 For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
+
+~~~~
+# ID: GAMEID
+# Title:
+# Region:
+# Version:
+# Type:
+# Code Author:
+# Credits:
+# Wiki: https://github.com/r0ah/vitacheat/wiki/GAMEID
+# Source: https://github.com/r0ah/vitacheat/blob/master/GAMEID.psv
+# Original Source:
+# Note:
+~~~~
 
 ## Testing and Reporting for Issues ##
 
