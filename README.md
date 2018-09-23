@@ -44,6 +44,10 @@ Please always specify the following before opening an issue:
 * Game version
 * Game type (is it NoNpDrm/Vitamin/Mai/CP?)
 
+## Request ##
+
+No requests.
+
 ## Changelog ##
 
 See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
