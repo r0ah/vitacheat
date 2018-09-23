@@ -1,5 +1,8 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00893 Tokyo Xanadu** ([93993b43](https://github.com/r0ah/vitacheat/commit/93993b43560dabaf3c51c48ad180791c7469dd32)): <kbd>Update</kbd>
+   * Infinite Yen
+   * Infinite Shard
 * **PCSE00893 Tokyo Xanadu** ([474b5210](https://github.com/r0ah/vitacheat/commit/474b5210d74773036819e0a630a68de79a1b5c3a)): <kbd>Added</kbd>
 * **PCSE01251 Riddled Corpses EX** ([5edafe22](https://github.com/r0ah/vitacheat/commit/5edafe2207db393a1742eded9d0b55a4d30ce45c)): <kbd>Added</kbd>
 * **PCSB00394 Final Fantasy X-2 HD Remaster** ([f90e1e30](https://github.com/r0ah/vitacheat/commit/f90e1e30fc50e3481ab45593f9f2217c939244a6)): <kbd>Added</kbd>
