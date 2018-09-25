@@ -8,7 +8,7 @@ This was initially a repository for my own codes and since our discovery of the 
 
 ## Trainers ##
 
-You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/trainers) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
+You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
 
 ## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
