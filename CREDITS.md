@@ -51,3 +51,6 @@
    * 0x3000027E
 * **Cheat Plugin**:
    * Vosman
+   * blueheaven
+   * Smoker1
+   * RikuNoctis
