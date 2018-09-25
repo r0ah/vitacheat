@@ -1,5 +1,8 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE01147 Antiquia Lost** ([2e61e2cb](https://github.com/r0ah/vitacheat/commit/2e61e2cb49bf894358f39ffb56a11478fe9f206c)): <kbd>Added</kbd>
+* **PCSG00946 Penny-Punching Princess** ([48fbb1e5](https://github.com/r0ah/vitacheat/commit/48fbb1e57f08bb4ddb017952168153e3507e659a)): <kbd>Update</kbd>
+   * Added VIP codes shared by ness151
 * **PCSE00940 Toukiden 2** ([5707c960](https://github.com/r0ah/vitacheat/commit/5707c960e1b069a5e0b16f6dc99d10d96d2518bc)): <kbd>Update</kbd>
    * Replaced static codes with pointer codes
 * **PCSE00940 Toukiden 2** ([302e1d2d](https://github.com/r0ah/vitacheat/commit/302e1d2d13566b0ba0ad3c81c4f4a6825f0a4604)): <kbd>Added</kbd>
