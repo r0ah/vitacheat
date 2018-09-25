@@ -7,8 +7,12 @@
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00940
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00940.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-84#post-8296568
-# Note: The #Have All Item" cheats is incomplete specially the materials. See link below for my item table source.
-#  - https://github.com/r0ah/PSVitaHEXEditGames/wiki/Toukiden-2
+# Note: This is a collaboration. It would be a waste to not use the item table I've made so I added my own codes.
+#  - All cheats made by zacknova.
+#  - Recovery Skill Modifier and Have All Items are mine. Item address credits to zacknova.
+#  - I've edited some of the values in zacknova's codes.
+#  - The "Have All Item" cheats is incomplete specially the materials. Also, I divided it in 4 cheats because of the VitaCheat's limitations (100 codes per descriptors).
+#  - See link for my item table source (https://github.com/r0ah/PSVitaHEXEditGames/wiki/Toukiden-2)
 
 _V0 moneyy
 $0200 852A3534 00A0122A
@@ -49,7 +53,7 @@ $0200 87A885EC 447A0000
 _V0 Recovery Skill Modifier [Note 1]
 $0000 87A89E50 00000000 #<---SET VALUE HERE: Skill ID
 
-_V0 Have All Materials: Build [1/4]
+_V0 Have All Crafting Materials [1/4]
 $4101 851A9AEA 000003E7
 $005B 00000004 00000000
 $0100 851A9AE8 0000007E #TENACIOUS CLAW
@@ -144,7 +148,7 @@ $0100 851A9C48 000003F1 #BROKEN CLUB
 $0100 851A9C4C 000003F3 #QUADBRACCHIUM LEGPLATE
 $0100 851A9C50 000003EB #QUADBRACCHIUM SHELL
 
-_V0 Have All Materials: Build [2/4]
+_V0 Have All Crafting Materials [2/4]
 $4101 851A9C56 000003E7
 $005B 00000004 00000000
 $0100 851A9C54 000003EC #MOUNTAIN CORE
@@ -239,7 +243,7 @@ $0100 851A9DB4 000002A7 #MAGMA ROCKSTAFF
 $0100 851A9DB8 000002A9 #MALEDICTAUR ARMSHELL
 $0100 851A9DBC 000003A7 #CRUSPISCES GILL
 
-_V0 Have All Materials: Build [3/4]
+_V0 Have All Crafting Materials [3/4]
 $4101 851A9DC2 000003E7
 $005B 00000004 00000000
 $0100 851A9DC0 00000359 #CRUSPISCES CLAWS
@@ -334,7 +338,7 @@ $0100 851A9F20 000003DC #SUCCUWING RAYWING
 $0100 851A9F24 000003D1 #ROARING THUNDERSTONE
 $0100 851A9F28 000003D2 #BLINDING RAY
 
-_V0 Have All Materials: Build [4/4]
+_V0 Have All Crafting Materials [4/4]
 $4101 851A9F2E 000003E7
 $005D 00000004 00000000
 $0100 851A9F2C 000003F4 #QUADBRACCHIUM LEGSHELL
@@ -431,7 +435,7 @@ $0100 851AA094 000003A1 #CRUSPISCES HIDE
 $0100 851AA098 000003A2 #SURGING MARSH
 $0100 851AA09C 000003A4 #CRUSPISCES HORN
 
-_V0 Have All Materials: Smith
+_V0 Have All Smithing Materials
 $4101 851AA0A2 000003E7
 $002A 00000004 00000000
 $0100 851AA0A0 00000041 #MYSTERIOUS CLAW
@@ -626,7 +630,7 @@ $0100 851AA300 00000446 #MANDARIN ORANGE
 $0100 851AA304 0000044B #GOLDEN GEAR
 $0100 851AA308 0000043D #EVERLASTING BRANCH
 
-_V0 Have All Quest Related Item
+_V0 Have All Quest Related Item [Note 2]
 $4101 851AA30E 000003E7
 $0006 00000004 00000000
 $0100 851AA30C 0000031F #WOVEN HAT
@@ -640,4 +644,10 @@ _V0 Notes:
 $0000 00000000 00000000
 
 _V0 #1: These is a modifier cheat. See Wiki for details.
+$0000 00000000 00000000
+
+_V0 #2a: Might prevent you from finishing quests
+$0000 00000000 00000000
+
+_V0 #2b: Backup your savedata before activating the cheat
 $0000 00000000 00000000
