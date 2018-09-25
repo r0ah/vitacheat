@@ -50,7 +50,7 @@
    * AnalogMan
    * 0x3000027E
 * **Cheat Plugin**:
-   * Vosman
+   * vosman
    * blueheaven
    * Smoker1
    * RikuNoctis
