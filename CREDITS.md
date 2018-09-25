@@ -35,6 +35,7 @@
    * Tsukasa
    * Udaius
    * vergil
+   * zacknova
    * 我爱吃洋葱
    * 执行者NO.X
    * 路人甲
