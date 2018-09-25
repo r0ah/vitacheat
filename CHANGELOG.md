@@ -1,5 +1,8 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00940 Toukiden 2** ([5707c960](https://github.com/r0ah/vitacheat/commit/5707c960e1b069a5e0b16f6dc99d10d96d2518bc)): <kbd>Update</kbd>
+   * Replaced static codes with pointer codes
+* **PCSE00940 Toukiden 2** ([302e1d2d](https://github.com/r0ah/vitacheat/commit/302e1d2d13566b0ba0ad3c81c4f4a6825f0a4604)): <kbd>Added</kbd>
 * **PCSA00069 Playstation All-Stars Battle Royale** ([8c22d04e](https://github.com/r0ah/vitacheat/commit/8c22d04e5c66b3c89bea8bd18a562b4c40f29a8a)): <kbd>Added</kbd>
 * **PCSE00893 Tokyo Xanadu** ([93993b43](https://github.com/r0ah/vitacheat/commit/93993b43560dabaf3c51c48ad180791c7469dd32)): <kbd>Update</kbd>
    * Infinite Yen
