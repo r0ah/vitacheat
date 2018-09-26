@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00940 Toukiden 2** ([5660862](https://github.com/r0ah/vitacheat/commit/5660862dcb3f887a006c9bc760f11cbf111284fc)): <kbd>Update</kbd>
+   * Have All Items
 * **PCSE00940 Toukiden 2** ([e14d235e](https://github.com/r0ah/vitacheat/commit/e14d235e227aa71d942e2481d5f85bc05f4cefa9)): <kbd>Update</kbd>
    * Fixed pointer code compression format
 * **PCSE01147 Antiquia Lost** ([2e61e2cb](https://github.com/r0ah/vitacheat/commit/2e61e2cb49bf894358f39ffb56a11478fe9f206c)): <kbd>Added</kbd>
