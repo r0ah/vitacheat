@@ -1,0 +1,47 @@
+# ID: PCSE00022
+# Title: Disgaea 3 Absence of Detention
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: monodevil
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-86#post-8304629
+
+_V0 HL
+$0200 81939C80 05F5E0FF
+
+_V0 Character slot 1 Mana
+$0200 8193A8F8 0001869F
+
+_V0 Character slot 2 Mana
+$0200 8193D538 0001869F
+
+_V0 Character slot 3 Mana
+$0200 81940178 0001869F
+
+_V0 Character slot 4 Mana
+$0200 81942DB8 0001869F
+
+_V0 Character slot 5 Mana
+$0200 819459F8 0001869F
+
+_V0 Character slot 6 Mana
+$0200 81948638 0001869F
+
+_V0 Character slot 7 Mana
+$0200 8194B278 0001869F
+
+_V0 Character slot 8 Mana
+$0200 8194DEB8 0001869F
+
+_V0 Character slot 9 Mana
+$0200 81950AF8 0001869F
+
+_V0 Character slot 10 Mana
+$0200 81953738 0001869F
+
+_V0 Bonus Gauge always lvl 9
+$0100 81A7DAF2 00000009
+
+_V0 Infinite Dispatch
+$0100 83093BA4 0000000A
