@@ -1,12 +1,14 @@
 # ID: PCSE00865
 # Title: Sky Force Anniversary
 # Region: USA
-# Version: 1.00
+# Version: 1.00/1.02
 # Type: NoNpDrm
-# Code Author: Smoker1
+# Code Author: Smoker1, dask
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00865.psv
 # Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3726-pcse00865-sky-force-anniversary-us-nnd#post3726
-# Note: This game needs a LOT of work to find the Codes. Was told by @Seven Swords, this Game is hard to get correct Codes for, but thankfully I found what I could.
+# Original Source: http://www.speedfly.cn/22462.html
+# Note: by Smoker1:
+#  - This game needs a LOT of work to find the Codes. Was told by @Seven Swords, this Game is hard to get correct Codes for, but thankfully I found what I could.
 #  - 1.02 is for the Update
 #  - Laser Code I found works as $0200 for both.
 #    - 5 Shields Code is maybe Dynamic. In my Search, I found 5+ Addresses for it. So this Game uses a mix of Coding.
@@ -17,6 +19,10 @@
 #    - Can use Codes together as 1 Cheat but use $0200
 #  - 5 Shields = If you can find this, please Post in Comments
 #  - Shield Gauge and Aircraft Health % are both Floating Value and are Dynamic. Shield Gauge might need Multi-Pointers, since TempAR Pointer Searcher did not show Highlighted Address Lines.
+
+_V0 机库资源9999//Resources 9999 (v1.02)
+$B200 00000000 00000000
+$A200 00B8B740 E302170F
 
 _V0 99999 Stars
 $0200 852B3864 0001869F
