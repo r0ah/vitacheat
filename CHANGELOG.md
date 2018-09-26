@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00865 Sky Force Anniversary** ([5e20b50f](https://github.com/r0ah/vitacheat/commit/5e20b50fbe836122a136b6c0e6ed33877a340a17)): <kbd>Added</kbd>
 * **PCSE00940 Toukiden 2** ([5660862](https://github.com/r0ah/vitacheat/commit/5660862dcb3f887a006c9bc760f11cbf111284fc)): <kbd>Update</kbd>
    * Have All Items
 * **PCSE00940 Toukiden 2** ([e14d235e](https://github.com/r0ah/vitacheat/commit/e14d235e227aa71d942e2481d5f85bc05f4cefa9)): <kbd>Update</kbd>
