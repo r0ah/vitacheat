@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00022 Disgaea 3 Absence of Detention** ([a947abfa](https://github.com/r0ah/vitacheat/commit/a947abfab68c6aa9b081b03fa07a026f72cfc7cc)): <kbd>Added</kbd>
 * **PCSE00865 Sky Force Anniversary** ([5e20b50f](https://github.com/r0ah/vitacheat/commit/5e20b50fbe836122a136b6c0e6ed33877a340a17)): <kbd>Added</kbd>
 * **PCSE00940 Toukiden 2** ([5660862](https://github.com/r0ah/vitacheat/commit/5660862dcb3f887a006c9bc760f11cbf111284fc)): <kbd>Update</kbd>
    * Have All Items
