@@ -9,6 +9,7 @@
    * @WasabiIceCream
 * **Code authors**:
    * Aichitaka/Jialeyne19
+   * alphasurge (sharer only)
    * attmkk
    * Borderlinez
    * dask
@@ -32,15 +33,13 @@
    * Smoker1
    * speedfly
    * tokthem
-   * Tsukasa
+   * Tsukasa (sharer only)
    * Udaius
    * vergil
    * zacknova
    * 我爱吃洋葱
    * 执行者NO.X
    * 路人甲
-* **Code sharer**:
-   * alphasurge
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
