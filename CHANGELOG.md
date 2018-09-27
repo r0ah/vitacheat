@@ -1,6 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
-* **PCSG00881 Ys VIII: Lacrimosa of Dana** ([d7dbfcc8](https://github.com/r0ah/vitacheat/commit/d7dbfcc88d457da9984d5b509426e96a9fe289b8)): <kbd>Added</kbd>
+* **PCSG00881 Ys VIII: Lacrimosa of Dana** ([220ede41](https://github.com/r0ah/vitacheat/commit/220ede41a666ee53ad5c2bea60c63b051bb14f60)): <kbd>Added</kbd>
 * **PCSB00394 Final Fantasy X-2 HD Remaster** ([9586f6d4](https://github.com/r0ah/vitacheat/commit/9586f6d4298ea834c71c32ad72cc6f67516f9aac)): <kbd>Added</kbd>
 * **PCSE00022 Disgaea 3 Absence of Detention** ([a947abfa](https://github.com/r0ah/vitacheat/commit/a947abfab68c6aa9b081b03fa07a026f72cfc7cc)): <kbd>Added</kbd>
 * **PCSE00865 Sky Force Anniversary** ([5e20b50f](https://github.com/r0ah/vitacheat/commit/5e20b50fbe836122a136b6c0e6ed33877a340a17)): <kbd>Update</kbd>
