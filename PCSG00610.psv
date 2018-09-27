@@ -1,0 +1,27 @@
+# ID: PCSG00610
+# Title: Miracle Girls Festival
+# Region: JPN
+# Version: 1.00
+# Type: MAI5
+# Code Author: 我爱吃洋葱
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00610.psv
+# Original Source: http://www.speedfly.cn/19374.html
+# Note: You might need to download the eboot here (http://www.speedfly.cn/19374.html)
+
+_V0 单自动XO键音符//single automatic XO key note
+$A100 812001AC 0000BF00
+$A200 8120252A BF00E073
+$A200 8120272A BF004770
+$A200 812003CE BF00BF00
+$A200 8120040C BF00BF00
+
+_V0 单自动双键W音符//single automatic double button W note
+$A100 811FFEBA 0000BF00
+$A100 811FFEC0 0000E00A
+$A200 8120252A BF00E073
+
+_V0 单自动长按键音符//single automatic long button note
+$A100 811FFD42 0000BF00
+$A200 812004AE BF00D02A
+$A100 8120057E 0000BF00
+$A200 8120058C AE87F43F
