@@ -1,5 +1,27 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSD00008 Everybody's Golf 6** ([df03b6a9](https://github.com/r0ah/vitacheat/commit/df03b6a9f0f74b47cef34a120429548357c22c6f)): <kbd>Added</kbd>
+* **PCSD00084 Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2** ([a47324e0](https://github.com/r0ah/vitacheat/commit/a47324e0abcaca67df660d94954d58966a5fd88d)): <kbd>Added</kbd>
+* **PCSG00196 Exstetra** ([f9535a8a](https://github.com/r0ah/vitacheat/commit/f9535a8a0dff9df05b9bdf446ae8d4bd8cceedfa)): <kbd>Added</kbd>
+* **PCSG00199 Uta Kumi 575** ([fd2f89ef](https://github.com/r0ah/vitacheat/commit/fd2f89ef167ef4f9eaf938dfed7a9344dc2841b6)): <kbd>Added</kbd>
+* **PCSG00355 IA/VT -COLORFUL-** ([8b403740](https://github.com/r0ah/vitacheat/commit/8b4037400d845208efd203d79f188fbcf0105aa3)): <kbd>Added</kbd>
+* **PCSG00422 Love Live! School Idol Paradise Vol. 1: Printemps Unit** ([0fcf3212](https://github.com/r0ah/vitacheat/commit/0fcf321291706738058ef265b33dfe7b2994b3b0)): <kbd>Added</kbd>
+* **PCSG00423 Love Live! School Idol Paradise Vol. 2: BiBi Unit** ([a6121c1e](https://github.com/r0ah/vitacheat/commit/a6121c1e87db6c0402c6d530e53e6b054b2998ff)): <kbd>Added</kbd>
+* **PCSG00424 Love Live! School Idol Paradise Vol. 3: Lily White Unit** ([1384bd50](https://github.com/r0ah/vitacheat/commit/1384bd503d9ebcd3db21ae3b9f57f3acbb114a3b)): <kbd>Added</kbd>
+* **PCSG00551 Taiko no Tatsujin V Version** ([edafcc17](https://github.com/r0ah/vitacheat/commit/edafcc1775a89270be9bff20dd64a52f7cc87369)): <kbd>Added</kbd>
+* **PCSG00568 Bullet Girls 2** ([ba7a44a8](https://github.com/r0ah/vitacheat/commit/ba7a44a8d9cdfc2a1a214b9c155aab7d2c52d1ee)): <kbd>Added</kbd>
+* **PCSG00610 Miracle Girls Festival** ([ad610eba](https://github.com/r0ah/vitacheat/commit/ad610ebaba85a304533b5f81000ae4465ff857a5)): <kbd>Added</kbd>
+* **PCSG00677 The Idol M@ster: Must Songs - Red Album** ([87a17ef6](https://github.com/r0ah/vitacheat/commit/87a17ef67139a7c09b6f7622fa7fad1c32862189)): <kbd>Added</kbd>
+* **PCSG00678 The Idol M@ster: Must Songs - Blue Album** ([c26584cd](https://github.com/r0ah/vitacheat/commit/c26584cdfeab8d85e41bc289e48f03fbc8cdab2e)): <kbd>Added</kbd>
+* **PCSH00019 DJMAX TECHNIKA TUNE (English/Korean Ver.)** ([ec156c39](https://github.com/r0ah/vitacheat/commit/ec156c3994282cfbf339c29410e1d31cb49d8a6c)): <kbd>Added</kbd>
+* **PCSH00050 Dragon's Crown** ([7102f4e5](https://github.com/r0ah/vitacheat/commit/7102f4e585aa851d84262b8c23e05a7e34b57ef9)): <kbd>Added</kbd>
+* **PCSH00088 Hatsune Miku: Project DIVA F 2nd** ([20432c90](https://github.com/r0ah/vitacheat/commit/20432c90606a64349d0518959ae55615492f59fe)): <kbd>Added</kbd>
+* **PCSG00074 Hatsune Miku -Project DIVA- f** ([a5ce0241](https://github.com/r0ah/vitacheat/commit/a5ce02416580607d91346a6acc3646aa49e10652)): <kbd>Added</kbd>
+* **PCSH00128 Dekamori Senran Kagura (Chinese/Korean Ver.)** ([3455515b](https://github.com/r0ah/vitacheat/commit/3455515b31c35bd411e9c61f6c8da0f186c04afb)): <kbd>Added</kbd>
+* **PCSH00207 Gundam Breaker 3 (Chinese Edition)** ([1861d0f8](https://github.com/r0ah/vitacheat/commit/1861d0f8e048ef8c9b119747c9d2c098a03fade5)): <kbd>Added</kbd>
+* Minor update:
+   * Fixed Game titles
+   * Moved code sharers usernames to credits
 * **PCSG00881 Ys VIII: Lacrimosa of Dana** ([220ede41](https://github.com/r0ah/vitacheat/commit/220ede41a666ee53ad5c2bea60c63b051bb14f60)): <kbd>Added</kbd>
 * **PCSB00394 Final Fantasy X-2 HD Remaster** ([9586f6d4](https://github.com/r0ah/vitacheat/commit/9586f6d4298ea834c71c32ad72cc6f67516f9aac)): <kbd>Update</kbd>
    * Max Level YRP
