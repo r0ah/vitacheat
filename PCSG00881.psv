@@ -4,9 +4,9 @@
 # Version: 1.00
 # Type: Unknown
 # Code Author: Unknown
-# Credits: eighthdayregret
+# Credits: alphasurge
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00881.psv
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-85#post-8298880
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-84#post-8296130
 
 _V0 ADOL HP 9999
 $0200 8CCE4790 461C3C00
