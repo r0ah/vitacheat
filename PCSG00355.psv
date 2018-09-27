@@ -1,0 +1,11 @@
+# ID: PCSG00355
+# Title: IA/VT -COLORFUL-
+# Region: JPN
+# Version: 1.00
+# Type: MAI5
+# Code Author: 我爱吃洋葱
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00355.psv
+# Original Source: http://www.speedfly.cn/19411.html
+
+_V0 自动演奏
+$A100 8107A1CA 0000BF00
