@@ -15,16 +15,16 @@ $0200 8200FE0C 0098967F #ness151
 _V0 Baldren Max MP
 $0200 8200FE10 0000270F
 
-_V0 Baldren Max Str [1]
+_V0 Baldren Max Str [Note 1]
 $0200 8200FE1C 0000270F
 
-_V0 Baldren Max Speed [1]
+_V0 Baldren Max Speed [Note 1]
 $0200 8200FE20 0000270F
 
-_V0 Baldren Max Luck [1]
+_V0 Baldren Max Luck [Note 1]
 $0200 8200FE22 0000270F
 
-_V0 Baldren Max Def [1]
+_V0 Baldren Max Def [Note 1]
 $0200 8200FE1E 0000270F
 
 _V0 Max Coins
