@@ -7,13 +7,14 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00021.psv
 # Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3160-pcse00021-ninja-gaiden-sigma-plus#post3160
 # Original Source: http://www.speedfly.cn/21496.html
-# Note: For easy master ninja rank on missions these codes are not for Ninja trials
+# Note: Borderlinez's notes:
+#  - For easy master ninja rank on missions these codes are not for Ninja trials
 #  - Infinite karma gives a ninja dog rank so no use hacking that code, and if you mess with the combo multiplier you will get a ninja dog rank as well .
 #  - Mission clear time at 1.13 and the other timer when doing combos is stopped so you will get all your combo bonuses ! 10000
 #  - The Jewel of the Spirit Smith crystal can be used to upgrade any weapon without going to muramasa if you just want to upgrade yourself playing the game normally
 
-_V0 黄魂//Essence (speedfly)
-$A200 81A31290 E2800EE7
+_V0 黄魂//Essence
+$A200 81A31290 E2800EE7 #SPEEDFLY
 $A200 81A31294 E2800A37
 $A200 81A31298 E92D0002
 $A200 81A3129C E59F100C
