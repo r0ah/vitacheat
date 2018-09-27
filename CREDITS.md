@@ -41,6 +41,8 @@
    * 我爱吃洋葱
    * 执行者NO.X
    * 路人甲
+   * 囧样雷管
+   * 我爱吃洋葱/真七支剑
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
