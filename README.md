@@ -6,6 +6,8 @@ This was initially a repository for my own codes and since our discovery of the 
 
 > **Warning**: Some of the cheats may not work so make sure to backup your savedata before activating any cheats.	
 
+See full list [here](https://github.com/r0ah/vitacheat/blob/master/LIST.md).
+
 ## Trainers ##
 
 You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
