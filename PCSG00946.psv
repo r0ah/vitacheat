@@ -3,10 +3,11 @@
 # Region: JPN
 # Version: 1.00
 # Type: NoNpDrm/VC5
-# Code Author: dask, ness151
+# Code Author: dask
+# Credits: ness151
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00946.psv
 # Original Source: http://www.speedfly.cn/21631.html
-# Original Source: hhttps://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-36#post-7965498
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-36#post-7965498
 
 _V0 王国资产MAX//Capital Max
 $B200 00000000 00000000
