@@ -13,11 +13,11 @@ $0200 8338C368 000F423F
 _V0 Infinite Ball Control Gauge-Brick Breaker (Float)
 $0200 890EFDF0 42C80000
 
-# _V0 All Codes Below are Dynamic
-# $0000 00000000 00000000
+_V0 All Codes Below are Dynamic
+$0000 00000000 00000000
 
-# _V0 Infinite Balls-Brick Breaker -(Dynamic)
-# $0000 890EFE74 00000003
+_V0 Infinite Balls-Brick Breaker -(Dynamic)
+$0000 890EFE74 00000003
 
-# _V0 Low Time-2Sec-Brick Breaker (Float) (Dynamic)
-# $0200 8339F9DC 40000000
+_V0 Low Time-2Sec-Brick Breaker (Float) (Dynamic)
+$0200 8339F9DC 40000000
