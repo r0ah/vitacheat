@@ -35,11 +35,13 @@
 * [PCSB01072](https://github.com/r0ah/vitacheat/blob/master/PCSB01072) Salt and Santuary
 * [PCSD00001](https://github.com/r0ah/vitacheat/blob/master/PCSD00001) UNCHARTED: Golden Abyss
 * [PCSD00003](https://github.com/r0ah/vitacheat/blob/master/PCSD00003) GRAVITY RUSH
+* [PCSD00008](https://github.com/r0ah/vitacheat/blob/master/PCSD00008) Everybody's Golf 6
 * [PCSD00033](https://github.com/r0ah/vitacheat/blob/master/PCSD00033) Resistance: Burning Skies (English/Chinese/Korean Ver.)
 * [PCSD00035](https://github.com/r0ah/vitacheat/blob/master/PCSD00035) GRAVITY RUSH PlayStationVita the Best
 * [PCSD00040](https://github.com/r0ah/vitacheat/blob/master/PCSD00040) PlayStation All-Stars Battle Royale
 * [PCSD00071](https://github.com/r0ah/vitacheat/blob/master/PCSD00071) Killzone: Mercenary
 * [PCSD00079](https://github.com/r0ah/vitacheat/blob/master/PCSD00079) Soul Sacrifice Delta
+* [PCSD00084](https://github.com/r0ah/vitacheat/blob/master/PCSD00084) Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2
 * [PCSD00087](https://github.com/r0ah/vitacheat/blob/master/PCSD00087) Freedom Wars
 * [PCSE00001](https://github.com/r0ah/vitacheat/blob/master/PCSE00001) Ridge Racer
 * [PCSE00007](https://github.com/r0ah/vitacheat/blob/master/PCSE00007) Asphalt: Injection
@@ -127,19 +129,31 @@
 * [PCSG00009](https://github.com/r0ah/vitacheat/blob/master/PCSG00009) Tales of Innocence R
 * [PCSG00040](https://github.com/r0ah/vitacheat/blob/master/PCSG00040) Kidou Senshi Gundam Seed Battle Destiny
 * [PCSG00063](https://github.com/r0ah/vitacheat/blob/master/PCSG00063) STREET FIGHTER X TEKKEN
+* [PCSG00074](https://github.com/r0ah/vitacheat/blob/master/PCSG00074) Hatsune Miku -Project DIVA- f
 * [PCSG00111](https://github.com/r0ah/vitacheat/blob/master/PCSG00111) NAtURAL DOCtRINE
 * [PCSG00150](https://github.com/r0ah/vitacheat/blob/master/PCSG00150) Oboro Muramasa PlayStationVita the Best
 * [PCSG00157](https://github.com/r0ah/vitacheat/blob/master/PCSG00157) Ninja Gaiden Sigma 2 Plus
 * [PCSG00190](https://github.com/r0ah/vitacheat/blob/master/PCSG00190) Super Robot Taisen OG Saga - Pride of Justice
+* [PCSG00196](https://github.com/r0ah/vitacheat/blob/master/PCSG00196) Exstetra
+* [PCSG00199](https://github.com/r0ah/vitacheat/blob/master/PCSG00199) Uta Kumi 575
 * [PCSG00213](https://github.com/r0ah/vitacheat/blob/master/PCSG00213) Dragon Ball Z: Battle of Z
 * [PCSG00225](https://github.com/r0ah/vitacheat/blob/master/PCSG00225) Makai Senki Disgaea 4 Return
 * [PCSG00264](https://github.com/r0ah/vitacheat/blob/master/PCSG00264) Super Robot Wars Z Jigoku Hen
+* [PCSG00355](https://github.com/r0ah/vitacheat/blob/master/PCSG00355) IA/VT -COLORFUL-
 * [PCSG00408](https://github.com/r0ah/vitacheat/blob/master/PCSG00408) Child of Light
+* [PCSG00422](https://github.com/r0ah/vitacheat/blob/master/PCSG00422) Love Live! School Idol Paradise Vol. 1: Printemps Unit
+* [PCSG00423](https://github.com/r0ah/vitacheat/blob/master/PCSG00423) Love Live! School Idol Paradise Vol. 2: BiBi Unit
+* [PCSG00424](https://github.com/r0ah/vitacheat/blob/master/PCSG00424) Love Live! School Idol Paradise Vol. 3: Lily White Unit
 * [PCSG00494](https://github.com/r0ah/vitacheat/blob/master/PCSG00494) Dai-3-Ji Super Robot Taisen Z Tengoku-hen
 * [PCSG00495](https://github.com/r0ah/vitacheat/blob/master/PCSG00495) Dai-3-Ji Super Robot Taisen Z Rengoku-hen
 * [PCSG00504](https://github.com/r0ah/vitacheat/blob/master/PCSG00504) Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen
+* [PCSG00551](https://github.com/r0ah/vitacheat/blob/master/PCSG00551) Taiko no Tatsujin V Version
+* [PCSG00568](https://github.com/r0ah/vitacheat/blob/master/PCSG00568) Bullet Girls 2
+* [PCSG00610](https://github.com/r0ah/vitacheat/blob/master/PCSG00610) Miracle Girls Festival
 * [PCSG00622](https://github.com/r0ah/vitacheat/blob/master/PCSG00622) Rogue Legacy
 * [PCSG00632](https://github.com/r0ah/vitacheat/blob/master/PCSG00632) VALKYRIE DRIVE -BHIKKHUNI-
+* [PCSG00677](https://github.com/r0ah/vitacheat/blob/master/PCSG00677) The Idol M@ster: Must Songs - Red Album
+* [PCSG00678](https://github.com/r0ah/vitacheat/blob/master/PCSG00678) The Idol M@ster: Must Songs - Blue Album
 * [PCSG00685](https://github.com/r0ah/vitacheat/blob/master/PCSG00685) DEEMO ~The Last Recital~
 * [PCSG00687](https://github.com/r0ah/vitacheat/blob/master/PCSG00687) The Caligula Effect
 * [PCSG00820](https://github.com/r0ah/vitacheat/blob/master/PCSG00820) Dragon Quest Heroes II
@@ -147,14 +161,18 @@
 * [PCSG00946](https://github.com/r0ah/vitacheat/blob/master/PCSG00946) Penny-Punching Princess
 * [PCSG00947](https://github.com/r0ah/vitacheat/blob/master/PCSG00947) Macross Delta Scramble
 * [PCSG01121](https://github.com/r0ah/vitacheat/blob/master/PCSG01121) Seiken Densetsu 2: Secret of Mana
+* [PCSH00019](https://github.com/r0ah/vitacheat/blob/master/PCSH00019) DJMAX TECHNIKA TUNE (English/Korean Ver.)
 * [PCSH00042](https://github.com/r0ah/vitacheat/blob/master/PCSH00042) Final Fantasy X HD Remaster (Chinese/Korean Ver.)
 * [PCSH00044](https://github.com/r0ah/vitacheat/blob/master/PCSH00044) Ragnarok Odyssey ACE PlayStationVita the Best
+* [PCSH00050](https://github.com/r0ah/vitacheat/blob/master/PCSH00050) Dragon's Crown
 * [PCSH00052](https://github.com/r0ah/vitacheat/blob/master/PCSH00052) Shin Sangoku Musou 7 with Moushouden / Dynasty Warriors 8 with Xtreme Legends
 * [PCSH00054](https://github.com/r0ah/vitacheat/blob/master/PCSH00054) Warriors Orochi 2 Ultimate
 * [PCSH00058](https://github.com/r0ah/vitacheat/blob/master/PCSH00058) Shin Gundam Musou
 * [PCSH00074](https://github.com/r0ah/vitacheat/blob/master/PCSH00074) The Legend of Heroes: Trails of Cold Steel
 * [PCSH00075](https://github.com/r0ah/vitacheat/blob/master/PCSH00075) The Legend of Heroes SEN NO KISEKI II (Chinese Ver.)
+* [PCSH00088](https://github.com/r0ah/vitacheat/blob/master/PCSH00088) Hatsune Miku: Project DIVA F 2nd
 * [PCSH00103](https://github.com/r0ah/vitacheat/blob/master/PCSH00103) Toukiden: Kiwami
+* [PCSH00128](https://github.com/r0ah/vitacheat/blob/master/PCSH00128) Dekamori Senran Kagura (Chinese/Korean Ver.)
 * [PCSH00132](https://github.com/r0ah/vitacheat/blob/master/PCSH00132) GUNDAM BREAKER 2
 * [PCSH00136](https://github.com/r0ah/vitacheat/blob/master/PCSH00136) J-Stars Victory VS+
 * [PCSH00145](https://github.com/r0ah/vitacheat/blob/master/PCSH00145) One Piece: Pirate Warriors 3
@@ -164,6 +182,7 @@
 * [PCSH00187](https://github.com/r0ah/vitacheat/blob/master/PCSH00187) Resident Evil Revelations 2
 * [PCSH00196](https://github.com/r0ah/vitacheat/blob/master/PCSH00196) Mobile Suit Gundam: Extreme VS-Force
 * [PCSH00202](https://github.com/r0ah/vitacheat/blob/master/PCSH00202) One Piece Burning Blood
+* [PCSH00207](https://github.com/r0ah/vitacheat/blob/master/PCSH00207) Gundam Breaker 3 (Chinese Edition)
 * [PCSH00218](https://github.com/r0ah/vitacheat/blob/master/PCSH00218) Odin Sphere Leifthrasir
 * [PCSH00220](https://github.com/r0ah/vitacheat/blob/master/PCSH00220) Atelier Sophie ~The Alchemist of the Mysterious Book~
 * [PCSH00221](https://github.com/r0ah/vitacheat/blob/master/PCSH00221) Dragon Quest Builders
