@@ -39,17 +39,19 @@
    * 我爱吃洋葱
    * 执行者NO.X
    * 路人甲
+* **Code sharer**:
+   * alphasurge
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
    * Fullcodes
-* **Pointer Search (TempAR)**:
+* **Pointer search (TempAR)**:
    * raing3
    * eighthdayregret
    * Smoker1
    * AnalogMan
    * 0x3000027E
-* **Cheat Plugin**:
+* **Cheat plugin**:
    * vosman
    * blueheaven
    * Smoker1
