@@ -8,9 +8,9 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00940.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-84#post-8296568
 # Note: This is a collaboration between zacknova and me. Also I've been wanting to convert my ID tables to VitaCheat for a while now.
-#  - All cheats made by zacknova
+#  - All static address made by zacknova
+#  - I've replaced all the static codes with pointer codes and adjusted the address for all zacknova's codes that use floating point and edited the values accordingly
 #  - Recovery "Skill Modifier" ID table and "Have All Items" ID table & the arranged pointer codes are mine. Initial address for Item (0x851A9AEA) & Skill credits to zacknova
-#  - I've added pointer codes and adjusted the address for all zacknova's codes that use floating point and edited the values accordingly
 #  - The "Have All Item" cheats is now complete but item slot is limited to 0x44C so I had to make compromise:
 #    - All quest items has been removed to save space and because they might mess up with the activation flags. Iirc quest items are activated by picking them up or when given to you by NPC.
 #    - Removed currency items (items exchanged for haku)
