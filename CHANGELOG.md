@@ -1,5 +1,16 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSA00126 God of War Collection** ([dd9e6476](https://github.com/r0ah/vitacheat/commit/dd9e64765a4c1e7b027caf048a52e6eb626a180b)): <kbd>Update</kbd>
+   * HP不减//Inf HP
+   * 秒杀//Instant Kill-MayBeProblems
+   * 愤怒槽不减//Inf Rage of God
+   * 愤怒槽增加后最大//Get Rage of God Max
+   * 魔法不减//Inf Magic
+   * 慢速时间槽不减//Inf Slow Time Bar
+   * 飘浮//Floating-HoldB
+   * 获得眼睛和羽毛后最大//Get Eye and Feather Max
+   * 全魔法技能武器//All Magic Skill Weapon
+   * Orbs Max//魂最大
 * **PCSD00008 Everybody's Golf 6** ([df03b6a9](https://github.com/r0ah/vitacheat/commit/df03b6a9f0f74b47cef34a120429548357c22c6f)): <kbd>Added</kbd>
 * **PCSD00084 Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2** ([a47324e0](https://github.com/r0ah/vitacheat/commit/a47324e0abcaca67df660d94954d58966a5fd88d)): <kbd>Added</kbd>
 * **PCSG00196 Exstetra** ([f9535a8a](https://github.com/r0ah/vitacheat/commit/f9535a8a0dff9df05b9bdf446ae8d4bd8cceedfa)): <kbd>Added</kbd>
