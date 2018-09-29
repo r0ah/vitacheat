@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00755 Digimon Story Cyber Sleuth** ([e2b22c77](https://github.com/r0ah/vitacheat/commit/e2b22c77c59555c1a7b2f7ef763837056ce86c46)): <kbd>Update</kbd>
+   * Party Digimon: Make All Equipped Skills Inherited
+   * Party Digimon: Quick Level 99
+   * 1st Digimon Learned Skill Slot 1 Modifier
 * **PCSA00126 God of War Collection** ([dd9e6476](https://github.com/r0ah/vitacheat/commit/dd9e64765a4c1e7b027caf048a52e6eb626a180b)): <kbd>Update</kbd>
    * HP不减//Inf HP
    * 秒杀//Instant Kill-MayBeProblems
