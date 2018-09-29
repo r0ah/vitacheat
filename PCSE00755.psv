@@ -67,7 +67,7 @@ $000B 00000260 00000000
 $4100 84059A38 000003E7
 $000B 00000260 00000000
 
-_V0 Party Digimon: Max HP/SP
+_V0 Party Digimon: Max Value HP/SP
 $D204 840AD955 00AC85E5
 $4100 83F59A30 0000270F #HP
 $000B 00000260 00000000
@@ -203,7 +203,15 @@ $000B 00000260 00000000
 $4201 84159AD0 00000000
 $000B 00000260 00000000
 
-_V0 1st Digimon Learned Skill Slot 1 Modifier [Note 5]
+_V0 Party Digimon: Quick Level 99 [Note 5]
+$D202 840AD955 00AC85E5
+$4200 83F59A20 00FFFFFF
+$000B 00000260 00000000
+$D202 841AD955 00AC85E5
+$4200 84059A20 00FFFFFF
+$000B 00000260 00000000
+
+_V0 1st Digimon Learned Skill Slot 1 Modifier [Note 6]
 $D202 840AD955 00AC85E5
 $0200 84059A90 00000000
 $0100 84059A94 00000C00 #<---SET VALUE HERE: Enter the SKILL ID
@@ -211,19 +219,19 @@ $D202 841AD955 00AC85E5
 $0200 84159A90 00000000
 $0100 84159A94 00000C00 #<---SET VALUE HERE: Enter the SKILL ID
 
-_V0 Gender: Male [Note 6]
+_V0 Gender: Male [Note 7]
 $D201 840AD955 00AC85E5
 $0000 840AD948 00000001
 $D201 841AD955 00AC85E5
 $0000 841AD948 00000001
 
-_V0 Gender: Female [Note 6]
+_V0 Gender: Female [Note 7]
 $D201 840AD955 00AC85E5
 $0000 840AD948 00000002
 $D201 841AD955 00AC85E5
 $0000 841AD948 00000002
 
-_V0 Change Name [Note 7]
+_V0 Change Name [Note 8]
 $0000 840AD94C 00000000 #DO NOT ACTIVATE THIS CHEAT!
 $0000 841AD94C 00000000
 
@@ -231,7 +239,7 @@ _V0 Notes:
 $0000 00000000 00000000
 
 _V0 #1: Sell existing Brave Point A before activating the cheat
-$0000 00000000 00000000
+$0000 00000000 00000000 # To avoid duplicate
 
 _V0 #2: For all Digimon encountered, even guest Digimons
 $0000 00000000 00000000
@@ -242,14 +250,17 @@ $0000 00000000 00000000
 _V0 #4a: This cheat will skip skills from being learned
 $0000 00000000 00000000
 
-_V0 #4b: Use the Brave Point A cheat if you want skills
+_V0 #4b: Use the "Quick Level 99" cheat if you want skills
 $0000 00000000 00000000 #Obviously you'll want the skills, lols
 
-_V0 #5: These are modifier cheat. See Wiki for details.
+_V0 #5: Level 99 after winning a battle. Digimon learn skills.
 $0000 00000000 00000000
 
-_V0 #6: Save and reload savedata before any changes is reflected
+_V0 #6: These are modifier cheat. See Wiki for details.
 $0000 00000000 00000000
 
-_V0 #7: Use the address as bookmark only. See wiki for details.
+_V0 #7: Save and reload savedata before any changes is reflected
+$0000 00000000 00000000
+
+_V0 #8: Use the address as bookmark only. See wiki for details.
 $0000 00000000 00000000
