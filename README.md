@@ -8,65 +8,48 @@ This was initially a repository for my own codes and since our discovery of the 
 
 See full list [here](https://github.com/r0ah/vitacheat/blob/master/LIST.md).
 
-## Trainers ##
+## Cheat Plugins ##
 
 You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
 
 ## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
 * [Quick Start](https://github.com/r0ah/vitacheat/wiki/Quick-Start) - Don't know where to start? Check this out.
-
 * [Plugins](https://github.com/r0ah/vitacheat/wiki/Plugins)
-
 * [Manuals](https://github.com/r0ah/vitacheat/wiki/Manuals)
-
+* [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
 * [Finding Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR)
-
 * [Finding Multi-Level Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
-
 * [Pointer Search Tips](https://github.com/r0ah/vitacheat/wiki/Pointer-Search-Tips)
-
 * [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes)
 
 ## Submissions ##
 
-You can submit your own codes by opening an [issue](https://github.com/r0ah/vitacheat/issues/new). Please use the code header format below.
+You can submit your own codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new/code-submission). Please use the template!
 
-You can also submit your codes [here](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). Please mention my username @roah.
+You can also submit your codes in this [thread](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). I don't visit everyday so mention my GBAtemp username `@Roah`.
 
-> **Note**: It is very important that you test your codes by quitting the game or restarting your PSVita and see if the codes work. If codes doesn't work then the game have DMA. Go to the wiki and read the pointer code tutorials.	
+Before you submit your codes you have to test it in this condition:
 
-## Code Header ##
+1. Close the game's bubble to restart the game
+2. Do a full shutdown of your PSVita by holding the power button
 
-For collaborators, use this [header](https://github.com/r0ah/vitacheat/wiki/Code-Header) for your codes. It's not perfect and contact me if you have suggestions.
+If cheat doesn't work after doing all the steps then the game have DMA. Go to the wiki and read the pointer code tutorials.
 
-~~~~
-# ID: GAMEID
-# Title:
-# Region:
-# Version:
-# Type:
-# Code Author:
-# Credits:
-# Wiki: https://github.com/r0ah/vitacheat/wiki/GAMEID
-# Source: https://github.com/r0ah/vitacheat/blob/master/GAMEID.psv
-# Original Source:
-# Note:
-~~~~
+## Reporting ##
 
-## Testing and Reporting for Issues ##
+There's no way I can test all the existing codes made by various code authors. You can help us by opening an issue. Please use the template!
 
-There's no way I can test all the existing codes made by various code authors. You can help us by opening an [issue](https://github.com/r0ah/vitacheat/issues/new) to report your findings.
+Before reporting any issues, make sure you have the same game version as the one indicated in the cheat file. Some cheat may require specific game version.
 
-Please always specify the following before opening an issue:
-
-* Game ID (ex: PCSE#####)
-* Game version
-* Game type (is it NoNpDrm/Vitamin/Mai/CP?)
+* <kbd>[Report an Issue](https://github.com/r0ah/vitacheat/issues/new/report-an-issue)</kbd>
+* <kbd>[Report your Findings](https://github.com/r0ah/vitacheat/issues/new/report-your-findings)</kbd>
 
 ## Request ##
 
-No requests.
+No requests!
+
+You can try making your own cheats (see [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)).
 
 ## Changelog ##
 
@@ -75,9 +58,7 @@ See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) 
 ## Links ##
 
    * [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)
-
    * [GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
-
    * [Finalcheat](http://finalcheat.github.io)
 
 ## Credits ##
