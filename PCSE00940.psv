@@ -7,31 +7,30 @@
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00940
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00940.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-84#post-8296568
-# Note: This is a collaboration between zacknova and me. Also I've been wanting to convert my ID tables to VitaCheat for a while now.
-#  - All static address made by zacknova
-#  - I've replaced all the static codes with pointer codes and adjusted the address for all zacknova's codes that use floating point and edited the values accordingly
-#  - Recovery "Skill Modifier" ID table and "Have All Items" ID table & the arranged pointer codes are mine. Initial address for Item (0x851A9AEA) & Skill credits to zacknova
-#  - The "Have All Item" cheats is now complete but item slot is limited to 0x44C so I had to make compromise:
-#    - All quest items has been removed to save space and because they might mess up with the activation flags. Iirc quest items are activated by picking them up or when given to you by NPC.
-#    - Removed currency items (items exchanged for haku)
-#    - Removed candies and dumplings because these can be bought at the store
-#  - See link for my outdated item table source (https://github.com/r0ah/PSVitaHEXEditGames/wiki/Toukiden-2)
+# Note: This is a collaboration between zacknova and me.
+#  - All static address made by zacknova except the tagged ones
+#  - I've replaced all of zacknova's static codes with pointer codes and adjusted the address for all codes that use floating point and edited the values accordingly
 
 _V0 moneyy
 $3201 81EFC1A8 00000280
 $3300 00000000 0098967F
 
+_V0 Zero Miasma
+$3202 81EFDA6C 00002AC4 #r0ah
+$3200 00000000 00005408
+$3300 00000000 00000000
+
 _V0 Have Max Item Slot
-$3101 81EFC1A8 00008B5C
+$3101 81EFC1A8 00008B5C #r0ah
 $3300 00000000 0000270F
 
 _V0 item quanlities
 $7101 81EFC1A8 00006836
 $7701 00000000 000003E7
-$044C 00000004 00000000 #MENU SAYS 0x44C BUT IT'S ACTUALLY 0x5DC BUT THEY PROGRAMMED THE GAME TO ONlY USE 0x44C
+$044C 00000004 00000000
 
 _V0 Have All Items [Note 1]
-$7101 81EFC1A8 00006836
+$7101 81EFC1A8 00006836 #r0ah
 $7701 00000000 000003E7
 $044C 00000004 00000000
 $7101 81EFC1A8 00006834
@@ -87,6 +86,17 @@ $7000 00000000 00008595
 $7702 00000000 00000063
 $0004 00000014 00000000
 
+_V0 Infinite Attack Skill
+$8202 81EFDA6C 00002AC4 #r0ah
+$8200 00000000 000085F0
+$8800 00000000 00000000
+$8502 81EFDA6C 00002AC4
+$8500 00000000 000085EC
+$8900 00000000 00000000
+$3002 81EFDA6C 00002AC4
+$3000 00000000 000085F4
+$3300 00000000 00000000
+
 _V0 WEAPON GAUGE max
 $3202 81EFDA6C 00002A94
 $3200 00000000 00008C54
@@ -99,7 +109,7 @@ $7702 00000000 44BB0000
 $0002 00000004 00000000
 
 _V0 STM GAUGE v2
-$8202 81EFDA6C 00002A94
+$8202 81EFDA6C 00002A94 #r0ah
 $8200 00000000 00008C4C
 $8800 00000000 00000000
 $8502 81EFDA6C 00002A94
@@ -116,7 +126,7 @@ $3200 00000000 00008C44
 $3300 00000000 44BB8000
 
 _V0 HP GAUGE v2
-$8202 81EFDA6C 00002A94
+$8202 81EFDA6C 00002A94 #r0ah
 $8200 00000000 00008C3C
 $8800 00000000 00000000
 $8502 81EFDA6C 00002A94
@@ -136,23 +146,28 @@ $3200 00000000 00008C5C
 $3300 00000000 447A0000
 
 _V0 Skill Slot 1 Modifier [Note 2]
-$3002 81EFDA6C 00002AC4
+$3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 00008584
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
 _V0 Skill Slot 2 Modifier [Note 2]
-$3002 81EFDA6C 00002AC4
+$3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 00008598
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
 _V0 Skill Slot 3 Modifier [Note 2]
-$3002 81EFDA6C 00002AC4
+$3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 000085AC
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
 _V0 Skill Slot 4 Modifier [Note 2]
-$3002 81EFDA6C 00002AC4
+$3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 000085C0
+$3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
+
+_V0 Attack Skill Modifier [Note 2]
+$3002 81EFDA6C 00002AC4 #r0ah
+$3000 00000000 000085E8
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
 _V0 Notes:
