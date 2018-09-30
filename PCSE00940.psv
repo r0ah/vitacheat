@@ -7,8 +7,8 @@
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00940
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00940.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-84#post-8296568
-# Note: This is a collaboration between zacknova and me.
-#  - All static address made by zacknova except the tagged ones
+# Note: This is a collaboration between zacknova and me
+#  - All static address made by zacknova except the tagged ones (see original source link above)
 #  - I've replaced all of zacknova's static codes with pointer codes and adjusted the address for all codes that use floating point and edited the values accordingly
 
 _V0 moneyy
@@ -86,7 +86,7 @@ $7000 00000000 00008595
 $7702 00000000 00000063
 $0004 00000014 00000000
 
-_V0 Infinite Attack Skill
+_V0 Attack Skill Max
 $8202 81EFDA6C 00002AC4 #r0ah
 $8200 00000000 000085F0
 $8800 00000000 00000000
