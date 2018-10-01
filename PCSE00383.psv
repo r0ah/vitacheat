@@ -7,6 +7,7 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00383.psv
 # Original Source: http://www.speedfly.cn/19462.html
 # Note: 3.60 变革10 with MaiDump Tool_V233.2zEx
+# Note 2: Will NOT work on NoNpDRM
 
 _V0 Skill Points 99
 $3202 821F39D0 00000024 
