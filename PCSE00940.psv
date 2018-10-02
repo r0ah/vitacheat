@@ -10,7 +10,7 @@
 # Note: This is a collaboration between zacknova and me
 #  - All static address made by zacknova except the tagged ones (see original source link above)
 #  - I've replaced all of zacknova's static codes with pointer codes and adjusted the address for all codes that use floating point and edited the values accordingly
-#  - Not confirmed but whenever I activate the cheat "Infinite Food/Shrine/Pool my save is messed up so I removed it
+#  - Have All Items, Attack Skill Max, STM GAUGE v2, HP GAUGE v2, Skill Slot Modifier & Attack Skill Modifier are based on zacknova's static address
 
 _V0 moneyy
 $3201 81EFC1A8 00000280
@@ -23,12 +23,12 @@ $3300 00000000 00000000
 
 _V0 Have Max Item Slot
 $3101 81EFC1A8 00008B5C #r0ah
-$3300 00000000 0000270F
+$3300 00000000 000005DC
 
 _V0 item quanlities
 $7101 81EFC1A8 00006836
 $7701 00000000 000003E7
-$044C 00000004 00000000
+$05DC 00000004 00000000
 
 _V0 Have All Items [Note 1]
 $7101 81EFC1A8 00006836 #r0ah
@@ -77,7 +77,37 @@ $7101 81EFC1A8 00007818
 $7701 00000000 00000450
 $0048 00000004 00000001
 
-_V0 SKIL 1 MAX1
+_V0 Boosts Replenish Whenever Returning to Mahoroba [Note 2]
+$8201 81EFC1A8 00000284 #r0ah
+$8800 00000000 00000000
+$8501 81EFC1A8 00000288
+$8900 00000000 00000000
+$8201 81EFC1A8 00000294
+$8800 00000000 00000000
+$8501 81EFC1A8 00000298
+$8900 00000000 00000000
+$8201 81EFC1A8 000002A4
+$8800 00000000 00000000
+$8501 81EFC1A8 000002A8
+$8900 00000000 00000000
+
+_V0 Can Order Food Again
+$3101 81EFC1A8 000002D4 #r0ah
+$3300 00000000 00000000
+
+_V0 Always Have Shrine Boosts [Note 3]
+$7201 81EFC1A8 00000294 #r0ah
+$7701 00000000 00034BC0
+$0002 00000010 00000000
+$7201 81EFC1A8 00000298
+$7701 00000000 00034BC0
+$0002 00000010 00000000
+$3201 81EFC1A8 0000029C
+$3300 00000000 000107D0
+$3201 81EFC1A8 000002AC
+$3300 00000000 000107D1
+
+_V0 SKIL MAX
 $7202 81EFDA6C 00002AC4
 $7200 00000000 0000858D
 $7702 00000000 00BF8000
@@ -146,36 +176,61 @@ $3202 81EFDA6C 00002A94
 $3200 00000000 00008C5C
 $3300 00000000 447A0000
 
-_V0 Skill Slot 1 Modifier [Note 2]
+_V0 Skill Slot 1 Modifier [Note 4]
 $3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 00008584
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
-_V0 Skill Slot 2 Modifier [Note 2]
+_V0 Skill Slot 2 Modifier [Note 4]
 $3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 00008598
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
-_V0 Skill Slot 3 Modifier [Note 2]
+_V0 Skill Slot 3 Modifier [Note 4]
 $3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 000085AC
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
-_V0 Skill Slot 4 Modifier [Note 2]
+_V0 Skill Slot 4 Modifier [Note 4]
 $3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 000085C0
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
 
-_V0 Attack Skill Modifier [Note 2]
+_V0 Attack Skill Modifier [Note 4]
 $3002 81EFDA6C 00002AC4 #r0ah
 $3000 00000000 000085E8
 $3300 00000000 00000000 #<---SET VALUE HERE: Skill ID
+
+_V0 Food Modifier [Note 4] [Note 3]
+$7201 81EFC1A8 00000284 #r0ah
+$7701 00000000 00034BC0
+$0002 00000004 00000000
+$3201 81EFC1A8 0000028C
+$3300 00000000 00010800 #<---SET VALUE HERE: Food ID
+
+_V0 Pool Slot 1 Modifier [Note 4] [Note 3]
+$3001 81EFC1A8 000002C1 #r0ah
+$3300 00000000 00000008
+$3201 81EFC1A8 000002BC
+$3300 00000000 00010700 #<---SET VALUE HERE: Pool ID
+
+_V0 Pool Slot 2 Modifier [Note 4] [Note 3]
+$3001 81EFC1A8 000002D1 #r0ah
+$3300 00000000 00000008
+$3201 81EFC1A8 000002CC
+$3300 00000000 00010700 #<---SET VALUE HERE: Pool ID
 
 _V0 Notes:
 $0000 00000000 00000000
 
 _V0 #1: Will remove quest items. Finish quest before activating.
+$0000 00000000 00000000 # Very useful for new players.
+
+_V0 #2: Must have Food/Pool/Shrine blessings before activating
 $0000 00000000 00000000
 
-_V0 #2: These is a modifier cheat. See Wiki for details.
+_V0 #3: The effect is instantaneous, only the menu is not updated.
+$0000 00000000 00000000 # Return to Mahoroba to reflect change in the boosts menu
+
+_V0 #4: These is a modifier cheat. See Wiki for details.
 $0000 00000000 00000000
