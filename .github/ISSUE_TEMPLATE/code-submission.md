@@ -33,6 +33,6 @@ Use the code header below:
 * **Version**: Do not leave this blank!
 * **Type**: Do not leave this blank either!
 * **Credits**: For example you've implemented other people's work such as item tables, add them here with links to their work. Remove this if none!
-* **Wiki**: If your code have **in-game notes** then add this.
+* **Wiki**: If your code have **in-game notes** then add this and I will add the wiki notes.
 * **Original Source**: This is the link to your website or thread where you originally posted this code. Remove this if none!
 * **Note**: This is the global notes, not in-game notes! for example you want to add your findings or you have something you want to share with us, etc. Remove if none!
