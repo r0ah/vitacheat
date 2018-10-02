@@ -1,5 +1,28 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00940 Toukiden 2** ([8d0ec2b9](https://github.com/r0ah/vitacheat/commit/8d0ec2b911c58054d2c13558aa4105cfe78aec28)): <kbd>Update</kbd>
+   * Fixed _Have Max Item Slot_ value
+   * Fixed _item quanlities_ value to reflect the value of _Have Max Item Slot_
+   * Boosts Replenish When Returning to Mahoroba
+   * Can Order Food Again
+   * Always Have Shrine Boosts
+   * Food Modifier
+   * Pool Modifier
+* **PCSE01111 Rabi-Ribi** ([b77b4d6a](https://github.com/r0ah/vitacheat/commit/b77b4d6a0420f24c3f2e4f59cd9c916eccba05c7)): <kbd>Update</kbd>
+   * Added Infinite Bunny En
+   * Updated address and added conditional statement for the DMA:
+      * Infinite Bunny HP
+      * Infinite Bunny SP
+      * Infinite Bunny Amulet
+      * Max Bunny Burst
+      * Infinite Fairy BP
+      * Infinite Fairy MP
+* **PCSE00940 Toukiden 2** ([5c33e111](https://github.com/r0ah/vitacheat/commit/5c33e111c87f228a39712e7ed261cf1db8941eef)): <kbd>Update</kbd>
+   * Zero Miasma
+   * Infinite Attack Skill
+   * Attack Skill Modifier
+* **PCSE00940 Toukiden 2** ([47f82723](https://github.com/r0ah/vitacheat/commit/47f827230f6fb0d9cd7ddc089a76f6c25493d4c7)): <kbd>Update</kbd>
+   * Have Max Item Slot
 * **PCSE00755 Digimon Story Cyber Sleuth** ([e2b22c77](https://github.com/r0ah/vitacheat/commit/e2b22c77c59555c1a7b2f7ef763837056ce86c46)): <kbd>Update</kbd>
    * Party Digimon: Make All Equipped Skills Inherited
    * Party Digimon: Quick Level 99
