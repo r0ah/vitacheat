@@ -10,6 +10,7 @@
 # Note: This is a collaboration between zacknova and me
 #  - All static address made by zacknova except the tagged ones (see original source link above)
 #  - I've replaced all of zacknova's static codes with pointer codes and adjusted the address for all codes that use floating point and edited the values accordingly
+#  - Not confirmed but whenever I activate the cheat "Infinite Food/Shrine/Pool my save is messed up so I removed it
 
 _V0 moneyy
 $3201 81EFC1A8 00000280
