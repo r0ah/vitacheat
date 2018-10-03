@@ -78,6 +78,7 @@
 * <kbd>[PCSE00429](https://github.com/r0ah/vitacheat/blob/master/PCSE00429.psv)</kbd> Tales of Hearts R
 * <kbd>[PCSE00442](https://github.com/r0ah/vitacheat/blob/master/PCSE00442.psv)</kbd> LEGO Batman 3 - Beyond Gotham
 * <kbd>[PCSE00449](https://github.com/r0ah/vitacheat/blob/master/PCSE00449.psv)</kbd> Rogue Legacy
+* <kbd>[PCSE00467](https://github.com/r0ah/vitacheat/blob/master/PCSE00467.psv)</kbd> Toukiden: Kiwami
 * <kbd>[PCSE00507](https://github.com/r0ah/vitacheat/blob/master/PCSE00507.psv)</kbd> The Binding of Isaac: Rebirth
 * <kbd>[PCSE00518](https://github.com/r0ah/vitacheat/blob/master/PCSE00518.psv)</kbd> Damascus Gear: Operation Tokyo
 * <kbd>[PCSE00536](https://github.com/r0ah/vitacheat/blob/master/PCSE00536.psv)</kbd> FANTASY HERO ～unsigned legacy～
