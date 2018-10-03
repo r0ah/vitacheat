@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00467 Toukiden: Kiwami** ([be4a83ae](https://github.com/r0ah/vitacheat/commit/be4a83aeada57247c4b9cc7a6832d5b3806550d6)): <kbd>Added</kbd>
 * **PCSE00940 Toukiden 2** ([8d0ec2b9](https://github.com/r0ah/vitacheat/commit/8d0ec2b911c58054d2c13558aa4105cfe78aec28)): <kbd>Update</kbd>
    * Fixed _Have Max Item Slot_ value
    * Fixed _item quanlities_ value to reflect the value of _Have Max Item Slot_
