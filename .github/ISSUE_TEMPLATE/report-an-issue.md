@@ -4,6 +4,9 @@ about: Create a report to help us improve the psv cheat
 
 ---
 
+**Note**:
+Before reporting any issues, make sure you have the same game version as the one indicated in the cheat file. Some cheat may require specific game version.
+
 **Describe the issue**
 Add here the clear and concise description of what the issue is.
 
