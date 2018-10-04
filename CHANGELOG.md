@@ -1,5 +1,24 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00120 Persona 4 Golden** ([77f6a592](https://github.com/r0ah/vitacheat/commit/77f6a592e464b4c2be50cf3ace485eb89147f389)): <kbd>Update</kbd>
+   * Cleaned useless code descriptors to make way for the Persona (rare) skill modifiers
+* **PCSE00940 Toukiden 2** ([ae88cb12](https://github.com/r0ah/vitacheat/commit/ae88cb124bbd648b00df95a0cdb970e0d27133c3)): <kbd>Update</kbd>
+   * Minor update of SKIL MAX (much elegant code)
+* **PCSE00467 Toukiden: Kiwami** ([373151b9](https://github.com/r0ah/vitacheat/commit/373151b935974aa7358aa03d3f44714a02df22cc)): <kbd>Update</kbd>
+   * Replaced the static codes to pointer codes:
+      * Infinite Haku
+      * Max Storage Slot
+      * Max All Items
+   * Added:
+      * Have All Items
+      * Have Gold Store Patronage
+      * Infinite HP
+      * Infinite HP v2
+      * Infinite Focus
+      * Infinite Focus v2
+      * Max Weapon Gauge
+      * Infinite Skill
+      * Skill Slot Modifier(s)
 * **PCSE00467 Toukiden: Kiwami** ([be4a83ae](https://github.com/r0ah/vitacheat/commit/be4a83aeada57247c4b9cc7a6832d5b3806550d6)): <kbd>Added</kbd>
 * **PCSE00940 Toukiden 2** ([8d0ec2b9](https://github.com/r0ah/vitacheat/commit/8d0ec2b911c58054d2c13558aa4105cfe78aec28)): <kbd>Update</kbd>
    * Fixed _Have Max Item Slot_ value
@@ -126,7 +145,7 @@ All notable changes to this project will be documented in this file.
    * 6x Bonus-PSN-Bowling
 * **PCSH10025 Berserk and the Band of the Hawk** ([88bd5760](https://github.com/r0ah/vitacheat/commit/88bd57602d7a3c9d8711131de6bee722456fdc24)): <kbd>Added</kbd>
 * **PCSG00009 Tales of Innocence R** ([d1c81849](https://github.com/r0ah/vitacheat/commit/d1c81849e2538d43b1196ec1874874180b599e5b)): <kbd>Added</kbd>
-* **PCSH00220 Atelier Sophie ~The Alchemist of the Mysterious Book~** ([be09ab25](https://github.com/r0ah/vitacheat/commit/be09ab257a0d2f38d46ad021c0e0babc49bf8973)): <kbd>Added</kbd>
+* **PCSH00220 Atelier Sophie ～The Alchemist of the Mysterious Book～** ([be09ab25](https://github.com/r0ah/vitacheat/commit/be09ab257a0d2f38d46ad021c0e0babc49bf8973)): <kbd>Added</kbd>
 * **PCSH00132 GUNDAM BREAKER 2** ([ff675eb1](https://github.com/r0ah/vitacheat/commit/ff675eb1e6109aa9ae8fafc751b19305898992ce)): <kbd>Added</kbd>
 * **PCSH10089 SUPER ROBOT WARS X** ([7a09a154](https://github.com/r0ah/vitacheat/commit/7a09a154aa5cce735984e40e8fb5bdf7c1c4f7f3)): <kbd>Added</kbd>
 * **PCSH10038 Accel World vs Sword Art Online: Millennium Twilight** ([7361f462](https://github.com/r0ah/vitacheat/commit/7361f462630a77425c1f236280af3a0f07e61ef7)): <kbd>Added</kbd>
