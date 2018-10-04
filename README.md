@@ -25,29 +25,20 @@ You can download vosman's cheat plugins from [this](https://github.com/r0ah/vita
 
 ## Submissions ##
 
-You can submit your own codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new/code-submission). Please use the template!
+You can submit cheat codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new/cheat-code-submission). Please use the template, I will close submission that doesn't follow the instructions!
 
-You can also submit your codes in this [thread](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). I don't visit everyday so mention my GBAtemp username `@Roah`.
-
-Before you submit your codes you have to test it in this condition:
-
-1. Close the game's bubble to restart the game
-2. Do a full shutdown of your PSVita by holding the power button
-
-If cheat doesn't work after doing all the steps then the game have DMA so don't submit it. To fix your code, go to the wiki and read the pointer code tutorials.
+You can also submit cheat codes in this [thread](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). I don't visit everyday so mention my GBAtemp username `@Roah`.
 
 ## Reporting ##
 
-There's no way I can test all the existing codes made by various code authors. You can help us by opening an issue. Please use the template below!
-
-Before reporting any issues, make sure you have the same game version as the one indicated in the cheat file. Some cheat may require specific game version.
+There's no way I can test all the existing cheat code made by various code authors. You can help us by opening an issue. Please use the template below!
 
 * <kbd>[Report an Issue](https://github.com/r0ah/vitacheat/issues/new/report-an-issue)</kbd>
 * <kbd>[Report your Findings](https://github.com/r0ah/vitacheat/issues/new/report-your-findings)</kbd>
 
 ## Request ##
 
-No requests!
+Nope!
 
 ## Changelog ##
 
