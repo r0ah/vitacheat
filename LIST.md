@@ -140,6 +140,7 @@
 * <kbd>[PCSG00213](https://github.com/r0ah/vitacheat/blob/master/PCSG00213.psv)</kbd> Dragon Ball Z: Battle of Z
 * <kbd>[PCSG00225](https://github.com/r0ah/vitacheat/blob/master/PCSG00225.psv)</kbd> Makai Senki Disgaea 4 Return
 * <kbd>[PCSG00264](https://github.com/r0ah/vitacheat/blob/master/PCSG00264.psv)</kbd> Super Robot Wars Z Jigoku Hen
+* <kbd>[PCSG00351](https://github.com/r0ah/vitacheat/blob/master/PCSG00351.psv)</kbd> Phantasy Star Nova
 * <kbd>[PCSG00355](https://github.com/r0ah/vitacheat/blob/master/PCSG00355.psv)</kbd> IA/VT -COLORFUL-
 * <kbd>[PCSG00408](https://github.com/r0ah/vitacheat/blob/master/PCSG00408.psv)</kbd> Child of Light
 * <kbd>[PCSG00422](https://github.com/r0ah/vitacheat/blob/master/PCSG00422.psv)</kbd> Love Live! School Idol Paradise Vol. 1: Printemps Unit
