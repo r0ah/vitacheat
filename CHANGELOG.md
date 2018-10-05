@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00244 Valhalla Knights 3** ([84fd60dc](https://github.com/r0ah/vitacheat/commit/84fd60dc9e6a5c824ada119678821a77bbab0461)): <kbd>Update</kbd>
+   * Replaced all static cheat codes to pointer codes
 * **PCSE00120 Persona 4 Golden** ([77f6a592](https://github.com/r0ah/vitacheat/commit/77f6a592e464b4c2be50cf3ace485eb89147f389)): <kbd>Update</kbd>
    * Cleaned useless code descriptors to make way for the Persona (rare) skill modifiers
 * **PCSE00940 Toukiden 2** ([ae88cb12](https://github.com/r0ah/vitacheat/commit/ae88cb124bbd648b00df95a0cdb970e0d27133c3)): <kbd>Update</kbd>
