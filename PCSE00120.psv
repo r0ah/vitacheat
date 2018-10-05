@@ -18,8 +18,8 @@ _V0 Infinite Current MP [Note 1]
 $4101 814B3C9A 000003E7
 $0008 00000084 00000000
 
-_V0 Change Difficulty [Note 2]
-$0000 814B46F4 00000000 #CONDENSED BECAUSE CHEAT IS FULL
+_V0 Difficulty Modifier [Note 2]
+$0000 814B46F4 00000000 #<---SET VALUE HERE: ENTER THE DIFFICULTY ID
 
 _V0 Inventory Items: Have All Expendables
 $4001 814B334D 00000063
@@ -451,8 +451,8 @@ $0000 00000000 00000000
 _V0 #1: Not permanent. Game auto-corrects at certain points.
 $0000 00000000 00000000  
 
-_V0 #2: 1=Very Easy | 2=Easy | 3=Normal | 4=Hard | 5=Very Hard
-$0000 00000000 00000000 #To edit difficulty launch VitaCheat and go to the 'Cheat List' menu. Select the cheat 'Change Difficulty' and press the triangle button. Press the okay button to select address and use the D-Pad to modify the value. Refer to the values listed above.
+_V0 #2: This is a modifier cheat. See Wiki for details.
+$0000 00000000 00000000
 
 _V0 #3: Choose one STR/SUN SL based on what you've unlocked
 $0000 00000000 00000000
