@@ -1,5 +1,9 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSG00351 Phantasy Star Nova** ([ecaa9f4f](https://github.com/r0ah/vitacheat/commit/ecaa9f4f582a2f8b5d5c13fb0bf2f46d45607b53)): <kbd>Update</kbd>
+   * Max Inventory Items
+   * Max Storage Items
+* **PCSG00351 Phantasy Star Nova** ([50db14c8](https://github.com/r0ah/vitacheat/commit/50db14c80f26b923f72fb8b833c163ce6bb43b5b)): <kbd>Added</kbd>
 * **PCSE00244 Valhalla Knights 3** ([84fd60dc](https://github.com/r0ah/vitacheat/commit/84fd60dc9e6a5c824ada119678821a77bbab0461)): <kbd>Update</kbd>
    * Replaced all static cheat codes to pointer codes
 * **PCSE00120 Persona 4 Golden** ([77f6a592](https://github.com/r0ah/vitacheat/commit/77f6a592e464b4c2be50cf3ace485eb89147f389)): <kbd>Update</kbd>
