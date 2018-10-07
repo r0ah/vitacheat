@@ -6,9 +6,9 @@
 # Code Author: r0ah (NoNpDrm), Fullcodes & dask (MaiDump)
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00383.psv
 # Original Source: http://www.speedfly.cn/19462.html
-# Note:
-#  - NoNpDrm: Code made from scratch, not converted from the MaiDump.
+# Note: Reboot game if not work
 #  - MaiDump: 3.60 变革10 with MaiDump Tool_V233.2zEx
+#  - NoNpDrm: Most of the codes are made from scratch but I ended up converting the Badass Tokens. Credits to the original code authors Fullcodes and dask.
 
 _V0 Infinite Money (NoNpDrm)
 $3202 8334480C 000008C2
@@ -17,18 +17,34 @@ $3300 00000000 05F5E0FF
 
 _V0 Infinite Eridium (NoNpDrm)
 $3102 8334480C 000008C2
-$3100 00000000 000002A4
+$3100 00000000 000002B8
 $3300 00000000 000001F4
 
-_V0 Max Skill Points [Triangle=Max / Start=Zero] (NoNpDrm)
-$C203 00000001 00001000
+_V0 Max Skill Points [Select=Max / Start=Zero] (NoNpDrm)
+$C203 00000001 00000001
 $3002 8334480C 000008C2
 $3000 00000000 00000278
 $3300 00000000 00000063
 $C203 00000001 00000008
 $3002 8334480C 000008C2
 $3000 00000000 00000278
-$3300 00000000 00000063
+$3300 00000000 00000000
+
+_V0 Max Badass Tokens (NoNpDrm)
+$3203 8334480C 000008C2
+$3200 00000000 000000A8
+$3200 00000000 00001678
+$3300 00000000 000003E7
+
+_V0 Instant Max Level (NoNpDrm)
+$8203 824F16AC 000004D8
+$8200 00000000 00000C98
+$8200 00000000 000001A0
+$8800 00000000 00000000
+$8603 824F16AC 000004D8
+$8600 00000000 00000C98
+$8600 00000000 0000018C
+$8900 00000000 00000000
 
 _V0 Skill Points 99 (MaiDump)
 $3202 821F39D0 00000024 
