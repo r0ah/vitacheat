@@ -156,7 +156,7 @@
 * <kbd>[PCSG00632](https://github.com/r0ah/vitacheat/blob/master/PCSG00632.psv)</kbd> VALKYRIE DRIVE -BHIKKHUNI-
 * <kbd>[PCSG00677](https://github.com/r0ah/vitacheat/blob/master/PCSG00677.psv)</kbd> The Idol M@ster: Must Songs - Red Album
 * <kbd>[PCSG00678](https://github.com/r0ah/vitacheat/blob/master/PCSG00678.psv)</kbd> The Idol M@ster: Must Songs - Blue Album
-* <kbd>[PCSG00685](https://github.com/r0ah/vitacheat/blob/master/PCSG00685.psv)</kbd> DEEMO ~The Last Recital~
+* <kbd>[PCSG00685](https://github.com/r0ah/vitacheat/blob/master/PCSG00685.psv)</kbd> DEEMO ～The Last Recital～
 * <kbd>[PCSG00687](https://github.com/r0ah/vitacheat/blob/master/PCSG00687.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSG00687)</kbd> The Caligula Effect
 * <kbd>[PCSG00820](https://github.com/r0ah/vitacheat/blob/master/PCSG00820.psv)</kbd> Dragon Quest Heroes II
 * <kbd>[PCSG00881](https://github.com/r0ah/vitacheat/blob/master/PCSG00881.psv)</kbd> Ys VIII: Lacrimosa of Dana
@@ -186,7 +186,7 @@
 * <kbd>[PCSH00202](https://github.com/r0ah/vitacheat/blob/master/PCSH00202.psv)</kbd> One Piece Burning Blood
 * <kbd>[PCSH00207](https://github.com/r0ah/vitacheat/blob/master/PCSH00207.psv)</kbd> Gundam Breaker 3 (Chinese Edition)
 * <kbd>[PCSH00218](https://github.com/r0ah/vitacheat/blob/master/PCSH00218.psv)</kbd> Odin Sphere Leifthrasir
-* <kbd>[PCSH00220](https://github.com/r0ah/vitacheat/blob/master/PCSH00220.psv)</kbd> Atelier Sophie ~The Alchemist of the Mysterious Book~
+* <kbd>[PCSH00220](https://github.com/r0ah/vitacheat/blob/master/PCSH00220.psv)</kbd> Atelier Sophie ～The Alchemist of the Mysterious Book～
 * <kbd>[PCSH00221](https://github.com/r0ah/vitacheat/blob/master/PCSH00221.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSH00221)</kbd> Dragon Quest Builders
 * <kbd>[PCSH00241](https://github.com/r0ah/vitacheat/blob/master/PCSH00241.psv)</kbd> SD GUNDAM G GENERATION GENESIS
 * <kbd>[PCSH00242](https://github.com/r0ah/vitacheat/blob/master/PCSH00242.psv)</kbd> SD GUNDAM G GENERATION GENESIS English Ver.
