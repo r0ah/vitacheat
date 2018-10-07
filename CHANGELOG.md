@@ -1,5 +1,13 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00383 Borderlands 2** ([33581185](https://github.com/r0ah/vitacheat/commit/3358118500981319f8d636fa49260889852ed746)): <kbd>Update</kbd>
+   * Max Badass Tokens (NoNpDrm)
+   * Instant Max Level (NoNpDrm)
+* **PCSE00383 Borderlands 2** ([3d3046c9](https://github.com/r0ah/vitacheat/commit/3d3046c913b2c887c4e7635534bbe60dd9e1f093)): <kbd>Update</kbd>
+   * Added my own codes. Made from scratch, not converted:
+      * Infinite Money (NoNpDrm)
+      * Infinite Eridium (NoNpDrm)
+      * Max Skill Points [Triangle=Max / Start=Zero] (NoNpDrm)
 * **PCSG00351 Phantasy Star Nova** ([ecaa9f4f](https://github.com/r0ah/vitacheat/commit/ecaa9f4f582a2f8b5d5c13fb0bf2f46d45607b53)): <kbd>Update</kbd>
    * Max Inventory Items
    * Max Storage Items
