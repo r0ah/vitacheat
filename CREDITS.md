@@ -21,6 +21,7 @@
    * gayfriend
    * InfamousK
    * Junliang
+   * KiraYamatoSD
    * Larry Dungo
    * Makein
    * Mapachillo
