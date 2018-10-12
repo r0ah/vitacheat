@@ -1,15 +1,29 @@
 # ID: PCSB00397
 # Title: Angry Birds - Star Wars
-# Region: EU
+# Region: EUR
 # Version: 1.00
 # Type: NoNpDRM
 # Code Author: Smich
 # Credits: Smich
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSB00397
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00397.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-87#post-8310896
 # If the Code stopes working, Exit the Game completely, then run it again. Will run again on Stage you were on.
 # Code also has Issues with Controls for some reason.
 
-_V0 Always 100000 Points
+_V0 Always 100000 Points [Note 1]
 $3202 8183B960 00000000
 $3200 00000000 0000000C
 $3300 00000000 000186A0
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1a: If the Code stopes working, Exit the Game completely,
+$0000 00000000 00000000
+
+_V0 #1b: then run it again. Will run again on Stage you were on.
+$0000 00000000 00000000
+
+_V0 #1c: Code also has Issues with Controls for some reason.
+$0000 00000000 00000000
