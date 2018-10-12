@@ -4,7 +4,7 @@ about: Submit your cheat code using this template
 
 ---
 
-> **Note**: Do not forget to include the **Version** and **Type**! If you don't specify the version then I'll just assume it use the base version. If no type is specified I won't add your cheat code in the database until you specify the type in the issue comments.	
+Did you create the cheat code or you're only sharing it? Please specify it to avoid confusion. Also, do not forget to include the **Version** and **Type**! If you don't specify the version then I'll just assume it's for the base version which is 1.00. If no type is specified then I won't add your cheat code in the database until you specify it in the issue comments.	
 
 ## Testing tour Cheat Codes ##
 
