@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE01034 Berserk and the Band of the Hawk** ([d135fccf](https://github.com/r0ah/vitacheat/commit/d135fccf0bdc4492603aacfd82d27cbeff5ad26c)): <kbd>Update</kbd>
+   * double slot MAX by ymbgames
 * **PCSG00954 Sengoku Musou: Sanada Maru** ([ee07b057](https://github.com/r0ah/vitacheat/commit/ee07b05775a655f6a048a2576e1b460b54bca940)): <kbd>Added</kbd>
 * **PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory** ([1fbb251c](https://github.com/r0ah/vitacheat/commit/1fbb251c2411bcf0c097c1d153ebce60b5e19309)): <kbd>Update</kbd>
    * Have Popular Guys Guide in Slot #1 by KiraYamatoSD
