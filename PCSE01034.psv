@@ -3,10 +3,14 @@
 # Region: USA
 # Version: 1.01
 # Type: NoNpDrm
-# Code Author: Larry Dungo, Aichitaka/Jialeyne19
+# Code Author: Larry Dungo, ymbgames
+# Credits: Aichitaka/Jialeyne19
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01034.psv
 # Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3539-pcse01034-berserk-and-the-band-of-the-hawk-us#post3539
 # Note: 3.65 Vita. Use vitacheat v3.
+
+_V0 double slot MAX
+$0200 8747D144 00000005 #ymbgames
 
 _V0 >>>>Created By Larry Dungo<<<<
 $0000 00000000 00000000
