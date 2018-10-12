@@ -45,6 +45,7 @@ Use the code header below.
    * MaiDump
    * CompPack
    * NoNpDrm
+* **Code Author:**: Are you the creator then add your name. Use credits if you're sharing other peoples work.
 * **Credits**: For example you've implemented other people's work such as item tables, add them here with links to their work. Remove this if none.
 * **Wiki**: If your cheat code have **in-game notes** then add this and I will add the wiki notes myself. Remove this if none.
 * **Original Source**: This is the link to your website or thread where you **originally posted this cheat code**. Remove this if none.
