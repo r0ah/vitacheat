@@ -21,7 +21,7 @@
 * <kbd>[PCSB00356](https://github.com/r0ah/vitacheat/blob/master/PCSB00356.psv)</kbd> Injustice: Gods Among Us Ultimate Edition
 * <kbd>[PCSB00394](https://github.com/r0ah/vitacheat/blob/master/PCSB00394.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSB00394)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSB00395](https://github.com/r0ah/vitacheat/blob/master/PCSB00395.psv)</kbd> Final Fantasy X HD Remaster
-* <kbd>[PCSB00395](https://github.com/r0ah/vitacheat/blob/master/PCSB00395.psv)</kbd> Angry Birds - Star Wars
+* <kbd>[PCSB00397](https://github.com/r0ah/vitacheat/blob/master/PCSB00397.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSB00397)</kbd> Angry Birds - Star Wars
 * <kbd>[PCSB00416](https://github.com/r0ah/vitacheat/blob/master/PCSB00416.psv)</kbd> Table Top Racing
 * <kbd>[PCSB00473](https://github.com/r0ah/vitacheat/blob/master/PCSB00473.psv)</kbd> Monster Monpiece
 * <kbd>[PCSB00497](https://github.com/r0ah/vitacheat/blob/master/PCSB00497.psv)</kbd> Ys: Memories of Celceta
@@ -42,6 +42,7 @@
 * <kbd>[PCSD00040](https://github.com/r0ah/vitacheat/blob/master/PCSD00040.psv)</kbd> PlayStation All-Stars Battle Royale
 * <kbd>[PCSD00071](https://github.com/r0ah/vitacheat/blob/master/PCSD00071.psv)</kbd> Killzone: Mercenary
 * <kbd>[PCSD00079](https://github.com/r0ah/vitacheat/blob/master/PCSD00079.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSD00079)</kbd> Soul Sacrifice Delta
+* <kbd>[PCSD00082](https://github.com/r0ah/vitacheat/blob/master/PCSD00082.psv)</kbd> Dead Nation
 * <kbd>[PCSD00084](https://github.com/r0ah/vitacheat/blob/master/PCSD00084.psv)</kbd> Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2
 * <kbd>[PCSD00087](https://github.com/r0ah/vitacheat/blob/master/PCSD00087.psv)</kbd> Freedom Wars
 * <kbd>[PCSE00001](https://github.com/r0ah/vitacheat/blob/master/PCSE00001.psv)</kbd> Ridge Racer
@@ -163,6 +164,7 @@
 * <kbd>[PCSG00881](https://github.com/r0ah/vitacheat/blob/master/PCSG00881.psv)</kbd> Ys VIII: Lacrimosa of Dana
 * <kbd>[PCSG00946](https://github.com/r0ah/vitacheat/blob/master/PCSG00946.psv)</kbd> Penny-Punching Princess
 * <kbd>[PCSG00947](https://github.com/r0ah/vitacheat/blob/master/PCSG00947.psv)</kbd> Macross Delta Scramble
+* <kbd>[PCSG00954](https://github.com/r0ah/vitacheat/blob/master/PCSG00954.psv)</kbd> Sengoku Musou: Sanada Maru
 * <kbd>[PCSG01121](https://github.com/r0ah/vitacheat/blob/master/PCSG01121.psv)</kbd> Seiken Densetsu 2: Secret of Mana
 * <kbd>[PCSH00019](https://github.com/r0ah/vitacheat/blob/master/PCSH00019.psv)</kbd> DJMAX TECHNIKA TUNE (English/Korean Ver.)
 * <kbd>[PCSH00042](https://github.com/r0ah/vitacheat/blob/master/PCSH00042.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSH00042)</kbd> Final Fantasy X HD Remaster (Chinese/Korean Ver.)
@@ -196,6 +198,7 @@
 * <kbd>[PCSH10001](https://github.com/r0ah/vitacheat/blob/master/PCSH10001.psv)</kbd> Super Robot Wars V (English Version)
 * <kbd>[PCSH10004](https://github.com/r0ah/vitacheat/blob/master/PCSH10004.psv)</kbd> Super Robot Wars V (Chinese Version)
 * <kbd>[PCSH10025](https://github.com/r0ah/vitacheat/blob/master/PCSH10025.psv)</kbd> Berserk and the Band of the Hawk
+* <kbd>[PCSH10037](https://github.com/r0ah/vitacheat/blob/master/PCSH10037.psv)</kbd> MUSOU Stars
 * <kbd>[PCSH10038](https://github.com/r0ah/vitacheat/blob/master/PCSH10038.psv)</kbd> Accel World vs Sword Art Online: Millennium Twilight
 * <kbd>[PCSH10049](https://github.com/r0ah/vitacheat/blob/master/PCSH10049.psv)</kbd> Ys Origin
 * <kbd>[PCSH10059](https://github.com/r0ah/vitacheat/blob/master/PCSH10059.psv)</kbd> Digimon Story Cyber Sleuth Hacker's Memory (Chinese Ver.)
