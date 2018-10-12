@@ -1,0 +1,15 @@
+# ID: PCSG00954
+# Title: Sengoku Musou: Sanada Maru
+# Region: JPN
+# Version: 1.05
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00954.psv
+# Original Source: http://www.speedfly.cn/22415.html
+
+_V0 金钱变动后最大//Change Money Max
+$B200 00000000 00000000
+$A100 000E7A2E 00001C00
+$A200 000E7A60 203FF244
+$A200 000E7A64 000FF2C0
+$A100 000E7A68 00001C00
