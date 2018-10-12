@@ -1,6 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
-* **PCSF00482 Ratchet & Clank Trilogy** ([d135fccf](https://github.com/r0ah/vitacheat/commit/d135fccf0bdc4492603aacfd82d27cbeff5ad26c)): <kbd>Added</kbd>
+* **PCSF00482 Ratchet & Clank Trilogy** ([627b3d59](https://github.com/r0ah/vitacheat/commit/627b3d59c5a1423fc389c4eb6fe45b7962fff458)): <kbd>Added</kbd>
 * **PCSE01034 Berserk and the Band of the Hawk** ([d135fccf](https://github.com/r0ah/vitacheat/commit/d135fccf0bdc4492603aacfd82d27cbeff5ad26c)): <kbd>Update</kbd>
    * double slot MAX by ymbgames
 * **PCSG00954 Sengoku Musou: Sanada Maru** ([ee07b057](https://github.com/r0ah/vitacheat/commit/ee07b05775a655f6a048a2576e1b460b54bca940)): <kbd>Added</kbd>
