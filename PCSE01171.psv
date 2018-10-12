@@ -3,7 +3,7 @@
 # Region: USA
 # Version: 1.05
 # Type: NoNpDrm
-# Code Author: r0ah
+# Code Author: r0ah, KiraYamatoSD
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00755#PCSE01171
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01171.psv
 
@@ -33,6 +33,14 @@ $0000 830C7CEC 00000036
 $0000 830C7CF4 00000063
 $D202 82FD9335 00AC85E5
 $0000 82FC7CEC 00000036
+$0000 82FC7CF4 00000063
+
+_V0 Have Popular Guys Guide in Slot #1 [Note 1]
+$D202 830D9335 00AC85E5 #KiraYamatoSD
+$0000 830C7CEC 000000D6
+$0000 830C7CF4 00000063
+$D202 82FD9335 00AC85E5
+$0000 82FC7CEC 000000D6
 $0000 82FC7CF4 00000063
 
 _V0 Max Scan [Note 2]
@@ -178,7 +186,7 @@ $0000 82FD932C 00000000
 _V0 Notes:
 $0000 00000000 00000000
 
-_V0 #1: Sell existing Brave Point A before activating the cheat
+_V0 #1: Sell existing item before activating the cheat
 $0000 00000000 00000000 # To avoid duplicate
 
 _V0 #2: For all Digimon encountered, even guest Digimons
