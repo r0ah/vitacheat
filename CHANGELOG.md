@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSB00397 Angry Birds - Star Wars** ([d7cab292](https://github.com/r0ah/vitacheat/commit/d7cab292f7b25eadc1babbb0f2b3379b730c68a9)): <kbd>Added</kbd>
 * **PCSE00383 Borderlands 2** ([33581185](https://github.com/r0ah/vitacheat/commit/3358118500981319f8d636fa49260889852ed746)): <kbd>Update</kbd>
    * Max Badass Tokens (NoNpDrm) - This was converted from the MaiDump
    * Instant Max Level (NoNpDrm) - Made from scratch
