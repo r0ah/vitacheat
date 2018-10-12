@@ -125,6 +125,7 @@
 * <kbd>[PCSE01262](https://github.com/r0ah/vitacheat/blob/master/PCSE01262.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSE01262)</kbd> Bloodstained: Curse of the Moon
 * <kbd>[PCSF00427](https://github.com/r0ah/vitacheat/blob/master/PCSF00427.psv)</kbd> Dead Nation
 * <kbd>[PCSF00446](https://github.com/r0ah/vitacheat/blob/master/PCSF00446.psv)</kbd> Freedom Wars
+* <kbd>[PCSF00482](https://github.com/r0ah/vitacheat/blob/master/PCSF00482.psv)</kbd> Ratchet & Clank Trilogy
 * <kbd>[PCSF00484](https://github.com/r0ah/vitacheat/blob/master/PCSF00484.psv)</kbd> Ratchet and Clank
 * <kbd>[PCSF00485](https://github.com/r0ah/vitacheat/blob/master/PCSF00485.psv)</kbd> Ratchet and Clank 2
 * <kbd>[PCSF00486](https://github.com/r0ah/vitacheat/blob/master/PCSF00486.psv)</kbd> Ratchet and Clank 3

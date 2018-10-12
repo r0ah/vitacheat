@@ -1,0 +1,166 @@
+# ID: PCSF00482
+# Title: Ratchet & Clank Trilogy
+# Region: EUR
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Demolinizer
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSF00482.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/22
+
+_V0 { Ratchet and Clank 1 Codes }
+$0000 00000000 00000000
+
+_V0 Infinite Health
+$0000 818D8848 00000004
+
+_V0 Infinite Air
+$0200 818D8840 00002710
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 818D68AC FFFF0000
+$C203 00000001 00000000
+$0200 818D68AC 00000000
+
+_V0 Infinite/Max Bolts
+$0200 818D6560 3B9AC9FF
+
+_V0 Infinite Bombs
+$0000 818D8994 00000028
+
+_V0 Infinite Pyrocitor Ammo
+$0000 818D89AC 000000F0
+
+_V0 Infinite Blaster Ammo
+$0000 818D89A8 000000C8
+
+_V0 Infinite Glove of Doom Ammo
+$0000 818D89BC 0000000A
+
+_V0 Infinite Mine Glove Ammo
+$0000 818D89B0 00000032
+
+_V0 Infinite R.Y.N.O. Ammo
+$0000 818D89C8 00000032
+
+_V0 { Ratchet and Clank 2 Codes }
+$0000 00000000 00000000
+
+_V0 Infinite Health
+$0000 821C60EC 00000004
+
+_V0 Max Health
+$0200 81FEAEAC 0003087D
+
+_V0 Infinite/Max Health
+$0000 821C60EC 00000014
+$0200 81FEAEAC 0003087D
+
+_V0 Infinite/Max Bolts
+$0200 821C6F40 3B9AC9FF
+$0200 81FEAE98 3B9AC9FF
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 821C3F6C FFFF0000
+$C203 00000001 00000000
+$0200 821C3F6C 00000000
+
+_V0 { SHIP CODES }
+$0000 00000000 00000000
+
+_V0 Infinite Health
+$0000 8231B2B8 00000064
+
+_V0 Infinite Shield
+$0000 8201858C 00000020
+
+_V0 Infinite Boost
+$0200 820185B4 00000248
+
+_V0 Infinite Missiles
+$0000 820184C4 0000000A
+
+_V0 0 Ships Remain
+$0000 8231B2A0 00000000
+
+_V0 Max Raritanium
+$0200 81FEAE9C 3B9AC9FF
+
+_V0 { AMMO CODES }
+$0000 00000000 00000000
+
+_V0 Infinite Lancer Ammo
+$0000 821C62E4 000000C8
+
+_V0 Infinite Gravity Bombs
+$0000 821C6314 00000008
+
+_V0 Infinite Chopper Ammo
+$0000 821C62C4 00000023
+
+_V0 Infinite Blitz Gun Ammo
+$0000 821C62D4 00000028
+
+_V0 Infinite Pulse Rifle
+$0000 821C62C8 00000008
+
+_V0 Infinite Miniturret Glove
+$0000 821C6310 00000014
+
+_V0 { WEAPON UPGRADE CODES }
+$0000 00000000 00000000
+
+_V0 Lancer to Heavy Lancer
+$0200 821C65A9 00000023
+
+_V0 Gravity Bomb to Mini Nuke
+$0200 821C65D9 00000019
+
+_V0 Chopper to Multi Star
+$0000 821C6589 00000040
+
+_V0 Blitz Gun to Blitz Cannon
+$0200 821C6599 0000005E
+
+_V0 Pulse Rifle to Vaporizer
+$0000 821C658D 00000013
+
+_V0 Miniturret to Megaturret Glove
+$0000 821C65D5 0000006D
+
+_V0 { Ratchet and Clank 3 Codes }
+$0000 00000000 00000000
+
+_V0 Infinite/Max Health
+$0100 81A0F700 000003E7
+
+_V0 Infinite/Max Bolts
+$0200 81816508 3B9AC9FF
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 81A0D21C FFFF0000
+$C203 00000001 00000000
+$0200 81A0D21C 00000000
+
+_V0 Infinite AMMO Shock Blaster
+$0200 81A0F99C 00000518
+
+_V0 Infinite Ammo Nitro Laucher
+$0200 81A0FADC 00000204
+
+_V0 Infinite Ammo Plasma Whip
+$0200 81A0FAFC 00000204
+
+_V0 Infinite Ammo N60 Storm
+$0200 81A0F9BC 00000204
+
+_V0 Infinite Ammo Infector
+$0200 81A0F9DC 00000204
+
+_V0 Infinite Ammo Spitting Hydra
+$0200 81A0FA1C 00000204
+
+_V0 Infinite Ammo Quark's Blaster
+$0200 81A0E9B8 00000014
