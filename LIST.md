@@ -21,6 +21,7 @@
 * <kbd>[PCSB00356](https://github.com/r0ah/vitacheat/blob/master/PCSB00356.psv)</kbd> Injustice: Gods Among Us Ultimate Edition
 * <kbd>[PCSB00394](https://github.com/r0ah/vitacheat/blob/master/PCSB00394.psv)</kbd><kbd>[Notes](https://github.com/r0ah/vitacheat/wiki/PCSB00394)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSB00395](https://github.com/r0ah/vitacheat/blob/master/PCSB00395.psv)</kbd> Final Fantasy X HD Remaster
+* <kbd>[PCSB00395](https://github.com/r0ah/vitacheat/blob/master/PCSB00395.psv)</kbd> Angry Birds - Star Wars
 * <kbd>[PCSB00416](https://github.com/r0ah/vitacheat/blob/master/PCSB00416.psv)</kbd> Table Top Racing
 * <kbd>[PCSB00473](https://github.com/r0ah/vitacheat/blob/master/PCSB00473.psv)</kbd> Monster Monpiece
 * <kbd>[PCSB00497](https://github.com/r0ah/vitacheat/blob/master/PCSB00497.psv)</kbd> Ys: Memories of Celceta
