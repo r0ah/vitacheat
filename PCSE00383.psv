@@ -6,9 +6,11 @@
 # Code Author: r0ah (NoNpDrm), Fullcodes & dask (MaiDump)
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00383.psv
 # Original Source: http://www.speedfly.cn/19462.html
-# Note: Reboot game if not work
+# Note 1:
 #  - MaiDump: 3.60 变革10 with MaiDump Tool_V233.2zEx
 #  - NoNpDrm: Most of the codes are made from scratch but I ended up converting the Badass Tokens. Credits to the original code authors Fullcodes and dask.
+# Note 2: Will NOT work on NoNpDRM (EDIT: added NND version)
+# Note 3: Reboot game if NoNpDrm version not work
 
 _V0 Infinite Money (NoNpDrm)
 $3202 8334480C 000008C2
