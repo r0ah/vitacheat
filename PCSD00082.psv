@@ -1,0 +1,17 @@
+# ID: PCSD00082
+# Title: Dead Nation
+# Region: ASA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSD00082.psv
+# Original Source: http://www.speedfly.cn/22485.html
+
+_V0 开枪后金币7777777//Coin 7777777 after Shot
+$B200 00000000 00000000
+$A200 00A3AE40 0AC0EEBD
+$A200 00A3AE44 51F1F64A
+$A200 00A3AE48 0176F2C0
+$A100 00A3AE4C 00006041
+$A100 00A3AE4E 00004770
+$A200 0004FF6E DF67F1EA
