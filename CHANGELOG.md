@@ -1,8 +1,8 @@
 All notable changes to this project will be documented in this file.
 ***	
 * **PCSE00383 Borderlands 2** ([33581185](https://github.com/r0ah/vitacheat/commit/3358118500981319f8d636fa49260889852ed746)): <kbd>Update</kbd>
-   * Max Badass Tokens (NoNpDrm)
-   * Instant Max Level (NoNpDrm)
+   * Max Badass Tokens (NoNpDrm) - This was converted from the MaiDump
+   * Instant Max Level (NoNpDrm) - Made from scratch
 * **PCSE00383 Borderlands 2** ([3d3046c9](https://github.com/r0ah/vitacheat/commit/3d3046c913b2c887c4e7635534bbe60dd9e1f093)): <kbd>Update</kbd>
    * Added my own codes. Made from scratch, not converted:
       * Infinite Money (NoNpDrm)
