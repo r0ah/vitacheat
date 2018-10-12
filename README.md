@@ -12,20 +12,9 @@ See full list [here](https://github.com/r0ah/vitacheat/blob/master/LIST.md).
 
 You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
 
-## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
-
-* [Quick Start](https://github.com/r0ah/vitacheat/wiki/Quick-Start) - Don't know where to start? Check this out.
-* [Plugins](https://github.com/r0ah/vitacheat/wiki/Plugins)
-* [Manuals](https://github.com/r0ah/vitacheat/wiki/Manuals)
-* [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
-* [Finding Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR)
-* [Finding Multi-Level Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
-* [Pointer Search Tips](https://github.com/r0ah/vitacheat/wiki/Pointer-Search-Tips)
-* [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes) - If FinalCheat add support for in-line note, folder, and remove the 50 limit (so we can have modifiers) for the next release of VitaCheat, I'll update all the psv files listed here and I'll also remove this entire section. For now, use this section as a separate reference.
-
 ## Submissions ##
 
-You can submit cheat codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new/cheat-code-submission). Please use the template, I will close submission that doesn't follow the instructions!
+You can submit cheat codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new?template=cheat-code-submission.md). Please use the template, I will close submission that doesn't follow the instructions!
 
 You can also submit cheat codes in this [thread](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). I don't visit everyday so mention my GBAtemp username `@Roah`.
 
@@ -33,8 +22,8 @@ You can also submit cheat codes in this [thread](https://gbatemp.net/threads/vit
 
 There's no way I can test all the existing cheat code made by various code authors. You can help us by opening an issue. Please use the template below!
 
-* <kbd>[Report an Issue](https://github.com/r0ah/vitacheat/issues/new/report-an-issue)</kbd>
-* <kbd>[Report your Findings](https://github.com/r0ah/vitacheat/issues/new/report-your-findings)</kbd>
+* <kbd>[Report an Issue](https://github.com/r0ah/vitacheat/issues/new?template=report-an-issue.md)</kbd>
+* <kbd>[Report your Findings](https://github.com/r0ah/vitacheat/issues/new?template=report-your-findings.md)</kbd>
 
 ## Request ##
 
@@ -43,6 +32,34 @@ Nope!
 ## Changelog ##
 
 See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
+
+## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
+
+### Overview ###
+
+* [Quick Start](https://github.com/r0ah/vitacheat/wiki/Quick-Start) - Don't know where to start? Check this out.
+* [Plugins](https://github.com/r0ah/vitacheat/wiki/Plugins)
+* [Manuals](https://github.com/r0ah/vitacheat/wiki/Manuals)
+* [How to Use Modifiers](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Modifiers)
+* [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)
+
+### In-Depth VitaCheat Tutorials ###
+
+* [Code Formatting](https://github.com/r0ah/vitacheat/wiki/Cheat-Code-Formatting)
+* [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
+
+### Pointer Search Tutorials ###
+
+* [Finding Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR)
+* [Finding Pointers With TempAR (Video)](https://github.com/r0ah/vitacheat/wiki/Finding-Pointers-With-TempAR-(Video))
+* [Finding Multi-Level Pointers With TempAR](https://github.com/r0ah/vitacheat/wiki/Finding-Multi-Level-Pointers-With-TempAR)
+* [Pointer Search Tips](https://github.com/r0ah/vitacheat/wiki/Pointer-Search-Tips)
+
+### [In-Game Notes](https://github.com/r0ah/vitacheat/wiki/In-Game-Notes) ###
+
+### Other ###
+
+* [Troubleshooting](https://github.com/r0ah/vitacheat/wiki/Troubleshooting) - Having problems? This _might_ help.
 
 ## Links ##
 
