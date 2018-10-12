@@ -2,10 +2,10 @@
 # Title: Stardew Valley
 # Region: USA
 # Version: 1.02
-# Type: Compatibility Pack
+# Type: CompPack
 # Code Author: r0ah
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01235.psv
-# Note: Constant crashing using 365Enso. If you're on h-encore and you're not crashing then notify me and I'll add more cheats here otherwise I'll just move on to other games.
+# Note: Still constant crash no matter the pointer level. Maybe CompPack issue or protection?
 
 _V0 Infinite Gold
 $3201 849FFB30 00000254
