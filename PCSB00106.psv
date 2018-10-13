@@ -2,13 +2,27 @@
 # Title: Mortal Kombat
 # Region: EUR
 # Version: 1.00
-# Type: Unknown
-# Code Author: vergil
+# Type: NoNpDrm
+# Code Author: vergil, Demolinizer
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00106.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-5#post-7619367
+# Original Source: https://github.com/r0ah/vitacheat/issues/25
+# Note: Added X-Ray code in case the original PCSB00106 gets replaced with this one
 
 _V0 Inf HP P1
-$0200 8A835936 00003F80
+$0200 8A835936 00003F80 #vergil
 
 _V0 Inf X-Ray P1
+$0200 81F8CD3E 00003F80 #vergil
+
+_V0 1P Infinite Health
+$0200 8A735934 3F800000
+
+_V0 P1 Infinite X-Ray
 $0200 81F8CD3E 00003F80
+
+_V0 Infinite Life Gauge 
+$0200 8A735938 3F800000
+
+_V0 Tag Match 1P Infinite Health
+$0200 8A798B94 3F800000
