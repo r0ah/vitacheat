@@ -1,5 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00458 PHANTOM BREAKER: BATTLE GROUNDS** ([8ee88f79](https://github.com/r0ah/vitacheat/commit/8ee88f794847af5af9334a71f47ea6cf3855dc6c)): <kbd>Added</kbd>
 * **PCSF00482 Ratchet & Clank Trilogy** ([627b3d59](https://github.com/r0ah/vitacheat/commit/627b3d59c5a1423fc389c4eb6fe45b7962fff458)): <kbd>Added</kbd>
 * **PCSE01034 Berserk and the Band of the Hawk** ([d135fccf](https://github.com/r0ah/vitacheat/commit/d135fccf0bdc4492603aacfd82d27cbeff5ad26c)): <kbd>Update</kbd>
    * double slot MAX by ymbgames
