@@ -8,6 +8,7 @@
    * @theAlevan
    * @WasabiIceCream
 * **Code authors**:
+   * 0x6a6576
    * Aichitaka/Jialeyne19
    * alphasurge (sharer only)
    * attmkk
@@ -32,6 +33,7 @@
    * optantic
    * Qiu Tonghe
    * r0ah
+   * rioM1
    * Retroboy
    * Smich
    * Smoker1

@@ -11,6 +11,7 @@
 * <kbd>[PCSB00097](https://github.com/r0ah/vitacheat/blob/master/PCSB00097.psv)</kbd> Ninja Gaiden Sigma Plus
 * <kbd>[PCSB00106](https://github.com/r0ah/vitacheat/blob/master/PCSB00106.psv)</kbd> Mortal Kombat
 * <kbd>[PCSB00115](https://github.com/r0ah/vitacheat/blob/master/PCSB00115.psv)</kbd> Silent Hill Book of Memories
+* <kbd>[PCSB00160](https://github.com/r0ah/vitacheat/blob/master/PCSB00160.psv)</kbd> FoosBall 2012
 * <kbd>[PCSB00161](https://github.com/r0ah/vitacheat/blob/master/PCSB00161.psv)</kbd> Sine Mora
 * <kbd>[PCSB00176](https://github.com/r0ah/vitacheat/blob/master/PCSB00176.psv)</kbd> Metal Gear Solid 3: Snake Eater - HD Edition
 * <kbd>[PCSB00177](https://github.com/r0ah/vitacheat/blob/master/PCSB00177.psv)</kbd> Metal Gear Solid 2: Sons of Liberty - HD Edition
