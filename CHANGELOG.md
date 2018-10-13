@@ -1,5 +1,13 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSB00106 Mortal Kombat** ([2154bdf9](https://github.com/r0ah/vitacheat/commit/2154bdf9dab6f39fbd247c12a3c1cf3ce832bcde)): <kbd>Update</kbd>
+   * Added:
+      * 1P Infinite Health
+      * P1 Infinite X-Ray
+      * Infinite Life Gauge 
+      * Tag Match 1P Infinite Health
+* **PCSF00191 Ratchet and Clank: Qforce** ([9eb0b8ea](https://github.com/r0ah/vitacheat/commit/9eb0b8eab4fc46b3e651e597c1258f437af89d1b)): <kbd>Added</kbd>
+* **PCSF00153 Playstation All-Stars: Battle Royale** ([8f346c5e](https://github.com/r0ah/vitacheat/commit/8f346c5e3266dec9b82b5f5255ef78ed41bff878)): <kbd>Added</kbd>
 * **PCSE00458 PHANTOM BREAKER: BATTLE GROUNDS** ([8ee88f79](https://github.com/r0ah/vitacheat/commit/8ee88f794847af5af9334a71f47ea6cf3855dc6c)): <kbd>Added</kbd>
 * **PCSF00482 Ratchet & Clank Trilogy** ([627b3d59](https://github.com/r0ah/vitacheat/commit/627b3d59c5a1423fc389c4eb6fe45b7962fff458)): <kbd>Added</kbd>
 * **PCSE01034 Berserk and the Band of the Hawk** ([d135fccf](https://github.com/r0ah/vitacheat/commit/d135fccf0bdc4492603aacfd82d27cbeff5ad26c)): <kbd>Update</kbd>
