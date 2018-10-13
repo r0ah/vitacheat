@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory** ([243e8017](https://github.com/r0ah/vitacheat/commit/243e80178be9ade2c543f6650907ff4eb3a9ec35)): <kbd>Update</kbd>
+   * Updated value of th ABI (Party Digimon: Max ABI/CAM)
 * **PCSB00106 Mortal Kombat** ([2154bdf9](https://github.com/r0ah/vitacheat/commit/2154bdf9dab6f39fbd247c12a3c1cf3ce832bcde)): <kbd>Update</kbd>
    * Added:
       * 1P Infinite Health
