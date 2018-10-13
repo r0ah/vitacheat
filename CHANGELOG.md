@@ -29,20 +29,21 @@ All notable changes to this project will be documented in this file.
 * **PCSE00940 Toukiden 2** ([ae88cb12](https://github.com/r0ah/vitacheat/commit/ae88cb124bbd648b00df95a0cdb970e0d27133c3)): <kbd>Update</kbd>
    * Minor update of SKIL MAX (much elegant code)
 * **PCSE00467 Toukiden: Kiwami** ([373151b9](https://github.com/r0ah/vitacheat/commit/373151b935974aa7358aa03d3f44714a02df22cc)): <kbd>Update</kbd>
-   * Replaced the static codes to pointer codes:
-      * Infinite Haku
-      * Max Storage Slot
-      * Max All Items
-   * Added:
-      * Have All Items
-      * Have Gold Store Patronage
-      * Infinite HP
-      * Infinite HP v2
-      * Infinite Focus
-      * Infinite Focus v2
-      * Max Weapon Gauge
-      * Infinite Skill
-      * Skill Slot Modifier(s)
+   * Updated to static codes due to wrong pointer code ([9c8fcef0](https://github.com/r0ah/vitacheat/commit/9c8fcef067d3eb4d2a9ed047b7cc5070fa8899f5)), will fix later.
+   * ~~Replaced the static codes to pointer codes:~~
+      * ~~Infinite Haku~~
+      * ~~Max Storage Slot~~
+      * ~~Max All Items~~
+   * ~~Added:~~
+      * ~~Have All Items~~
+      * ~~Have Gold Store Patronage~~
+      * ~~Infinite HP~~
+      * ~~Infinite HP v2~~
+      * ~~Infinite Focus~~
+      * ~~Infinite Focus v2~~
+      * ~~Max Weapon Gauge~~
+      * ~~Infinite Skill~~
+      * ~~Skill Slot Modifier(s)~~
 * **PCSE00467 Toukiden: Kiwami** ([be4a83ae](https://github.com/r0ah/vitacheat/commit/be4a83aeada57247c4b9cc7a6832d5b3806550d6)): <kbd>Added</kbd>
 * **PCSE00940 Toukiden 2** ([8d0ec2b9](https://github.com/r0ah/vitacheat/commit/8d0ec2b911c58054d2c13558aa4105cfe78aec28)): <kbd>Update</kbd>
    * Fixed _Have Max Item Slot_ value
