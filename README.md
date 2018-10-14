@@ -14,9 +14,7 @@ You can download vosman's cheat plugins from [this](https://github.com/r0ah/vita
 
 ## Submissions ##
 
-You can submit cheat codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new?template=cheat-code-submission.md). Please use the template, I will close submission that doesn't follow the instructions!
-
-You can also submit cheat codes in this [thread](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343). I don't visit everyday so mention my GBAtemp username `@Roah`.
+You can submit cheat codes by opening a [submission issue](https://github.com/r0ah/vitacheat/issues/new?template=cheat-code-submission.md). Please use the template.
 
 ## Reporting ##
 
