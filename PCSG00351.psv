@@ -3,9 +3,26 @@
 # Region: JPN
 # Version: 1.05
 # Type: NoNpDrm
-# Code Author: r0ah
+# Code Author: r0ah, Daze
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSG00351
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSG00351.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335997
+# Note: Daze's version is tested with vitacheat z05
+
+# 経験値入手で最大
+_V0 経験値入手で最大//exp max after gets
+$B200 00000000 00000000
+$A100 0097C964 00001C00
+
+#グランエナジー入手で最大
+_V0 グランエナジー入手で最大//money max after gets
+$B200 00000000 00000000
+$A100 0042998A 00001C00
+
+#一時的に最大HP9999
+_V0 時的に最大HP9999//Temporarily Max HP9999
+$B200 00000000 00000000
+$A100 003765AE 00001C00
 
 _V0 Infinite Gold
 $0200 871644AC 000F423F
@@ -34,7 +51,7 @@ _V0 Max Level
 $0200 871B0790 00000004
 
 _V0 Experience Modifier [Note 1]
-$0200 871B07A4 00000000 #<---SET VALUE HERE: ENTER THE XP (SORRY, NO MOV)
+$0200 871B07A4 00000000 #<---SET VALUE HERE: ENTER THE XP
 
 _V0 Notes:
 $0000 00000000 00000000
