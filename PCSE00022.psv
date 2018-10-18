@@ -5,43 +5,66 @@
 # Type: NoNpDrm
 # Code Author: monodevil
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-86#post-8304629
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335797
+# Note: 1) The exp mods increases your Max EXP which will cause your NEXT EXP to go down and level you up, if that makes sense. Just turn the code on then off while you increase the numer based around your character's Maximum EXP and you'll go up a bunch of levels. Your exp bar will roll to the right off the screen but all you gotta do is go into a battle and leave or just summon that character into battle.
+#  - 2) For the HQ code, I didn't even know HQ was a thing until I beat the game. I had to look it up when I noticed there was a number at the bottem of the menu. To put it simply, HQ goes up when you do certain things in game but also I think it had some kind of online tracking feature using the Vita's Near app and the more you travel the more it goes up or something like that. Basically high HQ = more exp and cheaper shop prices.
+#  - 3) The lower your Command Attack Points the better your score. I haven't played around with the Ranking Shop(not really a shop) much but I decided to make a code for one of the facilities I tried. I'll come back to it eventually.
+#  - I went back and updated some of the Mana and HL codes in my .psv by increasing the numbers a bit because as it turns out, you really do need a lot of money and mana. Even found a shop where 4,294,967,295(FFFFFFFF) money isn't enough. If there is a way to go higher than FFFFFFFF, that would be helpful.
+#  - I got some more codes coming and those are the Innocent mods and those will need an entire post to explain as I got a lot to say on them, a lot to do with how the game works and stuff and some still need testing.
 
 _V0 HL
-$0200 81939C80 05F5E0FF
+$0200 81939C80 FFFFFFFF
 
 _V0 Character slot 1 Mana
-$0200 8193A8F8 0001869F
+$0200 8193A8F8 0098967F
 
 _V0 Character slot 2 Mana
-$0200 8193D538 0001869F
+$0200 8193D538 0098967F
 
 _V0 Character slot 3 Mana
-$0200 81940178 0001869F
+$0200 81940178 0098967F
 
 _V0 Character slot 4 Mana
-$0200 81942DB8 0001869F
+$0200 81942DB8 0098967F
 
 _V0 Character slot 5 Mana
-$0200 819459F8 0001869F
+$0200 819459F8 0098967F
 
 _V0 Character slot 6 Mana
-$0200 81948638 0001869F
+$0200 81948638 0098967F
 
 _V0 Character slot 7 Mana
-$0200 8194B278 0001869F
+$0200 8194B278 0098967F
 
 _V0 Character slot 8 Mana
-$0200 8194DEB8 0001869F
+$0200 8194DEB8 0098967F
 
 _V0 Character slot 9 Mana
-$0200 81950AF8 0001869F
+$0200 81950AF8 0098967F
 
 _V0 Character slot 10 Mana
-$0200 81953738 0001869F
+$0200 81953738 0098967F
 
 _V0 Bonus Gauge always lvl 9
 $0100 81A7DAF2 00000009
 
 _V0 Infinite Dispatch
 $0100 83093BA4 0000000A
+
+_V0 999 HQ
+$0200 81BB34F8 000003E7
+
+_V0 Exp mod 1st slot
+$0200 81939CA8 00000000
+
+_V0 Exp mod 2nd slot
+$0200 8193C8E8 00000000
+
+_V0 Exp mod 3rd slot
+$0200 8193F528 00000000
+
+_V0 *Ranking Shop Codes*
+$0000 00000000 00000000
+
+_V0 Item World Command Attack Points
+$0100 81BB3436 00000001
