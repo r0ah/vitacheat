@@ -4,6 +4,7 @@
 # Version: 1.00
 # Type: NoNpDrm
 # Code Author: monodevil
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00022
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335797
 # Note: 1) The exp mods increases your Max EXP which will cause your NEXT EXP to go down and level you up, if that makes sense. Just turn the code on then off while you increase the numer based around your character's Maximum EXP and you'll go up a bunch of levels. Your exp bar will roll to the right off the screen but all you gotta do is go into a battle and leave or just summon that character into battle.
@@ -54,17 +55,23 @@ $0100 83093BA4 0000000A
 _V0 999 HQ
 $0200 81BB34F8 000003E7
 
-_V0 Exp mod 1st slot
-$0200 81939CA8 00000000
+_V0 Exp mod 1st slot [Note 1]
+$0200 81939CA8 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
-_V0 Exp mod 2nd slot
-$0200 8193C8E8 00000000
+_V0 Exp mod 2nd slot [Note 1]
+$0200 8193C8E8 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
-_V0 Exp mod 3rd slot
-$0200 8193F528 00000000
+_V0 Exp mod 3rd slot [Note 1]
+$0200 8193F528 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
 _V0 *Ranking Shop Codes*
 $0000 00000000 00000000
 
 _V0 Item World Command Attack Points
 $0100 81BB3436 00000001
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: These is a modifier cheat. See Wiki for details.
+$0000 00000000 00000000
