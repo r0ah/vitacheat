@@ -1,5 +1,23 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSG00709 WORLD OF FINAL FANTASY** (70e8034daf2479dcf17c4d43117d7a3aa67c7d0f): <kbd>Added</kbd>
+* **PCSG00675 Kamen Rider: Battride War Sousei** (6228868652f8292bf5b55a69c1bdc1e1588d9598): <kbd>Added</kbd>
+* **PCSG00351 Phantasy Star Nova** (2b3bc851e6456167c2812991a9535fde6824ea87): <kbd>Update</kbd>
+   * Added:
+      * 経験値入手で最大//exp max after gets
+      * グランエナジー入手で最大//money max after gets
+      * 時的に最大HP9999//Temporarily Max HP9999
+* **PCSG00168 Sorcery Saga: The Curse of the Great Curry God** (3c74ada51caaf5e07919624795a9a025856fb016): <kbd>Added</kbd>
+* **PCSH00021 Persona 4 The GOLDEN PlayStationVita the Best** (514e8b7bdc768d71f772548bc4a85c332f189964): <kbd>Added</kbd>
+* **PCSH00152 SAMURAI WARRIORS: Chronicles 3** (9ecf707c124987a1dd4e65305adad078a97de31b): <kbd>Added</kbd>
+* **PCSE00022 Disgaea 3 Absence of Detention** (2946c4cd4a187745a8a70e6c180c626e1dba36b2): <kbd>Update</kbd>
+   * Updated values of existing codes
+   * Added:
+      * 999 HQ
+      * Exp mod 1st slot
+      * Exp mod 2nd slot
+      * Exp mod 3rd slot
+      * Item World Command Attack Points
 * **PCSB00160 FoosBall 2012** ([e73c150b](https://github.com/r0ah/vitacheat/commit/e73c150bb8ec0611535c577725c3897cc3ed5012)): <kbd>Added</kbd>
 * **PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory** ([243e8017](https://github.com/r0ah/vitacheat/commit/243e80178be9ade2c543f6650907ff4eb3a9ec35)): <kbd>Update</kbd>
    * Updated value of the ABI (Party Digimon: Max ABI/CAM)

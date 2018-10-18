@@ -14,6 +14,7 @@
    * attmkk
    * Borderlinez
    * dask
+   * Daze
    * Demolinizer
    * Dynel81
    * eco95

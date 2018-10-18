@@ -141,6 +141,7 @@
 * <kbd>[PCSG00111](https://github.com/r0ah/vitacheat/blob/master/PCSG00111.psv)</kbd> NAtURAL DOCtRINE
 * <kbd>[PCSG00150](https://github.com/r0ah/vitacheat/blob/master/PCSG00150.psv)</kbd> Oboro Muramasa PlayStationVita the Best
 * <kbd>[PCSG00157](https://github.com/r0ah/vitacheat/blob/master/PCSG00157.psv)</kbd> Ninja Gaiden Sigma 2 Plus
+* <kbd>[PCSG00168](https://github.com/r0ah/vitacheat/blob/master/PCSG00168.psv)</kbd> Sorcery Saga: The Curse of the Great Curry God
 * <kbd>[PCSG00190](https://github.com/r0ah/vitacheat/blob/master/PCSG00190.psv)</kbd> Super Robot Taisen OG Saga - Pride of Justice
 * <kbd>[PCSG00196](https://github.com/r0ah/vitacheat/blob/master/PCSG00196.psv)</kbd> Exstetra
 * <kbd>[PCSG00199](https://github.com/r0ah/vitacheat/blob/master/PCSG00199.psv)</kbd> Uta Kumi 575
@@ -165,6 +166,7 @@
 * <kbd>[PCSG00678](https://github.com/r0ah/vitacheat/blob/master/PCSG00678.psv)</kbd> The Idol M@ster: Must Songs - Blue Album
 * <kbd>[PCSG00685](https://github.com/r0ah/vitacheat/blob/master/PCSG00685.psv)</kbd> DEEMO ～The Last Recital～
 * <kbd>[PCSG00687](https://github.com/r0ah/vitacheat/blob/master/PCSG00687.psv)</kbd> The Caligula Effect
+* <kbd>[PCSG00709](https://github.com/r0ah/vitacheat/blob/master/PCSG00709.psv)</kbd> WORLD OF FINAL FANTASY
 * <kbd>[PCSG00820](https://github.com/r0ah/vitacheat/blob/master/PCSG00820.psv)</kbd> Dragon Quest Heroes II
 * <kbd>[PCSG00881](https://github.com/r0ah/vitacheat/blob/master/PCSG00881.psv)</kbd> Ys VIII: Lacrimosa of Dana
 * <kbd>[PCSG00946](https://github.com/r0ah/vitacheat/blob/master/PCSG00946.psv)</kbd> Penny-Punching Princess
@@ -172,6 +174,7 @@
 * <kbd>[PCSG00954](https://github.com/r0ah/vitacheat/blob/master/PCSG00954.psv)</kbd> Sengoku Musou: Sanada Maru
 * <kbd>[PCSG01121](https://github.com/r0ah/vitacheat/blob/master/PCSG01121.psv)</kbd> Seiken Densetsu 2: Secret of Mana
 * <kbd>[PCSH00019](https://github.com/r0ah/vitacheat/blob/master/PCSH00019.psv)</kbd> DJMAX TECHNIKA TUNE (English/Korean Ver.)
+* <kbd>[PCSH00021](https://github.com/r0ah/vitacheat/blob/master/PCSH00021.psv)</kbd> Persona 4 The GOLDEN PlayStationVita the Best
 * <kbd>[PCSH00042](https://github.com/r0ah/vitacheat/blob/master/PCSH00042.psv)</kbd> Final Fantasy X HD Remaster (Chinese/Korean Ver.)
 * <kbd>[PCSH00044](https://github.com/r0ah/vitacheat/blob/master/PCSH00044.psv)</kbd> Ragnarok Odyssey ACE PlayStationVita the Best
 * <kbd>[PCSH00050](https://github.com/r0ah/vitacheat/blob/master/PCSH00050.psv)</kbd> Dragon's Crown
@@ -186,6 +189,7 @@
 * <kbd>[PCSH00132](https://github.com/r0ah/vitacheat/blob/master/PCSH00132.psv)</kbd> GUNDAM BREAKER 2
 * <kbd>[PCSH00136](https://github.com/r0ah/vitacheat/blob/master/PCSH00136.psv)</kbd> J-Stars Victory VS+
 * <kbd>[PCSH00145](https://github.com/r0ah/vitacheat/blob/master/PCSH00145.psv)</kbd> One Piece: Pirate Warriors 3
+* <kbd>[PCSH00152](https://github.com/r0ah/vitacheat/blob/master/PCSH00152.psv)</kbd> SAMURAI WARRIORS: Chronicles 3
 * <kbd>[PCSH00164](https://github.com/r0ah/vitacheat/blob/master/PCSH00164.psv)</kbd> Samurai Warriors 4 - II
 * <kbd>[PCSH00173](https://github.com/r0ah/vitacheat/blob/master/PCSH00173.psv)</kbd> Digimon Story Cyber Sleuth
 * <kbd>[PCSH00181](https://github.com/r0ah/vitacheat/blob/master/PCSH00181.psv)</kbd> Ys: Memories of Celceta
