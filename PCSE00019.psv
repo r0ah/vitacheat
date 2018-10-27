@@ -1,0 +1,89 @@
+# ID: PCSE00019
+# Title: Dragon's Crown
+# Region: USA
+# Version: 1.06
+# Type: NoNpDrm
+# Code Author: r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00019
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00019.psv
+# Note: Tested/Condition:
+#  - 365ENSO / VitaCheat v365-Z05Beta
+#  - Brand-new and existing characters
+#  - All 3x save slots
+#  - Town and random Mission
+
+_V0 Gold 9,999,999
+$3201 87D79A74 00000280
+$3300 00000000 0098967F
+
+_V0 Infinite Lives
+$3002 87E97B00 00000A42
+$3000 00000000 0000002A
+$3300 00000000 00000009
+
+_V0 Infinite HP [Note 1]
+$8202 87E97B00 00000A42
+$8200 00000000 0000000A #FLOATING POINT
+$8800 00000000 00000000
+$8502 87E97B00 00000A42
+$8500 00000000 0000000E
+$8900 00000000 00000000
+
+_V0 Infinite Arrow [Note 2]
+$8002 87E97B00 000008CE
+$8000 00000000 00000DEC
+$8800 00000000 00000000
+$8502 87E97B00 000008CE
+$8500 00000000 00000DF0
+$8900 00000000 00000000
+
+_V0 Infinite Mana (Sorceress)
+$8102 87E97B00 000006CE
+$8100 00000000 00000254
+$8800 00000000 00000000
+$8502 87E97B00 000006CE
+$8500 00000000 00000256
+$8900 00000000 00000000
+
+_V0 Infinite Mana (Wizard)
+$8102 87E97B00 000006BE
+$8100 00000000 00000254
+$8800 00000000 00000000
+$8502 87E97B00 000006BE
+$8500 00000000 00000256
+$8900 00000000 00000000
+
+_V0 Max Score For Quick Level Up
+$3202 87E97B00 00000A4E
+$3200 00000000 00000148
+$3300 00000000 05F5E0FF
+
+_V0 Level 100
+$3002 87E97B00 00000916
+$3000 00000000 00000DA2
+$3300 00000000 00000063 #COMPENSATE FOR -0x01
+
+_V0 Infinite Skill Point [Note 3]
+$8002 87E97B00 00000916
+$8000 00000000 00000DA0
+$8800 00000000 00000000
+$8502 87E97B00 00000916
+$8500 00000000 00000DA2
+$8900 00000000 00000000
+
+# _V0 Transparent Menu
+# $3002 87E97B00 00000916
+# $3000 00000000 00000DA3
+# $3300 00000000 00000006
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Will interfere if boss use instant kill
+$0000 00000000 00000000 # For example, the Rabbit (Path 2) boss in the Lost Wood level have the bone break skill. If the boss use the skill while the cheat is activated your character will glitch and you won't be able to move your character.
+
+_V0 #2: Doesn't apply to disposable weapons
+$0000 00000000 00000000
+
+_V0 #3: Skills might not stick depending on your level
+$0000 00000000 00000000 # The skill point is hardcoded to your character's level. To get all skills you have to unlock max level cap then use the `Max Score For Quick Level Up` cheat. Maybe this is a programmer's style/mentality, to cover or sanitize all areas in a function? Less redundancy lols
