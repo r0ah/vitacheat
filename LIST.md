@@ -49,6 +49,7 @@
 * <kbd>[PCSE00001](https://github.com/r0ah/vitacheat/blob/master/PCSE00001.psv)</kbd> Ridge Racer
 * <kbd>[PCSE00007](https://github.com/r0ah/vitacheat/blob/master/PCSE00007.psv)</kbd> Asphalt: Injection
 * <kbd>[PCSE00020](https://github.com/r0ah/vitacheat/blob/master/PCSE00020.psv)</kbd> Metal Gear Solid HD Collection
+* <kbd>[PCSE00019](https://github.com/r0ah/vitacheat/blob/master/PCSE00019.psv)</kbd> Dragon's Crown
 * <kbd>[PCSE00021](https://github.com/r0ah/vitacheat/blob/master/PCSE00021.psv)</kbd> Ninja Gaiden Sigma Plus
 * <kbd>[PCSE00022](https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv)</kbd> Disgaea 3 Absence of Detention
 * <kbd>[PCSE00023](https://github.com/r0ah/vitacheat/blob/master/PCSE00023.psv)</kbd> Mortal Kombat
