@@ -1,6 +1,6 @@
 All notable changes to this project will be documented in this file.
 ***	
-* **PCSE00019 Dragon's Crown** ([](https://github.com/r0ah/vitacheat/commit/)): <kbd>New</kbd>
+* **PCSE00019 Dragon's Crown** ([cee7e55](https://github.com/r0ah/vitacheat/commit/cee7e55c8e75dd18cee1b40db0ab28e712efe0e3)): <kbd>New</kbd>
 * **PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory** ([692f39e](https://github.com/r0ah/vitacheat/commit/692f39e5d43a3a4dcb4dfb19017760999b0b185c)): <kbd>Update</kbd>
    * Swapped the condition code-type addresses because it was confusing me. This fix is for the my benefit, not end-user.
    * Arranged notes
