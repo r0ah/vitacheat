@@ -7,6 +7,7 @@
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00022
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00022.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335797
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-92#post-8344976
 # Note: 1) The exp mods increases your Max EXP which will cause your NEXT EXP to go down and level you up, if that makes sense. Just turn the code on then off while you increase the numer based around your character's Maximum EXP and you'll go up a bunch of levels. Your exp bar will roll to the right off the screen but all you gotta do is go into a battle and leave or just summon that character into battle.
 #  - 2) For the HQ code, I didn't even know HQ was a thing until I beat the game. I had to look it up when I noticed there was a number at the bottem of the menu. To put it simply, HQ goes up when you do certain things in game but also I think it had some kind of online tracking feature using the Vita's Near app and the more you travel the more it goes up or something like that. Basically high HQ = more exp and cheaper shop prices.
 #  - 3) The lower your Command Attack Points the better your score. I haven't played around with the Ranking Shop(not really a shop) much but I decided to make a code for one of the facilities I tried. I'll come back to it eventually.
@@ -70,8 +71,69 @@ $0000 00000000 00000000
 _V0 Item World Command Attack Points
 $0100 81BB3436 00000001
 
-_V0 Notes:
+_V0 Reverse Pirating - Always Turn 1 
+$0000 81A7DAE8 00000001
+
+_V0 Rarity mod [Note 1]
+$0000 81A02BF0 00000000 #<---SET VALUE HERE: Enter the Rarity ID yourself
+
+_V0 *Item Bag slot 1 codes* [Note 1]
 $0000 00000000 00000000
 
-_V0 #1: These is a modifier cheat. See Wiki for details.
-$0000 00000000 00000000
+_V0 Innocent mod slot 1
+$0200 81A02B0C 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 2
+$0200 81A02B14 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 3
+$0200 81A02B1C 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 4
+$0200 81A02B24 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 5
+$0200 81A02B2C 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 6
+$0200 81A02B34 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 7
+$0200 81A02B3C 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent mod slot 8
+$0200 81A02B44 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Innocent Warehouse: Innocent mod Slot 1
+$0200 81BB459C 00000000 #<---SET VALUE HERE: Enter the Innocent ID yourself
+
+_V0 Number of Innocents mod slot 1
+$0200 81A02B08 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 2
+$0200 81A02B10 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 3
+$0200 81A02B18 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 4
+$0200 81A02B20 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 5
+$0200 81A02B28 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 6
+$0200 81A02B30 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 7
+$0200 81A02B38 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Number of Innocents mod slot 8
+$0200 81A02B40 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Innocent Warehouse: Number of Innocents mod slot 1
+$0200 81BB4598 00000000 #<---SET VALUE HERE: Enter the quantity yourself
+
+_V0 Notes:
+
+_V0 #1: These are modifier cheats. See Wiki for details.
