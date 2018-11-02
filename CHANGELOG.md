@@ -1,6 +1,9 @@
 All notable changes to this project will be documented in this file.
 ***	
-* **PCSE00429 Tales of Hearts R** ([16bb044](https://github.com/r0ah/vitacheat/commit/16bb0440f0b06207e7e0318deb4a5452ef2a691d)): <kbd>Update</kbd>
+* **PCSH10060 The Legend of Heroes Sora No Kiseki SC Evolution** ([434fcb4](https://github.com/r0ah/vitacheat/commit/434fcb4fe22d0194354d72a910e36f0060d2a4cf)): <kbd>New</kbd>
+* **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen** ([e02b40f](https://github.com/r0ah/vitacheat/commit/e02b40f9e736343fddd26ce2798b6f24bb5f012b)): <kbd>Update</kbd>
+   * 非战斗中金钱变动后最大//Change Money Max out Battle (v.NND)
+* **PCSE00429 Tales of Hearts R** ([16bb044](https://github.com/r0ah/vitacheat/commit/16bb0440f0b06207e7e0318deb4a5452ef2a691d)): <kbd>New</kbd>
    * Added eighthdayregret's codes (x38)
 * **PCSA00126 God of War Collection** ([a449f2a](https://github.com/r0ah/vitacheat/commit/a449f2ae84627a1de0932891761295295eee1cc8)): <kbd>Update</kbd>
    * HP不减//Inf HP (v.NND)
