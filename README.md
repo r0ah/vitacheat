@@ -1,10 +1,12 @@
 # README #
 
-This was initially a repository for my own codes and since our discovery of the pointer search and my collaborations with various GBATemp users it has grown from a personal-only repository into a full database. @ShumnoT's [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) is now merged in this repo.
-
 <p align="center"><img width="450" src="https://raw.githubusercontent.com/wiki/r0ah/vitacheat/images/maimoe.png"></p>
 
+The _new_ VitaCheat Database.
+
 > **Warning**: Some of the cheats may not work so make sure to backup your savedata before activating any cheats.	
+
+I recommend you use the `notepad++ psv.xml` when viewing psv file.
 
 See full list [here](https://github.com/r0ah/vitacheat/blob/master/LIST.md).
 
