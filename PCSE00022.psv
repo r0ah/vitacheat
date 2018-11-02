@@ -15,7 +15,8 @@
 #  - I got some more codes coming and those are the Innocent mods and those will need an entire post to explain as I got a lot to say on them, a lot to do with how the game works and stuff and some still need testing.
 
 _V0 HL
-$0200 81939C80 FFFFFFFF
+$0200 81939C80 4E729FFF
+$0200 81939C84 00000918
 
 _V0 Character slot 1 Mana
 $0200 8193A8F8 0098967F
@@ -56,19 +57,22 @@ $0100 83093BA4 0000000A
 _V0 999 HQ
 $0200 81BB34F8 000003E7
 
-_V0 Exp mod 1st slot [Note 1]
+_V0 Exp mod 1st Character slot [Note 1]
 $0200 81939CA8 00000000 #<---SET VALUE HERE: Enter the XP yourself
+$0200 81939CAC 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
-_V0 Exp mod 2nd slot [Note 1]
+_V0 Exp mod 2nd Character slot [Note 1]
 $0200 8193C8E8 00000000 #<---SET VALUE HERE: Enter the XP yourself
+$0200 8193C8EC 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
-_V0 Exp mod 3rd slot [Note 1]
+_V0 Exp mod 3rd Character slot [Note 1]
 $0200 8193F528 00000000 #<---SET VALUE HERE: Enter the XP yourself
+$0200 8193F52C 00000000 #<---SET VALUE HERE: Enter the XP yourself
 
 _V0 *Ranking Shop Codes*
 $0000 00000000 00000000
 
-_V0 Item World Command Attack Points
+_V0 Item and Class World Command Attack Points
 $0100 81BB3436 00000001
 
 _V0 Reverse Pirating - Always Turn 1 
