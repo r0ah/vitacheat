@@ -1,5 +1,7 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSE00429 Tales of Hearts R** ([16bb044](https://github.com/r0ah/vitacheat/commit/16bb0440f0b06207e7e0318deb4a5452ef2a691d)): <kbd>Update</kbd>
+   * Added eighthdayregret's codes (x38)
 * **PCSA00126 God of War Collection** ([a449f2a](https://github.com/r0ah/vitacheat/commit/a449f2ae84627a1de0932891761295295eee1cc8)): <kbd>Update</kbd>
    * HP不减//Inf HP (v.NND)
    * 愤怒槽增加后最大//Get Rage of God Max (v.NND)
