@@ -28,7 +28,7 @@ $D202 830D9335 00AC85E5
 $4001 830C7CF4 00000063
 $07CF 00000020 00000000
 
-_V0 Have Brave Point A in Slot #1 [Note 1]
+_V0 Have Brave Point A in Slot 1 [Note 1]
 $D202 82FD9335 00AC85E5
 $0000 82FC7CEC 00000036
 $0000 82FC7CF4 00000063
@@ -36,7 +36,7 @@ $D202 830D9335 00AC85E5
 $0000 830C7CEC 00000036
 $0000 830C7CF4 00000063
 
-_V0 Have Popular Guys Guide in Slot #1 [Note 1]
+_V0 Have Popular Guys Guide in Slot 1 [Note 1]
 $D202 82FD9335 00AC85E5 #KiraYamatoSD
 $0000 82FC7CEC 000000D6
 $0000 82FC7CF4 00000063
@@ -465,26 +465,24 @@ $0000 830D932C 00000000 #DO NOT ACTIVATE THIS CHEAT!
 $0000 82FD932C 00000000
 
 _V0 Notes:
-$0000 00000000 00000000
 
 _V0 #1: Sell existing item before activating the cheat
-$0000 00000000 00000000 # To avoid duplicate
+#DETAILS: To avoid duplicate
 
 _V0 #2: This cheat will skip skills from being learned
-$0000 00000000 00000000 #Use the "Quick Level 99" cheat if you want skills
+#DETAILS: Use the "Quick Level 99" cheat if you want skills
 
 _V0 #3: Level 99 after winning a battle. Digimon learn skills.
-$0000 00000000 00000000 # Level cap must be 99 for max level
+#DETAILS: Level cap must be 99 for max level
 
 _V0 #4: These are modifier cheat. See Wiki for details.
-$0000 00000000 00000000 # I've added "0xFFFF" as a reference point. It won't mess up your savedata because the code is a 16bit.
+#DETAILS: I've added "0xFFFF" as a reference point. It won't mess up your savedata because the code is a 16bit.
 
 _V0 #5: Make sure there's a "Special Move" skills before activating
-$0000 00000000 00000000 # Enabling this cheat will allow you to unequip "Special Move" skills
-$0000 00000000 00000000 # Make sure there's a "Special Move" skill equipped in the slot before activating or the game will crash
+#DETAILS: Enabling this cheat will allow you to unequip "Special Move" skills
+#DETAILS: Make sure there's a "Special Move" skill equipped in the slot before activating or the game will crash
 
 _V0 #6: Move all Digimons in Bank except the one you want to modify
-$0000 00000000 00000000 # Move all Digimons "except the one you want to modify" in the DigiBank otherwise the Digimons you didn't want modified will have their skills overwritten
+#DETAILS: Move all Digimons "except the one you want to modify" in the DigiBank otherwise the Digimons you didn't want modified will have their skills overwritten
 
 _V0 #7: Use the address as bookmark only. See wiki for details.
-$0000 00000000 00000000
