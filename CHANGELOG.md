@@ -1,5 +1,26 @@
 All notable changes to this project will be documented in this file.
 ***	
+* **PCSA00126 God of War Collection** ([a449f2a](https://github.com/r0ah/vitacheat/commit/a449f2ae84627a1de0932891761295295eee1cc8)): <kbd>Update</kbd>
+   * HP不减//Inf HP (v.NND)
+   * 愤怒槽增加后最大//Get Rage of God Max (v.NND)
+   * 技能槽常满//Inf Skill Bar (v.NND)
+   * 魂最大//Orbs Max (v.NND)
+   * HP保持最大//Inf HP (v.MAI)
+   * 愤怒槽常满//Rage of God Max (v.MAI)
+   * 技能槽常满//Inf Skill Bar (v.MAI)
+   * 魂最大//Orbs Max (v.MAI)
+   * HP不减//Inf HP (v.Vitamin)
+   * 秒杀//Instant Kill (v.Vitamin)
+   * 愤怒槽不减//Inf Rage of God (v.Vitamin)
+   * 愤怒槽增加后最大//Get Rage of God Max (v.Vitamin)
+   * 魔法不减//Inf Magic (v.Vitamin)
+   * 慢速时间槽不减//Inf Slow Time Bar (v.Vitamin)
+   * 飘浮//Floating [Hold B] (v.Vitamin)
+   * 获得眼睛和羽毛后最大//Get Eye and Feather Max(v.Vitamin)
+   * 全魔法技能武器//All Magic Skill Weapon (v.Vitamin)
+* **PCSE00022 Disgaea 3 Absence of Detention** ([9a6086c](https://github.com/r0ah/vitacheat/commit/9a6086c1e2f3ce803269e3734ab60488f4eabda1)): <kbd>Update</kbd>
+   * Ranking Shop Codes (3x)
+   * Item Bag slot 1 codes (x18)
 * **PCSE00019 Dragon's Crown** ([084cad4](https://github.com/r0ah/vitacheat/commit/084cad40bb9feec700123f68ae8a692f23108a2d)): <kbd>Update</kbd>
    * Fixed value of Level 100 to 255
    * Added:
