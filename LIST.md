@@ -78,7 +78,7 @@
 * <kbd>[PCSE00358](https://github.com/r0ah/vitacheat/blob/master/PCSE00358.psv)</kbd> Demon Gaze
 * <kbd>[PCSE00383](https://github.com/r0ah/vitacheat/blob/master/PCSE00383.psv)</kbd> Borderlands 2
 * <kbd>[PCSE00398](https://github.com/r0ah/vitacheat/blob/master/PCSE00398.psv)</kbd> Senran Kagura: Shinovi Versus
-* <kbd>[PCSE00401](https://github.com/r0ah/vitacheat/blob/master/PCSE00401.psv)</kbd> <kbd>[PCSE00401](https://github.com/r0ah/vitacheat/blob/master/PCSE00401.psv)</kbd> Deception IV: Blood Ties
+* <kbd>[PCSE00401](https://github.com/r0ah/vitacheat/blob/master/PCSE00401.psv)</kbd> Deception IV: Blood Ties
 * <kbd>[PCSE00429](https://github.com/r0ah/vitacheat/blob/master/PCSE00429.psv)</kbd> Tales of Hearts R
 * <kbd>[PCSE00442](https://github.com/r0ah/vitacheat/blob/master/PCSE00442.psv)</kbd> LEGO Batman 3 - Beyond Gotham
 * <kbd>[PCSE00449](https://github.com/r0ah/vitacheat/blob/master/PCSE00449.psv)</kbd> Rogue Legacy
@@ -116,6 +116,7 @@
 * <kbd>[PCSE01003](https://github.com/r0ah/vitacheat/blob/master/PCSE01003.psv)</kbd> Valkyria Revolution
 * <kbd>[PCSE01023](https://github.com/r0ah/vitacheat/blob/master/PCSE01023.psv)</kbd> Salt and Sanctuary
 * <kbd>[PCSE01031](https://github.com/r0ah/vitacheat/blob/master/PCSE01031.psv)</kbd> Chasm
+* <kbd>[PCSE01033](https://github.com/r0ah/vitacheat/blob/master/PCSE01033.psv)</kbd> Ys Origin
 * <kbd>[PCSE01034](https://github.com/r0ah/vitacheat/blob/master/PCSE01034.psv)</kbd> Berserk and the Band of the Hawk
 * <kbd>[PCSE01097](https://github.com/r0ah/vitacheat/blob/master/PCSE01097.psv)</kbd> Oceanhorn: Monster of Uncharted Seas
 * <kbd>[PCSE01111](https://github.com/r0ah/vitacheat/blob/master/PCSE01111.psv)</kbd> Rabi-Ribi
