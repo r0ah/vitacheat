@@ -45,7 +45,9 @@ See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) 
 
 ### In-Depth VitaCheat Tutorials ###
 
+* [Formatting](https://github.com/r0ah/vitacheat/wiki/Formatting)
 * [Code Types](https://github.com/r0ah/vitacheat/wiki/Code-Types)
+* [Bit](https://github.com/r0ah/vitacheat/wiki/Bit)
 * [Finding Values](https://github.com/r0ah/vitacheat/wiki/Finding-Values)
 
 ### Pointer Search Tutorials ###
