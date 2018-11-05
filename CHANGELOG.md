@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ### Added ###
 * **PCSE01033 Ys Origin** ([0cc7f7f](https://github.com/r0ah/vitacheat/commit/0cc7f7f865aa5698fb0c1e02ce332c58e19358e2))
 
-## - ##
+## Previous ##
 
 * **PCSH10060 The Legend of Heroes Sora No Kiseki SC Evolution** ([434fcb4](https://github.com/r0ah/vitacheat/commit/434fcb4fe22d0194354d72a910e36f0060d2a4cf)): <kbd>New</kbd>
 * **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen** ([e02b40f](https://github.com/r0ah/vitacheat/commit/e02b40f9e736343fddd26ce2798b6f24bb5f012b)): <kbd>Update</kbd>
