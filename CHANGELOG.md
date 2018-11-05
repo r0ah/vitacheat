@@ -3,16 +3,17 @@ All notable changes to this project will be documented in this file.
 
 ## 2018-11-05 ##
 ### Added ###
-* <kbd><a href="https://github.com/r0ah/vitacheat/blob/master/PCSE01033.psv">PCSE01033</a></kbd> Ys Origin
+* PCSE01033 Ys Origin
 
-## Previous ##
+## 2018-11-03 ##
+### Added ###
+* PCSH10060 The Legend of Heroes Sora No Kiseki SC Evolution
+* PCSE00429 Tales of Hearts R
 
-* **PCSH10060 The Legend of Heroes Sora No Kiseki SC Evolution** ([434fcb4](https://github.com/r0ah/vitacheat/commit/434fcb4fe22d0194354d72a910e36f0060d2a4cf)): <kbd>New</kbd>
-* **PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen** ([e02b40f](https://github.com/r0ah/vitacheat/commit/e02b40f9e736343fddd26ce2798b6f24bb5f012b)): <kbd>Update</kbd>
+### Changed ###
+* PCSG00504 Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen
    * 非战斗中金钱变动后最大//Change Money Max out Battle (v.NND)
-* **PCSE00429 Tales of Hearts R** ([16bb044](https://github.com/r0ah/vitacheat/commit/16bb0440f0b06207e7e0318deb4a5452ef2a691d)): <kbd>New</kbd>
-   * Added eighthdayregret's codes (x38)
-* **PCSA00126 God of War Collection** ([a449f2a](https://github.com/r0ah/vitacheat/commit/a449f2ae84627a1de0932891761295295eee1cc8)): <kbd>Update</kbd>
+* PCSA00126 God of War Collection
    * HP不减//Inf HP (v.NND)
    * 愤怒槽增加后最大//Get Rage of God Max (v.NND)
    * 技能槽常满//Inf Skill Bar (v.NND)
@@ -30,10 +31,10 @@ All notable changes to this project will be documented in this file.
    * 飘浮//Floating [Hold B] (v.Vitamin)
    * 获得眼睛和羽毛后最大//Get Eye and Feather Max(v.Vitamin)
    * 全魔法技能武器//All Magic Skill Weapon (v.Vitamin)
-* **PCSE00022 Disgaea 3 Absence of Detention** ([9a6086c](https://github.com/r0ah/vitacheat/commit/9a6086c1e2f3ce803269e3734ab60488f4eabda1)): <kbd>Update</kbd>
+* PCSE00022 Disgaea 3 Absence of Detention
    * Ranking Shop Codes (3x)
    * Item Bag slot 1 codes (x18)
-* **PCSE00019 Dragon's Crown** ([084cad4](https://github.com/r0ah/vitacheat/commit/084cad40bb9feec700123f68ae8a692f23108a2d)): <kbd>Update</kbd>
+* PCSE00019 Dragon's Crown
    * Fixed value of Level 100 to 255
    * Added:
       * Infinite HP v2
@@ -49,17 +50,24 @@ All notable changes to this project will be documented in this file.
       * Unlock Ultimate Difficulty
       * Have All Talisman
       * Have All Rune Stone
-* **PCSE00019 Dragon's Crown** ([cee7e55](https://github.com/r0ah/vitacheat/commit/cee7e55c8e75dd18cee1b40db0ab28e712efe0e3)): <kbd>New</kbd>
-* **PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory** ([692f39e](https://github.com/r0ah/vitacheat/commit/692f39e5d43a3a4dcb4dfb19017760999b0b185c)): <kbd>Update</kbd>
+* PCSE01171 Digimon Story Cyber Sleuth: Hacker's Memory
    * Swapped the condition code-type addresses because it was confusing me. This fix is for the my benefit, not end-user.
    * Arranged notes
    * Added:
       * Party Digimon: Learned Skill Slot 1-20 Modifier
       * Party Digimon: Equipped Skill Slot 1-3 Inherited
-* **PCSE00755 Digimon Story Cyber Sleuth Digimon Story Cyber Sleuth** ([6fcaf8d](https://github.com/r0ah/vitacheat/commit/6fcaf8d72deccd975e6b58a0f42165aa422521fa)): <kbd>Update</kbd>
+* PCSE00755 Digimon Story Cyber Sleuth Digimon Story Cyber Sleuth
    * Fixed `All Digimons Encountered Can Be Scanned`. Bit should have been 16bit not 32bit.
    * Arranged notes
    * Added modifiers
+
+## 2018-11-01 ##
+### Added ###
+* PCSE00019 Dragon's Crown
+
+***	
+
+<details><summary>Click to View Old Updates</summary><p>
 * **PCSG00709 WORLD OF FINAL FANTASY** ([70e8034](https://github.com/r0ah/vitacheat/commit/70e8034daf2479dcf17c4d43117d7a3aa67c7d0f)): <kbd>New</kbd>
 * **PCSG00675 Kamen Rider: Battride War Sousei** ([6228868](https://github.com/r0ah/vitacheat/commit/6228868652f8292bf5b55a69c1bdc1e1588d9598)): <kbd>New</kbd>
 * **PCSG00351 Phantasy Star Nova** ([2b3bc85](https://github.com/r0ah/vitacheat/commit/2b3bc851e6456167c2812991a9535fde6824ea87)): <kbd>Update</kbd>
@@ -317,3 +325,4 @@ All notable changes to this project will be documented in this file.
    * Fixed the pointer value (level 2) for Cass's stats
    * Fixed Cass's HP value
 * Initial
+</p></details>
