@@ -67,7 +67,7 @@ All notable changes to this project will be documented in this file.
 
 ***	
 
-<details><summary>Click to View Old Updates</summary>
+<details><summary>Click to View Old Updates</summary><p>
 * **PCSG00709 WORLD OF FINAL FANTASY** ([70e8034](https://github.com/r0ah/vitacheat/commit/70e8034daf2479dcf17c4d43117d7a3aa67c7d0f)): <kbd>New</kbd>
 * **PCSG00675 Kamen Rider: Battride War Sousei** ([6228868](https://github.com/r0ah/vitacheat/commit/6228868652f8292bf5b55a69c1bdc1e1588d9598)): <kbd>New</kbd>
 * **PCSG00351 Phantasy Star Nova** ([2b3bc85](https://github.com/r0ah/vitacheat/commit/2b3bc851e6456167c2812991a9535fde6824ea87)): <kbd>Update</kbd>
