@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## 2018-11-05 ##
 ### Added ###
-* **PCSE01033 Ys Origin** ([0cc7f7f](https://github.com/r0ah/vitacheat/commit/0cc7f7f865aa5698fb0c1e02ce332c58e19358e2))
+* <kbd><a href="https://github.com/r0ah/vitacheat/blob/master/PCSE01033.psv">PCSE01033</a></kbd> Ys Origin
 
 ## Previous ##
 
