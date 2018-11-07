@@ -36,11 +36,12 @@
    * r0ah
    * rioM1
    * Retroboy
+   * RikuNoctis
    * Smich
    * Smoker1
    * speedfly
    * tokthem
-   * Tsukasa (sharer only)
+   * Tsukasa (sharer)
    * Udaius
    * vergil
    * ymbgames
