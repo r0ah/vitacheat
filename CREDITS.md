@@ -10,7 +10,7 @@
 * **Code authors**:
    * 0x6a6576
    * Aichitaka/Jialeyne19
-   * alphasurge (sharer only)
+   * alphasurge <kbd>Code Sharer</kbd>
    * attmkk
    * Borderlinez
    * dask
@@ -41,7 +41,7 @@
    * Smoker1
    * speedfly
    * tokthem
-   * Tsukasa (sharer)
+   * Tsukasa <kbd>Code Sharer</kbd>
    * Udaius
    * vergil
    * ymbgames
