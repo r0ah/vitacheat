@@ -66,6 +66,7 @@
 * <kbd>[PCSE00224](https://github.com/r0ah/vitacheat/blob/master/PCSE00224.psv)</kbd> Draw Slasher
 * <kbd>[PCSE00233](https://github.com/r0ah/vitacheat/blob/master/PCSE00233.psv)</kbd> Ninja Gaiden Sigma 2 Plus
 * <kbd>[PCSE00235](https://github.com/r0ah/vitacheat/blob/master/PCSE00235.psv)</kbd> Dead or Alive 5 Plus
+* <kbd>[PCSE00240](https://github.com/r0ah/vitacheat/blob/master/PCSE00240.psv)</kbd> Muramasa Rebirth
 * <kbd>[PCSE00244](https://github.com/r0ah/vitacheat/blob/master/PCSE00244.psv)</kbd> Valhalla Knights 3
 * <kbd>[PCSE00245](https://github.com/r0ah/vitacheat/blob/master/PCSE00245.psv)</kbd> Ys: Memories of Celceta
 * <kbd>[PCSE00250](https://github.com/r0ah/vitacheat/blob/master/PCSE00250.psv)</kbd> LEGO Marvel Super Heroes
