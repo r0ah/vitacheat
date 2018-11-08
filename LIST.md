@@ -74,7 +74,6 @@
 * <kbd>[PCSE00273](https://github.com/r0ah/vitacheat/blob/master/PCSE00273.psv)</kbd> Rainbow Moon
 * <kbd>[PCSE00283](https://github.com/r0ah/vitacheat/blob/master/PCSE00283.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSE00293](https://github.com/r0ah/vitacheat/blob/master/PCSE00293.psv)</kbd> Final Fantasy X HD Remaster
-* <kbd>[PCSE00300](https://github.com/r0ah/vitacheat/blob/master/PCSE00300.psv)</kbd> Ragnarok Odyssey ACE
 * <kbd>[PCSE00317](https://github.com/r0ah/vitacheat/blob/master/PCSE00317.psv)</kbd> Terraria
 * <kbd>[PCSE00358](https://github.com/r0ah/vitacheat/blob/master/PCSE00358.psv)</kbd> Demon Gaze
 * <kbd>[PCSE00383](https://github.com/r0ah/vitacheat/blob/master/PCSE00383.psv)</kbd> Borderlands 2
