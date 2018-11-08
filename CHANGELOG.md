@@ -5,10 +5,6 @@ All notable changes to this project will be documented in this file.
 ### Added ###
 * PCSE00240 Muramasa Rebirth
 
-### Changed ###
-* PCSE00300 Ragnarok Odyssey ACE
-   * Removed my existing codes and added x50 codes
-
 ## 2018-11-05 ##
 ### Added ###
 * PCSE01033 Ys Origin

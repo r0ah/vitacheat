@@ -7,10 +7,9 @@
    * @Smoker1
    * @theAlevan
    * @WasabiIceCream
-* **Code authors**:
+* **Code author**:
    * 0x6a6576
    * Aichitaka/Jialeyne19
-   * alphasurge <kbd>Code Sharer</kbd>
    * attmkk
    * Borderlinez
    * dask
@@ -41,7 +40,6 @@
    * Smoker1
    * speedfly
    * tokthem
-   * Tsukasa <kbd>Code Sharer</kbd>
    * Udaius
    * vergil
    * ymbgames
@@ -51,6 +49,9 @@
    * 路人甲
    * 囧样雷管
    * 我爱吃洋葱/真七支剑
+* **Code sharer**:
+   * alphasurge
+   * Tsukasa
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
