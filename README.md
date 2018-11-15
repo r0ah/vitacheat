@@ -8,8 +8,6 @@ The _new_ VitaCheat Database.
 
 I recommend you use the `notepad++ psv.xml` when viewing psv file.
 
-See full list [here](https://github.com/r0ah/vitacheat/blob/master/LIST.md).
-
 ## Cheat Plugins ##
 
 You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
@@ -28,10 +26,6 @@ There's no way I can test all the existing cheat code made by various code autho
 ## Request ##
 
 Nope!
-
-## Changelog ##
-
-See the [changelog](https://github.com/r0ah/vitacheat/blob/master/CHANGELOG.md) for any changes.
 
 ## [Wiki](https://github.com/r0ah/vitacheat/wiki) ##
 
