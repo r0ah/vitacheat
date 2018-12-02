@@ -4,6 +4,7 @@
 # Version: 1.05
 # Type: NoNpDrm
 # Code Author: r0ah, KiraYamatoSD
+# Credits: Skill list ID and name hacked and compiled by me. digidb.io for the following details: sp cost, type, power, attribute, inheritable and description.
 # Credits: KiraYamatoSD for the ABI's max value (https://github.com/r0ah/vitacheat/issues/28)
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00755#PCSE01171
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSE01171.psv
@@ -196,7 +197,7 @@ $000B 00000260 00000000
 $4001 830C3BC1 0000007F
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 1 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 1 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3BF8 00000001
 $000B 00000260 00000000
@@ -208,7 +209,7 @@ $000B 00000260 00000000
 $4101 830C3BFC FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 2 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 2 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C00 00000001
 $000B 00000260 00000000
@@ -220,7 +221,7 @@ $000B 00000260 00000000
 $4101 830C3C04 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 3 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 3 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C08 00000001
 $000B 00000260 00000000
@@ -232,7 +233,7 @@ $000B 00000260 00000000
 $4101 830C3C0C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 4 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 4 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C10 00000001
 $000B 00000260 00000000
@@ -244,7 +245,7 @@ $000B 00000260 00000000
 $4101 830C3C14 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 5 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 5 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C18 00000001
 $000B 00000260 00000000
@@ -256,7 +257,7 @@ $000B 00000260 00000000
 $4101 830C3C1C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 6 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 6 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C20 00000001
 $000B 00000260 00000000
@@ -268,7 +269,7 @@ $000B 00000260 00000000
 $4101 830C3C24 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 7 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 7 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C28 00000001
 $000B 00000260 00000000
@@ -280,7 +281,7 @@ $000B 00000260 00000000
 $4101 830C3C2C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 8 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 8 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C30 00000001
 $000B 00000260 00000000
@@ -292,7 +293,7 @@ $000B 00000260 00000000
 $4101 830C3C34 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 9 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 9 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C38 00000001
 $000B 00000260 00000000
@@ -304,7 +305,7 @@ $000B 00000260 00000000
 $4101 830C3C3C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 10 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 10 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C40 00000001
 $000B 00000260 00000000
@@ -316,7 +317,7 @@ $000B 00000260 00000000
 $4101 830C3C44 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 11 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 11 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C48 00000001
 $000B 00000260 00000000
@@ -328,7 +329,7 @@ $000B 00000260 00000000
 $4101 830C3C4C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 12 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 12 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C50 00000001
 $000B 00000260 00000000
@@ -340,7 +341,7 @@ $000B 00000260 00000000
 $4101 830C3C54 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 13 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 13 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C58 00000001
 $000B 00000260 00000000
@@ -352,7 +353,7 @@ $000B 00000260 00000000
 $4101 830C3C5C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 14 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 14 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C60 00000001
 $000B 00000260 00000000
@@ -364,7 +365,7 @@ $000B 00000260 00000000
 $4101 830C3C64 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 15 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 15 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C68 00000001
 $000B 00000260 00000000
@@ -376,7 +377,7 @@ $000B 00000260 00000000
 $4101 830C3C6C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 16 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 16 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C70 00000001
 $000B 00000260 00000000
@@ -388,7 +389,7 @@ $000B 00000260 00000000
 $4101 830C3C74 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 17 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 17 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C78 00000001
 $000B 00000260 00000000
@@ -400,7 +401,7 @@ $000B 00000260 00000000
 $4101 830C3C7C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 18 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 18 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C80 00000001
 $000B 00000260 00000000
@@ -412,7 +413,7 @@ $000B 00000260 00000000
 $4101 830C3C84 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 19 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 19 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C88 00000001
 $000B 00000260 00000000
@@ -424,7 +425,7 @@ $000B 00000260 00000000
 $4101 830C3C8C FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Learned Skill Slot 20 Modifier [Note 4][Note 6]
+_V0 Party Digimon: Learned Skill Slot 20 Modifier [Note 4 & 6]
 $D204 82FD9335 00AC85E5
 $4201 82FC3C90 00000001
 $000B 00000260 00000000
@@ -436,7 +437,7 @@ $000B 00000260 00000000
 $4101 830C3C94 FFFF0000 #<---SET VALUE HERE: Enter the SKILL ID
 $000B 00000260 00000000
 
-_V0 Party Digimon: Equipped Skill Slot 1 Inherited [Note 5][Note 6]
+_V0 Party Digimon: Equipped Skill Slot 1 Inherited [Note 5 & 6]
 $D202 82FD9335 00AC85E5
 $4201 82FC3BC8 00000001
 $000B 00000260 00000000
@@ -444,7 +445,7 @@ $D202 830D9335 00AC85E5
 $4201 830C3BC8 00000001
 $000B 00000260 00000000
 
-_V0 Party Digimon: Equipped Skill Slot 2 Inherited [Note 5][Note 6]
+_V0 Party Digimon: Equipped Skill Slot 2 Inherited [Note 5 & 6]
 $D202 82FD9335 00AC85E5
 $4201 82FC3BD0 00000001
 $000B 00000260 00000000
@@ -452,7 +453,7 @@ $D202 830D9335 00AC85E5
 $4201 830C3BD0 00000001
 $000B 00000260 00000000
 
-_V0 Party Digimon: Equipped Skill Slot 3 Inherited [Note 5][Note 6]
+_V0 Party Digimon: Equipped Skill Slot 3 Inherited [Note 5 & 6]
 $D202 82FD9335 00AC85E5
 $4201 82FC3BD8 00000001
 $000B 00000260 00000000
