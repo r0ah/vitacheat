@@ -1,0 +1,37 @@
+# ID: PCSF00612 
+# Title: Fat Princess: Piece of Cake
+# Region: EUR
+# Version: 1.03
+# Type: Mai / NoNpDRM / Vitamin (uses B200 for all codes)
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSF00612.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/37
+# Note: You can change the last four numbers to place the amount you want. Change to a different screen and it will show the change.
+# IMPORTANT: Game will not load if cheats are set to turn on automatically.
+
+_V0 999 Coins
+$B200 00000000 00000000
+$0200 0310FD14 000003E7
+
+_V0 99 Stamina
+$B200 00000000 00000000
+$0200 0310FCB8 00000063
+
+_V0 Collect 1 Cake for Lvl 3 Cake Smash
+$B200 00000000 00000000
+$0200 0310FD30 00000063
+$B200 00000000 00000000
+$0200 031BC220 00000063
+
+_V0 1500 Diamonds
+$B200 00000000 00000000
+$0200 0310FD08 000005DC
+
+_V0 1M Damage Dealt
+$B200 00000000 00000000
+$0200 0310FD20 000F423F
+
+_V0 Always Turn 1
+$B200 00000000 00000000
+$3201 04764EBC 000000B4
+$3300 00000000 00000001
