@@ -39,12 +39,14 @@
    * rioM1
    * Retroboy
    * RikuNoctis
+   * SkyRider13
    * Smich
    * Smoker1
    * speedfly
    * tokthem
    * Udaius
    * vergil
+   * westwood
    * ymbgames
    * Yohoki
    * zacknova
@@ -56,7 +58,6 @@
 * **Code sharer**:
    * alphasurge
    * Tsukasa
-   * Westwood
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
