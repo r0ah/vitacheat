@@ -9,6 +9,7 @@
    * @WasabiIceCream
 * **Code author**:
    * 0x6a6576
+   * AngelofWoe
    * Aichitaka/Jialeyne19
    * attmkk
    * Borderlinez
@@ -23,11 +24,13 @@
    * gayfriend
    * InfamousK
    * Junliang
+   * Kaymynd
    * KiraYamatoSD
    * Larry Dungo
    * Makein
    * Mapachillo
    * monodevil
+   * NanayaEmiya
    * ness151
    * noelxleon
    * optantic
@@ -43,6 +46,7 @@
    * Udaius
    * vergil
    * ymbgames
+   * Yohoki
    * zacknova
    * 我爱吃洋葱
    * 执行者NO.X
@@ -52,6 +56,7 @@
 * **Code sharer**:
    * alphasurge
    * Tsukasa
+   * Westwood
 * **VitaCheat**:
    * FinalCheat
    * Blood.Xia
