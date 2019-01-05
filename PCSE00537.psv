@@ -1,0 +1,11 @@
+# ID: PCSE00537
+# Title: Jetpack Joyride Deluxe
+# Region: USA
+# Version:1.00
+# Type: VPK
+# Code Author: SkyRider13
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00537.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/50
+
+_V0 INFINITE MONEY
+$0200 845B8A38 0003CE9C
