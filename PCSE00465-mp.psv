@@ -1,0 +1,99 @@
+# ID: PCSE00465
+# Title: Sword Art Online: Hollow Fragment
+# Region: US
+# Version: 1.02
+# Type: NoNpDRM
+# Code Author: Yohoki (Translated to VitaCheat)
+# Credits: NanayaEmiya (Original GohanMem Codes), Westwood (for finding NanayaEmiya's Post)
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00465#mp
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00465.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/46
+# Note: Multiplayer Codes Only. Singleplayer codes will not fit in file. Stored Seperately.
+
+_V0 MvSpdMax
+$0100 821D7E4A 00007FFF
+
+_V0 Drop Rate Always +99%
+$0100 821D7DED 00000063
+
+_V0 All Enemies on Map
+$0000 821D7ED3 00000001
+
+_V0 No Skill or Item Delay
+$0100 821D7DE6 0000CC00
+$0100 821D7DEA 0000CC00
+
+_V0 Skills Instant Cooldown
+$0000 821D7E7D 0000007F
+
+_V0 Semipermanent Effects
+$0100 821D7E7A 00007FFF
+
+_V0 Higher Inflict Chance
+$0000 821D7E16 000000DD
+
+_V0 Always Sure Hit
+$0000 821D7ED9 00000001
+
+_V0 Infinite Phys and Ment Avatars
+$0000 821D7ED6 0000007F
+$0000 821D7ED7 0000007F
+
+_V0 Critical Rate +77%
+$0100 821D7DE0 0000004D
+
+_V0 Body and Mental Resistance 77%
+$0000 821D7E0D 0000004D
+$0000 821D7E0E 0000004D
+
+_V0 Fast Risk Cooldown
+$0000 821D7E24 00000064
+
+_V0 Life Steal 77%
+$0000 821D7E5E 00004D
+
+_V0 Damage Reflect x12.7
+$0000 821D7E57 0000007F
+
+_V0 Max Health Points
+$0200 821D7D78 004D4400
+$0200 821D7D7C 004D4400
+
+_V0 Max Soul Points
+$0100 821D7D80 000060AE
+$0100 821D7D82 000060AE
+
+_V0 Infinite Burst Point
+$0100 821D36A4 000001F4
+
+_V0 Hide Sound and Sound
+$0000 821D7ECC 00000001
+$0000 821D7ECD 00000001
+
+_V0 Unhide Sound and Sound
+$0000 821D7ECC 00000000
+$0000 821D7ECD 00000000
+
+_V0 Auto Attack Interval Nil
+$0100 821D7DB4 00000000
+
+_V0 Auto Attack Twice
+$0000 821D7ED0 00000064
+
+_V0 Additional Auto Attacks
+$0000 821D7EDC 0000001B
+
+_V0 DPS-ing Auto Attack
+$0000 821D7EDC 0000007F
+
+_V0 Significant DPS
+$0200 821D7DA4 00007530
+
+_V0 Hate-Risk Normal (1-2)
+$0100 821D7E5A 00000000
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Do not save codes turned on! (see Wiki)
+#DETAILS: Do not save codes turned on! Check your HP and hit triangle on the Max HP code before activating codes. If you do not see your HP on the bottom left of the memory view, restart the game.
