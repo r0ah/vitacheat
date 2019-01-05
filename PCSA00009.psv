@@ -1,0 +1,18 @@
+# ID: PCSA00009
+# Title: Hot Shots Golf: World Invitational
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSA00009.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/38
+
+_V0 Inf Money
+$0200 84836E60 000F423F
+
+_V0 1M Score
+$0200 84786838 000F423F
+
+_V0 Always 1st Shot
+$4201 84786974 00000001
+$0012 00000054 00000000
