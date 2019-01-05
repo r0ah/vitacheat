@@ -1,0 +1,22 @@
+# ID: PCSA00152
+# Title: Soul Sacrifice Delta
+# Region: USA
+# Version: 1.30
+# Type: NoNpDrm
+# Code Author: AngelofWoe
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSA00152.psv
+
+_V0 >>>>Created By AngelofWoe<<<<
+$0000 00000000 00000000
+
+_V0 999999 Lacrima
+$0200 83B7159C 000F423F
+
+_V0 999999 Sanctuarium Slayer Points
+$0200 83C565C4 000F423F
+
+_V0 999999 Avalon Slayer Points
+$0200 83C565C0 000F423F
+
+_V0 999999 Grim Slayer Points
+$0200 83C565C8 000F423F
