@@ -3,7 +3,7 @@
 # Region: USA
 # Version: 1.04
 # Type: NoNpDrm
-# Code Autor: Bishamon
+# Code Author: BishamonIl
 # Credits: Aichitaka/Jialeyne19 For Infinity Ammo For Campaign/Raid Mode
 
 _V0 Inf Ammo [Campaign/Raid Mode] 
@@ -167,3 +167,6 @@ $0200 8893A9F4 00000063
 $0200 8893A9F8 00005750
 $0200 8893A9F9 00000057
 $0200 8893AA00 00000063
+$0200 8893A788 00005450
+$0200 8893A789 00000054
+$0200 8893A780 00000063
