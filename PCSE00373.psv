@@ -41,14 +41,13 @@ $0068 00000002 00000000
 _V0 255 All Card Packs
 $4001 83AE57E9 000000FF
 $006A 00000002 00000000
-# Todo: add b200 and a compressed code for "99 All Cards Unlocked" **Edit: found card packs. Probably won't care to add all cards.
 
 #For future hunters, here's a few cards to get you started:
 
-_V0 Pokemon Value Pack
-$0000 83AD2CE4 000000FF
-$0000 83AD24a4 000000FF
-$0000 83AD2e04 000000FF
-$0000 83AD2264 000000FF
-$0000 83AD11e4 000000FF
+#_V0 Pokemon Value Pack
+#$0000 83AD2CE4 000000FF
+#$0000 83AD24a4 000000FF
+#$0000 83AD2e04 000000FF
+#$0000 83AD2264 000000FF
+#$0000 83AD11e4 000000FF
 #They're 8 bit codes. They only show up to 99 cards in game, but values can go up to 0xFF.
