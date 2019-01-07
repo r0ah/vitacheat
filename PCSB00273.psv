@@ -72,5 +72,5 @@ $3300 00000000 00000005
 #$7702 00000000 00000063
 #$0003 00000044 00000000
 
-# ~~~
 # @r0ah , You may add this bit of code as an example to the "Pointer Compression" page if you like. There is no info there at all at the moment, so it's pretty confusing to newbies.
+#~~~~
