@@ -1,0 +1,22 @@
+# ID: PCSE00090
+# Title: Sine Mora
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSE00090.psv 
+
+_V0 Max Score
+$0200 83E70EB8 3B9AC9FF
+
+_V0 Infinite/Max Ud-Bomb
+$0000 83E70EC4 00000005
+
+_V0 Infinite/Max Fire
+$0000 83E70EC0 0000000A
+
+_V0 Infinite Special
+$5200 83E70EC8 83E70ECC
+
+_V0 Infinite Credits
+$0000 83E70EB4 0000000A
