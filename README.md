@@ -1,7 +1,5 @@
 # README #
 
-<p align="center"><img width="450" src="https://raw.githubusercontent.com/wiki/r0ah/vitacheat/images/maimoe.png"></p>
-
 The _new_ VitaCheat Database.
 
 > **Warning**: Some of the cheats may not work so make sure to backup your savedata before activating any cheats.	
