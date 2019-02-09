@@ -1,0 +1,24 @@
+# ID: PCSG00001
+# Title: Ridge Racer
+# Region: JPN
+# Version: 1.04
+# Type: MAI5
+# Code Author: attmkk
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00001.psv
+# Original Source: http://www.speedfly.cn/22163.html
+# Note: [Submission] PCSG00001 Ridge Racing Gold Finger
+#  - Ridge Racing Hong Kong Edition (Japanese version) 1.04 + DLC a total of 26 vehicles 9 track
+#  - Psv gold finger file:
+
+_V0 Nitro Full (无限氮气)
+$A100 8109EF00 0000BF00
+
+_V0 $9,999,999 (金钱)
+$0200 81402EB0 0098967F
+
+_V0 Level 99
+$0000 81402EA0 00000063
+$0000 81407090 00000063
+
+_V0 Vip
+$0200 81402EB8 3B9AC9FF

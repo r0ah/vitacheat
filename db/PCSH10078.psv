@@ -1,0 +1,13 @@
+# ID: PCSH10078
+# Title: UnEpic
+# Region: ASA/CHN
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH10078.psv
+# Original Source: http://www.speedfly.cn/21641.html
+
+_V0 升级后获得技能点数量77//Get SP 77 after Lv UP
+$B200 00000000 00000000
+$A100 0006DF8C 0000234D
+$A100 0006DFA2 0000214D

@@ -1,0 +1,15 @@
+# ID: PCSG00199
+# Title: Uta Kumi 575
+# Region: JPN
+# Version: 1.01
+# Type: Vitamin
+# Code Author: 我爱吃洋葱/真七支剑
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00199.psv
+# Original Source: http://www.speedfly.cn/20200.html
+# Note: Vitamin game version but install with MaiDumpTools
+
+_V0 自动演奏//Automatic play
+$A200 810E60F4 20FF20FF
+
+_V0 单自动歌词//Single automatic lyrics
+$A100 810F06CA 0000BF00

@@ -1,0 +1,11 @@
+# ID: PCSA00069
+# Title: Playstation All-Stars Battle Royale
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tokthem
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00069.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/14
+
+_V0 SuperPower
+$0200 81B3BE78 45695A00

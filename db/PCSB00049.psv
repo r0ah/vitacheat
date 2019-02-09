@@ -1,0 +1,40 @@
+# ID: PCSB00049
+# Title: Shinobido 2: Revenge of Zen
+# Region: EUR
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Udaius
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00049.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-65#post-8227720
+
+_V0 9,999,999 Money
+$0200 8153C964 0098967F
+
+_V0 99x Items (1st 100 slots)
+$4001 81545E1A 00000063
+$0064 000000C0 00000000
+
+_V0 Max Lvl / Sp / Stamina
+$0000 8153C974 00000063
+$0000 8153C97C 000000FF
+$0000 8153C980 00000064
+
+_V0 Max Strength / Defense / Grapple
+$4001 8153C984 00000032
+$0002 00000004 00000000
+$0000 8153C98C 00000048
+
+_V0 99x Thrifty Ninja (Slot 1) (No Name Change)
+$0200 81545E18 0063001B
+
+_V0 99x Revive Scroll (Slot 2) (No Name Change)
+$0200 81545ED8 00630019
+
+_V0 Alchemical Genius Material
+$0200 81545E18 0001013E
+$0000 81545E1C 00000005
+$0200 81545E20 070003E7
+$0200 81545E24 080003E7
+$0200 81545E28 090003E7
+$0200 81545E2C 0A0003E7
+$0200 81545E30 0B0003E7

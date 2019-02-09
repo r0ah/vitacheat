@@ -1,0 +1,22 @@
+# ID: PCSH10004
+# Title: Super Robot Wars V (Chinese Version)
+# Region: ASA/CHN
+# Version: 1.03
+# Type: MAI6
+# Code Author: speedlfy&gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH10004.psv
+# Original Source: http://www.speedfly.cn/21511.html 
+ 
+_V0 金钱变动后最大//Change Money Max
+$A100 81319F54 00001C00
+$A100 81319F5E 00001C00
+$A100 81319F68 00001C00
+$A200 81319F8A 11FFF64C
+$A200 81319F8E 319AF6C3
+ 
+_V0 TacP变动后最大//Change TacP Max
+$A100 8131A05A 00001C00
+$A100 8131A060 00001C00
+$A100 8131A066 00001C00
+$A200 8131A080 01FFF24E
+$A200 8131A084 51F5F2C0

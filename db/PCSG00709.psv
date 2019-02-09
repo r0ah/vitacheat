@@ -1,0 +1,24 @@
+# ID: PCSG00709
+# Title: WORLD OF FINAL FANTASY
+# Region: JPN
+# Version: 1.03
+# Type: NoNpDrm
+# Code Author: Daze
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00709.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335997
+# Note: vitacheat z05
+
+# 変動で所持金最大
+_V0 変動で所持金最大//money max after change
+$B200 00000000 00000000
+$A100 00126AD4 0000BF00
+
+# LvUPでSP999
+_V0 LvUPでSP999//SP 999 after LvUP
+$B200 00000000 00000000
+$A100 001B1DE2 00001C00
+
+# 一時的にLv99(このコードをオフにすると戻る)
+_V0 時的にLv99(このコードをオフにすると戻る)//Temporarily Lv99
+$B200 00000000 00000000
+$A100 000E55B4 0000BF00

@@ -1,0 +1,16 @@
+# ID: PCSE00893
+# Title: Tokyo Xanadu
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00893.psv
+# Note: Pointer code not always work. Save data before activating cheats.
+
+_V0 Infinite Yen
+$3201 82D4DCC4 FFFD8B1C
+$3300 00000000 0098967F
+
+_V0 Infinite Shard
+$3201 82D4DCC4 FFFD8B28
+$3300 00000000 0098967F

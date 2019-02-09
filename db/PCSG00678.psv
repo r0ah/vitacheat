@@ -1,0 +1,12 @@
+# ID: PCSG00678
+# Title: The Idol M@ster: Must Songs - Blue Album
+# Region: JPN
+# Version: 1.00
+# Type: MAI5
+# Code Author: 我爱吃洋葱
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00678.psv
+# Original Source: http://www.speedfly.cn/19841.html
+# Note: You might have to download the eboot here for the cheats to work (http://www.speedfly.cn/19841.html)
+
+_V0 自动演奏//Automatic play
+$A200 8109509C BF00BF00

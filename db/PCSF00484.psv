@@ -1,0 +1,42 @@
+# ID: PCSF00484
+# Title: Ratchet and Clank
+# Region: EUR
+# Version: 1.00
+# Type: MaiDump
+# Code Author: Retroboy
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSF00484.psv
+# Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/3066-pcsf00484-ratchet-clank#post3066
+# Note: Infinite Jump does as it says, keep pressing X to jump, if you jump high enough and keep hold of X you will be able to run in mid air whilst slowly falling to the ground.
+
+_V0 Infinite Health
+$0000 818D8848 00000004
+
+_V0 Infinite Air
+$0200 818D8840 00002710
+
+_V0 Infinite Jump
+$C203 00000001 00004000
+$0200 818D68AC FFFF0000
+$C203 00000001 00000000
+$0200 818D68AC 00000000
+
+_V0 Infinite/Max Bolts
+$0200 818D6560 3B9AC9FF
+
+_V0 Infinite Bombs
+$0000 818D8994 00000028
+
+_V0 Infinite Pyrocitor Ammo
+$0000 818D89AC 000000F0
+
+_V0 Infinite Blaster Ammo
+$0000 818D89A8 000000C8
+
+_V0 Infinite Glove of Doom Ammo
+$0000 818D89BC 0000000A
+
+_V0 Infinite Mine Glove Ammo
+$0000 818D89B0 00000032
+
+_V0 Infinite R.Y.N.O. Ammo
+$0000 818D89C8 00000032

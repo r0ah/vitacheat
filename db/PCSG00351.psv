@@ -1,0 +1,60 @@
+# ID: PCSG00351
+# Title: Phantasy Star Nova
+# Region: JPN
+# Version: 1.05
+# Type: NoNpDrm
+# Code Author: r0ah, Daze
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSG00351
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00351.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335997
+# Note: Daze's version is tested with vitacheat z05
+
+# 経験値入手で最大
+_V0 経験値入手で最大//exp max after gets
+$B200 00000000 00000000
+$A100 0097C964 00001C00
+
+#グランエナジー入手で最大
+_V0 グランエナジー入手で最大//money max after gets
+$B200 00000000 00000000
+$A100 0042998A 00001C00
+
+#一時的に最大HP9999
+_V0 時的に最大HP9999//Temporarily Max HP9999
+$B200 00000000 00000000
+$A100 003765AE 00001C00
+
+_V0 Infinite Gold
+$0200 871644AC 000F423F
+
+_V0 Max Inventory Items
+$4101 87120142 000003E7
+$00C8 0000002C 00000000
+
+_V0 Max Storage Items
+$4101 87122322 000003E7
+$07D0 0000002C 00000000
+
+_V0 Infinite HP
+$5200 871B0798 871B0794
+
+_V0 Infinite GP
+$5200 871B07A0 871B079C
+
+_V0 Max HP Value
+$0200 871B0794 000003E7
+
+_V0 Max GP Value
+$0200 871B079C 000003E7
+
+_V0 Max Level
+$0200 871B0790 00000004
+
+_V0 Experience Modifier [Note 1]
+$0200 871B07A4 00000000 #<---SET VALUE HERE: ENTER THE XP
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #6: This is a modifier cheat. See Wiki for details.
+$0000 00000000 00000000

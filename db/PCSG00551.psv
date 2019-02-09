@@ -1,0 +1,12 @@
+# ID: PCSG00551
+# Title: Taiko no Tatsujin V Version
+# Region: JPN
+# Version: 1.01
+# Type: MAI5
+# Code Author: 我爱吃洋葱
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00551.psv
+# Original Source: http://www.speedfly.cn/19487.html
+# Note: You might need to download the eboot here (http://www.speedfly.cn/19487.html)
+
+_V0 自动演奏//Automatic play
+$A100 81095992 0000BF00

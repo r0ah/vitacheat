@@ -1,0 +1,94 @@
+# ID: PCSD00084
+# Title: Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2
+# Region: ASA
+# Version: 1.01
+# Type: Vitamin/MaiDump
+# Code Author: Fullcodes(树的原理)/speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSD00084.psv
+# Original Source: http://www.speedfly.cn/19778.html
+# Notes: speedfly's notes
+#  - Vitamin format game After decompressing, install with MAI
+#  - Instructions for using custom store items
+#     - The custom store item ID is the starting ID. It is valid for all kinds of stores.
+#     - For example, if the starting ID is set to 0001, if there are 7 items in the entered store, then 7 items will become 7 items with IDs 0001 to 0007.
+#     - Similarly, if set to 0017, then 7 items in the store will become 0017 to 001D.
+#     - So find a store that sells the most items and can quickly find all the items.
+#     - The displayed items are sorted in reverse order, that is, the ID is the largest at the top and the smallest at the bottom.
+
+_V0 买卖后金钱最大//Money Max by Shopping (v1.01 VPK)
+$A100 81094A14 00001C00
+$A100 81094A3E 00001C00
+
+_V0 Money 99,999,999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$0200 81BD25D4 BB4B9639
+$0200 81BD25D8 B013902E
+
+_V0 Shrining Point 99,999,999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$0200 81BD25DC BB4B9639
+$0200 81BD25E0 B013902E
+
+_V0 1P-3P Victory Point 99,999,999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$4200 81BCCE08 05F5E0FF
+$0003 00000450 00000000
+
+_V0 1P-3P Health Point 100 (v1.01 MAI)
+$D202 81094A48 E0029003
+$4200 81BCCFC8 3F800000
+$0003 00000450 00000000
+
+_V0 1P Infinite HP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A7767E 81A7767C
+
+_V0 1P Infinite MP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A77682 81A77680
+
+_V0 1P ATK/DEF/INT 9999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$4100 81A77684 0000270F
+$0003 00000002 00000000
+
+_V0 1P Abilities Max (v1.01 MAI)
+$D202 81094A48 E0029003
+$4200 81BCCE3C 44960000
+$000C 00000004 00000000
+
+_V0 2P Infinite HP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A776EE 81A776EC
+
+_V0 2P Infinite MP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A776F2 81A776F0
+
+_V0 2P ATK/DEF/INT 9999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$4100 81A776F4 0000270F
+$0003 00000002 00000000
+
+_V0 2P Abilities Max (v1.01 MAI)
+$D202 81094A48 E0029003
+$4200 81BCD28C 44960000
+$000C 00000004 00000000
+
+_V0 3P Infinite HP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A7775E 81A7775C
+
+_V0 3P Infinite MP (v1.01 MAI)
+$D201 81094A48 E0029003
+$5100 81A77762 81A77760
+
+_V0 3P ATK/DEF/INT 9999 (v1.01 MAI)
+$D202 81094A48 E0029003
+$4100 81A77764 0000270F
+$0003 00000002 00000000
+
+_V0 3P Abilities Max (v1.01 MAI)
+$D202 81094A48 E0029003
+$4200 81BCD6DC 44960000
+$000C 00000004 00000000

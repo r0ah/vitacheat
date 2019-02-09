@@ -1,0 +1,29 @@
+# ID: PCSE00052
+# Title: Rayman Origins
+# Region: USA
+# Version: latest
+# Type: PSN, NoNpDRM
+# Code Author: Kaymynd
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00052
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00052.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/41
+
+_V0 999999999 Lums
+$0200 825D0034 3B9AC9FF
+
+_V0 Stop Timer 1 sec
+$0200 825D0068 3F800000
+
+_V0 Infinite Lives [Note 1]
+$3201 82355218 000009BC
+$3300 00000000 00000002
+
+_V0 Give Infinite Super Punch
+$3201 81802818 00000F70
+$3300 00000000 00000001
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: Can still (ex: squished, screen scrolls past you)
+#DETAILS: Can still die in some instances (squished, screen scrolls past you)

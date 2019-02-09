@@ -1,0 +1,176 @@
+# ID: PCSE00022
+# Title: Disgaea 3 Absence of Detention
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: monodevil
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00022
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00022.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335797
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-92#post-8344976
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-94#post-8359544
+
+_V0 HL
+$0200 81939C80 4E729FFF
+$0200 81939C84 00000918
+
+_V0 Max Mana Character slot 1-10
+$0200 8193A8F8 0098967F
+$0200 8193D538 0098967F
+$0200 81940178 0098967F
+$0200 81942DB8 0098967F
+$0200 819459F8 0098967F
+$0200 81948638 0098967F
+$0200 8194B278 0098967F
+$0200 8194DEB8 0098967F
+$0200 81950AF8 0098967F
+$0200 81953738 0098967F
+
+_V0 Bonus Gauge always lvl 9
+$0100 81A7DAF2 00000009
+
+_V0 Infinite Dispatch [Note 1]
+$0000 81A7E1F9 0000000A
+
+_V0 999 HQ
+$0200 81BB34F8 000003E7
+
+_V0 Exp mod 1st Character slot [Note 2] [Note 6]
+$0200 81939CA8 00000000 #<---SET VALUE HERE: Enter the value yourself
+$0200 81939CAC 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Exp mod 2nd Character slot [Note 2] [Note 6]
+$0200 8193C8E8 00000000 #<---SET VALUE HERE: Enter the value yourself
+$0200 8193C8EC 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Exp mod 3rd Character slot [Note 2] [Note 6]
+$0200 8193F528 00000000 #<---SET VALUE HERE: Enter the value yourself
+$0200 8193F52C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Character in 1st slot Level 9999 [Note 2]
+$0200 81939CA8 FFFFFFFF
+$0200 81939CAC 00000030
+
+_V0 Item and Class World Low Command Attack Points
+$0100 81BB3436 00000001
+
+_V0 Reverse Pirating - Always Turn 1 
+$0000 81A7DAE8 00000001
+
+_V0 Item world floor mod [Note 3] [Note 6]
+$0000 81BB3454 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 *Item Bag slot 1 codes*
+$0000 00000000 00000000
+
+_V0 Rarity mod [Note 6]
+$0000 81A02BF0 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Weapon stats slot 1 mod [Note 4] [Note 6]
+$0200 81A02B50 00000000 #<---SET VALUE HERE: Enter the value: HP
+$0200 81A02B58 00000000 #<---SET VALUE HERE: Enter the value: SP
+$0200 81A02B60 00000000 #<---SET VALUE HERE: Enter the value: ATK
+$0200 81A02B68 00000000 #<---SET VALUE HERE: Enter the value: DEF
+$0200 81A02B6C 00000000
+$0200 81A02B70 00000000 #<---SET VALUE HERE: Enter the value: INT
+$0200 81A02B74 00000000
+$0200 81A02B78 00000000 #<---SET VALUE HERE: Enter the value: SPD
+$0200 81A02B7C 00000000
+$0200 81A02B80 00000000 #<---SET VALUE HERE: Enter the value: HIT
+$0200 81A02B84 00000000
+$0200 81A02B88 00000000 #<---SET VALUE HERE: Enter the value: RES
+$0200 81A02B8C 00000000
+$0000 81A02BD2 00000000 #<---SET VALUE HERE: Enter the value: LVL
+$0000 81A02BF3 00000000 #<---SET VALUE HERE: Enter the value: POP
+$0000 81A02BF4 00000000 #<---SET VALUE HERE: Enter the value: MOV
+
+_V0 Max Weapon stats slot 1 [Note 4] [Note 6]
+$0200 81A02B50 0015DFAF #<---SET VALUE HERE: Enter the value: HP
+$0200 81A02B58 0015DFAF #<---SET VALUE HERE: Enter the value: SP
+$0200 81A02B60 0015DFAF #<---SET VALUE HERE: Enter the value: ATK
+$0200 81A02B68 0015DFAF #<---SET VALUE HERE: Enter the value: DEF
+$0200 81A02B6C 00000000
+$0200 81A02B70 0015DFAF #<---SET VALUE HERE: Enter the value: INT
+$0200 81A02B74 00000000
+$0200 81A02B78 0015DFAF #<---SET VALUE HERE: Enter the value: SPD
+$0200 81A02B7C 00000000
+$0200 81A02B80 0015DFAF #<---SET VALUE HERE: Enter the value: HIT
+$0200 81A02B84 00000000
+$0200 81A02B88 0015DFAF #<---SET VALUE HERE: Enter the value: RES
+$0200 81A02B8C 00000000
+$0000 81A02BD2 000000C8 #<---SET VALUE HERE: Enter the value: LVL
+$0000 81A02BF0 00000000 #<---SET VALUE HERE: Enter the value: Rarity
+$0000 81A02BF3 00000008 #<---SET VALUE HERE: Enter the value: POP
+$0000 81A02BF4 0000001F #<---SET VALUE HERE: Enter the value: MOV
+
+_V0 Innocent mod slot 1 [Note 5] [Note 6]
+$0200 81A02B0C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 2 [Note 5] [Note 6]
+$0200 81A02B14 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 3 [Note 5] [Note 6]
+$0200 81A02B1C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 4 [Note 5] [Note 6]
+$0200 81A02B24 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 5 [Note 5] [Note 6]
+$0200 81A02B2C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 6 [Note 5] [Note 6]
+$0200 81A02B34 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 7 [Note 5] [Note 6]
+$0200 81A02B3C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent mod slot 8 [Note 5] [Note 6]
+$0200 81A02B44 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 1 [Note 5] [Note 6]
+$0200 81A02B08 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 2 [Note 5] [Note 6]
+$0200 81A02B10 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 3 [Note 5] [Note 6]
+$0200 81A02B18 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 4 [Note 5] [Note 6]
+$0200 81A02B20 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 5 [Note 5] [Note 6]
+$0200 81A02B28 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 6 [Note 5] [Note 6]
+$0200 81A02B30 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 7 [Note 5] [Note 6]
+$0200 81A02B38 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Number of Innocents mod slot 8 [Note 5] [Note 6]
+$0200 81A02B40 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent Warehouse: Innocent mod Slot 1 [Note 5] [Note 6]
+$0200 81BB459C 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Innocent Warehouse: # of Innocents mod slot 1 [Note 5] [Note 6]
+$0200 81BB4598 00000000 #<---SET VALUE HERE: Enter the value yourself
+
+_V0 Notes:
+
+_V0 #1: Don't stack over 10 characters
+#DETAILS: Game will crash if you try to do anything with more the 10 characters stacked.
+
+_V0 #2 Turn code on then off when done
+#DETAILS: then go into a battle and win or leave to correct your stats. Summoning that character from the base panel can also corret their stats 
+
+_V0 #3:Not useful for gaining item levels
+#DETAILS: Only use to steal from item God on last floor
+
+_V0 #4:Stats aren't permanent and will revert
+#DETAILS: if messing with the item too much. Best way to use it is to equip item to a character and never remove it. Also equip it to an empty slot otherwise it reverts the stats.
+
+_V0 #5:For subdued innocents use the subdued innocent adresses wiki
+
+_V0 #6: These are modifier cheats. See Wiki for details.

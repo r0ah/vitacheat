@@ -1,0 +1,15 @@
+# ID: PCSB00160
+# Title: FoosBall 2012
+# Region: EUR/PAL
+# Version: 01.01 (Latest)
+# Type: NoNpDrm
+# Code Author: Demolinizer
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00160.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/31#issue-369845096
+# Note: Doesn't work online. I use PAL for region as it specifies games released in Australia as well as the EU
+
+_V0 P1 Goals (Offline)
+$0200 81154FC8 00000009
+
+_V0 COM Goals (Offline)
+$0200 81154FE0 00000000

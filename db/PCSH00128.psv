@@ -1,0 +1,17 @@
+# ID: PCSH00128
+# Title: Dekamori Senran Kagura (Chinese/Korean Ver.)
+# Region: ASIA/CHN/KOR
+# Version: 1.00
+# Type: MAI5
+# Code Author: 我爱吃洋葱
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00128.psv
+# Original Source: http://www.speedfly.cn/19527.html
+# Note: You might need to download the eboot here (http://www.speedfly.cn/19527.html)
+
+_V0 自动演奏//Automatic play
+$A200 810A5178 BF00BF00
+$A100 810A51AC 0000BF00
+$A100 810A53C8 0000BF00
+$A200 810A54F4 BF00BF00
+$A100 810A554A 0000BF00
+$A100 810A5682 0000BF00

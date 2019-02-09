@@ -1,0 +1,26 @@
+﻿# ID: PCSH00152
+# Title: SAMURAI WARRIORS: Chronicles 3
+# Region: ASA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00152.psv
+# Original Source: http://www.speedfly.cn/22568.html
+
+_V0 金钱变动后最大//Change Money Max
+$B200 00000000 00000000
+$A100 0003C982 00001C00
+$A200 0003C99C 223FF244
+$A200 0003C9A0 020FF2C0
+$A100 0003C9A4 00004694
+
+_V0 任务中获得点数最大//Get Point Max in Mission
+$B200 00000000 00000000
+$A100 0002B5A0 00001C00
+
+_V0 总点数变动后最大//Change Total Point Max
+$B200 00000000 00000000
+$A100 0003CEEE 00001C00
+$A200 0003CF18 0198F2C0
+$A100 0003CF1C 00006401
+$A100 0003CF22 00001C00

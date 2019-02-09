@@ -1,0 +1,23 @@
+# ID: PCSE01144
+# Title: Under Night In-Birth Exe:Late[st]
+# Region: USA
+# Version: 1.00
+# Type: MAI5
+# Code Author: dask
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE01144.psv
+# Original Source: http://www.speedfly.cn/21571.html
+
+_V0 1P HP不减//1P Inf HP
+$0200 81703C18 00002904
+ 
+_V0 1P 无限EXS//1P Inf EXS
+$0200 81703C38 00004E20
+ 
+_V0 1P 爆气不减//1P Inf Super
+$0200 81703C80 000046A0
+ 
+_V0 2P HP0//2P HP 0
+$0200 81704534 00000000
+ 
+_V0 2P 没有EXS//2P no EXS
+$0200 81704554 00000000

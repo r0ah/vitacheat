@@ -1,0 +1,76 @@
+# ID: PCSB00273
+# Title: Fruit Ninja
+# Region: EUR, AU
+# Version: 1.00
+# Type: Mai, NoNpDRM, Vitamin
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00273.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/40
+
+_V0 1M Starfruit
+$B200 00000000 00000000
+$3203 000599FC 0000B5F8
+$3200 00000000 0000460C
+$3200 00000000 00000080
+$3300 00000000 000F423F
+
+_V0 1M Points
+$B200 00000000 00000000
+$0200 003FF070 000F423F
+
+_V0 No Dropped Fruit
+$B200 00000000 00000000
+$0200 003FF06C 00000000
+
+_V0 99 All Items
+$B200 00000000 00000000
+$7202 00057924 0000483C
+$7202 00000000 000006E4
+$7702 00000000 00000063
+$0003 00000044 00000000
+
+_V0 Unlimited Bomb Deflects Left
+$B200 00000000 00000000
+$3201 003FF084 00000070
+$3300 00000000 00000005
+
+# ~~~~
+# These codes work for both EU version (PCSB00273) and US/AU version (PCSE00229). They also use B200 codes, so they should work regardless of how they were dumped.
+
+## **Notes on hacking this game:**
+# This was a particularly good game for learning the differences between single codes, pointers, multilayered pointers and compression. Very simple to find values, but many are pointers, and even more are multilayered.
+
+# The number of Bomb Deflects you've used in a game is stored with a pointer. Simply finding the address will not work, because it resets every time you open the game. Learning to use TempAR to find pointers will get you this code that stays correct even after re-opening the game.
+
+# Points and # of dropped fruits are simple codes stored as 32-bit values (DWORDs). Finding the right address, you can use the code any time, even after closing and re-opening the game.
+
+# Starfruit is stored with a teir 3 pointer. Finding the address, or even the 1st pointer will work until you close the game. You'll have to use TempAR to get an additional 2 pointers and learn the correct syntax to fit all the offsets into a code.
+
+# Number of Bomb Deflect, Berry Blast and Peachy Time items use a simpler teir 2 pointer. All of these addresses use the same pointer, but with a slightly different offset. Because they use similar pointers, we can use pointer compression to condense the 14 lines of code:
+
+#_V0 99 Bomb Deflects
+#$3202 81057924 0000483C
+#$3200 00000000 000006E4
+#$3300 00000000 00000063
+
+#_V0 99 Berry Blasts
+#$3202 81057924 0000483C
+#$3200 00000000 00000728
+#$3300 00000000 00000063
+
+#_V0 99 Peachy Times
+#$3202 81057924 0000483C
+#$3200 00000000 0000076C
+#$3300 00000000 00000063
+
+# down to a much smaller code of only 6 lines:
+
+#_V0 99 All Items B200
+#$B200 00000000 00000000
+#$7202 00057924 0000483C
+#$7202 00000000 000006E4
+#$7702 00000000 00000063
+#$0003 00000044 00000000
+
+# @r0ah , You may add this bit of code as an example to the "Pointer Compression" page if you like. There is no info there at all at the moment, so it's pretty confusing to newbies.
+#~~~~

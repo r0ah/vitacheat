@@ -1,0 +1,72 @@
+# ID: PCSB00394
+# Title: Final Fantasy X-2 HD Remaster
+# Region: EUR
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Udaius
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSB00394
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00394.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-83#post-8293342
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-85#post-8298497
+
+_V0 Max Gil
+$0200 8258D128 05F5E0FF
+
+_V0 Have 99 of All Items
+$4101 8258D290 00002000
+$0044 00000002 00000001
+$4001 8258D490 00000063
+$0044 00000001 00000000
+
+_V0 All Dresspheres Unlocked
+$4001 8258D15D 00000001
+$000F 00000001 00000000
+$0200 8258D16E 01000001
+$0100 8258D178 00000101
+
+_V0 Have 90 of All Accessories
+$4101 8258D5D0 00009000
+$0080 00000002 00000001
+$4001 8258D6D0 0000005A
+$0080 00000001 00000000
+
+_V0 All Garment Grids Unlocked
+$4001 8258D154 000000FF
+$0008 00000001 00000000
+
+_V0 All Abilities Learned
+$4101 8258E6BE 000003E7
+$1DFF 00000002 00000000
+
+_V0 Unlock Dresspheres Debug (YRP)
+$4001 8258DB3E 000000FF
+$0003 00000080 00000000
+
+_V0 Max Level YRP
+$0200 8258DB14 00149AB2
+$0200 8258DB94 001310C8
+$0200 8258DC14 0011D967
+
+_V0 Max HP/MP Permanent (YRP)
+$4201 8258DB04 0001869F
+$0003 00000080 00000000
+$4101 8258DB08 0000270F
+$0003 00000080 00000000
+
+_V0 Max Stats Permanent (YRP)
+$4201 8258DB0C FFFFFFFF
+$0003 00000080 00000000
+$4201 8258DB10 FFFFFFFF
+$0003 00000080 00000000
+
+_V0 Brother with only Zanmato [Note 1]
+$4201 82592EC0 40A440A4
+$0004 00000004 00000000
+$0100 8258E2B6 0000500C
+$0000 8258E2B8 0000003D
+
+_V0 Notes:
+$0000 00000000 00000000
+
+_V0 #1: See wiki for details.
+$0000 00000000 00000000 # Now with some luck he shouldn't learn any new skills as I have it done in a way that the free slots are all set as zanmato but will continue to test it to see if he does learn anything else, also since his garment grid/dressphere has been modified i'd avoid his equipment page as it asks you to choose a dressphere but you don't need to for this particular usage, also make sure he is in the party beforehand as if you apply the code and then swap him in it forces you to choose a dressphere for him
