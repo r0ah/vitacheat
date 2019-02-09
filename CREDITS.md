@@ -48,7 +48,7 @@
    * Udaius
    * vergil
    * westwood
-   * xJam-es
+   * xJam-es (raing3)
    * ymbgames
    * Yohoki
    * zacknova
