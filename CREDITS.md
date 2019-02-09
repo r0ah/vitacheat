@@ -57,6 +57,7 @@
    * 路人甲
    * 囧样雷管
    * 我爱吃洋葱/真七支剑
+   * 本文由萌新投稿
 * **Code sharer**:
    * alphasurge
    * Tsukasa
