@@ -184,7 +184,7 @@
 * <kbd>[PCSG00675.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00675.psv)</kbd> Kamen Rider: Battride War Sousei
 * <kbd>[PCSG00677.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00677.psv)</kbd> The Idol Master: Must Songs - Red Album
 * <kbd>[PCSG00678.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00678.psv)</kbd> The Idol Master: Must Songs - Blue Album
-* <kbd>[PCSG00685.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00685.psv)</kbd> Deemo ~The Last Recital~
+* <kbd>[PCSG00685.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00685.psv)</kbd> Deemo ～The Last Recital～
 * <kbd>[PCSG00687.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00687.psv)</kbd> The Caligula Effect
 * <kbd>[PCSG00709.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00709.psv)</kbd> WORLD OF FINAL FANTASY
 * <kbd>[PCSG00820.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00820.psv)</kbd> Dragon Quest Heroes II
@@ -218,7 +218,7 @@
 * <kbd>[PCSH00202.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00202.psv)</kbd> One Piece Burning Blood
 * <kbd>[PCSH00207.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00207.psv)</kbd> Gundam Breaker 3
 * <kbd>[PCSH00218.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00218.psv)</kbd> Odin Sphere Leifthrasir
-* <kbd>[PCSH00220.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00220.psv)</kbd> Atelier Sophie ~The Alchemist of the Mysterious Book~
+* <kbd>[PCSH00220.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00220.psv)</kbd> Atelier Sophie ～The Alchemist of the Mysterious Book～
 * <kbd>[PCSH00221.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00221.psv)</kbd> Dragon Quest Builders
 * <kbd>[PCSH00241.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00241.psv)</kbd> SD GUNDAM G GENERATION GENESIS
 * <kbd>[PCSH00242.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00242.psv)</kbd> SD GUNDAM G GENERATION GENESIS
