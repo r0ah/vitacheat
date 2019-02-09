@@ -12,6 +12,7 @@
    * AngelofWoe
    * Aichitaka/Jialeyne19
    * attmkk
+   * BishamonIl
    * Borderlinez
    * dask
    * Daze
@@ -47,6 +48,7 @@
    * Udaius
    * vergil
    * westwood
+   * xJam-es
    * ymbgames
    * Yohoki
    * zacknova
