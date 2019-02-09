@@ -1,0 +1,19 @@
+# ID: PCSE00665
+# Title: Metal Slug 3
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00665.psv
+# Original Source: http://www.speedfly.cn/23260.html
+
+_V0 分数最大//Score Max
+$B200 00000000 00000000
+$A100 00172970 0000B506
+$A200 00172972 5118F64E
+$A200 00172976 1299F649
+$A200 0017297A 1299F6C9
+$A100 0017297E 00005042
+$A200 00172980 036FF890
+$A100 00172984 0000BD06
+$A200 000590E2 FC45F119

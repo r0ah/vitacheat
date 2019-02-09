@@ -1,0 +1,12 @@
+# ID: PCSH00133
+# Title: GOD EATER 2 RAGE BURST
+# Region: ASA
+# Version: 1.30
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00133.psv
+# Original Source: http://www.speedfly.cn/23077.html
+
+_V0 金钱变动后最大//Change Money Max
+$B229 00000000 00000000
+$A100 00022882 00001C00

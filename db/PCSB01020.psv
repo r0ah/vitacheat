@@ -1,0 +1,17 @@
+# ID: PCSB01020
+# Title: GAROU: MARK OF THE WOLVES
+# Region: EUR
+# Version: 1.02
+# Type: NoNpDrm
+# Code Author: gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB01020.psv
+# Original Source: http://www.speedfly.cn/23263.html
+
+_V0 时间99//Time 99
+$B200 00000000 00000000
+$A200 00194540 4091F247
+$A200 00194544 0999F05F
+$A200 00194548 9000F805
+$A200 0019454C 4038F247
+$A100 00194550 00004770
+$A200 000701E0 F9AEF124

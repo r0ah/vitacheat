@@ -1,0 +1,17 @@
+# ID: PCSG00957
+# Title: Garou: Mark of the Wolves
+# Region: JPN
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00957.psv
+# Original Source: http://www.speedfly.cn/23263.html
+
+_V0 时间99//Time 99
+$B200 00000000 00000000
+$A200 00193F40 4091F247
+$A200 00193F44 0999F05F
+$A200 00193F48 9000F805
+$A200 00193F4C 4038F247
+$A100 00193F50 00004770
+$A200 0006FB30 FA06F124

@@ -1,0 +1,19 @@
+# ID: PCSG00613
+# Title: Metal Slug 3
+# Region: JPN
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: speedfly
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00613.psv
+# Original Source: http://www.speedfly.cn/23260.html
+
+_V0 分数最大//Score Max
+$B200 00000000 00000000
+$A100 00172D70 0000B506
+$A200 00172D72 5118F64E
+$A200 00172D76 1299F649
+$A200 00172D7A 1299F6C9
+$A100 00172D7E 00005042
+$A200 00172D80 036FF890
+$A100 00172D84 0000BD06
+$A200 00059472 FC7DF119
