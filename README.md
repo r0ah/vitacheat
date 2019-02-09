@@ -60,6 +60,7 @@ Nope!
 * [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase)
 * [GBATemp](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343)
 * [Finalcheat](http://finalcheat.github.io)
+* [Speedfly](http://www.speedfly.cn/category/game/sony/psv_cheat)
 
 ## Credits ##
 
