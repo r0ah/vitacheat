@@ -237,6 +237,7 @@
 * <kbd>[PCSH10025.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10025.psv)</kbd> Berserk and the Band of the Hawk
 * <kbd>[PCSH10037.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10037.psv)</kbd> MUSOU Stars
 * <kbd>[PCSH10038.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10038.psv)</kbd> Accel World vs Sword Art Online: Millennium Twilight
+* <kbd>[PCSH10042.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10042.psv)</kbd> Gundam Breaker 3 BREAK EDITION
 * <kbd>[PCSH10049.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10049.psv)</kbd> Ys Origin
 * <kbd>[PCSH10059.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10059.psv)</kbd> Digimon Story Cyber Sleuth Hacker's Memory
 * <kbd>[PCSH10060.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10060.psv)</kbd> The Legend of Heroes Sora No Kiseki SC Evolution
