@@ -1,0 +1,10 @@
+# ID: PCSA00065
+# Title: MLB 13: The Show
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: nolberto82
+
+_V0 Hold R To Hit Homerun
+$C201 00000001 00000200
+$A100 81509E70 0000E021
