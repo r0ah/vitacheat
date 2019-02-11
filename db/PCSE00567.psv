@@ -1,0 +1,12 @@
+# ID: PCSE00567
+# Title: La-Mulana EX
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00567.psv
+
+_V0 Infinite HP
+$3202 81540FA8 000000A8
+$3200 00000000 00000204
+$3300 00000000 0000015E
