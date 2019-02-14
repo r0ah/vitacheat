@@ -125,6 +125,7 @@
 * <kbd>[PCSE00881.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00881.psv)</kbd> Gal*Gun: Double Peace
 * <kbd>[PCSE00893.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00893.psv)</kbd> Tokyo Xanadu
 * <kbd>[PCSE00896.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00896.psv)</kbd> The Legend of Heroes: Trails of Cold Steel II
+* <kbd>[PCSE00903.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00903.psv)</kbd> Sword Art Online: Hollow Realization
 * <kbd>[PCSE00904.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00904.psv)</kbd> Psycho-Pass: Mandatory Happiness
 * <kbd>[PCSE00905.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00905.psv)</kbd> Adventures of Mana
 * <kbd>[PCSE00912.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00912.psv)</kbd> Dragon Quest Builders
