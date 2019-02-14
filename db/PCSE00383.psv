@@ -2,51 +2,45 @@
 # Title: Borderlands 2
 # Region: USA
 # Version: 1.09
-# Type: MaiDump/NoNpDrm
+# Type: MaiDump, NoNpDrm
 # Code Author: r0ah (NoNpDrm), Fullcodes & dask (MaiDump)
+# Credits: <> (for the info about how the cheat stop working after switching characters)
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00383.psv
 # Original Source: http://www.speedfly.cn/19462.html
-# Note 1:
+# Notes:
 #  - MaiDump: 3.60 变革10 with MaiDump Tool_V233.2zEx
-#  - NoNpDrm: Most of the codes are made from scratch but I ended up converting the Badass Tokens. Credits to the original code authors Fullcodes and dask.
-# Note 2: Will NOT work on NoNpDRM (EDIT: added NND version)
-# Note 3: Reboot game if NoNpDrm version not work
+#  - NoNpDrm: Most of the codes were made from scratch (meaning I followed the path to get the address) except the badass tokens. Credits to the original code authors Fullcodes and dask.
 
-_V0 Infinite Money (NoNpDrm)
-$3202 8334480C 000008C2
+_V0 Money 99,999,999 (NoNpDrm) [Note 1]
+$3203 824EDCE0 00000B84
+$3200 00000000 00000198
 $3200 00000000 000002A4
 $3300 00000000 05F5E0FF
 
-_V0 Infinite Eridium (NoNpDrm)
-$3102 8334480C 000008C2
-$3100 00000000 000002B8
+_V0 Eridium 500 (NoNpDrm) [Note 1]
+$3203 824EDCE0 00000B84
+$3200 00000000 00000198
+$3200 00000000 000002B8
 $3300 00000000 000001F4
 
-_V0 Max Skill Points [Select=Max / Start=Zero] (NoNpDrm)
-$C203 00000001 00000001
-$3002 8334480C 000008C2
+_V0 Skill Points 99 [Select=99 / Start=0] (NoNpDrm) [Note 1]
+$C204 00000001 00000001
+$3003 824EDCE0 00000B84
+$3000 00000000 00000198
 $3000 00000000 00000278
 $3300 00000000 00000063
-$C203 00000001 00000008
-$3002 8334480C 000008C2
+$C204 00000001 00000008
+$3003 824EDCE0 00000B84
+$3000 00000000 00000198
 $3000 00000000 00000278
 $3300 00000000 00000000
 
-_V0 Max Badass Tokens (NoNpDrm)
-$3203 8334480C 000008C2
+_V0 Badass Tokens 999 (NoNpDrm) [Note 1]
+$3204 824EDCE0 00000B84
+$3200 00000000 00000198
 $3200 00000000 000000A8
 $3200 00000000 00001678
 $3300 00000000 000003E7
-
-_V0 Instant Max Level (NoNpDrm)
-$8203 824F16AC 000004D8
-$8200 00000000 00000C98
-$8200 00000000 000001A0
-$8800 00000000 00000000
-$8603 824F16AC 000004D8
-$8600 00000000 00000C98
-$8600 00000000 0000018C
-$8900 00000000 00000000
 
 _V0 Skill Points 99 (MaiDump)
 $3202 821F39D0 00000024 
@@ -169,3 +163,8 @@ $8503 821F39D0 0000002C
 $8500 00000000 000001AC
 $8500 00000000 0000005C
 $8900 00000000 00000000
+
+_V0 Notes:
+_V0 #1a: Cheat stop working after switching characters?
+_V0 #1b: Make a switch in the main-menu then restart the game
+#DETAILS: NoNpDrm cheats stop working after switching characters? Switch characters in the main-menu then restart the game. Codes should work.
