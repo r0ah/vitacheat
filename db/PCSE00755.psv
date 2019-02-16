@@ -5,7 +5,6 @@
 # Type: NoNpDrm
 # Code Author: r0ah, rioM1, 0x6a6576
 # Credits: rioM1 for the Max Scan value (https://github.com/r0ah/vitacheat/issues/2#issue-343329776)
-# Credits: Skill list ID and name hacked and compiled by me. digidb.io for the following details: sp cost, type, power, attribute, inheritable and description.
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00755
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00755.psv
 # Note: If the new version of VitaCheat have the features I requested then I'll add more modifiers. In particular:
