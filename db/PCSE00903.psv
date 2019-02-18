@@ -75,10 +75,10 @@ $3102 88ABEE10 FFFFFEA4
 $3100 00000000 000068BC
 $3300 00000000 00000096
 
-_V0 Level 999
+_V0 Level Modifier [Note 3]
 $3102 88ABEE10 FFFFFEA4
 $3100 00000000 000068BC
-$3300 00000000 000003E7
+$3300 00000000 00000000 #<---SET VALUE HERE: Enter the LEVEL
 
 _V0 XP 99,999,999
 $3202 88ABEE10 FFFFFEA4
@@ -98,4 +98,5 @@ $3300 00000000 000003E7
 
 _V0 Notes:
 _V0 #1: You have to open the menu for items to show up
-_V0 #2: Temporary. HP/SP reverts to default value when deactivated 
+_V0 #2: Temporary. HP/SP reverts to default value when deactivated.
+_V0 #3: This is a modifier cheat. Refer to the wiki for details.
