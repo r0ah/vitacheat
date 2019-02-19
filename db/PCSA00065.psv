@@ -1,0 +1,14 @@
+# MLB 13 The Show - PS Vita 1.00 and 1.01
+# Created by nolberto82
+# US EU and AU Regions seem to share the same TitleID
+
+_V0 Hold R To Hit Homerun After making contact and fair ball
+$C201 00000001 00000200
+$A100 81509E70 0000E021
+
+_V0 Hold R To Hit Homerun 101 Version
+$C201 00000001 00000200
+$A100 816CCD9C 0000E022
+
+_V0 Max Training Points RTTS 101 Version
+$A100 81A2AD2A 0000BF00
