@@ -1,0 +1,32 @@
+# ID: PCSE00003
+# Title: Virtua Tennis 4: World Tour Edition
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00003
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00003.psv
+
+_V0 World-Tour Euro 9,999,999 (Char Slot 1) [Note 1]
+$3202 8147DA5C 00000388
+$3200 00000000 00000360
+$3300 00000000 0098967F
+
+_V0 World-Tour Stats 99 (Char Slot 1)
+$7002 8147DA5C 00000388
+$7000 00000000 000003AC
+$7702 00000000 00000063
+$0004 00000004 00000000
+
+_V0 World-Tour Rank 999 (Char Slot 1)
+$3102 8147DA5C 00000388
+$3100 00000000 000003DC
+$3300 00000000 000003E7
+
+_V0 World-Tour Condition 100% (Char Slot 1)
+$3002 8147DA5C 00000388
+$3000 00000000 000003E8
+$3300 00000000 000000C8
+
+_V0 Notes:
+_V0 #1: Move in map to apply changes
