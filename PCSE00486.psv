@@ -1,7 +1,0 @@
-# Project Root 1.00 US
-# Created by nolberto82
-# This Code does work on EU Version PCSB00650
-
-_V0 Invincibility
-$B200 00000000 00000000
-$A100 000B6320 00004770
