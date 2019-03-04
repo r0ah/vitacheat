@@ -123,6 +123,7 @@
 * <kbd>[PCSE00738.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00738.psv)</kbd> Organ Trail Complete Edition
 * <kbd>[PCSE00743.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00743.psv)</kbd> Deception IV: The Nightmare Princess
 * <kbd>[PCSE00755.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00755.psv)</kbd> Digimon Story Cyber Sleuth
+* <kbd>[PCSE00771.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00771.psv)</kbd> Taco Master
 * <kbd>[PCSE00786.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00786.psv)</kbd> The Legend of Heroes: Trails of Cold Steel
 * <kbd>[PCSE00789.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00789.psv)</kbd> God Eater 2: Rage Burst
 * <kbd>[PCSE00791.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00791.psv)</kbd> Lego Star Wars: The Force Awakens

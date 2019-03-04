@@ -1,0 +1,39 @@
+# ID: PCSE00771
+# Title: Taco Master
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00771.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-116#post-8538407
+
+_V0 Instant Gold - Finish 1 Order to Win
+$3202 851DFFE8 00000010
+$3200 00000000 00000068
+$3300 00000000 00000001 #set gold medal number to 1
+#  --------------------
+$3202 851DFFE8 00000010
+$3200 00000000 0000006C
+$3300 00000000 00000001 #set bronze and silver to 1
+#  --------------------
+$3202 851DFFE8 00000010
+$3200 00000000 FFFFFFF0
+$3300 00000000 839FFFF0 #add fake pointer to static address 839FFFF0
+#  --------------------
+$0200 839FFFF0 851DFFE8 #add extra tier to main pointer to use pointer MOV
+#  --------------------
+$8203 851DFFE8 00000010
+$8200 00000000 FFFFFFF0
+$8200 00000000 00000004
+$8800 00000000 00000000
+$8603 839FFFF0 00000000
+$8600 00000000 00000010
+$8600 00000000 00000070
+$8900 00000000 00000000 #pointer MOV number of orders to static address
+#  --------------------
+$D801 839FFFF4 00000001 #check if static address is bigger than 1
+#  -------------------- #if (Yes) {then
+$7002 851DFFE8 00000010
+$7000 00000000 00000070
+$7702 00000000 00000000
+$0003 00000004 00000000 #set important values to 0
