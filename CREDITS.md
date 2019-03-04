@@ -47,6 +47,7 @@
    * speedfly
    * tokthem
    * Udaius
+   * VisitntX
    * vergil
    * westwood
    * xJam-es (raing3)

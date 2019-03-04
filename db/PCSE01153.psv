@@ -1,0 +1,20 @@
+# ID: PCSE01153
+# Title: Secret of Mana
+# Region: USA
+# Version: 1.0
+# Type: NoNpDrm
+# Code Author: VisitntX
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE01153.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/56
+
+_V0 Randy Infinite HP
+$3201 82280064 0000073C
+$3300 00000000 000000FF
+
+_V0 Popoi Infinite HP
+$3201 8177E954 00000108
+$3300 00000000 000000FF
+
+_V0 Prim Infinite HP
+$3201 81ADEE88 00000C4C
+$3300 00000000 000000FF

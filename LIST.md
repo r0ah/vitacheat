@@ -142,6 +142,7 @@
 * <kbd>[PCSE00950.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00950.psv)</kbd> Shantae: Half-Genie Hero
 * <kbd>[PCSE00951.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00951.psv)</kbd> Summon Night 6: Lost Borders
 * <kbd>[PCSE00958.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00958.psv)</kbd> GAROU: MARK OF THE WOLVES
+* <kbd>[PCSE00964.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00964.psv)</kbd> Talisman: Digital Edition
 * <kbd>[PCSE01003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01003.psv)</kbd> Valkyria Revolution
 * <kbd>[PCSE01023.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01023.psv)</kbd> Salt and Sanctuary
 * <kbd>[PCSE01031.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01031.psv)</kbd> Chasm
@@ -151,6 +152,7 @@
 * <kbd>[PCSE01111.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01111.psv)</kbd> Rabi-Ribi
 * <kbd>[PCSE01144.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01144.psv)</kbd> Under Night In-Birth Exe:Late[st]
 * <kbd>[PCSE01147.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01147.psv)</kbd> Antiquia Lost
+* <kbd>[PCSE01153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01153.psv)</kbd> Secret of Mana
 * <kbd>[PCSE01171.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01171.psv)</kbd> Digimon Story: Cyber Sleuth - Hacker's Memory
 * <kbd>[PCSE01191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01191.psv)</kbd> Xenon Valkyrie+
 * <kbd>[PCSE01235.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01235.psv)</kbd> Stardew Valley
