@@ -3,22 +3,23 @@
 # Region: USA
 # Version: 1.00
 # Type: NoNpDrm
-# Code Author: r0ah
+# Code Author: r0ah, Neriek
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00120
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00120.psv
+# # Original Source: https://www.reddit.com/r/VitaCheats/comments/agxymg/persona_4_golden_day_codes_inf_chest_keys/
 
 _V0 Infinite Yen
 $0200 814B301C 0098967F
 
-_V0 Infinite Current HP [Note 1]
+_V0 999 Current HP (Temporary)
 $4101 814B3C98 000003E7
 $0008 00000084 00000000
 
-_V0 Infinite Current MP [Note 1]
+_V0 999 Current MP (Temporary)
 $4101 814B3C9A 000003E7
 $0008 00000084 00000000
 
-_V0 Difficulty Modifier [Note 2]
+_V0 Difficulty Modifier [Note 1]
 $0000 814B46F4 00000000 #<---SET VALUE HERE: ENTER THE DIFFICULTY ID
 
 _V0 Inventory Items: Have All Expendables
@@ -257,7 +258,7 @@ _V0 Social Link: Max Level
 $4001 814B490E 0000000A
 $0017 00000010 00000000
 
-_V0 Social Link: Unlock All Slots #1-21
+_V0 Social Link: Unlock All Slots 1-21
 $0000 814B490C 00000001 #DEFAULT / TOTAL: 23
 $0000 814B491C 00000002
 $0000 814B492C 00000003
@@ -280,13 +281,13 @@ $0000 814B4A2C 0000001E
 $0000 814B4A3C 00000020
 $0000 814B4A4C 00000021
 
-_V0 Social Link: Unlock Strength SL: Kou [Note 3]
+_V0 Social Link: Unlock Strength SL: Kou [Note 2]
 $0000 814B4A5C 00000010
 
 _V0 Social Link: Unlock Strength SL: Daisuke
 $0000 814B4A5C 00000011
 
-_V0 Social Link: Unlock Sun SL: Yumi [Note 3]
+_V0 Social Link: Unlock Sun SL: Yumi [Note 2]
 $0000 814B4A6C 00000019
 
 _V0 Social Link: Unlock Sun SL: Ayane
@@ -323,7 +324,7 @@ $000C 00000030 00000000
 $4201 814B3A58 0098967F #XP
 $000C 00000030 00000000
 
-_V0 Narukami Yu: Have Friend's Tier-3 Persona + Skills [Note 4]
+_V0 Narukami Yu: Have Friend's Tier-3 Persona + Skills (Slots 1-7)
 $4001 814B3A54 00000063
 $0007 00000030 00000000
 $4001 814B3A6C 00000063
@@ -445,17 +446,32 @@ $0200 814B4088 0098967F
 $4001 814B409C 00000063
 $0005 00000001 00000000
 
+# Neriek's codes
+_V0 99 Chest Keys
+$0000 814B338D 00000063
+
+_V0 Current Day Modifier [Note 1]
+$0100 814B48F8 00000000 #<---SET VALUE HERE: ENTER THE CURRENT DAY ID
+
+_V0 Next Day Modifier [Note 1]
+$0100 814B4900 00000000 #<---SET VALUE HERE: ENTER THE NEXT DAY ID
+
+_V0 Current Time of Day Modifier [Note 1]
+$0000 814B48FA 00000000 #<---SET VALUE HERE: ENTER THE CURRENT TIME OF DAY ID
+
+_V0 Next Time of Day Modifier [Note 1]
+$0000 814B4902 00000000 #<---SET VALUE HERE: ENTER THE NEXT TIME OF DAY ID
+
+_V0 Weather Modifier [Note 1]
+$0000 814B48FC 00000000 #<---SET VALUE HERE: ENTER THE WEATHER ID
+
+_V0 Groundhog Day
+$5100 814B4900 814B48F8
+
+_V0 Time Repeats
+$5000 814B4902 814B48FA
+
 _V0 Notes:
-$0000 00000000 00000000
-
-_V0 #1: Not permanent. Game auto-corrects at certain points.
-$0000 00000000 00000000  
-
-_V0 #2: This is a modifier cheat. See Wiki for details.
-$0000 00000000 00000000
-
-_V0 #3: Choose one STR/SUN SL based on what you've unlocked
-$0000 00000000 00000000
-
-_V0 #4: Will overwrite existing Persona in slots 1-7
-$0000 00000000 00000000 #Requires 7 slots. Disable cheat then use cards to fix 'existing or non-existent' skills.
+_V0 #1: This is a modifier cheat. See Wiki for details.
+_V0 #2: Choose one STR/SUN SL based on what you've unlocked
+#DETAILS: Requires 7 slots. Disable cheat then use cards to fix 'existing or non-existent' skills.
