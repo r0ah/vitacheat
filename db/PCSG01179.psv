@@ -1,0 +1,19 @@
+# PCSG01179
+# Title: Catherine: Full Body
+# Region: JPN
+# Version: 1.01
+# Type: NoNpDRM
+# Code Author: Smich
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG01179.psv
+# Original Source: https://gbatemp.net/goto/post?id=8517521#post-8517521
+
+_V0 -Activate only one at a time-
+$0000 00000000 00000000
+
+_V0 small jump
+$3201 81AB67F4 00000410
+$3300 00000000 00000005
+
+_V0 big jump
+$3201 81AB67F4 00000410
+$3300 00000000 00000006

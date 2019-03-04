@@ -211,6 +211,7 @@
 * <kbd>[PCSG00954.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00954.psv)</kbd> Sengoku Musou: Sanada Maru
 * <kbd>[PCSG00957.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00957.psv)</kbd> Garou: Mark of the Wolves
 * <kbd>[PCSG01121.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01121.psv)</kbd> Seiken Densetsu 2: Secret of Mana
+* <kbd>[PCSG01179.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01179.psv)</kbd> Catherine: Full Body
 * <kbd>[PCSH00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00003.psv)</kbd> Dynasty Warriors Next
 * <kbd>[PCSH00019.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00019.psv)</kbd> DJMAX TECHNIKA TUNE
 * <kbd>[PCSH00021.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00021.psv)</kbd> Persona 4: The GOLDEN
