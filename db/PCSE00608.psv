@@ -6,6 +6,7 @@
 # Code Author: BishamonIl
 # Credits: Aichitaka/Jialeyne19 For Infinity Ammo For Campaign/Raid Mode
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00608.psv
+# Last 2 Codes from nolberto82 does not specify which Version. Needs Testing
 
 _V0 Inf Ammo [Campaign/Raid Mode] 
 $7202 88A8EC44 000004EC
@@ -168,3 +169,11 @@ $0200 8893AA00 00000063
 $0200 8893A788 00005450
 $0200 8893A789 00000054
 $0200 8893A780 00000063
+
+_V0 Infinite Health
+$B200 00000000 00000000
+$A100 00376C38 0000BF00
+
+_V0 Infinite Ammo
+$B200 00000000 00000000
+$A100 0037E2E6 0000BF00

@@ -1,0 +1,6 @@
+# PCSE00726 A Boy And His Blob 1.01 (US)
+# Created by nolberto82
+
+_V0 Invincibility Against Enemies ONLY
+$B200 00000000 00000000
+$A100 0009CB60 00004770

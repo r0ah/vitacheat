@@ -1,0 +1,11 @@
+# PCSE00349 1001 Spikes 1.02
+# Credit is nolberto82 at GameHacking
+
+_V0 Invincibility
+$B200 00000000 00000000
+$A100 0001F1C6 0000F8C8
+
+_V0 Moon Jump(Hold Triangle only to rise doesn't work if pressing other buttons.)
+$B200 00000000 00000000
+$C201 00000001 00001000
+$A100 0001EBD4 00004770

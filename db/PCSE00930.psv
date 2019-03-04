@@ -1,0 +1,9 @@
+# PCSE00930 Bard's Gold 1.01 USA - PS Vita
+# Created by nolberto82
+
+_V0 Invincibility If you fall in water disable cheat  to get unstuck
+$B200 00000000 00000000
+$A100 000C37F4 00004770
+$A100 000C2228 00004770
+$A100 000B9D48 00004770
+$A100 000C2E38 00004770

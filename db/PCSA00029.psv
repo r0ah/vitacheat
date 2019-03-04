@@ -1,0 +1,5 @@
+# PCSA00029 Uncharted - Golden Abyss (US)
+# Created by nolberto82 from GameHacking
+
+_V0 Enemies Cannot Fire Weapon(Can still punch you.)
+$A100 815A55FC 0000E000
