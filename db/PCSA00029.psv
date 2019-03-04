@@ -1,5 +1,11 @@
-# PCSA00029 Uncharted - Golden Abyss (US)
-# Created by nolberto82 from GameHacking
+# ID: PCSA00029
+# Title: Uncharted: Golden Abyss
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00029.psv
+# Note: Created by nolberto82 from GameHacking
 
 _V0 Enemies Cannot Fire Weapon(Can still punch you.)
 $A100 815A55FC 0000E000

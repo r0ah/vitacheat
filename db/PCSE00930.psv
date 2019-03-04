@@ -1,5 +1,10 @@
-# PCSE00930 Bard's Gold 1.01 USA - PS Vita
-# Created by nolberto82
+# ID: PCSE00930
+# Title: Bard's Gold
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00930.psv
 
 _V0 Invincibility If you fall in water disable cheat  to get unstuck
 $B200 00000000 00000000

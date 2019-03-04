@@ -1,5 +1,11 @@
-# PCSE00349 1001 Spikes 1.02
-# Credit is nolberto82 at GameHacking
+# ID: PCSE00349
+# Title: 1001 Spikes
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00349.psv
+# Note: Credit is nolberto82 at GameHacking
 
 _V0 Invincibility
 $B200 00000000 00000000

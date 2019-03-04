@@ -1,6 +1,11 @@
-# MLB 13 The Show - PS Vita 1.00 and 1.01
-# Created by nolberto82
-# US EU and AU Regions seem to share the same TitleID
+# ID: PCSA00065
+# Title: MLB 13 The Show
+# Region: USA/EUR/AUS
+# Version: 1.00/1.01
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00065.psv
+# Note: US EU and AU Regions seem to share the same TitleID
 
 _V0 Hold R To Hit Homerun After making contact and fair ball
 $C201 00000001 00000200

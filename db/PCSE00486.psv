@@ -1,6 +1,11 @@
-# Project Root 1.00 US
-# Created by nolberto82
-# This Code does work on EU Version PCSB00650
+# ID: PCSE00486
+# Title: Project Root
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00486.psv
+# Note: This Code does work on EU Version PCSB00650
 
 _V0 Invincibility
 $B200 00000000 00000000

@@ -1,5 +1,10 @@
-# PCSE00726 A Boy And His Blob 1.01 (US)
-# Created by nolberto82
+# ID: PCSE00726
+# Title: A Boy and His Blob
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00726.psv
 
 _V0 Invincibility Against Enemies ONLY
 $B200 00000000 00000000
