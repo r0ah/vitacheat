@@ -51,7 +51,7 @@
    * VisitntX
    * vergil
    * westwood
-   * xJam-es (raing3)
+   * xJam.es
    * ymbgames
    * Yohoki
    * zacknova
