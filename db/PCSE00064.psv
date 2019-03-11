@@ -9,12 +9,12 @@
 # Note: Made and tested on Mai version, but should work on all dumps.
 # Note1: Change value of Sun only in increments of 5 or game will crash after completing round.
 
-_V0 1M Coins B200
+_V0 1M Coins
 $B200 00000000 00000000
 $3201 005FFB40 00000308
-$3300 00000000 0001869F
+$3300 00000000 0001869F # Edit Value Here (Default: 0x1869F = 99,999)
 
-_V0 Inf Sun b200
+_V0 Inf Sun
 $B200 00000000 00000000
 $3201 005F41AC 000055CC
-$3300 00000000 00001388
+$3300 00000000 00001388 # Edit Value Here (Default 0x1388 = 5,000)
