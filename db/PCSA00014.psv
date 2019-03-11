@@ -1,8 +1,19 @@
-# PCSA00014 Unit 13 (US) 1.01
-# Created by nolberto82
-# Invincibility Code - Hold L to be invincible - Don't hold L to interact with items else you'll have to restart the mission
+# ID: PCSA00014
+# Title: Unit 13
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: nolberto82
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSA00014
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00014.psv
+# Note: Invincibility Code - Hold L to be invincible - Don't hold L to interact with items else you'll have to restart the mission
 
-_V0 Invincibiity Hold L
+_V0 Invincibility Hold L [Note 1]
 $0200 82120358 00000001
 $C201 00000001 00000100
 $0200 82120358 00000000
+
+
+_V0 Notes:
+_V0 #1: Don't hold L to interact with items to avoid issues
+#DETAILS: Invincibility Code - Hold L to be invincible - Don't hold L to interact with items else you'll have to restart the mission.
