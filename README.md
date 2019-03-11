@@ -8,7 +8,7 @@ I recommend you use the `notepad++ psv.xml` when viewing psv file.
 
 ## Cheat Plugins ##
 
-You can download vosman's cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/cheatplugin) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
+You can download cheat plugins from [this](https://github.com/r0ah/vitacheat/tree/master/plg) directory (see [How to Use Cheat Plugins](https://github.com/r0ah/vitacheat/wiki/How-to-Use-Cheat-Plugins)).
 
 ## Submissions ##
 
