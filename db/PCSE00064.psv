@@ -6,15 +6,31 @@
 # Code Author: Yohoki
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00064.psv
 # Original Source: https://github.com/r0ah/vitacheat/issues/39
-# Note: Made and tested on Mai version, but should work on all dumps.
+# Note: Have not not tested Vitamin Dump.
 # Note1: Change value of Sun only in increments of 5 or game will crash after completing round.
 
-_V0 1M Coins
+_V0 NoNpDRM Codes
+$0000 00000000 00000000
+
+_V0 --1M Coins
+$B200 00000000 00000000
+$3201 005FFB70 00000308
+$3300 00000000 0001869F # Edit Value Here (Default: 0x1869F = 99,999)
+
+_V0 --Inf Sun
+$B200 00000000 00000000
+$3201 005F41DC 000055CC
+$3300 00000000 00001388 # Edit Value Here (Default 0x1388 = 5,000)
+
+_V0 MaiDump Codes
+$0000 00000000 00000000
+
+_V0 --1M Coins
 $B200 00000000 00000000
 $3201 005FFB40 00000308
 $3300 00000000 0001869F # Edit Value Here (Default: 0x1869F = 99,999)
 
-_V0 Inf Sun
+_V0 --Inf Sun
 $B200 00000000 00000000
 $3201 005F41AC 000055CC
 $3300 00000000 00001388 # Edit Value Here (Default 0x1388 = 5,000)
