@@ -8,6 +8,7 @@
 # Original Source: https://github.com/r0ah/vitacheat/issues/39
 # Note: Have not not tested Vitamin Dump.
 # Note1: Change value of Sun only in increments of 5 or game will crash after completing round.
+# Note2: Some users report crashing with coins code. If it crashes, try just activating on main menu and then turning it off.
 
 _V0 NoNpDRM Codes
 $0000 00000000 00000000
