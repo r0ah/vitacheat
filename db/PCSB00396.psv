@@ -7,6 +7,7 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00396.psv
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00064
 # Note: See Wiki link for Modifier code help
+# Note 2: DO NOT USE NORMAL CARDS IN ITEM SLOTS. Only use Item cards here or it WILL crash the game.
 
 _V0 Hp Always Full
 $8202 819C36A0 00000060
@@ -142,7 +143,7 @@ $0046 00000540 00000000
 $4201 8396AB3C XXXXXXXX
 $0046 00000540 00000000
 
-_V0 --Item Slots All Chars 
+_V0 --Item Slots All Chars *Note2*
 $4201 8396AB44 XXXXXXXX
 $0046 00000540 00000000
 $4201 8396AB4C 00000000 # Unused
