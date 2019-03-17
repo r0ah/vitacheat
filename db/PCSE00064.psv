@@ -6,6 +6,7 @@
 # Code Author: Yohoki
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00064.psv
 # Original Source: https://github.com/r0ah/vitacheat/issues/39
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00064
 # Note: Change value of Sun only in increments of 5 or game will crash after completing round.
 # Note1: Some users report crashing with coins code. If it crashes, try just activating on main menu and then turning it off.
 # Note2: Activate this code once you've chosen your plants and it will replace slots 1-8 with new cards.
