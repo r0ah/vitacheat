@@ -1,3 +1,5 @@
+* <kbd>[PCSE00064.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00064.psv)</kbd> Plants vs Zombies
+* <kbd>[PCSB00396.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00396.psv)</kbd> Dragon Ball Z: Battle of Z
 * <kbd>[PCSA00009.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00009.psv)</kbd> Hot Shots Golf: World Invitational
 * <kbd>[PCSA00012.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00012.psv)</kbd> Reality Fighters
 * <kbd>[PCSA00014.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00014.psv)</kbd> Unit 13
