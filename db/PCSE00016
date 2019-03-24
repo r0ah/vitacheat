@@ -1,0 +1,28 @@
+# ID: PCSE00016
+# Title: Touch my Katamari
+# Region: US
+# Version: 1.01
+# Type: NoNpDRM
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00016.psv
+# Notes: The Size/Speed modifiers are 32-bit Dec values. The value is in centimeters.
+
+_V1 Inf Time [DPad Down Ends Level]
+$0200 882E7CB8 0000076C
+$C201 00000000 00000040
+$0200 882E7CB8 00000000
+
+_V1 Inf Candy
+$0200 882F71B0 000F423F
+
+_V1 Inf Sweet Talk Tokens
+$0200 882F71D4 000F423F
+
+_V1 Inf Fan Damacy
+$0200 882F71D8 000F423F
+
+_V0 Speed and Pickup Modifier [cm] # Edits the size of items you're able to pickup. Also changes speed because it assumes you're super big.
+$0200 88F6118C 00xxxxxx # Size here, in cm
+
+_V0 Size Modifier [cm] # No visual difference, but this is the value to make your Katamari's size change for winning a match or setting records.
+$0200 88F611C8 00xxxxxx # Size here, in cm
