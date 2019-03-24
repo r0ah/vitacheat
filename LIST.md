@@ -61,6 +61,7 @@
 * <kbd>[PCSE00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00003.psv)</kbd> Virtua Tennis 4: World Tour Edition
 * <kbd>[PCSE00007.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00007.psv)</kbd> Asphalt: Injection
 * <kbd>[PCSE00008.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00008.psv)</kbd> Dungeon Hunter: Alliance
+* <kbd>[PCSE00016.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00016.psv)</kbd> Touch my Katamari
 * <kbd>[PCSE00019.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00019.psv)</kbd> Dragon's Crown
 * <kbd>[PCSE00020.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00020.psv)</kbd> Metal Gear Solid HD Collection
 * <kbd>[PCSE00021.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00021.psv)</kbd> Ninja Gaiden Sigma Plus
