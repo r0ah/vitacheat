@@ -81,6 +81,7 @@
 * <kbd>[PCSE00209.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00209.psv)</kbd> Earth Defense Force 2017 Portable
 * <kbd>[PCSE00224.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00224.psv)</kbd> Draw Slasher
 * <kbd>[PCSE00229.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00229.psv)</kbd> Fruit Ninja
+* <kbd>[PCSE00231.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00231.psv)</kbd> Atelier Totori Plus: The Adventurer of Arland
 * <kbd>[PCSE00233.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00233.psv)</kbd> Ninja Gaiden Sigma 2 Plus
 * <kbd>[PCSE00235.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00235.psv)</kbd> Dead or Alive 5 Plus
 * <kbd>[PCSE00240.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00240.psv)</kbd> Muramasa Rebirth
