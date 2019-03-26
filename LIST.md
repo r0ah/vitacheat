@@ -107,6 +107,7 @@
 * <kbd>[PCSE00458.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00458.psv)</kbd> Phantom Breaker: Battlegrounds
 * <kbd>[PCSE00465.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465.psv)</kbd> Sword Art Online -Hollow Fragment- (Singleplayer)
 * <kbd>[PCSE00465-mp.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465-mp.psv)</kbd> Sword Art Online -Hollow Fragment- (Multiplayer)
+* <kbd>[PCSE00466.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00466.psv)</kbd> Atelier Rorona Plus: The Alchemist of Arland
 * <kbd>[PCSE00467.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00467.psv)</kbd> Toukiden: Kiwami
 * <kbd>[PCSE00486.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00486.psv)</kbd> Project Root
 * <kbd>[PCSE00507.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00507.psv)</kbd> The Binding of Isaac: Rebirth
