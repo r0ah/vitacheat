@@ -6,7 +6,7 @@
 # Code Author: Optantic, eco95, Smoker1, and Yohoki for contacting the Creator White Lord on his Bosses-NPCs Codes
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00023.psv
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-7#post-7622609
-# NOTE - Press and Hold L or R and Start on Tower until AFTER Loading Screen or else Game Will Crash. Turn on 1 at a Time
+# NOTE - Press and Hold R and Start on Tower until AFTER Loading Screen or else Game Will Crash. Turn on 1 at a Time
 
 _V0 Inf - Test Your - Time (Turn Off AFTER Completing)
 $0200 8A713B68 00000237 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-50#post-8161805
@@ -44,7 +44,7 @@ $0200 81F8BA54 0000000A
 _V0 9999999 Koins
 $0200 81FBBDF8 0098967F
 
-_V0 CHAR BARAKA - L or R and Start on
+_V0 CHAR BARAKA - Hold R and Start on
 $0200 81F8C984 5241425F
 $0200 81F8C988 00414B41
 $0200 81F8C980 52414843
