@@ -5,8 +5,10 @@
 # Type: NoNpDrm
 # Code Author: Yohoki
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00396.psv
+# French Codes: https://github.com/r0ah/vitacheat/wiki/PCSB00396#french--fran%C3%A7ais
+# German Codes: https://github.com/r0ah/vitacheat/wiki/PCSB00396#german--deutsche
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSB00396
-# Note: See Wiki link for Modifier code help
+# Note: See Wiki link for Modifier code help - https://github.com/r0ah/vitacheat/wiki/PCSB00396#item-slot-modifiers
 # Note 2: DO NOT USE NORMAL CARDS IN ITEM SLOTS. Only use Item cards here or it WILL crash the game.
 
 _V0 Hp Always Full
