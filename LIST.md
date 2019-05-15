@@ -14,6 +14,8 @@
 * <kbd>[PCSB00038.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00038.psv)</kbd> Urban Trial Freestyle
 * <kbd>[PCSB00049.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00049.psv)</kbd> Shinobido 2: Revenge of Zen
 * <kbd>[PCSB00070.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00070.psv)</kbd> Ultimate Marvel vs. Capcom 3
+* <kbd>[PCSB00089.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00089.psv)</kbd> Dynasty Warriors Next
+
 * <kbd>[PCSB00097.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00097.psv)</kbd> Ninja Gaiden Sigma
 * <kbd>[PCSB00106.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00106.psv)</kbd> Mortal Kombat
 * <kbd>[PCSB00115.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00115.psv)</kbd> Silent Hill: Book of Memories
