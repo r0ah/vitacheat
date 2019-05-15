@@ -1,0 +1,51 @@
+# ID: PCSB00676
+# Title: Binding of Isaac: Rebirth
+# Region: EU
+# Version: 1.05
+# Type: NoNpDRM
+# Code Author: Yohoki
+# Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00676.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-128#post-8637148
+# Pointers made with "TempAR - Vita Edition" - https://github.com/Yohoki/TempAR-Vita/releases
+
+_V0 Inf HP
+$3202 8176BD9C 00000000
+$3200 00000000 00000B58
+$3300 00000000 00000008
+
+_V0 Inf Black Hearts
+$3202 8176BD9C 00000000
+$3200 00000000 00000B64
+$3300 00000000 000000FF
+$3202 8176BD9C 00000000
+$3200 00000000 00000B68
+$3300 00000000 00000010
+
+_V0 Inf Coins
+$3202 8176BD9C 00000000
+$3200 00000000 00000B78
+$3300 00000000 000000FF
+
+_V0 Inf Bombs
+$3202 8176BD9C 00000000
+$3200 00000000 00000B74
+$3300 00000000 000000FF
+
+_V0 Inf Keys
+$3202 8176BD9C 00000000
+$3200 00000000 00000B6C
+$3300 00000000 000000FF
+
+_V0 Weapon Select [Note 1]
+$3202 8176BD9C 00000000
+$3200 00000000 00000BA4
+$3300 00000000 00000008
+
+_V0 Note 1:
+$0000 00000000 00000000
+
+_V0 Replace the last number
+$0000 00000000 00000000
+
+_V0 with a 1-7 for diff weapons
+$0000 00000000 00000000
