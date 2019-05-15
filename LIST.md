@@ -38,7 +38,7 @@
 * <kbd>[PCSB00598.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00598.psv)</kbd> Child of Light
 * <kbd>[PCSB00648.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00648.psv)</kbd> Best of Arcade Games
 * <kbd>[PCSB00650.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00650.psv)</kbd> Project Root
-* <kbd>[PCSB00650.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00676.psv)</kbd> The Binding of Isaac: Rebirth
+* <kbd>[PCSB00676.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00676.psv)</kbd> The Binding of Isaac: Rebirth
 * <kbd>[PCSB00764.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00764.psv)</kbd> Lego Marvel's Avengers
 * <kbd>[PCSB00769.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00769.psv)</kbd> Geometry Wars 3: Dimensions Evolved
 * <kbd>[PCSB00788.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00788.psv)</kbd> Danganronpa Another Episode: Ultra Despair Girls
