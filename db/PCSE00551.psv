@@ -1,0 +1,20 @@
+# PCSE00551 HTRplus Slot Car Simulator
+# Created by Yohiki on GBATemp (Messaged)
+# Credits-Points are proving hard to pin down
+# Change 2nd Line Value to adjust Vehicle
+
+_V0 Car Type [0-13]
+$3201 8380F94C 00000010
+$3300 00000000 00000013
+
+_V0 Engine Type [0-5]
+$3201 8380F94C 00000030
+$3300 00000000 00000005
+
+_V0 Chassis Type [0-5]
+$3201 8380F94C 0000001C
+$3300 00000000 00000005
+
+_V0 Wheel Type [0-5]
+$3201 8380F94C 00000020
+$3300 00000000 00000005
