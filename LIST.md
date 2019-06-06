@@ -96,6 +96,7 @@
 * <kbd>[PCSE00273.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00273.psv)</kbd> Rainbow Moon
 * <kbd>[PCSE00283.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00283.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSE00293.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00293.psv)</kbd> Final Fantasy X HD Remaster
+* <kbd>[PCSE00296.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00296.psv)</kbd> Atelier Meruru Plus: The Apprentice of Arland
 * <kbd>[PCSE00300.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00300.psv)</kbd> Ragnarok Odyssey ACE
 * <kbd>[PCSE00317.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00317.psv)</kbd> Terraria
 * <kbd>[PCSE00349.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00349.psv)</kbd> 1001 Spikes
