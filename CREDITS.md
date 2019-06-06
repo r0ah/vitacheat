@@ -31,6 +31,7 @@
    * Larry Dungo
    * Makein
    * Mapachillo
+   * Mithjack
    * monodevil
    * NanayaEmiya
    * Neriek
@@ -75,6 +76,7 @@
    * Smoker1
    * AnalogMan
    * 0x3000027E
+   * Yohoki (TempAR - Vita Edition)
 * **Cheat plugin**:
    * vosman
    * blueheaven
