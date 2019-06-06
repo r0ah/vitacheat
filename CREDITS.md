@@ -53,6 +53,7 @@
    * VisitntX
    * vergil
    * westwood
+   * WhiteLord (MaxConsole Forums)
    * xJam.es
    * ymbgames
    * Yohoki
