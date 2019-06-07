@@ -12,10 +12,10 @@
 _V0 Day Editor [Note 1]
 $0200 81957190 00000749 # Change value here
 
-_V1 Inf Gold
+_V0 Inf Gold
 $0200 8190F7B0 000F4236
 
-_V1 99 Popularity
+_V0 99 Popularity
 $0200 8196F6B4 42C60000
 
 _V0 Population Edit [Note 1]
@@ -30,7 +30,7 @@ $0000 00000000 00000000
 _V0 --Item Editor [Note 1]
 $0200 8193E784 0000008C # Change value here
 
-_V1 --120 Quality
+_V0 --120 Quality
 $0200 8193E788 42F00000
 
 _V0 --250 Uses
@@ -57,7 +57,7 @@ $0000 00000000 00000000
 _V0 --Item Editor [Note 1]
 $0200 8193E7B4 0000009F # Change Value Here
 
-_V1 --120 Quality
+_V0 --120 Quality
 $0200 8193E7B8 42F00000
 
 _V0 --250 Uses
