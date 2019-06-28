@@ -168,6 +168,7 @@
 * <kbd>[PCSE01235.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01235.psv)</kbd> Stardew Valley
 * <kbd>[PCSE01251.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01251.psv)</kbd> Riddled Corpses EX
 * <kbd>[PCSE01262.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01262.psv)</kbd> Bloodstained: Curse of the Moon
+* <kbd>[PCSE01400.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01400.psv)</kbd> Cybarian: The Time Traveling Warrior
 * <kbd>[PCSF00153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00153.psv)</kbd> Playstation All-Stars: Battle Royale
 * <kbd>[PCSF00191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00191.psv)</kbd> Ratchet & Clank: QForce
 * <kbd>[PCSF00427.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00427.psv)</kbd> Dead Nation
