@@ -101,6 +101,7 @@
 * <kbd>[PCSE00401.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00401.psv)</kbd> Deception IV: Blood Ties
 * <kbd>[PCSE00429.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00429.psv)</kbd> Tales of Hearts R
 * <kbd>[PCSE00442.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00442.psv)</kbd> Lego Batman 3: Beyond Gotham
+* <kbd>[PCSE00443.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00443.psv)</kbd> Hyperdimension Neptunia: Re;Birth1
 * <kbd>[PCSE00449.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00449.psv)</kbd> Rogue Legacy
 * <kbd>[PCSE00458.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00458.psv)</kbd> Phantom Breaker: Battlegrounds
 * <kbd>[PCSE00465.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465.psv)</kbd> Sword Art Online -Hollow Fragment- (Singleplayer)
