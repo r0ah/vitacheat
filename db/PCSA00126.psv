@@ -11,6 +11,7 @@
 # Note: Mai dump choose option 0 to load game this is a really nice game to play
 #  - Works on cartridge as well 
 #  - Made for psvita cheat dev
+# VPK Cheats need to be looked at. The Inf HP Code works, but none of the others I tried do, like Floating, or Inf Rage of the Gods
 
 _V0 HP不减//Inf HP (v.NND)
 $D504 8230CB50 00000000

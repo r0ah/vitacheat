@@ -1,0 +1,85 @@
+# ID: PCSE00296
+# Title: Atelier Meruru Plus: The Apprentice of Arland
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: Mithjack
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00296.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-137#post-8665492
+# Wiki - How to use Modifiers: https://github.com/r0ah/vitacheat/wiki/How-to-Use-Modifiers
+# Note: May require DLC installed.
+
+_V0 Day Editor [Note 1]
+$0200 81957190 00000749 # Change value here
+
+_V0 Inf Gold
+$0200 8190F7B0 000F4236
+
+_V0 99 Popularity
+$0200 8196F6B4 42C60000
+
+_V0 Population Edit [Note 1]
+$0200 8196F6AC 483921C0 # Change Value Here
+
+_V0 999 Development Points
+$0200 8196F6A0 000003E7
+
+_V0 Item 1:
+$0000 00000000 00000000
+
+_V0 --Item Editor [Note 1]
+$0200 8193E784 0000008C # Change value here
+
+_V0 --120 Quality
+$0200 8193E788 42F00000
+
+_V0 --250 Uses
+$0200 8193E7AC 000000FA
+
+_V0 --Skill 1 Edit [Note 1]
+$0200 8193E78C 000000FE # Change value here
+
+_V0 --Skill 2 Edit [Note 1]
+$0200 8193E790 00000090 # Change value here
+
+_V0 --Skill 3 Edit [Note 1]
+$0200 8193E794 000000E0 # Change value here
+
+_V0 --Skill 4 Edit [Note 1]
+$0200 8193E798 00000116 # Change value here
+
+_V0 --Skill 5 Edit [Note 1]
+$0200 8193E79C 00000090 # Change value here
+
+_V0 Item 2:
+$0000 00000000 00000000
+
+_V0 --Item Editor [Note 1]
+$0200 8193E7B4 0000009F # Change Value Here
+
+_V0 --120 Quality
+$0200 8193E7B8 42F00000
+
+_V0 --250 Uses
+$0200 8193E7DC 000000FA
+
+_V0 --Skill 1 Edit [Note 1]
+$0200 8193E7BC 000000FE # Change value here
+
+_V0 --Skill 2 Edit [Note 1]
+$0200 8193E7C0 00000090 # Change value here
+
+_V0 --Skill 3 Edit [Note 1]
+$0200 8193E7C4 000000E0 # Change value here
+
+_V0 --Skill 4 Edit [Note 1]
+$0200 8193E7C8 00000116 # Change value here
+
+_V0 --Skill 5 Edit [Note 1]
+$0200 8193E7CC 00000090 # Change value here
+
+_V0 Note 1:
+$0000 00000000 00000000
+
+_V0 This is a modifier cheat. See wiki for details.
+$0000 00000000 00000000

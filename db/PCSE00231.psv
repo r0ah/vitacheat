@@ -1,0 +1,47 @@
+# ID: PCSE00231
+# Title: Atelier Totori Plus  -The Adventurer of Arland
+# Region: US
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: DKonLord
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00231.psv
+# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-120#post-8563112
+
+_V0 Inf Cole
+$0200 8182CC58 0007A8C9
+
+_V0 Current Day Modifier
+$0200 817ED76C 000000xx
+
+_V0 Item Quality (1st Slot Basket)
+$0200 8181C930 42F00000
+
+_V0 Item Quality (2nd Slot Basket)
+$0200 8181C964 42F00000
+
+_V0 Item Quantity (1st Slot Basket) Only for Consumable Item
+$0200 8181C958 000000FF
+
+_V0 Item Modifier (1st Slot Basket)
+$0200 8181C92C 000000xx
+
+_V0 Best Weapon Traits (1st Slot Basket)
+$0200 8181C934 00000079
+$0200 8181C938 000000A9
+$0200 8181C93C 0000005B
+$0200 8181C940 00000066
+$0200 8181C944 00000067
+
+_V0 Best Armor Traits (1st Slot Basket)
+$0200 8181C934 000000A9
+$0200 8181C938 00000063
+$0200 8181C93C 00000064
+$0200 8181C940 00000066
+$0200 8181C944 00000067
+
+_V0 Best Accessories Traits (1st Slot Basket)
+$0200 8181C934 000000A9
+$0200 8181C938 00000063
+$0200 8181C93C 00000064
+$0200 8181C940 00000066
+$0200 8181C944 00000067

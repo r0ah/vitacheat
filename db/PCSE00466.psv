@@ -1,0 +1,48 @@
+# ID: PCSE00466
+# Title: Atelier Rorona Plus: The Alchemist of Arland
+# Region: US
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: DKonLord
+# Credits: Gorre (Days Modifier)
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00466.psv
+
+_V0 Inf Cole
+$0200 81972640 000F4240
+
+_V0 Current Day Modifier
+$0200 8191DA90 000000xx
+
+_V0 Item Quality (1st Slot Basket)
+$0200 81956C68 42F00000
+
+_V0 Item Quality (2nd Slot Basket)
+$0200 81956C98 42F00000
+
+_V0 Item Quantity (1st Slot Basket) Only for Consumable Item
+$0200 81956C8C 000000FF
+
+_V0 Item Modifier (1st Slot Basket)
+$0200 81956C64 000000xx
+
+_V0 Best Weapon Traits (1st Slot Basket)
+$0200 81956C6C 00000115
+$0200 81956C70 00000083
+$0200 81956C74 000000F8
+$0200 81956C78 000000A9
+$0200 81956C7C 00000112
+
+_V0 Best Armor Traits (1st Slot Basket)
+$0200 81956C6C 00000115
+$0200 81956C70 00000089
+$0200 81956C74 000000F9
+$0200 81956C78 00000117
+$0200 81956C7C 00000118
+
+_V0 Best Accessories Traits (1st Slot Basket)
+$0200 81956C6C 00000115
+$0200 81956C70 000000F8
+$0200 81956C74 000000F9
+$0200 81956C78 000000FD
+$0200 81956C7C 00000118
+
