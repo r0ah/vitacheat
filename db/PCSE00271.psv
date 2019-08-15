@@ -1,0 +1,36 @@
+# ID: PCSE00271
+# Title: Injustice: Gods Among Us Ultimate Edition
+# Region: USA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: r0ah, vergil
+# Credits: vergil for P1 Inf Super, P1 Inf health & CPU No Super
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00271.psv
+
+_V0 Access Card 99
+$0000 81DDD798 00000063
+
+_V0 Armory Keys 99
+$0000 81DDD79C 00000063
+
+_V0 Time [Select = 0 / Start = 90]
+$C201 00000001 00000001
+$0000 81DE0CA8 00000000
+$C201 00000001 00000008
+$0000 81DE0CA8 0000005A
+
+_V0 Press <Select> To Instantly Win the Round
+$C203 00000001 00000001
+$0000 81DE0CA8 00000000 #FOR OTHER BATTLE MODES NOT TESTED, JUST IN CASE
+$0200 888C3BB0 00000000
+$0200 888C3BB4 00000000
+
+_V0 Player 1 Infinite HP
+$0200 8889DBD0 3F800000
+$0200 8889DBD4 3F800000
+
+_V0 Player 1 Infinite Super
+$0200 87B582F0 3F800000
+
+_V0 Player 2 Zero Super
+$0200 87B58730 00000000

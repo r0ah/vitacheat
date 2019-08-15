@@ -1,7 +1,11 @@
-# PCSE00551 HTRplus Slot Car Simulator
-# Created by Yohiki on GBATemp (Messaged)
-# Credits-Points are proving hard to pin down
-# Change 2nd Line Value to adjust Vehicle
+# ID: PCSE00551
+# Title: HTR+ Slot Car Simulation
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Yohiki
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00551.psv
+# Note: Credits-Points are proving hard to pin down. Change 2nd Line Value to adjust Vehicle
 
 _V0 Car Type [0-13]
 $3201 8380F94C 00000010

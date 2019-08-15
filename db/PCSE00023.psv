@@ -8,9 +8,9 @@
 # Source: https://www.youtube.com/channel/UCSfy5XgezSNmVZ9B8nuWYvQ?fbclid=IwAR0cwvhua7o0D9jdL3Fj8FkAxdHnRBZOr5wnG5QN4UQvMN25kAT_yB3uB7g
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00023.psv
 # Credits: Yohoki for Finding creator of "Play as..." codes (White Lord) and getting them added to Database
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00023
 # Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-7#post-7622609
 # Note: Activate 1 code at a time during loading after the tower. Hold R+Start during loading screen to activate.
-# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00023
 
 _V0 Inf - Test Your - Time (Turn Off AFTER Completing)
 $0200 8A713B68 00000237 #https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-50#post-8161805
@@ -50,10 +50,8 @@ $0200 81FBBDF8 0098967F
 
 _V1 [White Lord Codes]
 
-_V0 Play As...[Note][Pick 1]
+_V0 Play As... (Pick 1, Hold R+Start during loading) [Note 1]
 $0000 00000000 00000000
-
-_V0 Hold R plus Start during loading
 
 _V0 --Baraka
 $0200 81F8C984 5241425F
@@ -257,7 +255,7 @@ $0200 81F8F954 7374676E
 $0200 81F8F958 5F676E75
 $0200 81F8F95C 00000062
 
-_V0 Background is...[Pick 1]
+_V0 Background is... (Pick 1) [Note 2]
 $0000 00000000 00000000
 
 _V0 --Goros Lair
@@ -362,3 +360,10 @@ $0200 81F906E8 68614B5F
 $0200 81F906EC 6F43736E
 $0200 81F906F0 6573696C
 $0200 81F906F4 00006D75
+
+_V0 Notes:
+
+_V0 #1: Activate in tower during loading screen.
+#DETAILS: Turn on one code at a time. Needs to be activated in the tower AFTER during the loading screen. Hold R+Start to Activate during loading screen. Do not activate the codes with the combo in the tower, as some of the characters do not have pictures and will crash the game.
+
+_V0 #2: Select only one code at a time to avoid crashes.

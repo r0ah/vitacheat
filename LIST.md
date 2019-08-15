@@ -15,7 +15,6 @@
 * <kbd>[PCSB00049.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00049.psv)</kbd> Shinobido 2: Revenge of Zen
 * <kbd>[PCSB00070.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00070.psv)</kbd> Ultimate Marvel vs. Capcom 3
 * <kbd>[PCSB00089.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00089.psv)</kbd> Dynasty Warriors Next
-
 * <kbd>[PCSB00097.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00097.psv)</kbd> Ninja Gaiden Sigma
 * <kbd>[PCSB00106.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00106.psv)</kbd> Mortal Kombat
 * <kbd>[PCSB00115.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00115.psv)</kbd> Silent Hill: Book of Memories
@@ -93,6 +92,7 @@
 * <kbd>[PCSE00245.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00245.psv)</kbd> Ys: Memories of Celceta
 * <kbd>[PCSE00250.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00250.psv)</kbd> Lego Marvel Super Heroes: Universe in Peril
 * <kbd>[PCSE00266.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00266.psv)</kbd> Fieldrunners 2
+* <kbd>[PCSE00271.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00271.psv)</kbd> Injustice: Gods Among Us Ultimate Edition
 * <kbd>[PCSE00273.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00273.psv)</kbd> Rainbow Moon
 * <kbd>[PCSE00283.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00283.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSE00293.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00293.psv)</kbd> Final Fantasy X HD Remaster
@@ -119,6 +119,7 @@
 * <kbd>[PCSE00518.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00518.psv)</kbd> Damascus Gear: Operation Tokyo
 * <kbd>[PCSE00536.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00536.psv)</kbd> Fantasy Hero: Unsigned Legacy
 * <kbd>[PCSE00537.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00537.psv)</kbd> Jetpack Joyride Deluxe
+* <kbd>[PCSE00551.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00551.psv)</kbd> HTR+ Slot Car Simulation
 * <kbd>[PCSE00546.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00546.psv)</kbd> Retro City Rampage DX
 * <kbd>[PCSE00561.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00561.psv)</kbd> Q*bert: Rebooted
 * <kbd>[PCSE00567.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00567.psv)</kbd> La-Mulana EX

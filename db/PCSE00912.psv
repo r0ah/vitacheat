@@ -3,9 +3,8 @@
 # Region: USA
 # Version: 1.00
 # Type: NoNpDrm
-# Code Author: r0ah
+# Code Author: r0ah, Yohoki (Collosial Coffer Item Swap code)
 # Credits: dask for the ITEM ID & EQUIPMENT ID tables (http://www.szhrfdz.com/534548/20663.html)
-# Credits: Yohoki (Collosial Coffer Item Swap code)
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00912
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00912.psv
 # Note: Was expecting pointers but address remained static.
