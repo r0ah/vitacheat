@@ -25,6 +25,7 @@
    * falconcrest
    * Fullcodes
    * gayfriend
+   * Gorre
    * InfamousK
    * Junliang
    * Kaymynd
@@ -78,7 +79,8 @@
    * Smoker1
    * AnalogMan
    * 0x3000027E
-   * Yohoki (TempAR - Vita Edition)
+* **[TempAR - Vita Edition](https://github.com/Yohoki/TempAR-Vita/releases)**:
+   * Yohoki
 * **Cheat plugin**:
    * vosman
    * blueheaven
