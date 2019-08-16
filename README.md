@@ -62,6 +62,6 @@ Nope!
 * [Finalcheat](http://finalcheat.github.io)
 * [Speedfly](http://www.speedfly.cn/category/game/sony/psv_cheat)
 
-## Credits ##
+## Contributors ##
 
-See full credits [here](https://github.com/r0ah/vitacheat/blob/master/CREDITS.md).
+See full credits [here](https://github.com/r0ah/vitacheat/blob/master/CONTRIBUTORS.md).
