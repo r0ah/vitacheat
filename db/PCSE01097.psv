@@ -15,3 +15,15 @@ $0007 00000001 00000000
 _V0 Max Level
 $4100 82C2D820 00002710
 $0002 00000004 00000000
+
+_V0 Unlock Bombs
+$0200 82C13514 00000001
+
+_V0 Infinite Bombs
+$0200 82C2E000 0000063
+
+_V0 LOL-Bombs #Just makes bombs say you have "LOL" left
+$0200 82C2E1A0 004C4F4C
+
+_V0 F-Bombs #Just makes bombs say you have "F" left
+$0200 82C2E1A0 00000046
