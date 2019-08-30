@@ -1,0 +1,45 @@
+# ID: PCSE00450
+# Title: Don't Starve: Giant Edition
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Yohoki
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00450
+# Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-150#post-8772642
+# Note: Meters may not react immediately, they will show full/empty on next update to them.
+# Note2: Some values are stored as 64bit Doubles. Use a calculator to change. Easy numbers: 0=00000000, 100=40590000, 150=4062C000, 200=40690000
+# Double to Hex Calculator: https://gregstoll.com/~gregstoll/floattohex/
+
+_V0 Inf HP
+$0200 81800100 81800100
+$8201 81800100 00000010
+$8800 00000000 00000000
+$3201 818023A8 FFFFC35C
+$3300 00000000 00000000
+$D202 81800110 00000000
+$3201 818023A8 FFFFC324
+$3300 00000000 40630000 # Edit here (64bit Double.)
+$D502 81800110 00000000
+$3201 818023A8 FFFFC354
+$3300 00000000 40630000 # Edit here (64bit Double.)
+
+_V0 Inf Hunger
+$0200 81800100 81800100
+$8201 81800100 00000014
+$8800 00000000 00000000
+$8601 818023A8 FFFFE980
+$8900 00000000 00000000
+$D202 81800114 00000000
+$3201 818023A8 FFFFF654
+$3300 00000000 40630000 # Edit here (64bit Double.)
+$D502 81800114 00000000
+$3201 818023A8 FFFFE978
+$3300 00000000 40630000 # Edit here (64bit Double.)
+
+_V0 Full Sanity [use only 1]
+$3201 818023A8 FFFFFA9C
+$3300 00000000 40690000 # Edit here (64bit Double.)
+
+_V0 No Sanity [use only 1]
+$3201 818023A8 FFFFFA9C
+$3300 00000000 00000000 # Edit here (64bit Double.)
