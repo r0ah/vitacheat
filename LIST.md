@@ -109,6 +109,7 @@
 * <kbd>[PCSE00442.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00442.psv)</kbd> Lego Batman 3: Beyond Gotham
 * <kbd>[PCSE00443.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00443.psv)</kbd> Hyperdimension Neptunia: Re;Birth1
 * <kbd>[PCSE00449.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00449.psv)</kbd> Rogue Legacy
+* <kbd>[PCSE00450.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00450.psv)</kbd> Don't Starve: Giants Edition
 * <kbd>[PCSE00458.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00458.psv)</kbd> Phantom Breaker: Battlegrounds
 * <kbd>[PCSE00465.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465.psv)</kbd> Sword Art Online -Hollow Fragment- (Singleplayer)
 * <kbd>[PCSE00465-mp.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00465-mp.psv)</kbd> Sword Art Online -Hollow Fragment- (Multiplayer)
