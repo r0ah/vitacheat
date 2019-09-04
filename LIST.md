@@ -174,6 +174,7 @@
 * <kbd>[PCSE01400.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01400.psv)</kbd> Cybarian: The Time Traveling Warrior
 * <kbd>[PCSF00153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00153.psv)</kbd> Playstation All-Stars: Battle Royale
 * <kbd>[PCSF00191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00191.psv)</kbd> Ratchet & Clank: QForce
+* <kbd>[PCSF00309.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00309.psv)</kbd> Epic Mickey 2: The Power of Two
 * <kbd>[PCSF00427.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00427.psv)</kbd> Dead Nation
 * <kbd>[PCSF00446.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00446.psv)</kbd> Freedom Wars
 * <kbd>[PCSF00482.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00482.psv)</kbd> The Ratchet & Clank Trilogy
