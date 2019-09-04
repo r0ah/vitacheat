@@ -1,0 +1,36 @@
+# ID: PCSF00309
+# Title: Epic Mickey 2: The Power of Two
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: Yohoki
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSF00309
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSF00309.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/63
+# Note: Some codes may not function if Vita's system language is not set to English (US/UK).
+
+_V0 Inf HP (All Languages)
+$3202 85682F64 00000140
+$3200 00000000 FFFFFF8C
+$3300 00000000 000000FF
+
+_V0 Inf Paint
+$0200 8642A5A4 42C80000
+
+_V0 Inf Remover
+$0200 8642A5CC 42C80000
+
+_V0 Inf Currencies
+$0000 00000000 00000000
+
+_V0 --Tickets
+$0200 8642A61C 000F423F
+
+_V0 --Mickies
+$0200 8642A62C 000F423F
+
+_V0 --Papers
+$0200 8642A624 000F423F
+
+_V0 --Fabric
+$0200 8642A634 000F423F
