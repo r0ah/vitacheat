@@ -3,8 +3,11 @@
 # Region: USA
 # Version: 1.00
 # Type: NoNpDrm
-# Code Author: r0ah
+# Code Author: r0ah, Yohoki
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE01097.psv
+
+_V0 **Codes by Roah**
+$0000 00000000 00000000
 
 _V0 Infinite Gold
 $4200 82C2D430 0098967F
@@ -15,3 +18,41 @@ $0007 00000001 00000000
 _V0 Max Level
 $4100 82C2D820 00002710
 $0002 00000004 00000000
+
+_V0 **Codes by Yohoki**
+$0000 00000000 00000000
+
+_V0 Max Level
+$0200 82C2D820 00002710
+
+_V0 Max HP [Not Inf HP]
+$0200 82C332B0 0000000D
+
+_V0 Inf Money
+$0200 82C2D430 000F423F
+
+_V0 Inf Blood Stones # May need to collect 1 more stone for the guy that collects them to realise.
+$0200 82C33A90 00000063
+
+_V0 Inf Bombs
+$0200 82C2E000 00000063
+
+_V0 Inf Mana
+$0200 82C144AC 3F800000
+$0200 82C144A8 3F800000
+
+_V0 Unlock All Equipment
+$4000 82C134C0 00000001
+$0014 00000054 00000000
+
+_V0 MP Bar Available # Use if you haven't unlocked spells yet
+$0200 82C14468 01010101
+
+_V0 Funny Bomb Codes...
+$0000 00000000 00000000
+
+_V0 ...LOLBOMBS #Just makes bombs say you have "LOL" left
+$0200 82C2E1A0 004C4F4C
+
+_V0 ...F-Bombs #Just makes bombs say you have "F" left
+$0200 82C2E1A0 00000046
