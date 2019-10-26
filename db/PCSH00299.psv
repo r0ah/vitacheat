@@ -1,0 +1,18 @@
+# ID: PCSH00299
+# Title: Fate/Extella
+# Region: ASA
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: gayfriend
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00299.psv
+# Original Source: http://www.speedfly.cn/23427.html
+
+_V0 量子碎片77777777//QP 77777777
+$B200 00000000 00000000
+$A100 007AC300 00006811
+$A100 007AC302 00006800
+$A200 007AC304 3371F64C
+$A200 007AC308 43A2F2C0
+$A100 007AC30C 0000510B
+$A100 007AC30E 00004770
+$A200 003EA816 FD73F3C1

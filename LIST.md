@@ -162,6 +162,7 @@
 * <kbd>[PCSE01031.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01031.psv)</kbd> Chasm
 * <kbd>[PCSE01033.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01033.psv)</kbd> Ys Origin
 * <kbd>[PCSE01034.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01034.psv)</kbd> Berserk and the Band of the Hawk
+* <kbd>[PCSE01052.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01052.psv)</kbd> STRANGER OF SWORD CITY REVISITED
 * <kbd>[PCSE01097.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01097.psv)</kbd> Oceanhorn: Monster of Uncharted Seas
 * <kbd>[PCSE01111.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01111.psv)</kbd> Rabi-Ribi
 * <kbd>[PCSE01144.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01144.psv)</kbd> Under Night In-Birth Exe:Late[st]
@@ -221,11 +222,13 @@
 * <kbd>[PCSG00687.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00687.psv)</kbd> The Caligula Effect
 * <kbd>[PCSG00709.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00709.psv)</kbd> WORLD OF FINAL FANTASY
 * <kbd>[PCSG00820.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00820.psv)</kbd> Dragon Quest Heroes II
+* <kbd>[PCSG00878.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00878.psv)</kbd> Shinshaku Tsurugi no Machi no Ihoujin: Kuro no Kyuuden
 * <kbd>[PCSG00881.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00881.psv)</kbd> Ys VIII: Lacrimosa of Dana
 * <kbd>[PCSG00946.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00946.psv)</kbd> Penny-Punching Princess
 * <kbd>[PCSG00947.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00947.psv)</kbd> Macross Delta Scramble
 * <kbd>[PCSG00954.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00954.psv)</kbd> Sengoku Musou: Sanada Maru
 * <kbd>[PCSG00957.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG00957.psv)</kbd> Garou: Mark of the Wolves
+* <kbd>[PCSG01113.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01113.psv)</kbd> Zanki Zero
 * <kbd>[PCSG01121.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01121.psv)</kbd> Seiken Densetsu 2: Secret of Mana
 * <kbd>[PCSG01179.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSG01179.psv)</kbd> Catherine: Full Body
 * <kbd>[PCSH00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00003.psv)</kbd> Dynasty Warriors Next
@@ -261,6 +264,7 @@
 * <kbd>[PCSH00242.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00242.psv)</kbd> SD GUNDAM G GENERATION GENESIS
 * <kbd>[PCSH00253.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00253.psv)</kbd> Attack on Titan: Wings of Freedom
 * <kbd>[PCSH00298.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00298.psv)</kbd> Dragon Quest Heroes II
+* <kbd>[PCSH00299.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00299.psv)</kbd> Fate/Extella
 * <kbd>[PCSH10001.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10001.psv)</kbd> Super Robot Wars V
 * <kbd>[PCSH10004.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10004.psv)</kbd> Super Robot Wars V
 * <kbd>[PCSH10025.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10025.psv)</kbd> Berserk and the Band of the Hawk
@@ -270,6 +274,7 @@
 * <kbd>[PCSH10049.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10049.psv)</kbd> Ys Origin
 * <kbd>[PCSH10059.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10059.psv)</kbd> Digimon Story Cyber Sleuth Hacker's Memory
 * <kbd>[PCSH10060.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10060.psv)</kbd> The Legend of Heroes Sora No Kiseki SC Evolution
+* <kbd>[PCSH10067.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10067.psv)</kbd> Secret of Mana
 * <kbd>[PCSH10078.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10078.psv)</kbd> Unepic
 * <kbd>[PCSH10079.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10079.psv)</kbd> Digimon Story Cyber Sleuth: Hacker's Memory - Digimon 20th Anniversary Edition
 * <kbd>[PCSH10082.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10082.psv)</kbd> The Legend of Heroes Sora No Kiseki the 3rd Evolution

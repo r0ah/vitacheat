@@ -1,0 +1,49 @@
+# ID: PCSH10067
+# Title: Secret of Mana
+# Region: ASA
+# Version: 1.03
+# Type: NoNpDrm
+# Code Author: speedfly, Alex Wong
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSExxxxx
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH10067.psv
+# Original Source: http://www.speedfly.cn/23461.html
+
+_V0 金钱7777777//Money 7777777 (speedfly)
+$B200 00000000 00000000
+$A200 006E0900 55F1F64A
+$A200 006E0904 0576F2C0
+$A100 006E0908 0000618D
+$A100 006E090A 00006989
+$A200 006E090C 52A0F8DA
+$A100 006E0910 00004770
+$A100 0024C518 00001C00
+$A200 0024C514 F1F4F094
+
+_V0 Alex Wong
+$0000 00000000 00000000
+
+_V0 - 武器能量最大//Maximum weapon energy
+$B200 00000001 00000000
+$0200 00163F20 00000009
+$4001 00163F28 00000009
+$0006 00000004 00000000
+
+_V0 - 魔法能量最大//Maximum magical energy
+$B200 00000001 00000000
+$4001 00163F40 00000008
+$0008 00000004 00000000
+
+_V0 - 角色圖鑒全開//Role picture unlocked
+$B200 00000001 00000000
+$4001 00163DA8 00000001
+$002E 00000001 00000000
+
+_V0 - 怪物圖鑒全開//Monster illustrations unlocked
+$B200 00000001 00000000
+$4001 00163DD6 00000001
+$0079 00000001 00000000
+
+_V0 - 武器圖鑒全開//Weapons book unlocked
+$B200 00000001 00000000
+$4001 00163E58 00000001
+$0048 00000001 00000000

@@ -12,6 +12,7 @@
    * 16mpx (Erdal)
    * AngelofWoe
    * Aichitaka/Jialeyne19
+   * Alex Wong
    * attmkk
    * BishamonIl
    * Borderlinez
@@ -19,6 +20,7 @@
    * Daze
    * Demolinizer
    * DKonLord
+   * DoubleGF
    * Dynel81
    * eco95
    * eighthdayregret
@@ -66,6 +68,7 @@
    * 囧样雷管
    * 我爱吃洋葱/真七支剑
    * 本文由萌新投稿
+   * 无敌飞机杯
 * **Code sharer**:
    * alphasurge
    * Tsukasa
