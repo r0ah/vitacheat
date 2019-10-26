@@ -1,11 +1,23 @@
 ﻿# ID: PCSE01023
 # Title: Salt and Sanctuary
-# Region: CHN
+# Region: USA/CHN
 # Version: 1.02
 # Type: NoNpDrm
-# Code Author: speedfly
+# Code Author: speedfly, r0ah
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE01023.psv
 # Original Source: http://www.speedfly.cn/21625.html
+
+_V0 9,999,999 Gold
+$0200 88BB72F0 0098967F
+
+_V0 9,999,999 Salt
+$0200 88BB7300 0098967F
+
+# _V0 999 Skill Point
+# $3103 8BE83AB4 000000C8
+# $3100 00000000 00000EA8
+# $3100 00000000 00000198
+# $3300 00000000 000003E7
 
 _V0 金沙变动后777777777//Change Gold 777777777
 $B200 00000000 00000000
