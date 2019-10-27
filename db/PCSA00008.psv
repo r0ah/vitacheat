@@ -8,7 +8,8 @@
 # Note: No Pointer-Mov because of the way the game was programmed-checks and calculate the ammo count.
 
 _V0 99 Cube
-$0000 82575BAC 00000063
+$3001 8185F998 0000037C
+$3300 00000000 00000063
 
 _V0 No Reload
 $3002 81F254A8 00000014 # CARBINE
