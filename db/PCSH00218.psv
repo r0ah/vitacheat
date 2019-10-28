@@ -3,10 +3,11 @@
 # Region: ASA
 # Version: 1.00
 # Type: MaiDump, NoNpDRM
-# Code Author: speedfly
+# Code Author: speedfly, d3m3vilurr
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00218.psv
 # Original Source: http://www.speedfly.cn/19491.html
 # Original Source: http://dq.tieba.com/p/5980051522
+# Original Source: https://github.com/r0ah/vitacheat/pull/76
 
 _V0 Instant Kill//秒杀(不含BOSS) (MaiDump)
 $A200 818D1920 E3A000DA

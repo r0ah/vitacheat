@@ -3,10 +3,10 @@
 # Region: EUR
 # Version: 1.01
 # Type: NoNpDRM
-# Code Author: Fullcodes（树的原理）
-# Ported by: Cissamannen
+# Code Author: Fullcodes（树的原理）, Cissamannen (port)
 # Source: https://github.com/r0ah/vitacheat/blob/master/PCSB00089.psv
 # Original Source: http://www.speedfly.cn/20538.html
+# Original Source: https://github.com/r0ah/vitacheat/pull/72
 
 _V0 Total Play Time 999:59:59
 $3201 8139386C 0000D768
