@@ -1,4 +1,4 @@
-# PCSG01179
+# ID: PCSG01179
 # Title: Catherine: Full Body
 # Region: JPN
 # Version: 1.01, 1.03
@@ -26,14 +26,14 @@ _V0 - 关卡中获得金币后最大//Get Coin Max in Stage (v 1.01)
 $B200 00000000 00000000
 $A100 002043D2 00001C00
 
+_V0 - 关卡中获得金币后最大//Get Coin Max in Stage (v 1.03)
+$B200 00000000 00000000
+$A100 00204446 00001C00
+
 _V0 - 小游戏得分后最大//Get Score Max in Minigame (v 1.01)
 $B200 00000000 00000000
 $A100 00261FAE 0000460E
 $A100 00261FB2 00001C00
-
-_V0 - 关卡中获得金币后最大//Get Coin Max in Stage (v 1.03)
-$B200 00000000 00000000
-$A100 00204446 00001C00
 
 _V0 - 小游戏得分后最大//Get Score Max in Minigame (v 1.03)
 $B200 00000000 00000000

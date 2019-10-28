@@ -13,6 +13,7 @@
    * AngelofWoe
    * Aichitaka/Jialeyne19
    * Alex Wong
+   * AmyGrrl
    * attmkk
    * BishamonIl
    * Borderlinez
@@ -20,6 +21,7 @@
    * dask
    * Daze
    * Demolinizer
+   * DJPois0n
    * DKonLord
    * DoubleGF
    * Dynel81
@@ -35,6 +37,7 @@
    * Kaymynd
    * KiraYamatoSD
    * Larry Dungo
+   * Ledah
    * Makein
    * Mapachillo
    * Mithjack

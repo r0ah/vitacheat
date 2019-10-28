@@ -1,0 +1,23 @@
+# ID: PCSE00568
+# Title: Hyperdevotion Noire: Goddess Black Heart
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: DJPois0n
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00568.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/86
+# Note: You only need to activate ‘MONEY HELD’/‘SIM POINTS HELD’ once. Otherwise it will stay 9999998M.
+# Note 2: ‘SIM POINTS HELD 9M’ will change Noire’s Sim points status to ‘Rich’.
+# Note 3: Edit: These were made on Easy mode. For some reason after I tried using it on normal the game crashed. Might be pointers needed. Will fix soon. 
+
+_V0 MONEY HELD 9999998M
+$0200 8130F7B4 0098967E
+
+_V0 SIM POINTS HELD 9M (Sim points status)
+$0200 8130F7C0 0098967F
+
+_V0 MAX MONEY (Inf. Money if left on)
+$0200 8130F7F8 79999999
+
+_V0 MAX SIM POINTS (Inf. Sim points if left on)
+$0200 8130F7FC 79999999

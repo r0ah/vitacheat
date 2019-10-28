@@ -1,0 +1,15 @@
+# ID: PCSE00508
+# Title: Hyperdimension Neptunia Re;Birth 2
+# Region: USA
+# Version: 1.01
+# Type: NoNpDRM
+# Code Author: DJPois0n, Molly”LLLCCC”
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00508.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/84
+# Note: You only need to activate ‘MONEY HELD’ once. Otherwise it will stay 99M. 
+
+_V0 MONEY HELD 99M 
+$0200 83059CC0 05F5E0FF
+
+_V0 MAX MONEY (Infinite Money If left on) 
+$0200 83068730 79999999

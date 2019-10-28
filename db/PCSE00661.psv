@@ -1,0 +1,15 @@
+# ID: PCSE00661
+# Title: Hyperdimension Neptunia Re;Birth 3
+# Region: USA
+# Version: 1.00
+# Type: NoNpDRM
+# Code Author: DJPois0n
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00661.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/85
+# Note: You only need to activate ‘MONEY HELD’ once. Otherwise it will stay 99M.
+
+_V0 MONEY HELD 99M
+$0200 82F18CC0 05F5E0FF
+
+_V0 MAX MONEY (Inf. Money if left on)
+$0200 82F274B0 79999999

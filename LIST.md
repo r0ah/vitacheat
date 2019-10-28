@@ -49,6 +49,7 @@
 * <kbd>[PCSB00975.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00975.psv)</kbd> Adventures of Mana
 * <kbd>[PCSB01020.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB01020.psv)</kbd> GAROU: MARK OF THE WOLVES
 * <kbd>[PCSB01072.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB01072.psv)</kbd> Salt and Sanctuary
+* <kbd>[PCSB01163.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB01163.psv)</kbd> Secret of Mana
 * <kbd>[PCSD00001.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSD00001.psv)</kbd> Uncharted: Golden Abyss
 * <kbd>[PCSD00003.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSD00003.psv)</kbd> Gravity Rush
 * <kbd>[PCSD00008.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSD00008.psv)</kbd> Everybody's Golf 6
@@ -119,6 +120,7 @@
 * <kbd>[PCSE00467.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00467.psv)</kbd> Toukiden: Kiwami
 * <kbd>[PCSE00486.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00486.psv)</kbd> Project Root
 * <kbd>[PCSE00507.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00507.psv)</kbd> The Binding of Isaac: Rebirth
+* <kbd>[PCSE00508.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00508.psv)</kbd> Hyperdimension Neptunia Re;Birth 2
 * <kbd>[PCSE00518.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00518.psv)</kbd> Damascus Gear: Operation Tokyo
 * <kbd>[PCSE00536.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00536.psv)</kbd> Fantasy Hero: Unsigned Legacy
 * <kbd>[PCSE00537.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00537.psv)</kbd> Jetpack Joyride Deluxe
@@ -126,11 +128,13 @@
 * <kbd>[PCSE00546.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00546.psv)</kbd> Retro City Rampage DX
 * <kbd>[PCSE00561.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00561.psv)</kbd> Q*bert: Rebooted
 * <kbd>[PCSE00567.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00567.psv)</kbd> La-Mulana EX
+* <kbd>[PCSE00568.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00568.psv)</kbd> Hyperdevotion Noire: Goddess Black Heart
 * <kbd>[PCSE00587.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00587.psv)</kbd> Lego Jurassic World
 * <kbd>[PCSE00595.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00595.psv)</kbd> J-STARS Victory VS+
 * <kbd>[PCSE00597.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00597.psv)</kbd> Titan Souls
 * <kbd>[PCSE00608.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00608.psv)</kbd> Resident Evil 2: Revelations
 * <kbd>[PCSE00638.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00638.psv)</kbd> One Piece: Pirate Warriors 3
+* <kbd>[PCSE00661.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00661.psv)</kbd> Hyperdimension Neptunia Re;Birth 3
 * <kbd>[PCSE00665.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00665.psv)</kbd> Metal Slug 3
 * <kbd>[PCSE00707.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00707.psv)</kbd> Ar nosurge Plus: Ode to an Unborn Star
 * <kbd>[PCSE00726.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00726.psv)</kbd> A Boy and His Blob
@@ -175,6 +179,8 @@
 * <kbd>[PCSE01251.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01251.psv)</kbd> Riddled Corpses EX
 * <kbd>[PCSE01262.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01262.psv)</kbd> Bloodstained: Curse of the Moon
 * <kbd>[PCSE01400.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01400.psv)</kbd> Cybarian: The Time Traveling Warrior
+* <kbd>[PCSE01401.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01401.psv)</kbd> Paradox Soul
+* <kbd>[PCSE01418.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE01418.psv)</kbd> Illusion Of L'Phalcia
 * <kbd>[PCSF00153.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00153.psv)</kbd> Playstation All-Stars: Battle Royale
 * <kbd>[PCSF00191.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00191.psv)</kbd> Ratchet & Clank: QForce
 * <kbd>[PCSF00309.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSF00309.psv)</kbd> Epic Mickey 2: The Power of Two

@@ -1,0 +1,12 @@
+# ID: PCSE01401
+# Title: Paradox Soul
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: 16mpx (Erdal)
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE01401.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/87
+# Note: This code only works for easy and normal game mode. Many thanks to all great Vita community, this is my little contribution, enjoy.. ;)
+
+_V0 Infinite HP
+$0200 839FFBF4 40100000
