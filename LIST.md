@@ -103,6 +103,7 @@
 * <kbd>[PCSE00349.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00349.psv)</kbd> 1001 Spikes
 * <kbd>[PCSE00358.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00358.psv)</kbd> Demon Gaze
 * <kbd>[PCSE00373.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00373.psv)</kbd> Monster Monpiece
+* <kbd>[PCSE00376.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00376.psv)</kbd> Conception II: Children of the Seven Stars
 * <kbd>[PCSE00383.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00383.psv)</kbd> Borderlands 2
 * <kbd>[PCSE00398.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00398.psv)</kbd> Senran Kagura: Shinovi Versus
 * <kbd>[PCSE00401.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00401.psv)</kbd> Deception IV: Blood Ties
