@@ -270,6 +270,7 @@
 * <kbd>[PCSH00241.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00241.psv)</kbd> SD GUNDAM G GENERATION GENESIS
 * <kbd>[PCSH00242.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00242.psv)</kbd> SD GUNDAM G GENERATION GENESIS
 * <kbd>[PCSH00253.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00253.psv)</kbd> Attack on Titan: Wings of Freedom
+* <kbd>[PCSH00261.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00261.psv)</kbd> Digimon World - Next Order
 * <kbd>[PCSH00298.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00298.psv)</kbd> Dragon Quest Heroes II
 * <kbd>[PCSH00299.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH00299.psv)</kbd> Fate/Extella
 * <kbd>[PCSH10001.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSH10001.psv)</kbd> Super Robot Wars V

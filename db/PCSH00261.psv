@@ -1,0 +1,77 @@
+# ID: PCSH00261
+# Title: Digimon World - Next Order
+# Region: ASIA (English Patched)
+# Version: 1.03
+# Type: NoNpDRM
+# Code Author: Magicbob93
+# Credits: All who made this possible
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00261.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/97
+# Note: Made with a English patched version found at nblog.org 
+
+_V0 L Partner Max HP Modifier
+$3101 8CC45B54 00000394
+$3300 00000000 000003E7
+
+_V0 L Partner Current HP Modifier
+$3101 8CC45B54 00000398
+$3300 00000000 000003E7
+
+_V0 L Partner Max MP Modifier
+$3101 8CC45B54 0000039C
+$3300 00000000 000003E7
+
+_V0 L Partner Current MP Modifier
+$3101 8CC45B54 000003A0
+$3300 00000000 000003E7
+
+_V0 L Partner STR Modifier
+$3101 8CC45B54 000003A4
+$3300 00000000 000003E7
+
+_V0 L Partner STA Modifier
+$3101 8CC45B54 000003A8
+$3300 00000000 000003E7
+
+_V0 L Partner WIS Modifier
+$3101 8CC45B54 000003AC
+$3300 00000000 000003E7
+
+_V0 L Partner SPD Modifier
+$3101 8CC45B54 000003B0
+$3300 00000000 000003E7
+
+_V0 R Partner Max HP Modifier
+$3101 8CC45B54 00000444
+$3300 00000000 000003E7
+
+_V0 R Partner Curent HP Modifier
+$3101 8CC45B54 00000448
+$3300 00000000 000003E7
+
+_V0 R Partner Max MP Modifier
+$3101 8CC45B54 0000044C
+$3300 00000000 000003E7
+
+_V0 R Partner Curent MP Modifier
+$3101 8CC45B54 00000450
+$3300 00000000 000003E7
+
+_V0 R Partner STR Modifier
+$3101 8CC45B54 00000454
+$3300 00000000 000003E7
+
+_V0 R Partner STA Modifier
+$3101 8CC45B54 00000458
+$3300 00000000 000003E7
+
+_V0 R Partner WIS Modifier
+$3101 8CC45B54 0000045C
+$3300 00000000 000003E7
+
+_V0 R Partner SPD Modifier
+$3101 8CC45B54 00000460
+$3300 00000000 000003E7
+
+_V0 Notes:
+_V0 Made with a English patched version found at nblog.org 
