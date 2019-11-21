@@ -121,6 +121,8 @@
 * <kbd>[PCSE00486.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00486.psv)</kbd> Project Root
 * <kbd>[PCSE00507.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00507.psv)</kbd> The Binding of Isaac: Rebirth
 * <kbd>[PCSE00508.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00508.psv)</kbd> Hyperdimension Neptunia Re;Birth 2
+* <kbd>[PCSE00516.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00516.psv)</kbd> Criminal Girls: Invite Only
+* <kbd>[PCSE00516.psv-NSFW](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00516.psv-NSFW)</kbd> Criminal Girls: Invite Only (NSFW Mod)
 * <kbd>[PCSE00518.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00518.psv)</kbd> Damascus Gear: Operation Tokyo
 * <kbd>[PCSE00536.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00536.psv)</kbd> Fantasy Hero: Unsigned Legacy
 * <kbd>[PCSE00537.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSE00537.psv)</kbd> Jetpack Joyride Deluxe
