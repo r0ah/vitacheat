@@ -28,6 +28,7 @@
 * <kbd>[PCSB00294.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00294.psv)</kbd> Ninja Gaiden Sigma 2 Plus
 * <kbd>[PCSB00296.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00296.psv)</kbd> Dead or Alive 5 Plus
 * <kbd>[PCSB00324.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00324.psv)</kbd> AeternoBlade
+* <kbd>[PCSB00353.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00353.psv)</kbd> Batman: Arkham Origins Blackgate
 * <kbd>[PCSB00356.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00356.psv)</kbd> Injustice: Gods Among Us Ultimate Edition
 * <kbd>[PCSB00394.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00394.psv)</kbd> Final Fantasy X-2 HD Remaster
 * <kbd>[PCSB00395.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSB00395.psv)</kbd> Final Fantasy X HD Remaster
