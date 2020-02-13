@@ -8,6 +8,7 @@
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00516
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00516.psv
 # Notes: These codes are for the patched version of the game from Redditor u/jeff7360
+# Warning: Some users report issues running Vitacheat with this game on FW 3.60 . Please use FW 3.65+
 
 _V0 Inf Items
 $4200 88A039A0 000000FF
