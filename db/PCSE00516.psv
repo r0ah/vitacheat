@@ -6,7 +6,8 @@
 # Code Author: Yohoki
 # Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00516
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00516.psv
-#Notes: This is for original (unpatched) game
+# Notes: This is for original (unpatched) game
+# Warning: Some users report issues running Vitacheat with this game on FW 3.60 . Please use FW 3.65+
 
 _V0 Inf Items
 $4200 88A042A0 000000FF
