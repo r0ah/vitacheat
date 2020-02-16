@@ -1,0 +1,183 @@
+# Title: Rainbow Moon
+# ID: PCSB00370 and PCSE00273
+# Region: EUR /USA
+# Version: 1.00
+# Type: NoNpDrm
+# Author: Tomberyx (GBATemp)
+# Credits: Yohoki (GBATemp) for compressing codes and testing
+# Original Source: GBATemp Messages, will post later.
+# Wiki: Will add later
+
+_V0 Inf Gold
+$0200 81FF9B54 000BDE31
+
+_V0 Inf HP - Hero
+$0200 8200FE04 00000309
+
+_V0 Inf MP - Hero
+$0200 8200FE08 00000309
+
+_V0 Inf Move
+$0200 821DA5E0 01020101
+
+_V0 Inf Pearls Hero - Trish
+$0200 82010164 00001E61
+$0200 82010160 00001A0A
+
+_V0 Give XX Exp after Battle [Modifier]
+$0200 821DA138 00000063
+$0200 821DA178 00000063
+
+_V0 Seller sells all Items
+$0200 81FF9B58 0000000F
+
+_V0 Walk through Walls
+$A100 810A12A6 00000001
+$A100 810A12B4 00000001
+$A100 810A12C4 00000001
+$A100 810A12D6 00000001
+
+_V0 Change Map-Music [0-1]
+$0200 81FF9B2A 00000001
+
+_V0 Change Battle-Music [0-4]
+$0200 81FF9B04 00000000
+
+_V0 Change Character on Map [0-5]
+$0200 81FF9B40 00000000
+
+_V0 Freeze Timer
+$0200 81FF9B5A 00010000
+
+_V0 Camera Position XXX
+$0200 810A0A98 00000000
+
+_V0 See all Tutorials at once
+$0200 810A1220 FFFFFFFF
+$0200 810A1224 FFFFFFFF
+
+_V0 Instant all Trophies
+$0200 810A11F2 FFFFFFFF
+$0200 810A11F4 FFFFFFFF
+
+_V0 Instant Shop [Only activate 1]
+$0000 00000000 00000000
+
+_V0 ... Item Shop
+$0000 810A0954 00000006
+
+_V0 ... Attribute Shop
+$0000 810A0954 00000007
+
+_V0 ... Crafting Shop
+$0000 810A0954 00000008
+
+_V0 250 Recovery Items
+$0200 8200F3A4 000000FA
+
+_V0 250 Misc. Items
+$0200 8200F3A8 000000FA
+
+_V0 250 Weapons Items
+$0200 8200F3AC 000000FA
+
+_V0 250 Armor Items
+$0200 8200F3B0 000000FA
+
+_V0 Change Helm [0-A]
+$0000 821BC87C 00000000
+
+_V0 Automatic Walk-Speed xx
+$0000 810A1248 000000FF
+
+_V0 Inf Fruit-Rain use
+$0200 81FF9B0C 00000014
+
+_V0 Inf Skill use
+$0200 8200FE08 00000014
+
+_V0 Instant Fruit Rain
+$A200 810A0A7A 00000001
+
+_V0 Instant Sleep
+$0200 81FF9B38 01000000
+
+_V0 Instant Light/Torch
+$0200 8201B08C 00000032
+
+_V0 Random Fight Chance [Only active one]
+$0000 00000000 00000000
+
+_V0 ... Instant Fight
+$0200 810A13E0 00000002
+
+_V0 ... No Random Fights
+$0200 810A13E0 00000000
+
+_V0 All Active Skills Lv.999
+$0200 82001028 000003E7
+$0200 8200FFF8 000003E7
+$0200 8200FFEC 000003E7
+$0200 8200FFE0 000003E7
+$0200 8200FFD4 000003E7
+$0200 8200FFC8 000003E7
+$0200 8200FFBC 000003E7
+$0200 8200FFB0 000003E7
+$0200 8200FFFA 000003E7
+$0200 8200FE84 000003E7
+$0200 8200FE78 000003E7
+$0200 8200FE6C 000003E7
+
+_V0 Freeze Timer
+$0200 810A13C4 00000000
+
+_V0 Full Map on World and Dungeon
+$4100 8201B09A 0000FFFF
+$1023 00000002 00000000
+
+_V0 Change Player icon [0-5]
+$0200 810A1164 00000005
+
+_V0 Instant Teleport to X Dungeons [Save first]
+$0200 81FF9A60 00000000
+$A200 810A0A7C 00000003
+
+_V0 ...Note: Activate code and deactivate it.
+$0000 00000000 00000000
+
+_V0 Change Arnefon NPC's behavior [Talk to NPC]
+$0200 81FF9B88 00000000
+
+_V0 ...Note: See Wiki for details
+$0000 00000000 00000000
+
+_V0 Change Enemy in Fight
+$0100 821D8AA8 00000000
+
+_V0 Debug Options
+$0000 00000000 00000000
+
+_V0 ... Shows IDs on NPC-Player-Enemy
+$A000 810A125C 00000001
+
+_V0 ... Shows letter on Enemy
+$0200 810A1290 00000001
+
+_V0 ... Free Camera
+$A000 821BC88F 00000001
+$A000 821BC893 00000001
+
+_V0 ... Hide all NPCs
+$0001 810A1250 00000101
+
+_V0 ... Instant Save
+$A200 810A0A7C 00000001
+
+_V0 ... Instant Load Save-File
+$A200 810A0A7C 00000003
+
+_V0 ... Debug Map [Shows Hidden Symbols]
+$0200 81FF9B10 00000001
+
+_V0 ... Hide UI
+$A000 810A103C 00000001
