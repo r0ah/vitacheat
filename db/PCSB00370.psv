@@ -6,7 +6,7 @@
 # Author: Tomberyx (GBATemp)
 # Credits: Yohoki (GBATemp) for compressing codes and testing
 # Original Source: GBATemp Messages, will post later.
-# Wiki: Will add later
+# Wiki: https://github.com/r0ah/vitacheat/wiki/PCSE00273
 
 _V0 Inf Gold
 $0200 81FF9B54 000BDE31
