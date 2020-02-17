@@ -60,6 +60,9 @@ _V0 Instant all Trophies
 $0200 810A11F2 FFFFFFFF
 $0200 810A11F4 FFFFFFFF
 
+_V0 Play two story progressions at once [0-1, Default=0]
+$0200 810A14CD 00000000
+
 _V0 Instant Shop [Only activate 1]
 $0000 00000000 00000000
 
