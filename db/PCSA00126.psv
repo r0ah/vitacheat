@@ -4,7 +4,7 @@
 # Version: 1.00
 # Type: Vitamin/MAI0/NoNpDrm
 # Code Author: dask
-# Credits: Borderlinez, Smoker1
+# Credits: Borderlinez, Smoker1, Yohoki, Speedfly
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSA00126.psv
 # Original Source: http://www.speedfly.cn/13465.html
 # Original Source: http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa/2814-pcsa00126-gow-collection
@@ -52,6 +52,25 @@ $3300 00000000 0000EA60
 $D502 82CC4FE8 00000000
 $3201 821442C4 00000B70
 $3300 00000000 000F423E
+
+_V0 Hold X to Fly GoW1 Only
+$D502 8230CB50 00000000
+$C201 00000001 00004000
+$0200 8239F6BC 42A00000
+
+_V0 Hold X to Fly GoW1and2
+$D502 8230CB50 00000000
+$C201 00000001 00004000
+$0200 8239F6BC 42A00000
+$D502 8240CB50 00000000
+$C201 00000001 00004000
+$0200 8249F6BC 42A00000
+$D502 82CC4FE8 00000000
+$C201 00000001 00004000
+$0200 82E6DB54 42A00000
+$D502 82DC4FE8 00000000
+$C201 00000001 00004000
+$0200 82D6DB54 42A00000
 
 _V0 HP保持最大//Inf HP (v.MAI)
 $D504 8230CB50 00000000
