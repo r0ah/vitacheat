@@ -1,0 +1,18 @@
+# ID: PCSA00011
+# Title: Gravity Rush
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: GoooRooo
+
+_V0 Infinite Health
+$0200 82875D20 00000064
+
+_V0 Infinite Gravity
+$0200 82876664 42C80000
+$0200 81686774 3F800000
+
+_V1 Gemstones 65535
+$0200 816871B0 0000FFFF
+$0200 816871B4 0000FFFF
+$0200 81BF1610 0000FFFF
