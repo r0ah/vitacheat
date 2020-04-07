@@ -1,5 +1,6 @@
 * <kbd>[PCSA00008.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00008.psv)</kbd> Resistance: Burning Skies
 * <kbd>[PCSA00009.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00009.psv)</kbd> Hot Shots Golf: World Invitational
+* <kbd>[PCSA00011.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00011.psv)</kbd> Gravity Rush
 * <kbd>[PCSA00012.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00012.psv)</kbd> Reality Fighters
 * <kbd>[PCSA00014.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00014.psv)</kbd> Unit 13
 * <kbd>[PCSA00029.psv](https://github.com/r0ah/vitacheat/blob/master/db/PCSA00029.psv)</kbd> Uncharted: Golden Abyss
