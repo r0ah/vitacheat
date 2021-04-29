@@ -1,0 +1,14 @@
+# PCSE01481  
+# TITLE: Xeno Crisis
+# REGION: US
+# PSV AUTHOR: JamSpork
+# PSV VERSION: 1.00
+
+_V1 Infinite Ammo
+$0200 84AEC5E8 00000064
+
+_V1 Infinite Dog Tags
+$0200 84AEC5D4 000003E7
+
+_V1 Infinite Grenades
+$0200 84AEC5F0 00000009
