@@ -1,0 +1,18 @@
+# PCSB00359  
+# TITLE: Spelunky
+# REGION: EUR
+# PSV AUTHOR: JamSpork
+# PSV VERSION: 1.00
+# Note: Booting with cheats enabled WILL cause a crash. Enable cheats AFTER boot.
+
+_V0 Infinite Bombs
+$0200 82340700 00000009
+
+_V0 Infinite Ropes
+$0200 82340704 00000009
+
+_V0 Infinite Money
+$0200 82345988 05F5E0FF
+
+_V0 99 Hearts
+$0200 823406F0 00000063
