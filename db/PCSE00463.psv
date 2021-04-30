@@ -1,0 +1,26 @@
+# Title: Soldner-X 2 Final Prototype
+# ID: PCSE00463 
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSE00463 
+
+_V0 inf.Lives
+$B200 00000001 00000000
+$0000 018C1A40 00000004
+
+_V0 inf.Energie
+$B200 00000001 00000000
+$0200 018C1A44 000003FD
+
+_V0 max.Waffenenergie
+$B200 00000001 00000000
+$0200 018C1A94 00000514
+
+_V0 max.Score
+$B200 00000001 00000000
+$0200 018C1A38 2E5BF271

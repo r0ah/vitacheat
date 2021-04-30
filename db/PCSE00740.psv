@@ -1,0 +1,28 @@
+# Title: Sword Art Online Lost Song
+# ID: PCSE00740 
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSE00740 
+
+_V0 Speed 2x [Permanent]
+$0200 82000F5C 3DCE9897
+
+_V0 Speed 2x [hold R]
+$C201 00000000 00000200
+$0100 82000F5C 00000000
+
+_V0 inf.Money
+$0200 830B0380 04A2CB71
+
+_V0 inf.all Items [Inventory]
+$4001 844C0FC8 00000007
+$0064 0000001C 00000000
+
+_V0 inf.all Items [Warehouse]
+$4101 844BD994 00000309
+$0154 0000001C 00000000

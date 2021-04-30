@@ -1,0 +1,8 @@
+# PCSB00040 
+# TITLE: Asphalt Injection
+# REGION: EUR
+# PSV AUTHOR: JamSpork
+# PSV VERSION: 1.00
+
+_V1 Player Infinite Money
+$0200 81C0A124 3B9AC9FF

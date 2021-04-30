@@ -1,11 +1,57 @@
-# ID: PCSE00358
 # Title: Demon Gaze
-# Region: USA
+# ID: PCSE00358 
+# Region: US
 # Version: 1.00
-# Type: Unknown
-# Code Author: Makein
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00358.psv
-# Original Source: https://github.com/ShumnoT/VitaCheatDatabase/issues/16
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
 
-_V0 Set money to 999.999.999
-$0200 8121A6B8 3B9AC9FF
+# PCSE00358 
+
+_V0 Oz inf.HP
+$B200 00000001 00000000
+$0200 00018C18 00021E61
+
+_V0 Oz max.HP-MP
+$B200 00000001 00000000
+$0100 00018C16 00001B5E
+$0100 00018C1A 000002E4
+
+_V0 max.Level after Fight
+$B200 00000001 00000000
+$0200 0000CDC0 0076ADF1
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 001B7550 04A2CB71
+
+_V0 inf.all Items Bag
+$B200 00000001 00000000
+$4001 001B6D72 0000004D
+$0064 00000014 00000000
+
+_V0 Unlock inf.all Items in Storage
+$B200 00000001 00000000
+$4201 0015D488 004D0001
+$03E8 00000014 00000001
+
+_V0 All Items 99-Plus in Storage
+$B200 00000001 00000000
+$4201 0015D48A 00630001
+$03E8 00000014 00000001
+
+_V0 inf.Stock
+$B200 00000001 00000000
+$0000 002FBDAA 00000007
+
+_V0 Zero Stock
+$B200 00000001 00000000
+$0000 002FBDAA 00000000
+
+
+
+
+
+
+
