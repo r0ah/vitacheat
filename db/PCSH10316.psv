@@ -1,0 +1,14 @@
+# Title: Dungeons & Bombs
+# ID: PCSH10316
+# Region: US ?
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSH10316 
+
+_V0 inf.Walk
+$3003 84FFF998 0000017C
+$0000 00000000 00000024
+$0000 00000000 00000080
+$0000 00000000 0000004E

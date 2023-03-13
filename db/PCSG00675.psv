@@ -1,29 +1,35 @@
+# Title: Kamen Rider Battride War Sousei
 # ID: PCSG00675
-# Title: Kamen Rider: Battride War Sousei
-# Region: JPN
+# Region: Jap
 # Version: 1.02
 # Type: NoNpDrm
-# Code Author: Daze, 无敌飞机杯
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00675.psv
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8335997
-# Original Source: http://www.speedfly.cn/24309.html
-# Note: vitacheat z05
-#  - Not working? https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-91#post-8337485
+# Code Author: tomberyx
 
-# 変動でライダーソウル最大
-_V0 変動でライダーソウル最大//Rider soul max after change
-$B200 00000000 00000000
-$A100 0000FE6A 00001C00
-$A100 001B0D44 00001C00
+# PCSG00675 
 
-# 購入するとショップポイント最大
-_V0 購入するとショップポイント最大//shop point max after buy
-$B200 00000000 00000000
-$A100 0009A170 00001C00
-$A100 0009CD18 00001C00
+_V0 max.Power-Gauge [ON-UP OFF-Down]
+$C201 00000001 00000010
+$3001 81E00210 0000043C
+$0000 00000000 000000FF
+$C201 00000001 00000040
+$3001 81E00210 0000043C
+$0000 00000000 00000000
 
-_V0 商店内点数使用后最大//Use Shop Point Max
-$B200 00000000 00000000
-$A100 0009214C 0000BF00
-$A100 0009A170 0000BF00
-$A100 0009CD18 0000BF00
+_V0 --Alternative Codes below--
+$0000 00000000 00000000
+
+_V0 max.Power-Gauge [ON-UP OFF-Down]
+$C201 00000001 00000010
+$3001 81D00210 0000043C
+$0000 00000000 000000FF
+$C201 00000001 00000040
+$3001 81D00210 0000043C
+$0000 00000000 00000000
+
+_V0 max.Power-Gauge [ON-UP OFF-Down]
+$C201 00000001 00000010
+$3001 81F00210 0000043C
+$0000 00000000 000000FF
+$C201 00000001 00000040
+$3001 81F00210 0000043C
+$0000 00000000 00000000

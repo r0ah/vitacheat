@@ -1,0 +1,27 @@
+# Title: Fieldrunners 2
+# ID: PCSB00481
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00481 
+
+_V0 inf.Money
+$0200 819C24D8 000BDE31
+
+_V0 inf.max Coins
+$0200 819C07F4 000BDE31
+
+_V0 inf.HP
+$0000 819C24DC 00000014
+
+_V0 max.Power-Gauge [push R]
+$C201 00000001 00000200
+$0000 8195B814 00000027
+
+_V0 inf.Mines
+$0000 81908F8C 00000005
+
+_V0 Game Speed 2x
+$0000 8170A590 00000000

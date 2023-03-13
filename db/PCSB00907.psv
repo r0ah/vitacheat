@@ -1,0 +1,22 @@
+# Title: Samurai Warriors 4 Empires
+# ID: PCSB00907
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06 and FW 3.65+
+
+# PCSB00907 
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 0012C3A8 00012FD1
+
+_V0 inf.Rice
+$B200 00000001 00000000
+$0200 0012C3AC 000BDE31
+
+_V0 max.Status
+$B200 00000001 00000000
+$4201 0012EDFC 00001E61
+$0005 00000004 00000000

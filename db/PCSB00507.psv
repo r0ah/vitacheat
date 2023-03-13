@@ -1,0 +1,35 @@
+# Title: Switch Galaxy Ultra
+# ID: PCSB00507
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00507 
+
+_V0 inf.Turbo         X
+$3202 823BFFA4 00000014
+$0000 00000000 00000134
+$0000 00000000 40000000
+
+_V0 inf.Turbo         Y
+$3202 824BFFA4 00000014
+$0000 00000000 00000134
+$0000 00000000 40000000
+
+_V0 inf.Turbo         Z
+$3202 825BFFA4 00000014
+$0000 00000000 00000134
+$0000 00000000 40000000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 Use only X Y or Z do not mix.
+$0000 00000000 00000000
+
+_V0 Codes can switch from XtoZ and back.
+$0000 00000000 00000000
+
+_V0 Do not activate codes permanent.
+$0000 00000000 00000000

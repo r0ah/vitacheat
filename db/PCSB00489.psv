@@ -1,0 +1,14 @@
+# Title: The Swapper
+# ID: PCSB00489
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00489 
+
+_V0 Hold X to Fly [semi]
+$C201 00000001 00004000
+$3202 81600E88 000000C4
+$0000 00000000 00000044
+$0000 00000000 C0800000

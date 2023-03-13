@@ -1,0 +1,17 @@
+# Title: Total Recoil
+# ID: PCSB00355
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00355
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 0C9CC2BC 0076ADF0
+
+_V0 inf.Invincibility
+$B200 00000001 00000000
+$0000 00062B5C 00000009

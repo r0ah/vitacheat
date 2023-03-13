@@ -1,0 +1,20 @@
+# Title: Gundam Breaker 3 Break Edition
+# ID: PCSG01035
+# Region: Jap
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSG01035 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0200 0060C8D0 00000000
+$0200 0050C910 00000000
+
+_V0 inf.max Ace Points
+$0200 85472774 04A2CB71
+$0200 85372774 04A2CB71
+
+_V0 inf.max GP
+$0200 832F2FDC 010F4471

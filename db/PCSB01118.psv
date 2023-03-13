@@ -1,0 +1,17 @@
+# Title: A Hole New World
+# ID: PCSB01118
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06 and FW 3.65+
+
+# PCSB01118 
+
+_V0 inf.HP
+$B200 00000001 00000000
+$3004 00C3497C 00000014
+$0000 00000000 000001D8
+$0000 00000000 00000088
+$0000 00000000 000001FC
+$0000 00000000 00000006

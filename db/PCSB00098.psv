@@ -1,0 +1,19 @@
+# Title: Disgaea 3 Absence of Detention
+# ID: PCSB00098
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00098
+
+_V0 Moon Jump [hold O]
+$B200 00000001 00000000
+$C201 00000000 00002000
+$0000 01A179B2 0000000F
+
+_V0 Inf.Hal
+$B200 00000001 00000000
+$0200 00697CD0 0076ADF1

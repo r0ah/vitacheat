@@ -1,0 +1,48 @@
+# Title: Metal Gear Solid 2: Sons of Liberty HD Edition
+# ID: PCSE00078 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 40+
+# Code Author: tomberyx
+
+
+# PCSE00078 
+
+_V0 Stealth-Modus
+$0000 827283C7 00000040
+
+_V0 Untouchable
+$0100 827283C4 00001120
+
+_V0 HP fills up quick
+$0000 82246154 00000001
+
+_V0 EGO-Perspective [Push R]
+$0100 82246124 00000003
+
+_V0 no Caution-Time
+$0200 82179878 00000000
+
+_V0 no Alarm-Time
+$0200 82179870 00000000
+
+_V0 no Evation-Time
+$0200 8217988C 00000000
+
+_V0 Time-Left Freeze
+$0000 81B3E664 00000002
+
+_V0 Corona-Attack-Snake[Push Triangle]
+$C201 00000000 00001000
+$A000 827283C7 0000000C
+
+_V0 CAM 1
+$0200 82722870 3000A9A6
+
+_V0 CAM 2
+$0200 8272288C BF127C1B
+
+_V0 Restart On-Off
+$0000 82248388 00000001

@@ -1,0 +1,69 @@
+# Title: One Piece Kaizoku Musou 2
+# ID: PCSG00142
+# Region: Jap
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSG00142 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0100 00006078 00000000
+
+_V0 Game Speed 3x
+$B200 00000001 00000000
+$0200 00006078 00000000
+
+_V0 Game Slow-Motion
+$0000 871EF3B8 00000008
+
+_V0 Player-Speed 2x
+$0200 871EF370 3FF00000
+
+_V0 Player-Slow-Motion
+$0200 871EF37C 3EB00000
+
+_V0 Walk Speed 2x
+$0200 871EEE7C 41E00000
+
+_V0 Walk thru Wals
+$0200 871EF6B8 FFFFFFFF
+
+_V0 Tomberyx-Curse [hold 0]
+$C201 00000001 00002000
+$0000 871EF3B8 00000020
+
+_V0 inf.HP
+$0100 871EEE8C 00000BBB
+
+_V0 max.Power-Gauge
+$0200 871EEEA0 463B8000
+
+_V0 KO-Counter 9999
+$0200 865C83CC 0000270F
+
+_V0 Arm-less
+$0000 871EF280 0000007A
+
+_V0 8-Legs
+$0000 871EF326 00000020
+
+_V0 Default
+$0200 871EF37C 3F800000
+
+_V0 No Hut
+$0100 871EF38A 00000002
+
+_V0 Player-Size [Gigant]
+$0200 871EF718 40700000
+
+_V0 Player-Size [Dwarf]
+$0200 871EF718 3EE00000
+
+_V0 Player-Size [Default]
+$0200 871EF718 3F800000
+
+_V0 --Do not use this Code--
+$0200 813D31A0 0000000F

@@ -1,0 +1,16 @@
+# Title: Pumped BMX +
+# ID: PCSB00803
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00803
+
+_V0 max.Points
+$B200 00000001 00000000
+$0200 01A5F338 04A2CB71
+$0200 028FFE34 04A2CB72
+$0200 028FFD6C 04A2CB73
+$0200 05E5FFE0 04A2CB73

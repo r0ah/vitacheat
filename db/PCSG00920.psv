@@ -1,0 +1,26 @@
+# Title: Super Robot Taisen V
+# ID: PCSG00920 
+# Region: Jap
+# Version: 1.03
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSG00920 
+
+_V0 inf.Skill Points
+$B200 00000001 00000000
+$0200 00BBBC00 04A2CB71
+
+_V0 inf.TacP.
+$B200 00000001 00000000
+$0200 00BBBC18 0076ADF1
+
+_V0 max.Move Hero [not Permanent]
+$B200 00000001 00000000
+$0000 0030F095 00000062
+
+_V0 Grade 0-3
+$B200 00000001 00000000
+$0000 00BBBD40 00000003

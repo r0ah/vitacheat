@@ -1,0 +1,21 @@
+# Title: Ultracore
+# ID: PCSE01487 
+# Region: USA
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSE01487 
+
+
+_V0 Invincible
+$0000 82CB2C7B 0000004B
+
+_V0 inf.HP
+$0200 82CB2C85 0000007F
+
+_V0 inf.Lives and Ammo
+$0200 82CB2C8E 99000090
+

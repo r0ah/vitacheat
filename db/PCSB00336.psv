@@ -1,0 +1,26 @@
+# Title: LIMBO
+# ID: PCSB00336 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 15+
+# Code Author: tomberyx
+
+# PCSB00336 
+
+_V0 Walk Speed 2x
+$0000 813506F6 000000FF
+
+_V1 Walk Speed 3x
+$0100 813506F6 00004090
+
+_V0 Walk Speed Normal
+$0100 813506F6 00003F80
+
+_V0 Background Freeze
+$0000 81C41FEB 000000FF
+
+_V0 Background Speed up
+$0000 81C41FEA 0000000F
+

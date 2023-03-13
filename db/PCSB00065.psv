@@ -1,0 +1,19 @@
+# Title: Super Monkey Ball Banana Splitz
+# ID: PCSB00065
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSB00065
+
+_V0 Time Stop
+$B200 00000001 00000000
+$0000 01A3DCC0 0000000F
+
+_V0 99 Bananas
+$B200 00000001 00000000
+$0000 08FC8568 00000062
+

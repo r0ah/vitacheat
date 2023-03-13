@@ -1,0 +1,19 @@
+# Title: Digimon Story Cyber Sleuth Hacker's Memory
+# ID: PCSB01183
+# Region: EU
+# Version: 1.05
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Dlc: No!
+# Code Author: tomberyx
+
+# PCSB01183
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0100 00035460 00000000
+
+_V0 inf.Money-only at beginning-
+$0200 830C8580 00000E98

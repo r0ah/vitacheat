@@ -1,17 +1,41 @@
-# ID: PCSB00764
 # Title: LEGO Marvel's Avengers
-# Region: EUR
+# ID: PCSB00764
+# Region: EU
 # Version: 1.00
 # Type: NoNpDrm
-# Code Author: Smoker1
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00764.psv
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-9#post-7635881
-# Note: Going to be a while before I can find what Codes are for the Hearts/Health. Coins are VERY easy though.
+# Code Author: tomberyx
 
-_V0 99990 LEGO Studs
-$3201 844F899C 00000050
-$3300 00000000 00018696
+# PCSB00764 
 
-_V0 Inf Health-NOT YET
-$3201 00000000 00000000
-$3300 00000000 0000007D
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0100 000F4168 00000000
+
+_V0 Game Speed 3x
+$B200 00000001 00000000
+$0200 000F4168 00000000
+
+_V0 Game Speed -2x
+$B200 00000001 00000000
+$0100 000F4158 00000000
+
+_V0 inf.max Studs
+$B200 00000001 00000000
+$0200 001107C8 00777777
+
+_V0 Freeze Game [L-ON R-OFF]
+$B200 00000001 00000000
+$C201 00000001 00000100
+$0100 000F3CED 00000001
+$B200 00000001 00000000
+$C201 00000001 00000200
+$01F1 000F3CED 00000000
+
+_V0 Freeze [L-ON R-OFF]
+$B200 00000001 00000000
+$C201 00000001 00000100
+$0000 001107B0 00000001
+$B200 00000001 00000001
+$C201 00000001 00000200
+$0000 001107B0 00000000
+

@@ -1,0 +1,13 @@
+# Title: Night Trap:25th Anniversary Edition
+# ID: PCSE01149
+# Region: US
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSE01149
+
+_V0 Game Speed 2x [hold Circle]
+$C201 00000001 00002000
+$3201 82123EAC 0000003C
+$0000 00000000 00000000

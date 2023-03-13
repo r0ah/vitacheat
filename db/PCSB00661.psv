@@ -1,0 +1,26 @@
+# Title: Aqua Kitty: Milk Mine Defender DX
+# ID: PCSB00661 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00661 
+
+_V0 max.Money
+$B200 00000001 00000109
+$0200 00005138 0098967F
+
+_V0 99 Chain-Bonus
+$B200 00000001 00000000
+$0000 00005140 00000063
+
+_V0 Music Speed up
+$B200 00000001 00000000
+$0000 0000BB34 00000004
+
+_V0 Automatic Shoot
+$B200 00000001 00000000
+$A000 00005134 00000001

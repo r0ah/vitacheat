@@ -1,0 +1,23 @@
+# Title: LEGO Legends of Chima Laval's Journey
+# ID: PCSB00304 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSB00304 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0100 000DB984 00000000
+
+_V0 Moon Jump [hold X]
+$C201 00000001 00004000
+$3001 811D5E74 00000367
+$3300 00000000 000000BE
+
+_V0 inf.max Studs
+$B200 00000001 00000000
+$0200 000C01A0 0076ADF1

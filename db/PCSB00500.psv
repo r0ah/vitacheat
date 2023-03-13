@@ -1,0 +1,31 @@
+# Title: LEGO Ninjago Nindroids
+# ID: PCSB00500 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSB00500 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0000 000B1394 00000000
+
+_V0 Game Speed 2x Alternative
+$3001 81440D78 00000084
+$3300 00000000 00000000
+
+_V0 Moon Jump [hold X]
+$C201 00000001 00004000
+$3202 82DC74EC 00008100
+$3200 00000000 000009AB
+$3300 00000000 000000BE
+
+_V0 inf.max Studs
+$B200 00000001 00000000
+$0200 000C6000 0076ADF1
+
+
+

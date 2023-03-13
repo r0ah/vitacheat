@@ -1,0 +1,46 @@
+# Title: Cursed Castilla: Maldita Castilla EX
+# ID: PCSB01160
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx 
+
+# PCSB01160 
+
+_V0 Untouchable [ON-L OFF-R] bug
+$B200 00000001 00000000
+$C201 00000001 00000100
+$0200 001543F4 00000001
+$B200 00000001 00000000
+$C201 00000001 00000200
+$0200 001543F4 00001041
+
+_V0 Inf.Health
+$B200 00000001 00000000
+$0200 00154C54 40080000
+$0000 00000000 00000000
+
+_V0 inf.Lives
+$B200 00000001 00000000
+$0000 00154C40 00000007
+
+_V0 inf.Time          X
+$0200 876FF264 4058C000
+
+_V0 inf.Time          Y
+$0200 875FF264 4058C000
+
+_V0 inf.Time          Z
+$0200 877FF264 4058C000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 Use only X Y or Z do not mix.
+$0000 00000000 00000000
+
+_V0 Codes can switch from XtoZ and back.
+$0000 00000000 00000000
+
+_V0 Do not activate codes permanent.
+$0000 00000000 00000000

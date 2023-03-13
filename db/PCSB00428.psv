@@ -1,0 +1,14 @@
+# Title: The Amazing Spider-Man
+# ID: PCSB00428 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00428 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0100 00083660 00000000
+

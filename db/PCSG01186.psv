@@ -1,0 +1,25 @@
+# Title: DanMachi de Shooting wa Machigatteiru Darou ka
+# ID: PCSG01186
+# Region: JAP
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSG01186
+
+_V0 inf.Power-Gauge
+$B200 00000001 00000000
+$0100 000F85CC 00000130
+
+_V0 inf.HP
+$B200 00000001 00000000
+$0000 000F85C8 00000005
+
+_V0 inf.Stars
+$B200 00000001 00000000
+$0000 000F861C 00000005
+
+_V0 Bonus 16x
+$B200 00000001 00000000
+$0200 000F816C 41800000

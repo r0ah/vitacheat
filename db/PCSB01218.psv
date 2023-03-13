@@ -1,0 +1,17 @@
+# Title: The King of Fighters '97 Global Match
+# ID: PCSB01218
+# Region: EU
+# Version: 1.02
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB01218
+
+_V0 inf.Time
+$B200 00000001 00000000
+$0000 002BE03B 00000099
+
+_V0 max.POW
+$B200 00000001 00000000
+$0000 002BB9E9 0000007F

@@ -1,0 +1,48 @@
+# Title: Breach & Clear
+# ID: PCSE00641
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06 and FW 3.65+
+
+# PCSE00641 
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 max.Skill-Points [after Mission] X
+$3004 85A804F4 0000000C
+$0000 00000000 000000D4
+$0000 00000000 00000010
+$0000 00000000 000001A4
+$0000 00000000 0000004E
+
+_V0 max.Skill-Points [after Mission] Y
+$3004 859804F4 0000000C
+$0000 00000000 000000D4
+$0000 00000000 00000010
+$0000 00000000 000001A4
+$0000 00000000 0000004E
+
+_V0 max.Skill-Points [after Mission] Z
+$3004 85B804F4 0000000C
+$0000 00000000 000000D4
+$0000 00000000 00000010
+$0000 00000000 000001A4
+$0000 00000000 0000004E
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 Use only X Y or Z do not mix.
+$0000 00000000 00000000
+
+_V0 Codes can switch from XtoZ and back.
+$0000 00000000 00000000
+
+_V0 Do not activate codes permanent.
+$0000 00000000 00000000
+
+_V0 [NOTE] I recommend turn Code-ON in Skill-Menu.
+$0000 00000000 00000000

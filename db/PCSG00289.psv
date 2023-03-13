@@ -1,0 +1,14 @@
+# Title: Ore ni Hatarakette Iwaretemo Otsu HD  俺に働けって言われても 乙 HD
+# ID: PCSG00289
+# Region: Jap
+# Version: 1.02
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06
+
+# PCSG00289 
+
+_V0 inf.max Money
+$B200 00000001 00000000
+$3201 00014484 00026574
+$0000 00000000 0076ADF1

@@ -1,0 +1,18 @@
+# Title: Pinball Heroes Complete
+# ID: PCSF00167 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSF00167 
+
+_V0 inf.Balls
+$B200 00000001 00000000
+$0000 00C99280 00000009
+
+_V0 max.Score
+$B200 00000001 00000000
+$0200 00C991A4 E12C5071

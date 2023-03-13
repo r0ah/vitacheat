@@ -1,0 +1,33 @@
+# Title: Hyperdimension Neptunia Re;Birth2: Sisters Generation
+# ID: PCSB00626 
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSB00626 
+
+_V0 Game Speed 2x [Permanent]
+$0100 81730504 00000000
+
+_V0 Game Speed 2x [hold R]
+$C201 00000000 00000200
+$0100 81730504 00000000
+
+_V0 Max.Level after Fight
+$0200 8325F8E0 04A2CB71
+$0200 8315F8E0 03F940AA
+
+_V0 inf.Money
+$0200 83168730 0076ADF1
+$0200 83068730 0076ADF0
+
+_V0 inf.all Items
+$4001 8316585A 0000004D
+$00FF 00000004 00000000
+$4001 8306585A 0000004D
+$00FF 00000004 00000000
+
+

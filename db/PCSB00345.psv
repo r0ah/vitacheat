@@ -1,0 +1,14 @@
+# Title: WRC 4 FIA World Rally Championship
+# ID: PCSB00345
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00345 
+
+_V0 Reset Time [Push Brake]
+$C201 00000000 00000000
+$3202 825EDA20 00000008
+$0000 00000000 000000A0
+$0000 00000000 00000000

@@ -1,0 +1,14 @@
+# Title: Persona 4 Dancing All Night
+# ID: PCSB00867 
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 2+
+# Code Author: tomberyx
+
+# PCSB00867 
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 001DBF48 2E5BF271

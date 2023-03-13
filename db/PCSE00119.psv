@@ -1,0 +1,27 @@
+# Title: Ragnarok Odyssey
+# ID: PCSE00119 
+# Region: US
+# Version: 1.02
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSE00119 
+
+_V1 inf.Money
+$0200 83FE1454 0076ADF1
+
+_V0 inf.HP
+$0200 88679162 8000447A
+
+_V0 inf.Stamina
+$0200 886765B4 000003E8
+
+_V0 Moon Jump [hold X]
+$C201 00000000 00004000
+$0200 8867A2C0 3EB33333
+
+_V0 Weapon Pos2 60k ATK [One Hit Kill]
+$0200 83FE14EC 0000EA60
+

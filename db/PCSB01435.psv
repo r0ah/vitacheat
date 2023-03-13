@@ -1,0 +1,14 @@
+# Title: Task Force Kampas
+# ID: PCSB01435
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB01435 
+
+_V0 Inf.HP
+$0200 8B1FFC04 40400000
+
+_V0 Inf.HP [Alternative]
+$0200 8B0FFC04 40400000

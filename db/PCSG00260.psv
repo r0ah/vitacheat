@@ -1,0 +1,23 @@
+# Title: Super Robot Taisen
+# ID: PCSG00260
+# Region: Jap
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSG00260 
+
+_V0 inf.Skill-Points [New Game]
+$3001 8124BBA0 0000000C
+$0000 00000000 0000004D
+
+_V0 --Alernative-Codes below--
+$0000 00000000 00000000
+
+_V0 inf.Skill-Points [New Game]
+$3001 8114BBA0 0000000C
+$0000 00000000 0000004D
+
+_V0 inf.Skill-Points [New Game]
+$3001 8134BBA0 0000000C
+$0000 00000000 0000004D

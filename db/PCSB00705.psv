@@ -1,0 +1,14 @@
+# Title: Nihilumbra
+# ID: PCSB00705
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Created by tomberyx
+
+# PCSB00705 
+
+_V0 Hold X to Fly
+$C201 00000001 00004000
+$3202 84B5A798 00000034
+$0000 00000000 0000012C
+$3300 00000000 4350BEEF

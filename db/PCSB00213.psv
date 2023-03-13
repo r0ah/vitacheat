@@ -1,12 +1,60 @@
+# Title: Call of Duty: Black Ops Declassified
 # ID: PCSB00213
-# Title: Call of Duty Black Ops: Declassified
-# Region: EUR
-# Version: 1.02
-# Type: Vitamin
-# Code Author: speedfly&gayfriend
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00213.psv
-# Original Source: http://www.speedfly.cn/21073.html
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-15#post-7754526
+# Region: EU
+# Version: 2.13
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00213 
+
+_V0 Game Speed 2x
+$0200 8217F08C 3FC00000
+
+_V0 Game Speed -2x
+$0200 8217F08C 3E600000
+
+_V0 Super Slow-Motion
+$0200 8217F08C 00000000
+
+_V0 Game Speed Normal
+$0200 8217F08C 3F800000
+
+_V0 Time-Attack Freeze
+$B200 00000001 00000000
+$0200 00F0E920 00000000
+
+_V0 Play-Time Freeze
+$0200 82840414 00000000
+
+_V0 Freeze Enemies-only Knife Kill-semi
+$0200 8217EF6C 00003CE0
+
+_V0 3 Stars always
+$0200 8283C918 00000000
+
+_V0 Aim-Shoots 999
+$0100 8283C924 000003E7
+
+_V0 Zivil-Shoots 0
+$0000 8283C928 00000000
+
+_V0 Brightness
+$0200 82E0C7D4 3E000000
+
+_V0 Brightness on Objects
+$0200 82E0E5E4 50200000
+
+_V0 Red
+$0200 82E0F308 60000000
+
+_V0 Green
+$0200 82E0F30C 60000000
+
+_V0 Blue
+$0200 82E0F304 60000000
+
+_V0 --Unknown Code Author below--
+$0000 00000000 00000000
 
 _V0 Ammo Full // ammunition is full
 $A200 811B325C 0B4CF8D2
@@ -25,3 +73,13 @@ $A200 8192DF48 E51FF004
 $A200 8192DF4C 811A6F2D
 $A100 811A6F26 00004778
 $A200 811A6F28 EA1E1C00
+
+
+
+
+
+
+
+
+
+
