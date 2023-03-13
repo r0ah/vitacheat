@@ -1,0 +1,15 @@
+# Title: Dark Quest Alliance
+# ID: PCSG00017
+# Region: Jap
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 2+
+# Code Author: tomberyx
+
+# PCSG00017
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0100 00290FA0 0000FACE

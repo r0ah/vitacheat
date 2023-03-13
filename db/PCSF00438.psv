@@ -1,0 +1,18 @@
+# Title: God of War Collection
+# ID: PCSF00438
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 6+
+# Code Author: tomberyx
+
+# PCSF00438 
+
+_V0 Game Speed 2x GOW 1
+$B200 00000001 00000000
+$0100 004257D8 00000000
+
+_V0 Game Speed 2x GOW 2
+$B200 00000001 00000000
+$0100 00415114 00000000

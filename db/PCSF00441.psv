@@ -1,8 +1,21 @@
-# PCSF00441
-# TITLE: Looney Tunes Galactic Sports
-# REGION: EUR
-# PSV AUTHOR: JamSpork
-# PSV VERSION: 1.00
+# Title: Looney Tunes Galactic Sports
+# ID: PCSF00441
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
 
-_V1 Infinite Coins
-$0200 83EBF0C0 0001869F
+# PCSF00441 
+
+_V0 Invincible [Run]
+$3201 8547ED18 000001AC
+$0000 00000000 00000001
+
+_V0 Long Jump [Run]
+$3001 8547ED18 0000014C
+$0000 00000000 00000001
+
+_V0 Less Obstacles [Run]
+$3201 8547ED18 0000029C
+$0000 00000000 00000000
+

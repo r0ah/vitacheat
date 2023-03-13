@@ -1,0 +1,19 @@
+# Title: Boss!
+# ID: PCSE00604
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 30+
+# Code Author: tomberyx
+
+# PCSE00604 
+
+_V0 max.Combo
+$0000 8180D8B8 000000FF
+
+_V0 max.Power-Gauge
+$0200 8180D9F8 44614000
+
+_V0 Enemy Kill XX
+$0200 8170A248 00001E61

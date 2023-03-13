@@ -1,0 +1,24 @@
+# Title: Dogimegi Inryoku-Chan Love & Peace
+# ID: PCSG00775
+# Region: jap
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSG00775
+
+_V0 inf.HP
+$0000 8281CD94 0000000A
+
+_V0 inf.HP 2
+$B200 00000001 00000000
+$0200 016FCB24 00000005
+
+_V0 inf.Jump [hold x]
+$C201 00000000 00004000
+$0000 8281CEC4 0000FACE
+
+_V0 Invincible
+$0000 8281CDA4 00000001

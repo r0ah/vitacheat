@@ -1,0 +1,17 @@
+# Title: ModNation Racers Road Trip
+# ID: PCSF00002 
+# Region: EU
+# Version: 1.20
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSF00002 
+
+_V0 Game Speed 2x [Permanent]
+$0200 81B3B1A8 00000000
+
+_V0 Game Speed 2x [hold R]
+$C201 00000001 00000200
+$0200 81B3B1A8 00000000

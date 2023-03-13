@@ -1,0 +1,37 @@
+# Title: Malicious Rebirth
+# ID: PCSF00354
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06 and FW 3.65+
+
+# PCSF00354 
+
+_V0 Untouchable
+$0200 86C013F8 00000000
+
+_V0 inf.HP
+$0200 86C003B8 01F401F4
+
+_V0 inf.Aura
+$0200 86C00968 45F30800
+
+_V0 inf.Jump
+$0000 86C00980 00000000
+
+_V0 --Alternative Codes below--
+$0000 00000000 00000000
+
+_V0 Untouchable
+$0200 86D013F8 00000000
+
+_V0 inf.HP
+$0200 86D003B8 01F401F4
+
+_V0 inf.Aura
+$0200 86D00968 45F30800
+
+_V0 inf.Jump
+$0000 86D00980 00000000
+

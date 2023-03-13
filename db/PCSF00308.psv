@@ -1,0 +1,25 @@
+# Title: Disney Epic Mickey 2: The Power of Two
+# ID: PCSF00308
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Reset Game: 15+
+# Code Author: tomberyx
+
+# PCSF00308 
+
+_V0 inf.HP
+$3001 86BEEDC8 0000004C
+$0000 00000000 00000006
+
+_V0 inf.Jump
+$3002 8547491C 000000B4
+$0000 00000000 0000029B
+$0000 00000000 00000000
+
+_V0 High-Jump
+$3002 85682C68 0000047C
+$0000 00000000 0000034B
+$0000 00000000 00000040
+
+

@@ -1,0 +1,21 @@
+# Title: Super Meat Boy
+# ID: PCSE00769 
+# Region: US
+# Version: 1.02
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5
+# Code Author: tomberyx
+
+# PCSE00769 
+
+_V0 Hold X to Fly 
+$C201 00000001 00004000
+$3202 814FDAD0 00000D88
+$3000 00000000 000000AC
+$3300 00000000 4374FFFF
+
+_V0 Hold X to Fly (alternative)
+$C201 00000001 00004000
+$3201 8245CD64 000000AC
+$3300 00000000 43740000
