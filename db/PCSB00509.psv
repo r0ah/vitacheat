@@ -1,0 +1,27 @@
+# Title: Dynasty Warriors 8 Xtreme Legends Complete Edition
+# ID: PCSB00509 
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00509 
+
+_V0 HP-MP fills up
+$B200 00000001 00000000
+$0100 00022642 00000001
+$0100 0002264A 00000001
+
+_V0 inf.MP [semi]
+$B200 00000001 00000000
+$0100 00022652 00000001
+
+_V0 Orange Gauge Full
+$B200 00000001 00000000
+$0200 0002265E 00000001
+
+_V0 Rush Mode
+$B200 00000001 00000000
+$0000 0002266C 00000001

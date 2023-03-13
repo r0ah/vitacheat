@@ -1,0 +1,14 @@
+# Title: Dungeon Travelers 2
+# ID: PCSB00813
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00813 
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 000043C4 00DEAD00

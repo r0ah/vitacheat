@@ -1,0 +1,27 @@
+# Title: Dynasty Warriors 8 Empires (Free Alliances Version)
+# ID: PCSB00892 
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00892 
+
+_V0 HP-MP fills up
+$B200 00000001 00000000
+$0200 00032E56 00000014
+$0200 00032E5E 00000014
+
+_V0 Green Gauge Full
+$B200 00000001 00000000
+$0100 00032E74 00000011
+
+_V0 Orange Gauge Full
+$B200 00000001 00000000
+$0100 00032E7E 00000011
+
+_V0 Rush Mode 
+$B200 00000001 00000000
+$0200 00032E8C 00000001

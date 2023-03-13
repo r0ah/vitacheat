@@ -1,0 +1,13 @@
+# Title: Delta Strike First Assault
+# ID: PCSB00997
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00997 
+
+_V0 inf.Rocket
+$B200 00000001 00000000
+$0200 0213FDF8 00000005

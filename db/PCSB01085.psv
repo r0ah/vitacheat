@@ -1,0 +1,18 @@
+# Title: Berserk and the Band of the Hawk
+# ID: PCSB01085
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSB01085 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0100 00004DB0 00000000
+
+_V0 Game Speed 3x
+$B200 00000001 00000000
+$0200 00004DB0 00000000

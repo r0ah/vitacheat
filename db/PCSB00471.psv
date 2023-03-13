@@ -1,0 +1,50 @@
+# Title: Ragnarok Odyssey ACE
+# ID: PCSB00471 
+# Region: EU
+# Version: 1.11
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00471
+
+
+_V0 Weapon Pos1 60k ATK [OneHitKill]
+$0200 83C46E68 0000EA60
+
+_V0 inf.HP
+$0100 882F46EA 00004666
+
+_V0 inf.Stamina
+$0000 882F15C4 000003E8
+
+_V0 inf.Red-Gauge
+$0200 88253F4C 000003E8
+
+_V0 inf.Money
+$0200 83C17694 0076ADF1
+
+_V0 inf.Item all Bottels
+$4001 83C8F024 00000023
+$0050 00000008 00000000
+
+_V0 inf.item all in Bag
+$4001 83C87464 00000063
+$0090 00000008 00000000
+
+_V0 inf.Item use in Battle
+$0200 83C1767C 00000009
+$0200 83C17684 00000009
+$0200 83C1768C 00000009
+
+_V0 Job changer 0-7
+$0000 83C17668 00000007
+
+_V0 Outfit changer 0-E
+$0000 83C17674 0000000E
+
+_V0 Mega Jump [hold X]
+$C201 00000000 00004000
+$0200 882F63CC 3EA147AE
+

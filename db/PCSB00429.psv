@@ -1,0 +1,16 @@
+Title: Sorcery Saga
+# ID: PCSB00429
+# Region: PAL
+# Version: 1.00
+# Type: PSN/NoNpDrm
+# Created by tomberyx
+
+
+# PCSB00429
+
+_V0 inf.Money in Bank
+$0200 812726F4 00012FD1
+
+_V0 inf.Hp Girl and Kuu
+$0200 8138C1EC 000000FF
+$0200 813500CC 000000FF 

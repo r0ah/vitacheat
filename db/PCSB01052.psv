@@ -1,0 +1,14 @@
+# Title: ClaDun Returns: This is Sengoku!
+# ID: PCSB01052
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB01052
+
+_V0 inf.Gold
+$B200 00000001 00000000
+$0200 001722B4 00012FD1

@@ -1,0 +1,19 @@
+# Title: Disgaea 4 A Promise Revisited
+# ID: PCSB00455
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00455
+
+_V0 inf.Hal
+$B200 00000001 00000000
+$0200 0024E9F8 0076ADF1
+
+_V0 Moon Jump [hold X]
+$B200 00000001 00000000
+$C201 00000000 00004000
+$0200 009A5CB4 C0000000

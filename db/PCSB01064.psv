@@ -1,0 +1,18 @@
+# Title: Mutant Mudds Deluxe
+# ID: PCSB01064
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB01064 
+
+_V0 100 Crystals
+$B200 00000001 00000000
+$0000 0000BFC4 00000064
+
+_V0 inf.Time
+$B200 00000001 00000000
+$0000 0000BFD4 00000001

@@ -1,0 +1,17 @@
+# Title: Rogue Aces
+# ID: PCSB00823
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00823
+
+_V0 inf.All Rockets
+$B200 00000001 00000000
+$0000 0007045C 00000004
+$0000 00070460 00000002
+
+_V0 max.Score
+$0200 811F1518 2E5BF271

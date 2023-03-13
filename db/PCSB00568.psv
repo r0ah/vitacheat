@@ -1,0 +1,19 @@
+# Title: Another World 20th Anniversary Edition
+# ID: PCSB00568
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSB00568
+
+_V0 Game Speed 2x Permanent
+$B200 00000001 00000000
+$0100 000482EC 00000000
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0100 000482EC 00000000

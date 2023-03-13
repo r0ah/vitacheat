@@ -1,0 +1,30 @@
+# Title: Shiren the Wanderer The Tower of Fortune and the Dice of Fate
+# ID: PCSB00989 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00989 
+
+_V0 inf.HP
+$B200 00000001 00000000
+$0100 00113DB0 00000104
+
+_V0 inf.Money
+$B200 00000001 00000000
+$0200 00113DE4 0076ADF1
+
+_V0 max.Strengh
+$B200 00000001 00000000
+$0200 00113DB8 00000309
+
+_V0 Max.Fullness
+$B200 00000001 00000000
+$0000 00113DC6 0000000F
+
+_V0 One Hit Lvl.UP
+$B200 00000001 00000000
+$0000 00113DC8 00000001
+$0000 00113DCC 00000009

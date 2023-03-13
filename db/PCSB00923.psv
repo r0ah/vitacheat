@@ -1,0 +1,16 @@
+# Title: SwapQuest
+# ID: PCSB00923
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSB00923
+
+_V0 Inf.Money
+$0000 863FF806 001340FF
+
+_V0 inf.Hp
+$0200 863FF8B4 50080000
