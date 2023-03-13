@@ -1,0 +1,21 @@
+# Title: Digimon Story Cyber Sleuth Hacker's Memory - TV Anime Sound Edition
+# ID: PCSG01126
+# Region: jap
+# Version: 1.05
+# Type: NoNpDrm
+# Note: [noaslr.skprx] Plugin
+# only for VitaCheat z06 and FW 3.65+
+# Code Author: tomberyx
+
+# PCSG01126 
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000001 00000200
+$0100 000354E0 00000000 
+
+_V0 inf.max Money
+$B200 00000001 00000000
+$3202 00000610 00000054
+$0000 00000000 000001E0
+$0000 00000000 0076ADF1

@@ -1,0 +1,37 @@
+# Title: Tearaway
+# ID: PCSF00214
+# Region: EU
+# Version: 1.02
+# Type: NoNpDrm
+# Note: [noaslr.skprx] Plugin
+# only for VitaCheat z06 and FW 3.65+
+# Code Author: tomberyx
+
+# PCSF00214 
+
+_V0 Hold X to Fly
+$B200 00000001 00000000
+$C201 00000001 00004000
+$3203 000FE3EC 00000F38
+$0000 00000000 000005D0
+$0000 00000000 00000184
+$0000 00000000 41711111
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 -Note- Code is not Perfect
+$0000 00000000 00000000
+
+_V0 and need multiple Jumps.
+$0000 00000000 00000000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+
+
+
+
+
+
