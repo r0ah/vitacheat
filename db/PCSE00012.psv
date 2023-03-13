@@ -1,0 +1,23 @@
+# Title: Supremacy MMA Unrestricted
+# ID: PCSE00012
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Note: [noaslr.skprx] Plugin
+# only for VitaCheat z06 and FW 3.65+
+# Code Author: tomberyx
+
+# PCSE00012 
+
+_V0 [Opponent] HP 1 [push Select]
+$B200 00000001 00000000
+$C201 00000001 00000001
+$3202 0002F634 00000050
+$0000 00000000 00003D24
+$0000 00000000 3F800000
+
+_V0 inf.HP 
+$B200 00000001 00000000
+$3202 0002F634 0000004C
+$0000 00000000 00003D24
+$0000 00000000 447A0000

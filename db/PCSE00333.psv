@@ -1,0 +1,39 @@
+# Title: The Amazing Spider-Man
+# ID: PCSE00333
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSE00333 
+
+_V0 inf.HP
+$B200 00000001 00000000
+$0200 002A476C 00020000
+
+_V0 inf.all Upgrade-Points
+$B200 00000001 00000000
+$0100 0028FD10 00000309
+$0200 0028FD0C 0000E420
+
+_V0 [Zero] Upgrade-Points [Note 1]
+$B200 00000001 00000000
+$0200 0028FD0C 00000000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 [Note 1] Turn-On to deactivate Upgrade-Hint.
+$0000 00000000 00000000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+
+
+
+
+
+
+
+

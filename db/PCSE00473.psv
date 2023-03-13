@@ -1,0 +1,18 @@
+# Title: Kilka Card Gods
+# ID: PCSE00473
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSE00473 
+
+_V0 inf.Time
+$3202 81A64A0C 00001BFC
+$0000 00000000 00000090
+$0000 00000000 0000AAAA
+
+_V0 inf.Time [alternative]
+$3202 81A6B580 00001D44
+$0000 00000000 00000090
+$0000 00000000 0000AAAA

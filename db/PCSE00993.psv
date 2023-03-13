@@ -1,0 +1,20 @@
+# Title: The Longest Five Minutes
+# ID: PCSE00993
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSE00993
+
+_V0 Inf.Money
+$0200 8206CDB8 04A2CB71
+
+_V0 Reexperience Level 999
+$0100 8206CDBC 000003E7
+
+_V0 All Player 10.000 HP-MP
+$0000 8206CDBD 00000011
+
+

@@ -1,0 +1,49 @@
+# Title: Reverie
+# ID: PCSB01190
+# Region: EU
+# Version: 1.02
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB01190 
+
+_V0 Walk Speed 3x
+$0200 854CF9E4 43160000
+
+_V0 Untouchable
+$0000 854CF9B8 00000001
+
+_V0 inf.HP
+$0000 854CF9C8 0000000A
+
+_V0 inf. Money 
+$0100 854BFDA0 000000C8
+
+_V0 max.Score [mini-game]
+$B200 00000001 00000000
+$0200 053BFCF4 0000FACE
+
+_V0 max.Score Micro-Wave
+$0000 854BF398 00000005
+
+_V0 --Alternative Codes below--
+$0000 00000000 00000000
+
+_V0 Walk Speed 3x
+$0200 855CF9E4 43160000
+
+_V0 Untouchable
+$0000 855CF9B8 00000001
+
+_V0 inf.HP
+$0000 855CF9C8 0000000A
+
+_V0 inf. Money 
+$0100 855BFDA0 000000C8
+
+_V0 max.Score [mini-game]
+$B200 00000001 00000000
+$0200 053BFCF4 0000FACE
+
+_V0 max.Score Micro-Wave
+$0000 855BF398 00000005

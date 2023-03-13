@@ -1,0 +1,28 @@
+# Title: Persona 3 Dancing in Moonlight
+# ID: PCSB01256 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 5+
+# Code Author: tomberyx
+
+# PCSB01256 
+
+_V0 Game Speed 2x [Permanent]
+$B200 00000001 00000000
+$0100 003BDA54 00000000
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0100 003BDA54 00000000
+
+_V0 Game Speed 3x [Permanent]
+$B200 00000001 00000000
+$0200 003BDA54 00000000
+
+_V0 Game Speed 3x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0200 003BDA54 00000200

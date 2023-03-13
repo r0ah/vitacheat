@@ -1,0 +1,26 @@
+# Title: Accel World vs. Sword Art Online
+# ID: PCSB01101 
+# Region: EU
+# Version: 2.03
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+
+# PCSB01101 
+
+_V0 inf.Yrd
+$0200 83257D24 0076ADF1
+
+_V0 inf.BP
+$0200 83257D28 0076ADF1
+
+_V0 inf.max.Item Inventory
+$4001 84E5B278 00000063
+$0096 00000050 00000000
+
+_V0 inf.max.Items Storage
+$4001 84E2EB98 0000004D
+$03E7 00000050 00000000
+

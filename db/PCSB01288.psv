@@ -1,0 +1,26 @@
+# Title: Gunhouse
+# ID: PCSB01288 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB01288 
+
+_V0 max.Money
+$0200 8666FFAC 000BDE32
+$0200 8503FE1C 000BDE30
+
+_V0 max.Upgrade
+$4001 8511FC10 0000001E
+$000A 00000004 00000000
+
+_V0 max.Hearts
+$0000 8666FFBC 0000001E
+$0000 8666FFC4 0000001E
+
+_V0 max.Armor
+$0000 8666FFC0 0000001E
+
+_V0 Stop Timer [not Static]
+$0200 8673FF60 BD89303C

@@ -1,0 +1,15 @@
+# Title: Awesome Pea
+# ID: PCSB01324
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB01324 
+
+_V0 Hold X to Fly
+$C201 00000001 00004000
+$3202 82A25C8C 00000044
+$0000 00000000 00000044
+$0000 00000000 4050BABE
+

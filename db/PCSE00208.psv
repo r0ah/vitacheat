@@ -1,0 +1,19 @@
+# Title: DJ Max Technika Tune
+# ID: PCSE00208
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSE00208 
+
+_V0 Kick-Ass Code
+$0200 87806414 000BDE31
+$0200 87806470 42C80000
+
+_V0 --Alternative Codes below--
+$0000 00000000 00000000
+
+_V0 Kick-Ass Code
+$0200 87706470 42C80000
+$0200 87706414 000BDE31

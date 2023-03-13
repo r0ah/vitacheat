@@ -1,0 +1,17 @@
+# Title: A Rose in the Twilight
+# ID: PCSE01046
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Note: [noaslr.skprx] Plugin
+# only for VitaCheat z06 and FW 3.65+
+# Code Author: tomberyx
+
+# PCSE01046 
+
+_V0 Hold X to Fly
+$B200 00000001 00000000
+$C201 00000001 00004000
+$3202 00005A04 00000094
+$0000 00000000 00000054
+$0000 00000000 40400000

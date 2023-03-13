@@ -1,0 +1,20 @@
+# Title: Reel Fishing Master's Challenge
+# ID: PCSE00526
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 10+
+# Code Author: tomberyx
+
+# PCSE00526 
+
+_V0 inf.Money
+$0000 84794C62 00000002
+
+_V0 Unlock Best-Rod [Shop]
+$0000 84794CF4 00000001
+
+_V0 inf.all Baits [test]
+$4001 84794D3C 0000004D
+$000F 0000000C 00000000

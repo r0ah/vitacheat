@@ -1,0 +1,59 @@
+# Title: Demon's Tier+
+# ID: PCSB01437
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB01437 
+
+_V0 Walk Speed 3x     X
+$0200 838FFA04 40400000
+
+_V0 Walk Speed 3x     Y
+$0200 839FFA04 40400000
+
+_V0 Walk Speed 3x     Z
+$0200 83AFFA04 40400000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 One Hit Kill      X
+$0200 838FFA24 40E00000
+
+_V0 One Hit Kill      Y
+$0200 839FFA24 40E00000
+
+_V0 One Hit Kill      Z
+$0200 83AFFA24 40E00000
+
+_V0 -------------------
+$0000 00000000 00000000
+
+_V0 inf.HP            X
+$0200 838FF9E4 40280000
+
+_V0 inf.HP            Y
+$0200 839FF9E4 40280000
+
+_V0 inf.HP            Z
+$0200 83AFF9E4 40280000
+
+_V0 -Note- If Crash use Alternative
+$0000 00000000 00000000
+
+_V0 Codes and Vice-Versa.
+$0000 00000000 00000000
+
+_V0 Use only X Y or Z do not mix.
+$0000 00000000 00000000
+
+_V0 Codes can switch from XtoZ and back.
+$0000 00000000 00000000
+
+_V0 Do not activate codes permanent.
+$0000 00000000 00000000
+
+
+

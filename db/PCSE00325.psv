@@ -1,0 +1,19 @@
+# Title: Real Boxing
+# ID: PCSE00325  
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 2+
+# Code Author: tomberyx
+
+# PCSE00325 
+
+_V0 Game Speed 2X [Permanent]
+$B200 00000001 00000000
+$0100 000C3784 00000000
+
+_V0 Game Speed 2x [hold R]
+$B200 00000001 00000000
+$C201 00000000 00000200
+$0100 000C3784 00000000

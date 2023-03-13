@@ -1,0 +1,20 @@
+# Title: Samurai Shodown V Special
+# ID: PCSB01153
+# Region: EU
+# Version: 1.02
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB01153
+
+_V0 inf.Time
+$B200 00000001 00000000
+$0200 002BBC88 601B0000
+
+_V0 inf.Hp
+$0200 815BC2A4 FFFF007D
+
+_V0 Instant Win
+$B200 00000001 00000000
+$0000 002BBF74 00000000
