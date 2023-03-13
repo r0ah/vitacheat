@@ -1,0 +1,23 @@
+# Title: CounterSpy
+# ID: PCSA00116
+# Region: US
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSA00116
+
+_V0 inf. Ammo
+$B200 00000001 00000000
+$0200 03C0908C 00000009
+
+_V0 inf.Hp
+$B200 00000001 00000000
+$0200 014CC41C 44160000
+
+_V0 Stealth
+$B200 00000001 00000000
+$0200 014CC41C DEAD0000
+
+

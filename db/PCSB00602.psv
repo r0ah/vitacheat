@@ -1,0 +1,15 @@
+# Title: Senran Kagura Bon Appetit!
+# ID: PCSB00602 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 2+
+# Code Author: tomberyx
+
+# PCSB00602 
+
+_V0 Game Speed 2x [Permanent]
+$B200 00000001 00000000
+$0100 00233DF4 00000000
+

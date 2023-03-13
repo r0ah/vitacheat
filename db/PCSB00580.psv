@@ -1,0 +1,21 @@
+# Title: Sparkle 2
+# ID: PCSB00580
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00580
+
+_V0 Instant Win
+$B200 00000001 00000000
+$0200 000524F0 0000DEAD
+
+_V0 Change Look 0-1
+$B200 00000001 00000000
+$0000 00052448 00000001
+
+_V0 XX Amount Sphere
+$B200 00000001 00000000
+$0000 00052478 00000001

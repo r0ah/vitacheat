@@ -1,0 +1,27 @@
+# Title: LEGO Marvel Super Heroes Universe in Peril
+# ID: PCSB00315 
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 15+
+# Code Author: tomberyx
+
+# PCSB00315 
+
+_V0 Game Speed 2x
+$B200 00000001 00000000
+$0000 0009CCB4 00000000
+
+_V0 Game Speed 2x Alternative
+$3201 81068E0C 00007AC0
+$3300 00000000 00000000
+
+_V0 inf.Power-Move
+$B200 00000001 00000000
+$0100 0000F19C 00000FA0
+
+_V0 inf.max Studs
+$B200 00000001 00000000
+$0200 000B46D0 0076ADF1
+$0200 000179F8 0076ADF1

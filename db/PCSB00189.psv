@@ -1,0 +1,17 @@
+# Title: Guacamelee
+# ID: PCSB00189
+# Region: EU
+# Version: 1.03
+# Type: NoNpDrm
+# Code Author: tomberyx
+# only for VitaCheat z06 and FW 3.65+
+
+# PCSB00189 
+
+_V0 inf.max Money
+$B200 00000001 00000000
+$0200 0001E0E4 00012FD1
+
+_V0 max.Hits
+$B200 00000001 00000000
+$0100 0001F944 00000309

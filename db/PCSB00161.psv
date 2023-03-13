@@ -1,16 +1,118 @@
-# ID: PCSB00161
 # Title: Sine Mora
-# Region: EUR
+# ID: PCSB00161
+# Region: EU
 # Version: 1.00
-# Type: Vitamin
-# Code Author: speedfly
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00161.psv
-# Original Source: http://www.speedfly.cn/21364.html
-# Note: 不再犹豫 Vitamin 1.00
- 
-_V0 得分后最大//Get Score Max
-$A200 8103CDFC 4100F06F
-$A100 8103CE00 00001C00
- 
-_V0 生命不减//Inf Credits
-$A100 8103AB3A 00001C00
+# Type: NoNpDrm
+# Code Author: tomberyx
+
+# PCSB00161 
+
+_V0 Invincible and inf.Time
+$3201 812AA358 00000364
+$0000 00000000 10000000
+
+_V0 inf.Power-Gauge
+$3201 812AA358 00000358
+$0000 00000000 42C80000
+
+_V0 max.Fire-Power
+$3001 812AA358 00000350
+$0000 00000000 00000009
+
+_V0 max.Missiles
+$3001 812AA358 00000354
+$0000 00000000 00000007
+
+_V0 Rang A
+$3001 812AA358 0000031C
+$0000 00000000 0000000F
+
+_V0 max.Credits
+$3001 812AA358 00000344
+$0000 00000000 0000004D
+
+_V0 Score 9x
+$3001 812AA358 00000360
+$0000 00000000 0000006F
+
+_V0 Shild-Reflection [after Dead]
+$3001 812AA358 00000370
+$0000 00000000 00000002
+
+_V0 Shild Roll-Back [after Dead]
+$3001 812AA358 00000370
+$0000 00000000 00000001
+
+_V0 Shild Speed-UP [after Dead]
+$3001 812AA358 00000370
+$0000 00000000 00000000
+
+_V0---Alternative Codes [B]---
+$0000 00000000 00000000
+
+_V0 Invincible and inf.Time [B]
+$0200 83E713B4 10000000
+
+_V0 inf.Power-Gauge [B]
+$0200 83E713A8 42C80000
+
+_V0 max.Fire-Power [B]
+$0000 83E713A0 00000009
+
+_V0 inf.Missiles [B]
+$0000 83E713A4 00000005
+
+_V0 Rang A [B]
+$0000 83E7136C 0000000F
+
+_V0 inf Credits [B]
+$0000 83E71394 0000004D
+
+_V0 Score 9x [B]
+$0000 83E713B0 0000006F
+
+_V0 Shild-Reflection [after Dead][B]
+$0000 83E713C0 00000002
+
+_V0 Shild Roll-Back [after Dead][B]
+$0000 83E713C0 00000001
+
+_V0 Shild Speed-UP [after Dead][B]
+$0000 83E713C0 00000000
+
+_V0---Alternative Codes [C]---
+$0000 00000000 00000000
+
+_V0 Invincible and inf.Time [C]
+$0200 83E813B4 10000000
+
+_V0 Invincible and inf.Time [C]
+$0200 83E813B4 10000000
+
+_V0 inf.Power-Gauge [C]
+$0200 83E813A8 42C80000
+
+_V0 max.Fire-Power [C]
+$0000 83E813A0 00000009
+
+_V0 inf.Missiles [C]
+$0000 83E813A4 00000005
+
+_V0 Rang A [C]
+$0000 83E8136C 0000000F
+
+_V0 inf Credits [C]
+$0000 83E81394 0000004D
+
+_V0 Score 9x [C]
+$0000 83E813B0 0000006F
+
+_V0 Shild-Reflection [after Dead][C]
+$0000 83E813C0 00000002
+
+_V0 Shild Roll-Back [after Dead][C]
+$0000 83E813C0 00000001
+
+_V0 Shild Speed-UP [after Dead][C]
+$0000 83E813C0 00000000
+

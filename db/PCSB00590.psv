@@ -1,0 +1,18 @@
+# Title: OlliOlli2 Welcome to Olliwood
+# ID: PCSB00590
+# Region: EU
+# Version: 1.01
+# Type: NoNpDrm
+# Vita-Language: German
+# Code Author: tomberyx
+
+# PCSB00590
+
+_V0 max.Points
+$B200 00000001 00000000
+$0200 0006FBA8 04A2CB71
+
+_V0 Mega Jump [hold 4]
+$B200 00000001 00000000
+$C201 00000000 00008000
+$0200 0005EA04 C0C99998

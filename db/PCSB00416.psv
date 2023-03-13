@@ -1,15 +1,43 @@
-# ID: PCSB00416
 # Title: Table Top Racing
-# Region: EUR
-# Version: 1.00
-# Type: Unknown
-# Code Author: Smoker1
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00416.psv
-# Original Source: http://www.speedfly.cn/21361.html
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-20#post-7824654
+# ID: PCSB00416
+# Region: EU
+# Version: 1.02
+# Type: NoNpDrm
+# Code Author: tomberyx
 
-_V0 99,999 Coins
-$0200 81208BC8 0001869F
+# PCSB00416 
 
-_V0 Low Time
-$0200 81575760 30000000
+_V0 Instant Win-Race [push Select]
+$C201 00000001 00000001
+$0200 815756EC FFFFFFFF
+$C201 00000001 00000001
+$0200 815756F0 FFFFFFFF
+
+_V0 Time Freeze
+$0200 81575780 00000000
+
+_V0 inf.max Money
+$B200 00000001 00000000
+$0200 00008324 00012FD1
+
+_V0 Camera Bird-View
+$0200 815756B4 4300BABE
+
+_V0 --Alternative Codes below--
+$0000 00000000 00000000
+
+_V0 Instant Win-Race [push Select]
+$C201 00000001 00000001
+$0200 816756EC FFFFFFFF
+$C201 00000001 00000001
+$0200 816756F0 FFFFFFFF
+
+_V0 Time Freeze
+$0200 81675780 00000000
+
+_V0 inf.max Money
+$B200 00000001 00000000
+$0200 00008324 00012FD1
+
+_V0 Camera Bird-View
+$0200 816756B4 4300BABE

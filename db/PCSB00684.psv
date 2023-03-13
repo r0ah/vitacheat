@@ -1,0 +1,22 @@
+# Title: 1001 Spikes
+# ID: PCSB00684
+# Region: EU
+# Version: 1.00
+# Type: NoNpDrm
+# Vita-Language: German
+# Reset Game: 20+
+# Code Author: tomberyx
+
+# PCSB00684
+
+_V0 inf.Lives
+$B200 00000001 00000000
+$0100 00008B58 000003EB
+
+_V0 Key and Skull
+$B200 00000001 00000000
+$0100 00008B68 00000003
+
+_V0 Gold and Key
+$B200 00000001 00000000
+$0100 00008B68 00000005

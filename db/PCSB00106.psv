@@ -1,28 +1,48 @@
-# ID: PCSB00106
 # Title: Mortal Kombat
-# Region: EUR
+# ID: PCSB00106
+# Region: EU
 # Version: 1.00
 # Type: NoNpDrm
-# Code Author: vergil, Demolinizer
-# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSB00106.psv
-# Original Source: https://gbatemp.net/threads/vitacheat-finalcheat-database.485343/page-5#post-7619367
-# Original Source: https://github.com/r0ah/vitacheat/issues/25
-# Note: Added X-Ray code in case the original PCSB00106 gets replaced with this one
+# Code Author: tomberyx
 
-_V0 Inf HP P1
-$0200 8A835936 00003F80 #vergil
+# PCSB00106 
 
-_V0 Inf X-Ray P1
-$0200 81F8CD3E 00003F80 #vergil
+_V0 Tomberyx Fist-Machine 
+$0000 81F8CC98 00000000
 
-_V0 1P Infinite Health
-$0200 8A735934 3F800000
+_V0 Damage 3x 
+$0200 8A72C9D0 00000000
 
-_V0 P1 Infinite X-Ray
-$0200 81F8CD3E 00003F80
+_V0 max.X-Ray
+$0200 81F8CD3C 3F800000
 
-_V0 Infinite Life Gauge 
-$0200 8A735938 3F800000
+_V0 Control-CPU [push Select]
+$C201 00000001 00000001
+$0000 81F8CDE8 00000000
 
-_V0 Tag Match 1P Infinite Health
-$0200 8A798B94 3F800000
+_V0 CPU-Freeze [hold L]
+$C201 00000001 00000100
+$0200 8A78FB68 00000001
+
+_V0 CPU No-Fight
+$0000 81F8CE18 00000000
+
+_V0 CPU-No X-Ray
+$0200 81F8DB58 00000000
+
+_V0 CPU No-Jump
+$0200 8A78FB0C C7000000
+
+_V0 CPU-Hover
+$0000 8A78FB13 00000010
+
+_V0 Time-Freeze
+$0100 81F965AC 00000309
+
+_V0 Round 1
+$0200 81F965B0 00000000
+
+_V0 Round-Fights 00
+$0000 81F90ED8 00000000
+$0000 81F90ED4 00000000
+
