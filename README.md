@@ -1,5 +1,9 @@
 # README #
 
+> DISCLAIMER: _No one_ responsible for maintaining this database has any control over game programming or actual programming issues in the VitaCheat plugin itself. This is simply a collection of user-created codes and tutorials.
+All issues concerning the above issues will automatically be closed.
+Also, _do not_ request codes here.
+
 The _new_ VitaCheat Database.
 
 > **Warning**: Some of the cheats may not work so make sure to backup your savedata before activating any cheats.	
